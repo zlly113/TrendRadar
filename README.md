@@ -1,5 +1,5 @@
 >**升级说明：TrendRadar的基础上增加 api 接口方便调用** 
-https://your_domain/output/api/trends.json
+https://your_domain/api/trends.json
 
 <div align="center">
 
