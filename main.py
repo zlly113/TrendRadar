@@ -17,13 +17,22 @@ import yaml
 
 # API 功能为可选依赖，尝试导入 Flask
 try:
-    from flask import Flask, jsonify
+    from flask import Flask, jsonify, send_from_directory
 
     FLASK_AVAILABLE = True
 except ImportError:
     FLASK_AVAILABLE = False
 
-VERSION = "2.1.0"
+# 截图功能为可选依赖，尝试导入 Playwright
+try:
+    from playwright.sync_api import sync_playwright
+
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
+
+
+VERSION = "2.2.0"
 
 
 # === 配置管理 ===
@@ -41,6 +50,7 @@ def load_config():
 
     # 构建配置
     config = {
+        "BASE_URL": config_data["app"].get("base_url", ""),
         "VERSION_CHECK_URL": config_data["app"]["version_check_url"],
         "SHOW_VERSION_UPDATE": config_data["app"]["show_version_update"],
         "REQUEST_INTERVAL": config_data["crawler"]["request_interval"],
@@ -134,6 +144,38 @@ print("正在加载配置...")
 CONFIG = load_config()
 print(f"TrendRadar v{VERSION} 配置加载完成")
 print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
+
+
+# === 新增功能：网页截图 ===
+def generate_image_from_html(html_file_path: str, output_image_path: str):
+    """
+    使用 Playwright 渲染 HTML 文件并截取指定元素的图片。
+    """
+    if not PLAYWRIGHT_AVAILABLE:
+        print("Playwright 模块未安装，无法生成图片。请运行 'pip install playwright'。")
+        return
+
+    print(f"正在从 {html_file_path} 生成图片...")
+    try:
+        output_dir = Path(output_image_path).parent
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(viewport={"width": 650, "height": 1080})
+            uri = Path(html_file_path).resolve().as_uri()
+            page.goto(uri)
+            # 截取包含热点新闻分析的 .container 元素
+            element = page.query_selector('.container')
+            if element:
+                element.screenshot(path=output_image_path)
+                print(f"图片成功保存至: {output_image_path}")
+            else:
+                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图。")
+            browser.close()
+    except Exception as e:
+        print(f"生成图片时发生错误: {e}")
+        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install')。")
 
 
 # === 工具函数 ===
@@ -3423,10 +3465,12 @@ class NewsAnalyzer:
 
             results, id_to_name, failed_ids = self._crawl_data()
 
-            self._execute_mode_strategy(mode_strategy, results, id_to_name, failed_ids)
+            summary_html_path = self._execute_mode_strategy(
+                mode_strategy, results, id_to_name, failed_ids
+            )
 
-            # 运行结束后，生成静态API文件
-            save_trends_to_json_file(self, "output/api/trends.json")
+            # 运行结束后，生成静态API文件和关联的图片
+            generate_static_api_files(self)
 
         except Exception as e:
             print(f"分析流程执行出错: {e}")
@@ -3444,9 +3488,11 @@ API_IDS = [
 ]
 
 
-def generate_api_data(analyzer: "NewsAnalyzer") -> Dict:
+def generate_api_data(
+    analyzer: "NewsAnalyzer",
+) -> Tuple[Dict, List, int, List, Dict]:
     """
-    获取并分析来自固定源的趋势数据，返回一个字典。
+    获取并分析来自固定源的趋势数据，返回API所需的所有数据。
     """
     print("为API生成数据：开始获取和分析...")
 
@@ -3459,17 +3505,19 @@ def generate_api_data(analyzer: "NewsAnalyzer") -> Dict:
     save_titles_to_file(results, id_to_name, failed_ids)
 
     # 3. 分析数据
-    # 为了API分析，我们需要读取当天所有来自API_IDS的历史数据
-    api_id_list = [item[0] for item in API_IDS]
+    api_id_list = [
+        item[0] if isinstance(item, tuple) else item for item in API_IDS
+    ]
     all_results, final_id_to_name, title_info = read_all_today_titles(api_id_list)
 
     if not all_results:
-        return {
+        empty_response = {
             "generated_at": get_beijing_time().isoformat(),
             "total_titles_processed": 0,
             "failed_sources": failed_ids,
-            "trends": []
+            "trends": [],
         }
+        return empty_response, [], 0, failed_ids, {}
 
     new_titles = detect_latest_new_titles(api_id_list)
     word_groups, filter_words = load_frequency_words()
@@ -3482,7 +3530,7 @@ def generate_api_data(analyzer: "NewsAnalyzer") -> Dict:
         title_info,
         analyzer.rank_threshold,
         new_titles,
-        mode='daily'  # API通常提供当日汇总数据
+        mode="daily",  # API通常提供当日汇总数据
     )
 
     # 4. 格式化为API响应结构
@@ -3490,43 +3538,74 @@ def generate_api_data(analyzer: "NewsAnalyzer") -> Dict:
         "generated_at": get_beijing_time().isoformat(),
         "total_titles_processed": total_titles,
         "failed_sources": failed_ids,
-        "trends": []
+        "trends": [],
     }
 
     for stat in stats:
-        if stat['count'] > 0:
+        if stat["count"] > 0:
             trend_item = {
-                "keyword_group": stat['word'],
-                "match_count": stat['count'],
-                "titles": []
+                "keyword_group": stat["word"],
+                "match_count": stat["count"],
+                "titles": [],
             }
-            for title_data in stat['titles']:
-                trend_item['titles'].append({
-                    "title": clean_title(title_data['title']),
-                    "url": title_data.get('mobileUrl') or title_data.get('url'),
-                    "source": title_data.get('source_name'),
-                    "ranks": title_data.get('ranks', []),
-                    "is_new": title_data.get('is_new', False),
-                    "appearance_count": title_data.get('count', 1),
-                    "time_info": title_data.get('time_display', '')
-                })
-            api_response['trends'].append(trend_item)
+            for title_data in stat["titles"]:
+                trend_item["titles"].append(
+                    {
+                        "title": clean_title(title_data["title"]),
+                        "url": title_data.get("mobileUrl") or title_data.get("url"),
+                        "source": title_data.get("source_name"),
+                        "ranks": title_data.get("ranks", []),
+                        "is_new": title_data.get("is_new", False),
+                        "appearance_count": title_data.get("count", 1),
+                        "time_info": title_data.get("time_display", ""),
+                    }
+                )
+            api_response["trends"].append(trend_item)
 
-    return api_response
+    return api_response, stats, total_titles, failed_ids, final_id_to_name
 
 
-def save_trends_to_json_file(analyzer: "NewsAnalyzer", output_path: str):
+def generate_static_api_files(analyzer: "NewsAnalyzer"):
     """
-    获取趋势数据并将其保存为静态的 JSON 文件。
+    获取趋势数据，生成HTML报告和图片，并将其保存为静态的 JSON 文件。
     """
-    api_data = generate_api_data(analyzer)
+    (
+        api_data,
+        stats,
+        total_titles,
+        failed_ids,
+        id_to_name,
+    ) = generate_api_data(analyzer)
 
-    # 确保输出目录存在
+    # 生成与API数据关联的HTML报告
+    api_html_report_path = generate_html_report(
+        stats,
+        total_titles,
+        failed_ids,
+        id_to_name=id_to_name,
+        mode="daily",
+        is_daily_summary=True,
+    )
+    print(f"为API数据生成了HTML报告: {api_html_report_path}")
+
+    # 从该HTML报告生成图片
+    image_path = "img/news.jpg"
+    generate_image_from_html(api_html_report_path, image_path)
+
+    # 将图片链接添加到API数据中
+    base_url = CONFIG.get("BASE_URL", "").rstrip("/")
+    if base_url:
+        api_data["report_image_url"] = f"{base_url}/{image_path}"
+    else:
+        api_data["report_image_url"] = f"/{image_path}"
+        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径。")
+
+    # 确保API目录存在并将JSON文件保存到新路径
+    output_path = "api/trends.json"
     output_dir = Path(output_path).parent
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # 将格式化后的数据写入JSON文件
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(api_data, f, ensure_ascii=False, indent=2)
 
     print(f"静态API文件已成功生成: {output_path}")
@@ -3536,22 +3615,32 @@ def save_trends_to_json_file(analyzer: "NewsAnalyzer", output_path: str):
 if FLASK_AVAILABLE:
     app = Flask(__name__)
 
-
     @app.route('/api/trends.json')
     @app.route('/api/trends')
     def get_trends():
         """
         API端点，实时生成并返回趋势数据。
-        注意：这是一个耗时操作，每次请求都会重新爬取和分析。
+        注意：这是一个耗时操作，每次请求都会重新爬取、分析和渲染图片。
         """
         try:
-            # 每次请求都创建一个新的分析器实例以获取最新配置
             analyzer = NewsAnalyzer()
-            api_data = generate_api_data(analyzer)
-            return jsonify(api_data)
+            # 运行完整的静态文件生成流程
+            generate_static_api_files(analyzer)
+            # 读取刚刚生成的文件并返回
+            api_file = Path("api/trends.json")
+            if api_file.exists():
+                with open(api_file, "r", encoding="utf-8") as f:
+                    return jsonify(json.load(f))
+            else:
+                return jsonify({"error": "API文件生成失败"}), 500
         except Exception as e:
             print(f"API请求处理失败: {e}")
             return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
+
+    @app.route('/img/<path:filename>')
+    def serve_image(filename):
+        """提供图片文件的API端点"""
+        return send_from_directory('img', filename)
 
 
 def main():
@@ -3564,7 +3653,7 @@ def main():
     parser.add_argument(
         '--generate-json',
         action='store_true',
-        help='仅生成静态的 trends.json 文件并退出'
+        help='仅生成静态的 trends.json, news.jpg 和相关HTML文件并退出'
     )
     args = parser.parse_args()
 
@@ -3575,13 +3664,12 @@ def main():
                 print("请运行 'pip install Flask' 来安装。")
                 return
             print("以API服务器模式启动...")
-            # 您可以修改 host 和 port
             app.run(host='0.0.0.0', port=5001, debug=False)
 
         elif args.generate_json:
-            print("仅生成静态API JSON文件...")
+            print("仅生成静态API文件...")
             analyzer = NewsAnalyzer()
-            save_trends_to_json_file(analyzer, "output/api/trends.json")
+            generate_static_api_files(analyzer)
             print("文件生成完毕。")
 
         else:
