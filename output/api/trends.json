@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-31T09:59:20.776109+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-08-31T11:11:54.444069+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国上诉法庭裁定，特朗普大部分全球关税违法！但官司未完结之际仍有效",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时11分]"
         },
         {
           "title": "美上诉法院裁定特朗普关税非法！一文读懂：接下来事态将如何发展？",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时11分]"
         },
         {
           "title": "特朗普单方面取消49亿美元对外援助",
@@ -77,9 +77,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时11分]"
         },
         {
           "title": "特朗普单方面叫停49亿美元对外援助 激化美两党对立",
@@ -93,6 +93,52 @@
           "time_info": "[00时32分 ~ 05时19分]"
         },
         {
+          "title": "美国总统特朗普：祝大家劳动节周末愉快！美国即将迎来充满希望的一年，也许是有史以来最棒的一年，如果关税最终能得到法院的批准！",
+          "url": "https://flash.jin10.com/detail/20250831095808782800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普将发布一项关于选民身份证的行政令",
+          "url": "https://flash.jin10.com/detail/20250831095318051800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "牛弹琴：特朗普真气坏了",
+          "url": "https://www.toutiao.com/trending/7544531253106576906/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时11分]"
+        },
+        {
+          "title": "白宫惊现豆腐渣？特朗普真气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E6%83%8A%E7%8E%B0%E8%B1%86%E8%85%90%E6%B8%A3%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时11分]"
+        },
+        {
           "title": "特朗普VS美联储法庭大战开打，激辩解雇是否“正当”，理事方称不能拿推文当理由",
           "url": "https://wallstreetcn.com/articles/3754567",
           "source": "华尔街见闻",
@@ -104,26 +150,15 @@
           "time_info": "[00时32分 ~ 01时18分]"
         },
         {
-          "title": "牛弹琴：特朗普真气坏了",
-          "url": "https://www.toutiao.com/trending/7544531253106576906/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：“蓝纸条” 制度必须废除，它对共和党和我们的国家都有害！",
+          "url": "https://flash.jin10.com/detail/20250831094718714800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "白宫惊现豆腐渣？特朗普真气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E6%83%8A%E7%8E%B0%E8%B1%86%E8%85%90%E6%B8%A3%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "11时11分"
         },
         {
           "title": "美媒：特朗普政府推进将“国防部”改回“战争部”计划",
@@ -132,7 +167,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -148,22 +183,24 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时11分]"
         },
         {
           "title": "金价大涨两大原因",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D8%26pos%3D7%26c_type%3D31%26realpos%3D8%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E4%25B8%25A4%25E5%25A4%25A7%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26display_time%3D1756605160%26pre_seqid%3D175660516021302347591123",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时11分]"
         }
       ]
     },
@@ -191,8 +228,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 11时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美团大模型来了！开源“龙猫”，性能追平DeepSeek V3.1，同样主打“算力节省”",
+          "url": "https://wallstreetcn.com/articles/3754610",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
@@ -207,9 +261,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时11分]"
         }
       ]
     },
