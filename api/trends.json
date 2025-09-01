@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-02T05:21:57.662644+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-09-02T06:23:41.419072+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -15,8 +15,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "不要低估特朗普的决心--美国会如何“降息”？",
+          "url": "https://wallstreetcn.com/articles/3754645",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "报道：特朗普政府考虑将白宫顾问Yared安插到IMF，担任该组织的二把手",
+          "url": "https://wallstreetcn.com/livenews/2967114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
           "title": "贝森特：特朗普可能会在秋季宣布美国进入全国住房紧急状态，以应对房价上涨和供应减少。",
@@ -28,39 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "不要低估特朗普的决心--美国会如何“降息”？",
-          "url": "https://wallstreetcn.com/articles/3754645",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时21分]"
-        },
-        {
-          "title": "报道：特朗普政府考虑将白宫顾问Yared安插到IMF，担任该组织的二把手",
-          "url": "https://wallstreetcn.com/livenews/2967114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "消息人士：特朗普政府正考虑让白宫经济顾问亚雷德出任国际货币基金组织二号职位。",
-          "url": "https://flash.jin10.com/detail/20250902043759611800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         },
         {
           "title": "美国财长贝森特：（置评市场对特朗普施压美联储的反应）我们还没有看到任何动静。",
@@ -77,6 +67,33 @@
           "time_info": "[02时35分 ~ 05时21分]"
         },
         {
+          "title": "学者：特朗普取消访印暴露霸权思维",
+          "url": "https://www.toutiao.com/trending/7544896172301749798/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            18,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时23分]"
+        },
+        {
+          "title": "美国财长贝森特：相信最高法院将支持美国总统特朗普的关税。",
+          "url": "https://wallstreetcn.com/livenews/2967099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
           "title": "特朗普要求医药公司证明它们的新冠药物拯救了生命",
           "url": "https://wallstreetcn.com/livenews/2967056",
           "source": "华尔街见闻-快讯",
@@ -90,41 +107,55 @@
           "time_info": "[01时21分 ~ 03时20分]"
         },
         {
-          "title": "美国财长贝森特：相信最高法院将支持美国总统特朗普的关税。",
-          "url": "https://wallstreetcn.com/livenews/2967099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
           "title": "美国财长力挺特朗普解雇权：若指控属实 库克应辞职",
           "url": "https://flash.jin10.com/detail/20250902032144596800",
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "消息人士：特朗普政府正考虑让白宫经济顾问亚雷德出任国际货币基金组织二号职位。",
+          "url": "https://flash.jin10.com/detail/20250902043759611800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
+          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
-          "title": "学者：特朗普取消访印暴露霸权思维",
-          "url": "https://www.toutiao.com/trending/7544896172301749798/",
-          "source": "今日头条",
+          "title": "贝森特称特朗普或在今秋宣布美国住房紧急状态",
+          "url": "https://flash.jin10.com/detail/20250902031515103800",
+          "source": "金十数据",
           "ranks": [
-            24,
-            18,
+            6,
+            15,
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国财长贝森特计划为美国司法部长撰写一份简报，以支持特朗普的关税措施。",
+          "url": "https://flash.jin10.com/detail/20250902031234110800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "贝森特：特朗普可能会在未来数月宣布全美住房紧急状态",
@@ -140,28 +171,16 @@
           "time_info": "[01时21分 ~ 03时20分]"
         },
         {
-          "title": "贝森特称特朗普或在今秋宣布美国住房紧急状态",
-          "url": "https://flash.jin10.com/detail/20250902031515103800",
-          "source": "金十数据",
+          "title": "特朗普：如果没关税美国将走向毁灭",
+          "url": "https://www.toutiao.com/trending/7545019308783439411/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            15
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "据美国财经媒体Semafor：美国财长贝森特计划为美国司法部长撰写一份简报，以支持特朗普的关税措施。",
-          "url": "https://flash.jin10.com/detail/20250902031234110800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普可能将于今年秋季宣布进入全国住房紧急状态，以应对房价上涨和供应减少的问题。",
@@ -174,6 +193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "美国财长贝森特：确信最高法院将支持美国总统特朗普的关税。",
+          "url": "https://flash.jin10.com/detail/20250902040416713800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
           "title": "特朗普政府叫停海上风电项目 美国多位民主党州长联手抵制",
@@ -200,27 +231,15 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
-          "title": "特朗普：如果没关税美国将走向毁灭",
-          "url": "https://www.toutiao.com/trending/7545019308783439411/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "美国财长贝森特：确信最高法院将支持美国总统特朗普的关税。",
-          "url": "https://flash.jin10.com/detail/20250902040416713800",
+          "title": "贝森特：拟在法律简报为特朗普关税政策辩护",
+          "url": "https://flash.jin10.com/detail/20250902054836991800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时23分"
         },
         {
           "title": "特朗普拟征收药品关税 分析师警告：或致药价上涨和药品短缺",
@@ -229,9 +248,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "沙利文为何批特朗普搅黄美国外交",
+          "url": "https://www.toutiao.com/trending/7545105835165224490/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "原油短线波动不大，特朗普谈印度削减关税提议：“为时已晚”",
@@ -260,8 +290,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 06时23分]"
         },
         {
           "title": "金价涨超0.8%，逼近历史最高位，白银自2011年以来首次突破40美元整数位心理关口",
@@ -269,11 +299,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "金价延续涨势，分析师提醒警惕高位获利了结风险",
@@ -346,17 +377,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美元指数1日下跌",
-          "url": "https://flash.jin10.com/detail/20250902044034571800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨1.0%，创8月22日（当天收涨1.5%）以来最佳单日表现，报349.39点。 10个板块中，北欧工业板块领跑。 （丹麦）沃旭能源Orsted AS涨3.6%，领跑北欧一众个股，该公司获得挪威石油巨头大约10亿美元资本承诺。",
           "url": "https://wallstreetcn.com/livenews/2967045",
           "source": "华尔街见闻-快讯",
@@ -377,11 +397,24 @@
           "ranks": [
             4,
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时23分]"
+        },
+        {
+          "title": "美元指数1日下跌",
+          "url": "https://flash.jin10.com/detail/20250902044034571800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时23分]"
         }
       ]
     },
@@ -397,8 +430,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
         },
         {
           "title": "提醒：美股因节假日休市一日。",
@@ -426,8 +459,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 06时23分]"
         }
       ]
     },
@@ -445,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
         }
       ]
     },
