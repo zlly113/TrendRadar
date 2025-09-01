@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-02T03:20:22.738900+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-09-02T04:26:38.147315+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "贝森特：特朗普可能会在秋季宣布美国进入全国住房紧急状态，以应对房价上涨和供应减少。",
@@ -28,6 +28,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "美国财长贝森特：相信最高法院将支持美国总统特朗普的关税。",
+          "url": "https://wallstreetcn.com/livenews/2967099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国财长力挺特朗普解雇权：若指控属实 库克应辞职",
+          "url": "https://flash.jin10.com/detail/20250902032144596800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "不要低估特朗普的决心--美国会如何“降息”？",
+          "url": "https://wallstreetcn.com/articles/3754645",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "美国财长贝森特：（置评市场对特朗普施压美联储的反应）我们还没有看到任何动静。",
+          "url": "https://flash.jin10.com/detail/20250902022626792800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "特朗普要求医药公司证明它们的新冠药物拯救了生命",
@@ -43,29 +89,6 @@
           "time_info": "[01时21分 ~ 03时20分]"
         },
         {
-          "title": "美国财长贝森特：（置评市场对特朗普施压美联储的反应）我们还没有看到任何动静。",
-          "url": "https://flash.jin10.com/detail/20250902022626792800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "不要低估特朗普的决心--美国会如何“降息”？",
-          "url": "https://wallstreetcn.com/articles/3754645",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
-        },
-        {
           "title": "贝森特：特朗普可能会在未来数月宣布全美住房紧急状态",
           "url": "https://wallstreetcn.com/livenews/2967050",
           "source": "华尔街见闻-快讯",
@@ -77,6 +100,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时20分]"
+        },
+        {
+          "title": "学者：特朗普取消访印暴露霸权思维",
+          "url": "https://www.toutiao.com/trending/7544896172301749798/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普可能将于今年秋季宣布进入全国住房紧急状态，以应对房价上涨和供应减少的问题。",
@@ -103,18 +138,6 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "学者：特朗普取消访印暴露霸权思维",
-          "url": "https://www.toutiao.com/trending/7544896172301749798/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
           "title": "美国联邦调查局（FBI）局长表示：在特朗普总统清理华盛顿特区的行动框架下，所有联邦执法机构目前已实现逾1600起逮捕。",
           "url": "https://flash.jin10.com/detail/20250902010240426800",
           "source": "金十数据",
@@ -127,6 +150,39 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "贝森特称特朗普或在今秋宣布美国住房紧急状态",
+          "url": "https://flash.jin10.com/detail/20250902031515103800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国财长贝森特计划为美国司法部长撰写一份简报，以支持特朗普的关税措施。",
+          "url": "https://flash.jin10.com/detail/20250902031234110800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：如果没关税美国将走向毁灭",
+          "url": "https://www.toutiao.com/trending/7545019308783439411/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "原油短线波动不大，特朗普谈印度削减关税提议：“为时已晚”",
           "url": "https://wallstreetcn.com/livenews/2967018",
           "source": "华尔街见闻-快讯",
@@ -136,6 +192,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价涨超0.8%，逼近历史最高位，白银自2011年以来首次突破40美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/2967100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "金价延续涨势，分析师提醒警惕高位获利了结风险",
+          "url": "https://flash.jin10.com/detail/20250902005457284800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时35分]"
+        },
+        {
+          "title": "金价创历史新高 黄金股全线飙涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E9%BB%84%E9%87%91%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%99%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
+        },
+        {
+          "title": "专家：金价上涨或具持续性",
+          "url": "https://www.douyin.com/hot/2222851",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时35分]"
         }
       ]
     },
@@ -181,47 +289,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价延续涨势，分析师提醒警惕高位获利了结风险",
-          "url": "https://flash.jin10.com/detail/20250902005457284800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时35分]"
-        },
-        {
-          "title": "金价创历史新高 黄金股全线飙涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E9%BB%84%E9%87%91%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%99%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
-        },
-        {
-          "title": "专家：金价上涨或具持续性",
-          "url": "https://www.douyin.com/hot/2222851",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -233,8 +300,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "提醒：美股因节假日休市一日。",
@@ -254,17 +321,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "周一（9月1日）纽约尾盘，ICE美元指数跌0.05%，报97.717点，日内交投区间为97.873-97.536点。 彭博美元指数涨0.01%，报1201.04点，日内交投区间为1199.25-1202.14点。",
-          "url": "https://wallstreetcn.com/livenews/2967080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨1.0%，创8月22日（当天收涨1.5%）以来最佳单日表现，报349.39点。 10个板块中，北欧工业板块领跑。 （丹麦）沃旭能源Orsted AS涨3.6%，领跑北欧一众个股，该公司获得挪威石油巨头大约10亿美元资本承诺。",
           "url": "https://wallstreetcn.com/livenews/2967045",
           "source": "华尔街见闻-快讯",
@@ -277,6 +333,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 03时20分]"
+        },
+        {
+          "title": "周一（9月1日）纽约尾盘，ICE美元指数跌0.05%，报97.717点，日内交投区间为97.873-97.536点。 彭博美元指数涨0.01%，报1201.04点，日内交投区间为1199.25-1202.14点。",
+          "url": "https://wallstreetcn.com/livenews/2967080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时26分]"
         }
       ]
     },
@@ -293,8 +361,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时26分]"
         }
       ]
     },
@@ -311,8 +379,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时26分]"
         }
       ]
     },
