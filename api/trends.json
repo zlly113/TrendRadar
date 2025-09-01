@@ -1,436 +1,121 @@
 {
-  "generated_at": "2025-08-31T18:36:02.107806+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2025-09-01T10:09:06.649876+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 10,
       "titles": [
         {
-          "title": "白宫惊现豆腐渣？特朗普真气坏了",
-          "url": "https://news.ifeng.com/c/8mG9LiAwbt4",
+          "title": "学者：特朗普取消访印暴露霸权思维",
+          "url": "https://www.toutiao.com/trending/7544896172301749798/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普威胁：最好迅速搞定！",
+          "url": "https://news.ifeng.com/c/8mHmceuSdAx",
           "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 18时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "美国上诉法庭裁定，特朗普大部分全球关税违法！但官司未完结之际仍有效",
-          "url": "https://wallstreetcn.com/articles/3754575",
-          "source": "华尔街见闻",
+          "title": "“对等关税”被裁定违法，特朗普称将上诉至美最高法院",
+          "url": "https://news.ifeng.com/c/8mHVj95DE7n",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普“对等关税”为何被判“违法”？接下来会发生什么？",
-          "url": "https://wallstreetcn.com/articles/3754583",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 12时27分]"
-        },
-        {
-          "title": "美上诉法院裁定特朗普关税非法！一文读懂：接下来事态将如何发展？",
-          "url": "https://www.cls.cn/detail/2131181",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普单方面取消49亿美元对外援助",
-          "url": "https://www.toutiao.com/trending/7543854557349527588/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            16,
-            19,
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "牛弹琴：特朗普真气坏了",
-          "url": "https://www.toutiao.com/trending/7544531253106576906/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普称想把中国留学生扩至60万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%83%B3%E6%8A%8A%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%89%A9%E8%87%B360%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2583%25B3%25E6%258A%258A%25E4%25B8%25AD%25E5%259B%25BD%25E7%2595%2599%25E5%25AD%25A6%25E7%2594%259F%25E6%2589%25A9%25E8%2587%25B360%25E4%25B8%2587%2523%26pos%3D15%26stream_entry_id%3D31%26band_rank%3D14%26dgr%3D0%26lcate%3D5001%26realpos%3D14%26filter_type%3Drealtimehot%26display_time%3D1756620455%26pre_seqid%3D1756620455755070448159",
-          "source": "微博",
-          "ranks": [
-            14,
-            15,
-            18,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 18时36分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-08-30）",
-          "url": "https://flash.jin10.com/detail/20250830182158467800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "白宫惊现豆腐渣？特朗普真气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E6%83%8A%E7%8E%B0%E8%B1%86%E8%85%90%E6%B8%A3%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            19,
-            14,
-            15,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 16时27分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "决定关税和美联储命运！特朗普最关键的两场战斗，都将取决于美国高院",
           "url": "https://wallstreetcn.com/articles/3754616",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 18时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "白宫现“豆腐渣”？特朗普真气坏了",
-          "url": "https://www.toutiao.com/trending/7544531253106576906/",
-          "source": "今日头条",
+          "title": "特朗普若真能“掌控”美联储董事会，意味着什么？一文读懂",
+          "url": "https://www.cls.cn/detail/2131485",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            28,
-            20
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 18时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "特朗普单方面叫停49亿美元对外援助 激化美两党对立",
-          "url": "https://wallstreetcn.com/livenews/2966432",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普关税被判非法 印度肯定在庆祝",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%88%A4%E9%9D%9E%E6%B3%95+%E5%8D%B0%E5%BA%A6%E8%82%AF%E5%AE%9A%E5%9C%A8%E5%BA%86%E7%A5%9D",
+          "source": "百度热搜",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时19分]"
-        },
-        {
-          "title": "美国总统特朗普：祝大家劳动节周末愉快！美国即将迎来充满希望的一年，也许是有史以来最棒的一年，如果关税最终能得到法院的批准！",
-          "url": "https://flash.jin10.com/detail/20250831095808782800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普要向芝加哥派兵 市长拒绝配合",
-          "url": "https://flash.jin10.com/detail/20250831140752354800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时22分]"
-        },
-        {
-          "title": "特朗普将发布一项关于选民身份证的行政令",
-          "url": "https://flash.jin10.com/detail/20250831095318051800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时22分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "莫迪四次拒接特朗普电话后奔向中日",
           "url": "https://www.toutiao.com/trending/7543740764166078490/",
           "source": "今日头条",
           "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 18时36分]"
-        },
-        {
-          "title": "美国总统特朗普：“蓝纸条” 制度必须废除，它对共和党和我们的国家都有害！",
-          "url": "https://flash.jin10.com/detail/20250831094718714800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时22分]"
-        },
-        {
-          "title": "9月美联储理事会的可能组成：特朗普可能以四比三占优，也可能打成平手",
-          "url": "https://flash.jin10.com/detail/20250831104304886800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普VS美联储法庭大战开打，激辩解雇是否“正当”，理事方称不能拿推文当理由",
-          "url": "https://wallstreetcn.com/articles/3754567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时18分]"
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "特朗普取消赴印参加峰会",
-          "url": "https://www.toutiao.com/trending/7544121868920619058/",
+          "title": "特朗普为何跟一块石头“干上了”",
+          "url": "https://www.toutiao.com/trending/7544700898212056618/",
           "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
-          "title": "学者：特朗普新政颠覆西方经济学常识",
-          "url": "https://www.toutiao.com/trending/7544639014846860850/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "印度是否成了特朗普霸权逻辑牺牲品",
-          "url": "https://www.toutiao.com/trending/7544566115356134951/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普将发布关于选民身份证行政令",
-          "url": "https://www.toutiao.com/trending/7543679180597329962/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "特朗普发文抨击伊利诺伊州州长",
-          "url": "https://www.toutiao.com/trending/7544550903135604262/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美媒：特朗普政府推进将“国防部”改回“战争部”计划",
-          "url": "https://flash.jin10.com/detail/20250831080544760800",
-          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D6%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26flag%3D2%26pos%3D5%26lcate%3D5001%26realpos%3D6%26display_time%3D1756570737%26pre_seqid%3D17565707371710175879016",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时11分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "金价大涨两大原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%B8%A4%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D8%26pos%3D7%26c_type%3D31%26realpos%3D8%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E4%25B8%25A4%25E5%25A4%25A7%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26display_time%3D1756605160%26pre_seqid%3D175660516021302347591123",
-          "source": "微博",
-          "ranks": [
-            8,
-            9,
-            24,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时33分]"
-        },
-        {
-          "title": "金价再上历史高位",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E4%B8%8A%E5%8E%86%E5%8F%B2%E9%AB%98%E4%BD%8D",
+          "title": "莫迪此访至少让特朗普失算了",
+          "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%BF%AA%E6%AD%A4%E8%AE%BF%E8%87%B3%E5%B0%91%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B1%E7%AE%97%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 18时36分]"
-        },
-        {
-          "title": "金价大涨 背后有哪些因素",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8+%E8%83%8C%E5%90%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E5%9B%A0%E7%B4%A0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 17时57分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "国际金价显著上涨背后有哪些因素",
-          "url": "https://www.toutiao.com/trending/7544631164162543143/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技股抛售拖累美股收跌，阿里巴巴大涨13%，美元下挫，黄金四日连涨",
-          "url": "https://wallstreetcn.com/articles/3754503",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 阿里大涨近13%",
-          "url": "https://www.cls.cn/detail/2131150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时22分]"
-        },
-        {
-          "title": "美股明日将休市一日",
-          "url": "https://flash.jin10.com/detail/20250831172300473800",
+          "title": "美国总统特朗普：在芝加哥的犯罪已经完全失控了。仅上周就有6人死亡，24人重伤。",
+          "url": "https://flash.jin10.com/detail/20250901093446140800",
           "source": "金十数据",
           "ranks": [
-            3,
-            4
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -439,98 +124,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美团大模型来了！开源“龙猫”，性能追平DeepSeek V3.1，同样主打“算力节省”",
-          "url": "https://wallstreetcn.com/articles/3754610",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 18时36分]"
-        },
-        {
           "title": "从GPT-5到DeepSeek V3.1，顶尖AI大模型的新方向出现了！",
           "url": "https://wallstreetcn.com/articles/3754611",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 18时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "癌症的“颠覆性疗法”，中国创新药的“DeepSeek时刻”！最核心的关键词：PD(L)1 bsAb",
+          "url": "https://wallstreetcn.com/articles/3754618",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "全球Top 100 AI应用最新榜单：ChatGPT居首，谷歌大幅追赶位居次席，阿里夸克冲到第9",
-          "url": "https://wallstreetcn.com/articles/3754603",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 17时22分]"
-        },
         {
           "title": "混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头",
           "url": "https://wallstreetcn.com/articles/3754617",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 18时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗总统此次访华释放了什么信号",
-          "url": "https://www.toutiao.com/trending/7544242220249910822/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时17分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗最高领袖中文发文谈中伊关系",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%AD%E6%96%87%E5%8F%91%E6%96%87%E8%B0%88%E4%B8%AD%E4%BC%8A%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "time_info": "[10时08分 ~ 10时09分]"
         }
       ]
     },
@@ -543,11 +173,45 @@
           "url": "https://wallstreetcn.com/articles/3754625",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "time_info": "[10时08分 ~ 10时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价这次历史高位能站稳吗",
+          "url": "https://www.toutiao.com/trending/7544892867450244671/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根士丹利上调阿里巴巴美股目标价10%",
+          "url": "https://wallstreetcn.com/livenews/2966633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
