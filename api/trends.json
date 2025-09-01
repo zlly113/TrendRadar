@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-01T19:22:42.283379+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-09-01T20:53:27.527159+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 20时53分]"
         },
         {
           "title": "特朗普威胁：最好迅速搞定！",
@@ -90,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普：辉瑞等公司必须公布新冠药物成功的证据。",
+          "url": "https://wallstreetcn.com/livenews/2967001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "欧洲央行行长拉加德：特朗普很难在美联储获得多数席位。",
@@ -242,6 +254,28 @@
           "time_info": "14时41分"
         },
         {
+          "title": "据公司在社交媒体平台“X”发帖称，特朗普的World Liberty Financial代币已开始交易。",
+          "url": "https://flash.jin10.com/detail/20250901202834776800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "不要低估特朗普的决心--美国会如何“降息”？",
+          "url": "https://wallstreetcn.com/articles/3754645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-01）",
           "url": "https://flash.jin10.com/detail/20250901173013301800",
           "source": "金十数据",
@@ -251,6 +285,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "WLFI代币日内涨近3.9%，特朗普家族公开支持的World Liberty Financial项目，其治理代币WLFI正式开始交易。",
+          "url": "https://wallstreetcn.com/livenews/2966991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美国总统特朗普：制药公司必须证明其各种新冠药物的成功，这一点非常重要。辉瑞(PFE.N)等公司必须出示新冠药物成功的证据。",
+          "url": "https://flash.jin10.com/detail/20250901201646613800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普健康状况为何被阴谋论笼罩",
@@ -270,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -344,11 +400,12 @@
           "ranks": [
             23,
             19,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时53分]"
         },
         {
           "title": "国际金价再创历史新高",
@@ -383,6 +440,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "硅谷炸雷！xAI创始老哥携机密叛逃OpenAI，马斯克：他上传了整个代码库",
+          "url": "https://wallstreetcn.com/articles/3754625",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 17时30分]"
+        },
+        {
+          "title": "市场消息：OpenAI计划在“星际之门”重大扩展项目中设立印度数据中心。",
+          "url": "https://flash.jin10.com/detail/20250901131821826800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "下一个“星际之门”曝光？OpenAI被曝筹划在印度打造超大型数据中心",
+          "url": "https://www.cls.cn/detail/2132356",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "OpenAI据悉拟在印度新建数据中心 Stargate扩张料迈出重要一步",
+          "url": "https://wallstreetcn.com/livenews/2966749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
@@ -425,47 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "硅谷炸雷！xAI创始老哥携机密叛逃OpenAI，马斯克：他上传了整个代码库",
-          "url": "https://wallstreetcn.com/articles/3754625",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时08分 ~ 17时30分]"
-        },
-        {
-          "title": "市场消息：OpenAI计划在“星际之门”重大扩展项目中设立印度数据中心。",
-          "url": "https://flash.jin10.com/detail/20250901131821826800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "OpenAI据悉拟在印度新建数据中心 Stargate扩张料迈出重要一步",
-          "url": "https://wallstreetcn.com/livenews/2966749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         }
       ]
     },
