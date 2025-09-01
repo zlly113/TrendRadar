@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-01T15:27:15.771817+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2025-09-01T16:36:44.841236+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 16时36分]"
         },
         {
           "title": "特朗普威胁：最好迅速搞定！",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 16时36分]"
         },
         {
           "title": "“对等关税”被裁定违法，特朗普称将上诉至美最高法院",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 16时36分]"
         },
         {
           "title": "谈到中国留学生，特朗普：要跟核大国搞好关系",
@@ -230,6 +230,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "特朗普健康状况为何被阴谋论笼罩",
+          "url": "https://www.toutiao.com/trending/7544977871089962522/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美国总统特朗普：在芝加哥的犯罪已经完全失控了。仅上周就有6人死亡，24人重伤。",
           "url": "https://flash.jin10.com/detail/20250901093446140800",
           "source": "金十数据",
@@ -267,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 16时36分]"
         },
         {
           "title": "市场消息：OpenAI计划在“星际之门”重大扩展项目中设立印度数据中心。",
@@ -307,8 +318,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 16时36分]"
         },
         {
           "title": "国际金价再创历史新高",
@@ -349,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 16时36分]"
         },
         {
           "title": "从GPT-5到DeepSeek V3.1，顶尖AI大模型的新方向出现了！",
@@ -366,6 +377,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头",
+          "url": "https://wallstreetcn.com/articles/3754617",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 12时34分]"
+        },
+        {
+          "title": "Google Nano Banana 使用体验如何？",
+          "url": "https://www.zhihu.com/question/1943798509586318626",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -376,11 +417,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时34分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时34分 ~ 16时36分]"
         },
         {
           "title": "摩根士丹利上调阿里巴巴美股目标价10%",
@@ -417,28 +459,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头",
-          "url": "https://wallstreetcn.com/articles/3754617",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时34分]"
         }
       ]
     },
