@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-02T22:26:59.815718+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2025-09-02T23:28:12.164183+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -17,11 +17,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时28分]"
         },
         {
           "title": "“核心代币”首秀飙升后回落，币圈“上贡”特朗普家族50亿美元资产",
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时11分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[11时11分 ~ 23时28分]"
         },
         {
           "title": "特朗普“重建加沙”计划细节：发数字代币换取巴勒斯坦人放弃土地",
@@ -74,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时27分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[13时27分 ~ 23时28分]"
         },
         {
           "title": "特朗普“重建加沙”计划细节：发数字货币换取巴勒斯坦人放弃土地",
@@ -114,6 +115,44 @@
           "time_info": "[12时30分 ~ 17时28分]"
         },
         {
+          "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
+          "url": "https://wallstreetcn.com/articles/3754751",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时28分]"
+        },
+        {
+          "title": "特朗普对美联储下狠手，黄金涨破3500再创新高，白银涨至十四年高位",
+          "url": "https://wallstreetcn.com/articles/3754742",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 23时28分]"
+        },
+        {
+          "title": "“面对特朗普关税冲击，许多在华美企选择留在中国”",
+          "url": "https://news.ifeng.com/c/8mK7Ybx7RBK",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时28分]"
+        },
+        {
           "title": "报道：特朗普政府考虑将白宫顾问Yared安插到IMF，担任该组织的二把手",
           "url": "https://wallstreetcn.com/livenews/2967114",
           "source": "华尔街见闻-快讯",
@@ -147,31 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
-        },
-        {
-          "title": "特朗普对美联储下狠手，黄金涨破3500再创新高，白银涨至十四年高位",
-          "url": "https://wallstreetcn.com/articles/3754742",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时54分]"
-        },
-        {
-          "title": "“面对特朗普关税冲击，许多在华美企选择留在中国”",
-          "url": "https://news.ifeng.com/c/8mK7Ybx7RBK",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时26分]"
         },
         {
           "title": "美国财长贝森特：（置评市场对特朗普施压美联储的反应）我们还没有看到任何动静。",
@@ -238,18 +252,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 07时24分]"
-        },
-        {
-          "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
-          "url": "https://wallstreetcn.com/articles/3754751",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时26分]"
         },
         {
           "title": "消息人士：特朗普政府正考虑让白宫经济顾问亚雷德出任国际货币基金组织二号职位。",
@@ -514,7 +516,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -569,7 +571,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -583,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国总统特朗普能源主管：电价飙升是最大担忧。",
+          "url": "https://flash.jin10.com/detail/20250902222813872800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：特朗普专注于推动房地产市场繁荣。 鲍威尔没有在追究丽莎·库克的责任。 （谈住房紧急状态）我们正在研究有哪些可用选项。",
@@ -729,8 +742,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时28分]"
         },
         {
           "title": "蔚来汽车(NIO.N)美股盘前转涨，现涨超2%。",
@@ -757,6 +770,18 @@
           "time_info": "[18时27分 ~ 19时20分]"
         },
         {
+          "title": "美股跌幅收窄，纳指跌幅收窄至不足1%。",
+          "url": "https://wallstreetcn.com/livenews/2967609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
+        },
+        {
           "title": "蔚来汽车美股盘前跌超17%，公司预计Q3交付量为87,000至91,000辆，市场预期为91,091辆。",
           "url": "https://wallstreetcn.com/livenews/2967474",
           "source": "华尔街见闻-快讯",
@@ -767,6 +792,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时20分]"
+        },
+        {
+          "title": "美股盘初：主要行业ETF多数下跌，半导体ETF跌超2%，网络股指数ETF跌超2%，科技行业ETF跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/2967601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
         },
         {
           "title": "台积电美股盘前跳水，一度跌超7%。",
@@ -780,35 +817,13 @@
           "time_info": "21时35分"
         },
         {
-          "title": "美股跌幅收窄，纳指跌幅收窄至不足1%。",
-          "url": "https://wallstreetcn.com/livenews/2967609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "美股盘初：主要行业ETF多数下跌，半导体ETF跌超2%，网络股指数ETF跌超2%，科技行业ETF跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/2967601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "美股盘初：纳指跌1.7%，半导体股跌幅居前，台积电跌约2%",
           "url": "https://wallstreetcn.com/livenews/2967599",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -878,6 +893,22 @@
           "time_info": "[12时30分 ~ 19时20分]"
         },
         {
+          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
+          "url": "https://www.zhihu.com/question/1946149966176322543",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            17,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 23时28分]"
+        },
+        {
           "title": "金价创历史新高 黄金股全线飙涨",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E9%BB%84%E9%87%91%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%99%E6%B6%A8",
           "source": "百度热搜",
@@ -889,21 +920,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
-          "url": "https://www.zhihu.com/question/1946149966176322543",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            17,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时26分]"
         },
         {
           "title": "今日金价再度大涨 分析称后市仍有上行空间 高金价下金饰企业喜忧参半",
@@ -982,41 +998,44 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美国发布针对与伊朗有关实体的制裁通知。",
-          "url": "https://flash.jin10.com/detail/20250902221808153800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "王沪宁会见伊朗总统佩泽希齐扬",
-          "url": "https://wallstreetcn.com/livenews/2967618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
         {
           "title": "伊朗总统佩泽希齐扬抵京",
           "url": "https://www.douyin.com/hot/2223369",
           "source": "抖音",
           "ranks": [
             12,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时28分]"
+        },
+        {
+          "title": "美国发布针对与伊朗有关实体的制裁通知。",
+          "url": "https://flash.jin10.com/detail/20250902221808153800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
+        },
+        {
+          "title": "王沪宁会见伊朗总统佩泽希齐扬",
+          "url": "https://wallstreetcn.com/livenews/2967618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
         },
         {
           "title": "习近平会见伊朗总统佩泽希齐扬",
@@ -1054,6 +1073,28 @@
           "time_info": "[13时27分 ~ 14时38分]"
         },
         {
+          "title": "美国财长贝森特：通过针对伊朗的石油收入来源，财政部将进一步削弱伊朗对美国及其盟友发动袭击的能力。我们仍然致力于确保石油供应不受伊朗影响，并将继续努力阻止伊朗正在进行的袭击企图。",
+          "url": "https://flash.jin10.com/detail/20250902223300246800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国在最新一轮打击伊朗石油出口的行动中制裁伊拉克富商Waleed Al-Samarra'I。",
+          "url": "https://flash.jin10.com/detail/20250902222908844800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "伊朗的“反以大业”为何崩盘",
           "url": "https://www.toutiao.com/trending/7545043249635790362/",
           "source": "今日头条",
@@ -1068,7 +1109,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司四：那些关于Gmail重大安全警报的说法不不实。",
@@ -1124,7 +1165,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -1138,13 +1179,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "欧盟暂停其立即对谷歌滥用广告科技主导地位（反垄断问题）罚款的计划。 各方现在担心，美国总统特朗普可能会利用关税来报复欧盟。",
+          "url": "https://wallstreetcn.com/livenews/2967611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "恒天然：9月2日，全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价4,043美元/吨。 批发奶粉价格指数下降5.3%，报3,809美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2967631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.0%，创8月22日（当天收涨1.5%）以来最佳单日表现，报349.39点。 10个板块中，北欧工业板块领跑。 （丹麦）沃旭能源Orsted AS涨3.6%，领跑北欧一众个股，该公司获得挪威石油巨头大约10亿美元资本承诺。",
           "url": "https://wallstreetcn.com/livenews/2967045",
@@ -1193,7 +1256,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -1247,11 +1310,12 @@
           "url": "https://wallstreetcn.com/livenews/2967620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
         },
         {
           "title": "美债收益率扩大涨幅，10年期收益率上涨7个基点至4.30%。",
