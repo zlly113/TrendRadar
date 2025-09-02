@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-09-02T07:24:11.194291+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2025-09-02T09:56:45.268927+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
           "url": "https://wallstreetcn.com/articles/3754643",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 09时56分]"
         },
         {
           "title": "不要低估特朗普的决心--美国会如何“降息”？",
           "url": "https://wallstreetcn.com/articles/3754645",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 09时56分]"
         },
         {
           "title": "报道：特朗普政府考虑将白宫顾问Yared安插到IMF，担任该组织的二把手",
@@ -234,6 +236,17 @@
           "time_info": "[05时21分 ~ 06时23分]"
         },
         {
+          "title": "特朗普拟征收药品关税 分析师警告：或致药价上涨和药品短缺",
+          "url": "https://www.cls.cn/detail/2132871",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 09时56分]"
+        },
+        {
           "title": "特朗普政府叫停海上风电项目 美国多位民主党州长联手抵制",
           "url": "https://flash.jin10.com/detail/20250901232623380800",
           "source": "金十数据",
@@ -264,20 +277,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普拟征收药品关税 分析师警告：或致药价上涨和药品短缺",
-          "url": "https://www.cls.cn/detail/2132871",
-          "source": "财联社热门",
+          "title": "特朗普“重建加沙”计划细节：发数字货币换取巴勒斯坦人放弃土地",
+          "url": "https://news.ifeng.com/c/8mJSpzLABPg",
+          "source": "凤凰网",
           "ranks": [
-            13
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周二下午2:00（北京时间凌晨2点）在白宫发表讲话。",
+          "url": "https://flash.jin10.com/detail/20250902093818729800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "关税政策受挫后特朗普押注最高法院，能行吗？",
+          "url": "https://news.ifeng.com/c/8mJTomdinYn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普：以色列必须结束加沙战争，它正伤害以色列",
+          "url": "https://wallstreetcn.com/livenews/2967185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普派兵进驻 华盛顿市民怒了",
+          "url": "https://www.toutiao.com/trending/7545273203417943594/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普口头示好，美海关无端盘查，美国频繁“变脸”令中国留学生不安",
+          "url": "https://wallstreetcn.com/livenews/2967181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "原油短线波动不大，特朗普谈印度削减关税提议：“为时已晚”",
@@ -336,6 +404,18 @@
           "time_info": "[01时21分 ~ 02时35分]"
         },
         {
+          "title": "今日金价再度大涨 分析称后市仍有上行空间 高金价下金饰企业喜忧参半",
+          "url": "https://www.cls.cn/detail/2132883",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时56分]"
+        },
+        {
           "title": "专家：金价上涨或具持续性",
           "url": "https://www.douyin.com/hot/2222851",
           "source": "抖音",
@@ -345,17 +425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 02时35分]"
-        },
-        {
-          "title": "今日金价再度大涨 分析称后市仍有上行空间 高金价下金饰企业喜忧参半",
-          "url": "https://www.cls.cn/detail/2132883",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
         }
       ]
     },
@@ -420,11 +489,12 @@
           "url": "https://wallstreetcn.com/articles/3754667",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时56分]"
         },
         {
           "title": "提醒：美股因节假日休市一日。",
@@ -496,11 +566,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时56分]"
         }
       ]
     },
@@ -515,7 +586,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
