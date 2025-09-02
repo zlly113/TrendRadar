@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-02T20:54:07.860476+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-09-02T21:35:30.766854+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "就在今天！币圈盛事：特朗普家族“核心代币”开始交易",
@@ -15,11 +15,12 @@
             2,
             1,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 20时54分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 21时35分]"
         },
         {
           "title": "“核心代币”首秀飙升后回落，币圈“上贡”特朗普家族50亿美元资产",
@@ -58,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时11分 ~ 20时54分]"
+          "appearance_count": 14,
+          "time_info": "[11时11分 ~ 21时35分]"
         },
         {
           "title": "特朗普“重建加沙”计划细节：发数字代币换取巴勒斯坦人放弃土地",
@@ -72,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 20时54分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 21时35分]"
         },
         {
           "title": "特朗普“重建加沙”计划细节：发数字货币换取巴勒斯坦人放弃土地",
@@ -136,26 +137,26 @@
           "time_info": "00时30分"
         },
         {
-          "title": "美国总统特朗普：芝加哥是世界谋杀之都！",
-          "url": "https://flash.jin10.com/detail/20250902204912527800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普将于周二就美国国防部相关事宜发表声明。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/2967571",
+          "title": "法官裁定特朗普在洛杉矶部署军队违反联邦法律。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2967589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时35分"
+        },
+        {
+          "title": "法院文件显示，美国法官阻止特朗普政府在加州部署国民警卫队打击犯罪，并将禁令暂缓至9月12日生效。",
+          "url": "https://flash.jin10.com/detail/20250902211002263800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "特朗普对美联储下狠手，黄金涨破3500再创新高，白银涨至十四年高位",
@@ -263,6 +264,30 @@
           "time_info": "[01时21分 ~ 03时20分]"
         },
         {
+          "title": "美国总统特朗普：芝加哥是世界谋杀之都！",
+          "url": "https://flash.jin10.com/detail/20250902204912527800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普将于周二就美国国防部相关事宜发表声明。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/2967571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
           "title": "美国财长力挺特朗普解雇权：若指控属实 库克应辞职",
           "url": "https://flash.jin10.com/detail/20250902032144596800",
           "source": "金十数据",
@@ -274,6 +299,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "“面对特朗普关税冲击，许多在华美企选择留在中国”",
+          "url": "https://news.ifeng.com/c/8mK7Ybx7RBK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时35分]"
+        },
+        {
+          "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
+          "url": "https://wallstreetcn.com/articles/3754751",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "贝森特称特朗普或在今秋宣布美国住房紧急状态",
@@ -327,17 +375,6 @@
           "time_info": "[05时21分 ~ 11时11分]"
         },
         {
-          "title": "“面对特朗普关税冲击，许多在华美企选择留在中国”",
-          "url": "https://news.ifeng.com/c/8mK7Ybx7RBK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时54分]"
-        },
-        {
           "title": "沙利文为何批特朗普搅黄美国外交",
           "url": "https://www.toutiao.com/trending/7545105835165224490/",
           "source": "今日头条",
@@ -348,17 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 07时24分]"
-        },
-        {
-          "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
-          "url": "https://wallstreetcn.com/articles/3754751",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普可能将于今年秋季宣布进入全国住房紧急状态，以应对房价上涨和供应减少的问题。",
@@ -468,6 +494,17 @@
           "time_info": "[15时24分 ~ 15时25分]"
         },
         {
+          "title": "法院文件显示，法官裁定特朗普在洛杉矶部署军队违反了联邦法律。",
+          "url": "https://flash.jin10.com/detail/20250902210713806800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "标普股指期货和纳指期货涨幅收窄至不足0.1%。 据媒体报道，特朗普政府准备对巴西采取新措施。",
           "url": "https://wallstreetcn.com/livenews/2967128",
           "source": "华尔街见闻-快讯",
@@ -529,7 +566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -559,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股休市、期货微涨，欧股反弹，期金盘中新高，白银创2011年来新高",
@@ -571,8 +608,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 20时54分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 21时35分]"
         },
         {
           "title": "欧股集体高开，现货黄金连续五日上涨，白银飙升至13年新高，美股因劳工节假期休市",
@@ -590,33 +627,23 @@
           "url": "https://wallstreetcn.com/articles/3754758",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-09-02）",
-          "url": "https://flash.jin10.com/detail/20250902204622091800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "美国联邦住房金融局局长：美国政府考虑出售房利美和房地美股份的约5%",
-          "url": "https://wallstreetcn.com/livenews/2967569",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2967587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时35分"
         },
         {
           "title": "蔚来汽车(NIO.N)美股盘前涨超5%。",
@@ -631,6 +658,18 @@
           "time_info": "[18时27分 ~ 19时20分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-09-02）",
+          "url": "https://flash.jin10.com/detail/20250902204622091800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
           "title": "蔚来汽车美股盘前转涨，现涨超3%。此前一度跌超17%。",
           "url": "https://wallstreetcn.com/livenews/2967491",
           "source": "华尔街见闻-快讯",
@@ -641,6 +680,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时20分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长：美国政府考虑出售房利美和房地美股份的约5%",
+          "url": "https://wallstreetcn.com/livenews/2967569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "蔚来汽车(NIO.N)美股盘前转涨，现涨超2%。",
@@ -679,6 +730,28 @@
           "time_info": "[18时27分 ~ 19时20分]"
         },
         {
+          "title": "台积电美股盘前跳水，一度跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2967580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "关税裁决添变数 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2133920",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "蔚来汽车(NIO.N)美股盘前跌幅收窄至3%，财报公布后一度下跌17%。",
           "url": "https://flash.jin10.com/detail/20250902174502332800",
           "source": "金十数据",
@@ -696,7 +769,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -757,6 +830,20 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
+          "url": "https://www.zhihu.com/question/1946149966176322543",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时35分]"
+        },
+        {
           "title": "今日金价再度大涨 分析称后市仍有上行空间 高金价下金饰企业喜忧参半",
           "url": "https://www.cls.cn/detail/2132883",
           "source": "财联社热门",
@@ -783,19 +870,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时24分]"
-        },
-        {
-          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
-          "url": "https://www.zhihu.com/question/1946149966176322543",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时54分]"
         },
         {
           "title": "金价延续涨势，分析师提醒警惕高位获利了结风险",
@@ -884,6 +958,18 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "Gemini启动首次美股上市IPO，股票代码为「GEMI」",
+          "url": "https://wallstreetcn.com/livenews/2967555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
           "title": "Google 为何要把 nano-banana 改名为 Gemini 2.5 Flash ？",
           "url": "https://www.zhihu.com/question/1944787360874193991",
           "source": "知乎",
@@ -893,17 +979,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
-        },
-        {
-          "title": "Gemini启动首次美股上市IPO，股票代码为「GEMI」",
-          "url": "https://wallstreetcn.com/livenews/2967555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         }
       ]
     },
@@ -911,6 +986,18 @@
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗总统佩泽希齐扬抵京",
+          "url": "https://www.douyin.com/hot/2223369",
+          "source": "抖音",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时35分]"
+        },
         {
           "title": "习近平会见伊朗总统佩泽希齐扬",
           "url": "https://wallstreetcn.com/livenews/2967469",
@@ -947,17 +1034,6 @@
           "time_info": "[13时27分 ~ 14时38分]"
         },
         {
-          "title": "伊朗总统佩泽希齐扬抵京",
-          "url": "https://www.douyin.com/hot/2223369",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "伊朗的“反以大业”为何崩盘",
           "url": "https://www.toutiao.com/trending/7545043249635790362/",
           "source": "今日头条",
@@ -967,6 +1043,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纽约时报：一名自杀少年父母，决定起诉ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/2967132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "据The Information：OpenAI和xAI对Cursor的代码数据表现出兴趣。",
+          "url": "https://flash.jin10.com/detail/20250902210151520800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "OpenAI将为ChatGPT推出心理健康防护措施。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2967538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -1018,34 +1133,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纽约时报：一名自杀少年父母，决定起诉ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/2967132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "OpenAI将为ChatGPT推出心理健康防护措施。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/2967538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1054,11 +1141,12 @@
           "url": "https://wallstreetcn.com/livenews/2967570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "澳大利亚第二大养老基金减持美债",
