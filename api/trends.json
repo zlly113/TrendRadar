@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-03T13:23:38.882811+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-09-03T14:35:38.788767+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 14时35分]"
         },
         {
           "title": "释新闻｜关税政策受挫后特朗普押注最高法院，能行？",
@@ -99,6 +99,20 @@
           "time_info": "[00时38分 ~ 05时22分]"
         },
         {
+          "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
+          "url": "https://wallstreetcn.com/articles/3754804",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 14时35分]"
+        },
+        {
           "title": "美国总统特朗普：美国军方对一艘从委内瑞拉运载毒品的船只发动袭击，袭击造成11人死亡。",
           "url": "https://flash.jin10.com/detail/20250903052456652800",
           "source": "金十数据",
@@ -108,19 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
-          "url": "https://wallstreetcn.com/articles/3754804",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 13时23分]"
         },
         {
           "title": "特朗普：将就全球关税案裁决向最高法院提起上诉",
@@ -457,7 +458,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -482,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "白宫公开露面，特朗普回答“健康问题”：休息两天，他们就怀疑“出了什么问题”",
+          "url": "https://wallstreetcn.com/articles/3754814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "市场消息：美国上诉法院推翻禁令，允许特朗普政府切断数十亿美元拜登时代的气候拨款。",
@@ -548,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普谈谣言：我都不知道我死了呢",
+          "url": "https://www.toutiao.com/trending/7544948687307620393/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "美国总统特朗普：我们将派国民警卫队前往芝加哥。",
@@ -633,7 +656,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -641,7 +664,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：中概股金龙指数逆市收涨 谷歌、苹果盘后走强",
@@ -653,8 +676,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时23分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时23分 ~ 14时35分]"
         },
         {
           "title": "谷歌称，正在审视有关谷歌搜索的法院判决。正在 “密切” 审视法官的反垄断判决，对反垄断裁决存在隐私方面的担忧。该判决凸显出人工智能领域已发生多大变化。",
@@ -786,6 +809,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "谷歌重大胜利！法院裁决不必出售Chrome浏览器，但将被禁止签独家合约",
+          "url": "https://wallstreetcn.com/articles/3754806",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "美国司法部反垄断官员：在谷歌(GOOG.O)搜索垄断案裁决之后，司法部将考虑并权衡下一步行动，以寻求进一步的措施。",
@@ -985,19 +1019,8 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
-          "url": "https://www.zhihu.com/question/1946149966176322543",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
         {
           "title": "站上3600美元！金价创历史新高之际 央行黄金持有量30年来首超美债",
           "url": "https://www.cls.cn/detail/2134143",
@@ -1008,8 +1031,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 14时35分]"
+        },
+        {
+          "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
+          "url": "https://www.zhihu.com/question/1946149966176322543",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "恐慌指数涨幅扩大至20%，金价继续走高，避险货币与美债保持下跌",
@@ -1059,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "分析师：金价在未来几个月有望触及3600-3900美元的区间",
+          "url": "https://flash.jin10.com/detail/20250903134039391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "金价续创历史新高 避险需求与降息预期助推涨势",
@@ -1147,11 +1192,12 @@
           "url": "https://wallstreetcn.com/articles/3754817",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时35分]"
         },
         {
           "title": "7-30年期美债收益率涨超3个基点，全球债券被抛售",
