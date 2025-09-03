@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-03T07:21:19.033165+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-09-03T09:48:41.875111+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "达利欧：特朗普正带领美国滑向1930年代，整个华尔街却因恐惧陷入沉默",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 09时48分]"
         },
         {
           "title": "特朗普对美联储下狠手，黄金涨破3500再创新高，白银涨至十四年高位",
@@ -27,11 +27,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 09时48分]"
         },
         {
           "title": "“面对特朗普关税冲击，许多在华美企选择留在中国”",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 09时48分]"
         },
         {
           "title": "释新闻｜关税政策受挫后特朗普押注最高法院，能行？",
@@ -447,6 +448,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
+          "url": "https://wallstreetcn.com/articles/3754804",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "市场消息：美国上诉法院推翻禁令，允许特朗普政府切断数十亿美元拜登时代的气候拨款。",
           "url": "https://flash.jin10.com/detail/20250902234724570800",
           "source": "金十数据",
@@ -541,7 +553,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -602,9 +614,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美股收盘：中概股金龙指数逆市收涨 谷歌、苹果盘后走强",
+          "url": "https://www.cls.cn/detail/2134087",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时48分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后涨幅扩大至7%，美国法官在在线搜索垄断案中作出对谷歌有利的裁决。",
@@ -617,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：中概股金龙指数逆市收涨 谷歌、苹果盘后走强",
-          "url": "https://www.cls.cn/detail/2134087",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
         },
         {
           "title": "谷歌在线搜索垄断案裁定出炉 无需剥离Chrome和安卓系统",
@@ -745,7 +757,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -756,7 +768,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -772,11 +784,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 09时48分]"
         },
         {
           "title": "债市抛售引发连锁反应，美股科技股领跌，黄金创历史新高",
@@ -785,7 +798,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -934,7 +947,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
@@ -983,6 +996,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "站上3600美元！金价创历史新高之际 央行黄金持有量30年来首超美债",
+          "url": "https://www.cls.cn/detail/2134143",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "金价续创历史新高 避险需求与降息预期助推涨势",
