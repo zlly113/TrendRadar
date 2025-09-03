@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-03T10:59:27.750699+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-09-03T11:34:55.100907+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 11时34分]"
         },
         {
           "title": "特朗普对美联储下狠手，黄金涨破3500再创新高，白银涨至十四年高位",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 11时34分]"
         },
         {
           "title": "释新闻｜关税政策受挫后特朗普押注最高法院，能行？",
@@ -108,17 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "法院文件显示，美国上诉法院称，特朗普“非法”援引《外国敌人法》驱逐委内瑞拉人。",
-          "url": "https://flash.jin10.com/detail/20250903103801902800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "特朗普：将就全球关税案裁决向最高法院提起上诉",
@@ -271,6 +260,18 @@
           "time_info": "[03时19分 ~ 04时29分]"
         },
         {
+          "title": "法院文件显示，美国上诉法院称，特朗普“非法”援引《外国敌人法》驱逐委内瑞拉人。",
+          "url": "https://flash.jin10.com/detail/20250903103801902800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时34分]"
+        },
+        {
           "title": "美国总统特朗普：这将为阿拉巴马州带来超过3万个就业岗位，可能远不止这些，还会吸引数亿美元的投资。",
           "url": "https://flash.jin10.com/detail/20250903025011928800",
           "source": "金十数据",
@@ -331,6 +332,18 @@
           "time_info": "[03时18分 ~ 04时29分]"
         },
         {
+          "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
+          "url": "https://wallstreetcn.com/articles/3754804",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时34分]"
+        },
+        {
           "title": "美国总统特朗普：我正在考虑解决住房紧急情况，需要美联储提供一些帮助。",
           "url": "https://flash.jin10.com/detail/20250903033339331800",
           "source": "金十数据",
@@ -365,18 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
-          "url": "https://wallstreetcn.com/articles/3754804",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 10时59分]"
         },
         {
           "title": "特朗普：若关税裁决不利 将不得不退还数万亿美元",
@@ -628,8 +629,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 10时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 11时34分]"
         },
         {
           "title": "谷歌称，正在审视有关谷歌搜索的法院判决。正在 “密切” 审视法官的反垄断判决，对反垄断裁决存在隐私方面的担忧。该判决凸显出人工智能领域已发生多大变化。",
@@ -797,11 +798,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 11时34分]"
         },
         {
           "title": "债市抛售引发连锁反应，美股科技股领跌，黄金创历史新高",
@@ -1003,11 +1005,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时34分]"
+        },
+        {
+          "title": "金十图示：2025年09月03日（周三）上海金早盘价为812.42元/克，较国际金价(812.15元/克)，高0.27元/克",
+          "url": "https://flash.jin10.com/detail/20250903103447031800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 11时34分]"
         },
         {
           "title": "金价创历史新高之际，金银矿业股普遍收涨",
@@ -1020,17 +1035,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "金十图示：2025年09月03日（周三）上海金早盘价为812.42元/克，较国际金价(812.15元/克)，高0.27元/克",
-          "url": "https://flash.jin10.com/detail/20250903103447031800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "金价续创历史新高 避险需求与降息预期助推涨势",
