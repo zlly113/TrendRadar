@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-03T14:35:38.788767+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2025-09-03T15:24:59.227778+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -109,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：美国军方对一艘从委内瑞拉运载毒品的船只发动袭击，袭击造成11人死亡。",
@@ -405,6 +405,17 @@
           "time_info": "[06时23分 ~ 07时21分]"
         },
         {
+          "title": "白宫公开露面，特朗普回答“健康问题”：休息两天，他们就怀疑“出了什么问题”",
+          "url": "https://wallstreetcn.com/articles/3754814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
           "title": "在美上市印度ETF收涨0.71%，报52.35美元，脱离5月8日（收报51.54美元）以来最低收盘位51.98美元。 美国总统特朗普称，他并没有考虑降低印度商品关税。",
           "url": "https://wallstreetcn.com/livenews/2967719",
           "source": "华尔街见闻-快讯",
@@ -427,6 +438,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普谈谣言：我都不知道我死了呢",
+          "url": "https://www.toutiao.com/trending/7544948687307620393/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后在白宫发表讲话。",
@@ -483,17 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "白宫公开露面，特朗普回答“健康问题”：休息两天，他们就怀疑“出了什么问题”",
-          "url": "https://wallstreetcn.com/articles/3754814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "市场消息：美国上诉法院推翻禁令，允许特朗普政府切断数十亿美元拜登时代的气候拨款。",
@@ -560,17 +571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普谈谣言：我都不知道我死了呢",
-          "url": "https://www.toutiao.com/trending/7544948687307620393/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "美国总统特朗普：我们将派国民警卫队前往芝加哥。",
@@ -676,8 +676,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 15时24分]"
         },
         {
           "title": "谷歌称，正在审视有关谷歌搜索的法院判决。正在 “密切” 审视法官的反垄断判决，对反垄断裁决存在隐私方面的担忧。该判决凸显出人工智能领域已发生多大变化。",
@@ -725,6 +725,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "谷歌重大胜利！法院裁决不必出售Chrome浏览器，但将被禁止签独家合约",
+          "url": "https://wallstreetcn.com/articles/3754806",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
         },
         {
           "title": "美国法官在在线搜索垄断案中裁定，谷歌(GOOG.O)无需剥离安卓操作系统。",
@@ -809,17 +820,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "谷歌重大胜利！法院裁决不必出售Chrome浏览器，但将被禁止签独家合约",
-          "url": "https://wallstreetcn.com/articles/3754806",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "美国司法部反垄断官员：在谷歌(GOOG.O)搜索垄断案裁决之后，司法部将考虑并权衡下一步行动，以寻求进一步的措施。",
@@ -1028,11 +1028,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时24分]"
         },
         {
           "title": "现货黄金价格突破 3500 美元 / 盎司，年内金价累计涨幅超 33%，怎样看此轮上涨？上涨空间还有多大？",
@@ -1101,7 +1102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1177,6 +1178,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "全球国债抛售潮！30年美债收益率重回5%，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3754817",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时24分]"
+        },
+        {
           "title": "10年期美债收益率涨超3个基点",
           "url": "https://wallstreetcn.com/livenews/2967716",
           "source": "华尔街见闻-快讯",
@@ -1186,18 +1200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "全球国债抛售潮！30年美债收益率重回5%，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3754817",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时35分]"
         },
         {
           "title": "7-30年期美债收益率涨超3个基点，全球债券被抛售",
