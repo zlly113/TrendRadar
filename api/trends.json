@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-04T12:29:12.484089+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2025-09-04T13:24:13.119864+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 81,
       "titles": [
         {
           "title": "九三阅兵后，特朗普发文表态",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
         },
         {
           "title": "普京透露与特朗普“车内密谈”细节：我用蹩脚的英语交流",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
         },
         {
           "title": "特朗普谈中国九三阅兵",
@@ -65,11 +65,12 @@
             25,
             28,
             29,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时24分]"
         },
         {
           "title": "九三阅兵隆重举行 特朗普表态",
@@ -104,8 +105,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时24分]"
         },
         {
           "title": "特朗普看完九三阅兵忧心忡忡",
@@ -115,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "特朗普感叹北京阅兵式：这是一个美丽的庆祝，让人印象深刻",
@@ -126,8 +127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "“里程碑式胜利”，美国法官阻止特朗普政府切断哈佛22亿美元资金",
@@ -138,8 +139,95 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普政府冻结哈佛大学超20亿资金被裁定非法 | 环球市场",
+          "url": "https://www.cls.cn/detail/2135114",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
+        },
+        {
+          "title": "美国煤炭巨头皮博迪豪言：特朗普时代下煤炭需求将飙升五成",
+          "url": "https://www.cls.cn/detail/2135070",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普承认观看中国阅兵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D11%26stream_entry_id%3D31%26pos%3D11%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%25BF%25E8%25AE%25A4%25E8%25A7%2582%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E9%2598%2585%25E5%2585%25B5%2523%26realpos%3D11%26display_time%3D1756954704%26pre_seqid%3D17569547048590409731396",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普称九三阅兵令人印象深刻",
+          "url": "https://www.toutiao.com/trending/7545421925133615140/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普称看了九三阅兵：很精彩很震撼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%EF%BC%9A%E5%BE%88%E7%B2%BE%E5%BD%A9%E5%BE%88%E9%9C%87%E6%92%BC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普下令重振美国军队",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%87%8D%E6%8C%AF%E7%BE%8E%E5%9B%BD%E5%86%9B%E9%98%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D23%26stream_entry_id%3D31%26pos%3D23%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258B%25E4%25BB%25A4%25E9%2587%258D%25E6%258C%25AF%25E7%25BE%258E%25E5%259B%25BD%25E5%2586%259B%25E9%2598%259F%2523%26realpos%3D23%26display_time%3D1756954704%26pre_seqid%3D17569547048590409731396",
+          "source": "微博",
+          "ranks": [
+            23,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 13时24分]"
+        },
+        {
+          "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
+          "url": "https://wallstreetcn.com/articles/3754880",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
+          "time_info": "[11时35分 ~ 13时24分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：美国总统特朗普对美联储独立性的攻击“对民主制度构成危险”。",
@@ -162,31 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "特朗普政府冻结哈佛大学超20亿资金被裁定非法 | 环球市场",
-          "url": "https://www.cls.cn/detail/2135114",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
-        },
-        {
-          "title": "美国煤炭巨头皮博迪豪言：特朗普时代下煤炭需求将飙升五成",
-          "url": "https://www.cls.cn/detail/2135070",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
         },
         {
           "title": "白宫官员：美国总统特朗普在总统办公室的讲话中所指的是与泽连斯基的电话通话，而不是与普京的通话。",
@@ -233,28 +296,6 @@
           "time_info": "10时59分"
         },
         {
-          "title": "特朗普称致力于推动俄罗斯与乌克兰达成和平协议。俄罗斯和乌克兰还没有准备好。",
-          "url": "https://flash.jin10.com/detail/20250904121818517800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "美国总统特朗普：市长和州长应该求我帮忙才对。芝加哥的犯罪已经失控，它可能是世界上最伟大的城市之一（再次！）我一个月就能解决问题。",
-          "url": "https://flash.jin10.com/detail/20250904121645886800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
           "title": "法官裁定特朗普政府削减哈佛经费违宪，命令恢复22亿美元资金",
           "url": "https://wallstreetcn.com/livenews/2968321",
           "source": "华尔街见闻-快讯",
@@ -266,60 +307,12 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普承认观看中国阅兵",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D11%26stream_entry_id%3D31%26pos%3D11%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%25BF%25E8%25AE%25A4%25E8%25A7%2582%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E9%2598%2585%25E5%2585%25B5%2523%26realpos%3D11%26display_time%3D1756954704%26pre_seqid%3D17569547048590409731396",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时29分]"
-        },
-        {
-          "title": "特朗普称九三阅兵令人印象深刻",
-          "url": "https://www.toutiao.com/trending/7545421925133615140/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时29分]"
-        },
-        {
           "title": "牛弹琴：看阅兵后特朗普和普京斗嘴",
           "url": "https://www.toutiao.com/trending/7546020502758755866/",
           "source": "今日头条",
           "ranks": [
             19,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时29分]"
-        },
-        {
-          "title": "特朗普称看了九三阅兵：很精彩很震撼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%EF%BC%9A%E5%BE%88%E7%B2%BE%E5%BD%A9%E5%BE%88%E9%9C%87%E6%92%BC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时29分]"
-        },
-        {
-          "title": "特朗普下令重振美国军队",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%87%8D%E6%8C%AF%E7%BE%8E%E5%9B%BD%E5%86%9B%E9%98%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D23%26stream_entry_id%3D31%26pos%3D23%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258B%25E4%25BB%25A4%25E9%2587%258D%25E6%258C%25AF%25E7%25BE%258E%25E5%259B%25BD%25E5%2586%259B%25E9%2598%259F%2523%26realpos%3D23%26display_time%3D1756954704%26pre_seqid%3D17569547048590409731396",
-          "source": "微博",
-          "ranks": [
-            23,
-            21,
-            22
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -391,6 +384,19 @@
           "time_info": "[00时32分 ~ 02时34分]"
         },
         {
+          "title": "特朗普政府冻结哈佛大学资金被裁非法 美官员表示将上诉",
+          "url": "https://wallstreetcn.com/livenews/2968464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时24分]"
+        },
+        {
           "title": "特朗普：马斯克有一些问题，但也有常识。",
           "url": "https://flash.jin10.com/detail/20250904053054490800",
           "source": "金十数据",
@@ -403,6 +409,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称致力于推动俄罗斯与乌克兰达成和平协议。俄罗斯和乌克兰还没有准备好。",
+          "url": "https://flash.jin10.com/detail/20250904121818517800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
           "title": "美联储公布经济状况褐皮书：消费开支和持平或下滑，因为对许多家庭而言，薪资没能与价格涨势保持一致。 联络人频繁地提到经济不确定性因素和（美国总统特朗普掀起的）关税因素。 纽约（联储）报告称，消费者遭到保险和公用事业成本上涨、以及其他开支的挤压。",
           "url": "https://wallstreetcn.com/livenews/2968250",
           "source": "华尔街见闻-快讯",
@@ -413,18 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时20分]"
-        },
-        {
-          "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
-          "url": "https://wallstreetcn.com/articles/3754880",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 12时29分]"
         },
         {
           "title": "金十提示：美国总统特朗普结束对记者的讲话。",
@@ -451,16 +457,38 @@
           "time_info": "[03时20分 ~ 04时27分]"
         },
         {
-          "title": "特朗普政府冻结哈佛大学资金被裁非法 美官员表示将上诉",
-          "url": "https://wallstreetcn.com/livenews/2968464",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：市长和州长应该求我帮忙才对。芝加哥的犯罪已经失控，它可能是世界上最伟大的城市之一（再次！）我一个月就能解决问题。",
+          "url": "https://flash.jin10.com/detail/20250904121645886800",
+          "source": "金十数据",
           "ranks": [
             5,
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时29分]"
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普回应健康状况传闻：我就两天没动静，你们曾几个月都见不到拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31532479",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 13时24分]"
+        },
+        {
+          "title": "普京透露与特朗普“车内密谈”细节",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%80%8F%E9%9C%B2%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E8%BD%A6%E5%86%85%E5%AF%86%E8%B0%88%E2%80%9D%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "特朗普：将请求最高法院“快速裁决”全球关税案，若胜诉股市会大涨，否则巨震",
@@ -498,6 +526,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时20分]"
+        },
+        {
+          "title": "被质疑对俄没行动，特朗普反驳：我制裁印度了，这叫没行动？",
+          "url": "https://news.ifeng.com/c/8mMxz3GwuUt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "据AXIOS网站：阿联酋警告特朗普政府，以色列吞并占领的约旦河西岸可能会破坏《亚伯拉罕协议》。",
@@ -632,6 +671,18 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "市场消息：数十亿美元援助即将到期，特朗普对外援助禁令再次停止。",
+          "url": "https://flash.jin10.com/detail/20250904120000383800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
           "title": "美国总统特朗普：关税对美国成功“至关重要”。",
           "url": "https://flash.jin10.com/detail/20250904001118745800",
           "source": "金十数据",
@@ -642,17 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普回应健康状况传闻：我就两天没动静，你们曾几个月都见不到拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31532479",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "美国参议院共和党成员Thom Tillis希望美国法院能先对美联储理事Lisa Cook（被总统特朗普指控的抵押贷款欺诈）官司做出判决，然后再考虑取代Cook的人选。（Political）",
@@ -667,15 +707,15 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
-          "title": "普京透露与特朗普“车内密谈”细节",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E9%80%8F%E9%9C%B2%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E8%BD%A6%E5%86%85%E5%AF%86%E8%B0%88%E2%80%9D%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
+          "title": "特朗普承诺追求俄乌和平：他们“还没有准备好”，但“会发生一些事情”",
+          "url": "https://flash.jin10.com/detail/20250904123931987800",
+          "source": "金十数据",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普：马斯克最终会重新与共和党结盟",
@@ -689,6 +729,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美国总统特朗普表示他对目前的混乱状况感到不满，但将继续推动达成俄乌和平协议。",
+          "url": "https://flash.jin10.com/detail/20250904123404904800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国总统特朗普：很快就会和俄罗斯总统普京通话，然后决定下一步行动。",
           "url": "https://flash.jin10.com/detail/20250904001309871800",
           "source": "金十数据",
@@ -698,17 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "市场消息：数十亿美元援助即将到期，特朗普对外援助禁令再次停止。",
-          "url": "https://flash.jin10.com/detail/20250904120000383800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "市场消息：美国总统特朗普暗示未来关税或将取代所得税，可能将改变税收政策。",
@@ -923,7 +963,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股盘初纳指涨0.9%，谷歌涨约7%，美国30年期国债收益率再破5%，现货黄金触及3560美元",
@@ -945,8 +985,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "疲软就业数据强化降息预期，科技巨头带动纳指反弹，谷歌暴涨9%，美债黄金齐涨",
@@ -956,8 +996,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 13时24分]"
         },
         {
           "title": "美股三大期指涨跌不一 谷歌盘前大涨近7% | 今夜看点",
@@ -987,6 +1027,19 @@
           "time_info": "[00时31分 ~ 05时22分]"
         },
         {
+          "title": "拳打英伟达、脚踢苹果？谷歌被曝加码推销自研芯片 AI助手也有进展",
+          "url": "https://www.cls.cn/detail/2135043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 13时24分]"
+        },
+        {
           "title": "法国数据保护机构对美国搜索巨头谷歌处以创纪录的3.25亿欧元（约合3.8亿美元）罚款，原因是该公司未能遵守相关的互联网cookie规定。 监管机构表示，谷歌因“未经用户同意情况下，在Gmail用户的电子邮件之间显示广告，并在用户创建谷歌账户时未经用户有效同意下放置cookie”而被罚款。",
           "url": "https://wallstreetcn.com/livenews/2968292",
           "source": "华尔街见闻-快讯",
@@ -1010,18 +1063,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "拳打英伟达、脚踢苹果？谷歌被曝加码推销自研芯片 AI助手也有进展",
-          "url": "https://www.cls.cn/detail/2135043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 12时29分]"
         },
         {
           "title": "苹果公司股价收涨3.8%，创最近约一个月最佳单日表现。 在反垄断官司中逃过拆分Chrome业务的谷歌A市值单日增加2300亿美元。",
@@ -1060,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时27分]"
+        },
+        {
+          "title": "AI版Siri虽迟但到？苹果或联手谷歌Gemini 升级iPhone搜索功能",
+          "url": "https://www.cls.cn/detail/2135317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "法国监管机构对谷歌处以创纪录的3.25亿欧元罚款",
@@ -1153,6 +1205,136 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普插手美联储加速金价此轮涨势 黄金多头开启危机押注布局",
+          "url": "https://wallstreetcn.com/livenews/2968507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "因金价走软，澳大利亚黄金股下挫",
+          "url": "https://flash.jin10.com/detail/20250904112321055800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "摩根大通：预计金价年底达3675美元每盎司的水平",
+          "url": "https://flash.jin10.com/detail/20250904111930381800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "金价再创新高，黄金矿企业绩有望继续“闪亮”",
+          "url": "https://wallstreetcn.com/livenews/2968324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "金十图示：2025年09月04日（周四）上海金早盘价为811.21元/克，较国际金价(813.39元/克)，低2.18元/克",
+          "url": "https://flash.jin10.com/detail/20250904102252480800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "分析师：获利回吐让金价迅速从历史高位回落，市场聚焦美国就业数据",
+          "url": "https://flash.jin10.com/detail/20250904111855640800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "高盛：如果美联储信誉受损 金价有可能逼近5000美元",
+          "url": "https://flash.jin10.com/detail/20250904120522174800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "市场消息：高盛表示，如果美联储的信誉受损，投资者将一小部分美国国债换成黄金，金价可能会升至近5,000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20250904120052380800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26lcate%3D5001%26realpos%3D21%26c_type%3D31%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26cate%3D5001%26pos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26display_time%3D1756950531%26pre_seqid%3D17569505318070235573851",
+          "source": "微博",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时59分]"
+        },
+        {
+          "title": "高盛称美联储公信力若受损 金价有可能升至近5,000美元",
+          "url": "https://wallstreetcn.com/livenews/2968491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "桥水中国：尽管金价明显上涨 仍认为其有配置价值",
+          "url": "https://wallstreetcn.com/livenews/2968371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
@@ -1196,11 +1378,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时24分]"
         },
         {
           "title": "苹果计划明年为Siri推出由AI支持的网页搜索工具，对标OpenAI。",
@@ -1258,112 +1441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "因金价走软，澳大利亚黄金股下挫",
-          "url": "https://flash.jin10.com/detail/20250904112321055800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "摩根大通：预计金价年底达3675美元每盎司的水平",
-          "url": "https://flash.jin10.com/detail/20250904111930381800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "金价再创新高，黄金矿企业绩有望继续“闪亮”",
-          "url": "https://wallstreetcn.com/livenews/2968324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "金十图示：2025年09月04日（周四）上海金早盘价为811.21元/克，较国际金价(813.39元/克)，低2.18元/克",
-          "url": "https://flash.jin10.com/detail/20250904102252480800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "分析师：获利回吐让金价迅速从历史高位回落，市场聚焦美国就业数据",
-          "url": "https://flash.jin10.com/detail/20250904111855640800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26lcate%3D5001%26realpos%3D21%26c_type%3D31%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26cate%3D5001%26pos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26display_time%3D1756950531%26pre_seqid%3D17569505318070235573851",
-          "source": "微博",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 10时59分]"
-        },
-        {
-          "title": "高盛：如果美联储信誉受损 金价有可能逼近5000美元",
-          "url": "https://flash.jin10.com/detail/20250904120522174800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "市场消息：高盛表示，如果美联储的信誉受损，投资者将一小部分美国国债换成黄金，金价可能会升至近5,000美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20250904120052380800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "桥水中国：尽管金价明显上涨 仍认为其有配置价值",
-          "url": "https://wallstreetcn.com/livenews/2968371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         }
       ]
     },
@@ -1482,8 +1559,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时24分]"
         },
         {
           "title": "长端美债ETF收涨1.1%，和纳指ETF、黄金ETF领跑美股大类资产类ETF，布油基金则跌超2.3%",
