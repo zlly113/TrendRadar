@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-05T00:31:58.459856+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-05T01:22:38.895492+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普指责中俄朝密谋对抗美国，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普发视频：袭击“委内瑞拉来的运毒船”，委官员：AI生成的",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "普京透露与特朗普会晤时的小花絮",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
@@ -48,19 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美联储理事提名人Miran（被问及美国总统能否因为利率意见而罢免理事）：不曾建议将美联储控制权交给特朗普。 曾经在支票和资产负债表方面提出建议。",
-          "url": "https://wallstreetcn.com/livenews/2968847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普看完九三阅兵忧心忡忡",
@@ -70,19 +59,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美联储理事提名人Miran（被问及美国总统能否因为利率意见而罢免理事）：不曾建议将美联储控制权交给特朗普。 曾经在支票和资产负债表方面提出建议。",
+          "url": "https://wallstreetcn.com/livenews/2968847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "中方驳斥特朗普涉中俄朝三国言论",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E6%9C%9D%E4%B8%89%E5%9B%BD%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普诬称中俄朝“密谋对抗美国”，外交部驳斥",
@@ -92,30 +94,55 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普承认观看中国阅兵",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26band_rank%3D13%26realpos%3D13%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26pos%3D13%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%25BF%25E8%25AE%25A4%25E8%25A7%2582%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E9%2598%2585%25E5%2585%25B5%2523%26dgr%3D0%26cate%3D5001%26display_time%3D1757001778%26pre_seqid%3D175700177870204154076153",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普称中俄朝密谋对抗美国",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E4%BF%84%E6%9C%9D%E5%AF%86%E8%B0%8B%E5%AF%B9%E6%8A%97%E7%BE%8E%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26band_rank%3D14%26realpos%3D14%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26pos%3D14%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%25AD%25E4%25BF%2584%25E6%259C%259D%25E5%25AF%2586%25E8%25B0%258B%25E5%25AF%25B9%25E6%258A%2597%25E7%25BE%258E%25E5%259B%25BD%2523%26dgr%3D0%26cate%3D5001%26display_time%3D1757001778%26pre_seqid%3D175700177870204154076153",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普 我确实看了九三阅兵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%88%91%E7%A1%AE%E5%AE%9E%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美联储威廉姆斯：央行独立性是至关重要的。 美联储满是专心致志的人，我们都没有（总统特朗普所谓的政治）偏向性。",
+          "url": "https://wallstreetcn.com/livenews/2968861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         },
         {
           "title": "美联储理事提名人Miran：并没有证据表明（美国总统特朗普挑起的）关税已经对价格造成通胀效应。 美国商品通胀并没有偏离全球模式。 边境政策的变化“实际上相当‘反通胀’”。 我的通胀观不仅仅受到货币政策的影响。 20世纪70年代的通胀是由美联储的错误和供应冲击造成的。 在20世纪70年代，美联储合并了名义利率与实际利率。",
@@ -140,15 +167,26 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普 我确实看了九三阅兵",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%88%91%E7%A1%AE%E5%AE%9E%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
-          "source": "bilibili 热搜",
+          "title": "美联储理事提名人Miran：如果在美联储的任期超过4.5个月，我将因为这样的提名而辞去（在总统特朗普白宫的）职务。",
+          "url": "https://wallstreetcn.com/livenews/2968853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：感谢特朗普总统对我们人民的支持。我们同意进一步接触。",
+          "url": "https://flash.jin10.com/detail/20250905003728648800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普提名的美联储理事Miran：没有人要求我承诺会投票支持降息",
@@ -173,6 +211,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "乌克兰总统泽连斯基：与美国总统特朗普进行了长时间的详细交谈。我们在今天巴黎自愿联盟会议后进行了通话。欧洲领导人也参加了电话会议。",
+          "url": "https://flash.jin10.com/detail/20250905003634997800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
           "title": "美联储理事提名人Miran：如果（临时担任联储理事的）提名资格得到确认，将在担任联储理事期间退出美国总统特朗普的白宫经济顾问委员会（CEA）。 如果被提名为任期更长的联储理事，将从CEA辞职。",
           "url": "https://wallstreetcn.com/livenews/2968822",
           "source": "华尔街见闻-快讯",
@@ -187,7 +236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年09月04日（周四）热门中概股行情一览（美股盘中）",
@@ -205,11 +254,23 @@
           "url": "https://www.cls.cn/detail/2136027",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "先锋领航首席经济学家兼投资策略主管Joe Davis：随着人工智能（AI）的转移，美国股市将在好几年的时间里输给北方邻国加拿大。 加拿大股市正在2025年跑赢美股，这才刚刚开始而已，预计将在未来5-7年持续。",
+          "url": "https://wallstreetcn.com/livenews/2968854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -225,8 +286,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -242,8 +303,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     }
