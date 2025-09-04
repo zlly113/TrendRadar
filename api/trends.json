@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-04T21:34:25.249208+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-09-04T22:25:52.167297+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 104,
+      "match_count": 106,
       "titles": [
         {
           "title": "九三阅兵后，特朗普发文表态",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普指责中俄朝密谋对抗美国，中方回应",
+          "url": "https://news.ifeng.com/c/8mNKXh423Hm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 22时25分]"
         },
         {
           "title": "看了中国阅兵，普京和特朗普还斗上嘴了",
@@ -31,6 +42,18 @@
           "time_info": "[09时49分 ~ 15时25分]"
         },
         {
+          "title": "特朗普称应突出美在结束太平洋战争中所起的作用，外交部回应",
+          "url": "https://news.ifeng.com/c/8mNLdK615wy",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 22时25分]"
+        },
+        {
           "title": "白宫公开露面，特朗普回答“健康问题”：休息两天，他们就怀疑“出了什么问题”",
           "url": "https://wallstreetcn.com/articles/3754814",
           "source": "华尔街见闻",
@@ -40,29 +63,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普指责中俄朝密谋对抗美国，中方回应",
-          "url": "https://news.ifeng.com/c/8mNKXh423Hm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 21时34分]"
-        },
-        {
-          "title": "特朗普称应突出美在结束太平洋战争中所起的作用，外交部回应",
-          "url": "https://news.ifeng.com/c/8mNLdK615wy",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 21时34分]"
         },
         {
           "title": "普京透露与特朗普“车内密谈”细节：我用蹩脚的英语交流",
@@ -78,19 +78,6 @@
           "time_info": "[09时49分 ~ 15时25分]"
         },
         {
-          "title": "特朗普看完九三阅兵忧心忡忡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8B%E5%AE%8C%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时28分 ~ 21时34分]"
-        },
-        {
           "title": "特朗普又赞又妒，西媒惊呼“拐点”来了",
           "url": "https://news.ifeng.com/c/8mNLdK6161Y",
           "source": "凤凰网",
@@ -102,6 +89,20 @@
           "time_info": "[16时51分 ~ 19时21分]"
         },
         {
+          "title": "特朗普看完九三阅兵忧心忡忡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8B%E5%AE%8C%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时28分 ~ 22时25分]"
+        },
+        {
           "title": "中方驳斥特朗普称中俄朝密谋对抗美",
           "url": "https://www.toutiao.com/trending/7546137349814505010/",
           "source": "今日头条",
@@ -111,11 +112,12 @@
             4,
             17,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 22时25分]"
         },
         {
           "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
@@ -128,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时35分 ~ 21时34分]"
+          "appearance_count": 19,
+          "time_info": "[11时35分 ~ 22时25分]"
         },
         {
           "title": "特朗普谈中国九三阅兵",
@@ -163,8 +165,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时59分 ~ 21时34分]"
+          "appearance_count": 20,
+          "time_info": "[10时59分 ~ 22时25分]"
         },
         {
           "title": "特朗普称九三阅兵令人印象深刻",
@@ -223,6 +225,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时59分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普 我确实看了九三阅兵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%88%91%E7%A1%AE%E5%AE%9E%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14,
+            25,
+            26,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 22时25分]"
         },
         {
           "title": "特朗普下令重振美国军队",
@@ -301,22 +319,6 @@
           "time_info": "[09时49分 ~ 14时51分]"
         },
         {
-          "title": "特朗普 我确实看了九三阅兵",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E6%88%91%E7%A1%AE%E5%AE%9E%E7%9C%8B%E4%BA%86%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            14,
-            25,
-            26,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 21时34分]"
-        },
-        {
           "title": "特朗普感叹北京阅兵式：这是一个美丽的庆祝，让人印象深刻",
           "url": "https://v.ifeng.com/c/8mLQ9ucmXqN",
           "source": "凤凰网",
@@ -372,8 +374,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时25分]"
+        },
+        {
+          "title": "中方驳斥特朗普涉中俄朝三国言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E6%9C%9D%E4%B8%89%E5%9B%BD%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            21,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时25分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：美国总统特朗普对美联储独立性的攻击“对民主制度构成危险”。",
@@ -489,6 +504,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "法国总统府：美国总统特朗普、乌克兰总统泽连斯基和欧洲领导人电话会议已经结束。",
+          "url": "https://flash.jin10.com/detail/20250904215825291800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "法官裁定特朗普政府削减哈佛经费违宪，命令恢复22亿美元资金",
           "url": "https://wallstreetcn.com/livenews/2968321",
           "source": "华尔街见闻-快讯",
@@ -498,19 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "中方驳斥特朗普涉中俄朝三国言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E6%9C%9D%E4%B8%89%E5%9B%BD%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            21,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时34分]"
         },
         {
           "title": "牛弹琴：看阅兵后特朗普和普京斗嘴",
@@ -915,6 +928,18 @@
           "time_info": "[00时32分 ~ 01时20分]"
         },
         {
+          "title": "美国7月贸易逆差扩大至四个月新高 企业在特朗普新关税前集中进口",
+          "url": "https://wallstreetcn.com/livenews/2968757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时25分]"
+        },
+        {
           "title": "美国参议院共和党成员Thom Tillis希望美国法院能先对美联储理事Lisa Cook（被总统特朗普指控的抵押贷款欺诈）官司做出判决，然后再考虑取代Cook的人选。（Political）",
           "url": "https://wallstreetcn.com/livenews/2968259",
           "source": "华尔街见闻-快讯",
@@ -961,6 +986,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "北欧可再生能源公司沃旭能源Orsted提起诉讼，希望通过司法途径阻止美国总特朗普的政府绞杀（该公司在美国市场的）海上风电场。",
+          "url": "https://wallstreetcn.com/livenews/2968789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普表示他对目前的混乱状况感到不满，但将继续推动达成俄乌和平协议。",
           "url": "https://flash.jin10.com/detail/20250904123404904800",
           "source": "金十数据",
@@ -978,7 +1014,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1025,17 +1061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        },
-        {
-          "title": "美国7月贸易逆差扩大至四个月新高 企业在特朗普新关税前集中进口",
-          "url": "https://wallstreetcn.com/livenews/2968757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "市场消息：美国总统特朗普暗示未来关税或将取代所得税，可能将改变税收政策。",
@@ -1231,7 +1256,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1271,8 +1296,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时49分 ~ 21时34分]"
+          "appearance_count": 21,
+          "time_info": "[09时49分 ~ 22时25分]"
         },
         {
           "title": "美股盘初纳指涨0.9%，谷歌涨约7%，美国30年期国债收益率再破5%，现货黄金触及3560美元",
@@ -1519,19 +1544,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美股盘初：Credo涨约8%，Salesforce跌约7%，三倍做多富时中国ETF-Direxion跌约4%",
-          "url": "https://wallstreetcn.com/livenews/2968782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
         {
           "title": "美股涨跌各异，特朗普称关税可能会在某天取代所得税",
           "url": "https://wallstreetcn.com/livenews/2968224",
@@ -1557,6 +1571,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "美股盘初：Credo涨约8%，Salesforce跌约7%，三倍做多富时中国ETF-Direxion跌约4%",
+          "url": "https://wallstreetcn.com/livenews/2968782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时25分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2968762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时25分]"
         },
         {
           "title": "美股盘前：Credo涨约13%，Salesforce跌约6%，三倍做多富时中国ETF-Direxion跌约4%",
@@ -1594,15 +1632,15 @@
           "time_info": "19时21分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2968762",
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨超1%，公用事业ETF涨0.6%，医疗业ETF跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2968787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "22时25分"
         },
         {
           "title": "金十图示：2025年09月03日（周三）美股热门股票行情一览（美股盘中）",
@@ -1614,6 +1652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "8月ADP就业逊预期 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2136027",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "分析：美股小盘股风格切换 增长型公司取得相对优势",
@@ -1647,6 +1696,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "金十图示：2025年09月04日（周四）热门中概股行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20250904214400525800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "金十图示：2025年09月04日（周四）美股热门股票行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20250904214339620800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "金十图示：2025年09月03日（周三）美股热门股票行情一览（美股收盘）",
@@ -1926,7 +1997,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球国债抛售潮！30年美债收益率重回5%，发生了什么？",
@@ -1966,6 +2037,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "美股三大指数涨跌不一，Credo涨约8%，Salesforce跌约7%，美债收益率回落，现货黄金小幅回调",
+          "url": "https://wallstreetcn.com/articles/3754934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "两年期美债收益率一度跌向3.6%，投资者关注美联储青睐的职位空缺数据",
