@@ -1,44 +1,47 @@
 {
-  "generated_at": "2025-09-05T04:27:21.981439+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-09-05T05:24:20.380946+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普指责中俄朝密谋对抗美国，中方回应",
           "url": "https://news.ifeng.com/c/8mNKXh423Hm",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "特朗普发视频：袭击“委内瑞拉来的运毒船”，委官员：AI生成的",
           "url": "https://news.ifeng.com/c/8mNaDL5XouA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "普京透露与特朗普会晤时的小花絮",
           "url": "https://news.ifeng.com/c/8mNQ6YsGFuq",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文，释放哪些信号？阅兵活动中有哪些值得关注的领导人动向？",
@@ -46,33 +49,36 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 05时24分]"
         },
         {
           "title": "美元兑日元维持大约0.3%的涨幅，报148.50日元。 在美上市日本ETF收涨1.03%，报78.73美元。 白宫称，美国总统特朗普签署命令，实施美日贸易协议。",
           "url": "https://wallstreetcn.com/livenews/2968916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
           "url": "https://wallstreetcn.com/articles/3754880",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "特朗普看完九三阅兵忧心忡忡",
@@ -82,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "中方驳斥特朗普涉中俄朝三国言论",
@@ -94,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "特朗普承认观看中国阅兵",
@@ -105,11 +111,12 @@
             13,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "特朗普称中俄朝密谋对抗美国",
@@ -120,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         },
         {
           "title": "特朗普 我确实看了九三阅兵",
@@ -131,11 +138,47 @@
             22,
             25,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
+        },
+        {
+          "title": "美国能源主导委员会主任：特朗普政府愿意提供核能激励措施，因为核能比风能和太阳能“更美国”。",
+          "url": "https://flash.jin10.com/detail/20250905045948575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普签署行政命令 正式实施美日贸易协定",
+          "url": "https://flash.jin10.com/detail/20250905045629007800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普称九三阅兵令人印象深刻",
+          "url": "https://www.toutiao.com/trending/7545421925133615140/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 05时24分]"
         },
         {
           "title": "美联储理事提名人Miran（被问及美国总统能否因为利率意见而罢免理事）：不曾建议将美联储控制权交给特朗普。 曾经在支票和资产负债表方面提出建议。",
@@ -177,19 +220,6 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
-          "title": "特朗普称九三阅兵令人印象深刻",
-          "url": "https://www.toutiao.com/trending/7545421925133615140/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时27分]"
-        },
-        {
           "title": "特朗普白宫宴请科技领袖 看点却是新修的园子和缺席的首富",
           "url": "https://www.cls.cn/detail/2135666",
           "source": "财联社热门",
@@ -212,6 +242,30 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "Politico记者：美国第十一巡回上诉法院小组以2-1票通过决议，允许美国总统特朗普和佛罗里达州官员继续运营“鳄鱼恶魔岛” 监狱。",
+          "url": "https://flash.jin10.com/detail/20250905040147232800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
+        },
+        {
+          "title": "储能公司EOS Energy Enterprises Inc.计划2025年年底之前在美国国内生产电池材料阴极，从而避免遭受总统特朗普挑起的关税所带来的影响。 最近一年，该公司（EOSE）股价累计涨超203%。",
+          "url": "https://wallstreetcn.com/livenews/2968892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于下周一在圣经博物馆发表讲话。",
           "url": "https://flash.jin10.com/detail/20250905020533429800",
           "source": "金十数据",
@@ -221,6 +275,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美国上诉法院驳回了限制特朗普在洛杉矶使用军队的裁决。",
+          "url": "https://flash.jin10.com/detail/20250905043820746800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普政府要求美最高法院尽快就关税问题作出裁决",
+          "url": "https://news.ifeng.com/c/8mNw0V8gaUN",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "据CNBC：纽约州总检察长对特朗普5亿美元欺诈罚款的撤销提出上诉。",
@@ -240,7 +316,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -256,15 +332,15 @@
           "time_info": "02时35分"
         },
         {
-          "title": "Politico记者：美国第十一巡回上诉法院小组以2-1票通过决议，允许美国总统特朗普和佛罗里达州官员继续运营“鳄鱼恶魔岛” 监狱。",
-          "url": "https://flash.jin10.com/detail/20250905040147232800",
+          "title": "白宫：美国总统特朗普签署行政命令，正式实施美日贸易协议。",
+          "url": "https://flash.jin10.com/detail/20250905042122668800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时24分"
         },
         {
           "title": "市场消息：美国总统特朗普请求最高法院允许他解雇美国联邦贸易委员会（FTC）委员。",
@@ -273,7 +349,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -289,6 +365,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普要求美国最高法院允许他罢黜反垄断监管机构FTC仅存的民主党高官",
+          "url": "https://wallstreetcn.com/livenews/2968903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美联储理事提名人Miran：并不认为债券市场担心美联储的独立性（正遭到美国总统特朗普的破坏）。",
           "url": "https://wallstreetcn.com/livenews/2968835",
           "source": "华尔街见闻-快讯",
@@ -298,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "储能公司EOS Energy Enterprises Inc.计划2025年年底之前在美国国内生产电池材料阴极，从而避免遭受总统特朗普挑起的关税所带来的影响。 最近一年，该公司（EOSE）股价累计涨超203%。",
-          "url": "https://wallstreetcn.com/livenews/2968892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         },
         {
           "title": "乌克兰总统泽连斯基：感谢特朗普总统对我们人民的支持。我们同意进一步接触。",
@@ -383,17 +459,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "DocuSign预计全年营收31.9亿-32.0亿美元，公司原本预计31.5亿-31.6亿美元。 DocuSign美股盘后涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/2968911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "8月ADP就业逊预期 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2136027",
           "source": "财联社热门",
@@ -402,8 +467,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
+        },
+        {
+          "title": "DocuSign预计全年营收31.9亿-32.0亿美元，公司原本预计31.5亿-31.6亿美元。 DocuSign美股盘后涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2968911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "先锋领航首席经济学家兼投资策略主管Joe Davis：随着人工智能（AI）的转移，美国股市将在好几年的时间里输给北方邻国加拿大。 加拿大股市正在2025年跑赢美股，这才刚刚开始而已，预计将在未来5-7年持续。",
@@ -423,33 +500,36 @@
           "url": "https://flash.jin10.com/detail/20250905040547995800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2025年09月04日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20250905040516078800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "美股收盘：三大股指收涨 阿里巴巴跌4%",
           "url": "https://flash.jin10.com/detail/20250905040128666800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         }
       ]
     },
@@ -465,8 +545,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Sierra Technologies Inc.按100亿美元估值融资3.5亿美元，由Greenoks Capital Partners领投。 2024年10月份，该公司按45亿美元估值融资1.75亿美元。 该公司帮助开发定制款服务AI agents，由OpenAI主席Bret Taylor和原谷歌母公司Alphabet高管Clayton Bavor创立。",
+          "url": "https://wallstreetcn.com/livenews/2968900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "谷歌(GOOG.O)CEO皮查伊：将把10亿美元承诺资金中的1.5亿美元用于AI教育与数字健康资助。",
@@ -478,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "人工智能（AI）初创公司Sierra Technologies Inc.按100亿美元估值融资3.5亿美元，由Greenoks Capital Partners领投。 2024年10月份，该公司按45亿美元估值融资1.75亿美元。 该公司帮助开发定制款服务AI agents，由OpenAI主席Bret Taylor和原谷歌母公司Alphabet高管Clayton Bavor创立。",
-          "url": "https://wallstreetcn.com/livenews/2968900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         }
       ]
     },
@@ -496,6 +577,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI计划2026年推出一款由人工智能（AI）支持的就业平台，为企业与那些具备AI技能的应聘人员提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/2968893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
+        },
         {
           "title": "OpenAI将于明年推出AI赋能招聘平台",
           "url": "https://flash.jin10.com/detail/20250905024035596800",
@@ -508,24 +601,13 @@
           "time_info": "03时19分"
         },
         {
-          "title": "OpenAI计划2026年推出一款由人工智能（AI）支持的就业平台，为企业与那些具备AI技能的应聘人员提供帮助。",
-          "url": "https://wallstreetcn.com/livenews/2968893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "沃尔玛百货(WMT.N)：从明年开始，美国的一线员工和办公人员将通过与OpenAI的新合作获得访问人工智能培训的权限。",
           "url": "https://flash.jin10.com/detail/20250905031119440800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
@@ -540,20 +622,50 @@
           "url": "https://flash.jin10.com/detail/20250905041613567800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "周四（9月4日）纽约尾盘，ICE美元指数涨0.17%，报98.313点，日内交投区间为98.080-98.440点，全天持续震荡上行。 彭博美元指数涨0.12%，报1207.00点，日内交投区间为1204.59-1208.54点。",
           "url": "https://wallstreetcn.com/livenews/2968898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：澳大利亚大使已离开伊朗",
+          "url": "https://news.ifeng.com/c/8mNwf6GNIAf",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "伊朗外长：目前正在进行谈判，以确定伊朗与国际原子能机构（IAEA）之间的新合作形式。",
+          "url": "https://flash.jin10.com/detail/20250905035029432800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
@@ -568,28 +680,12 @@
           "url": "https://wallstreetcn.com/articles/3754934",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长：目前正在进行谈判，以确定伊朗与国际原子能机构（IAEA）之间的新合作形式。",
-          "url": "https://flash.jin10.com/detail/20250905035029432800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时24分]"
         }
       ]
     }
