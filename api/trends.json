@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-09-05T07:22:54.156967+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-09-05T09:53:36.637664+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "普京透露与特朗普会晤时的小花絮",
+          "url": "https://news.ifeng.com/c/8mNQ6YsGFuq",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时53分]"
+        },
         {
           "title": "特朗普指责中俄朝密谋对抗美国，中方回应",
           "url": "https://news.ifeng.com/c/8mNKXh423Hm",
@@ -32,18 +45,6 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "普京透露与特朗普会晤时的小花絮",
-          "url": "https://news.ifeng.com/c/8mNQ6YsGFuq",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
           "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文，释放哪些信号？阅兵活动中有哪些值得关注的领导人动向？",
           "url": "https://www.zhihu.com/question/1946951936143267463",
           "source": "知乎",
@@ -59,27 +60,16 @@
           "time_info": "[02时35分 ~ 07时22分]"
         },
         {
-          "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
-          "url": "https://wallstreetcn.com/articles/3754880",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
           "title": "特朗普看完九三阅兵忧心忡忡",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8B%E5%AE%8C%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "中方驳斥特朗普涉中俄朝三国言论",
@@ -88,7 +78,20 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时53分]"
+        },
+        {
+          "title": "Miran今晚听证会，发言稿“维护美联储独立性”，特朗普要在9月FOMC会议完成任命",
+          "url": "https://wallstreetcn.com/articles/3754880",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -137,8 +140,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "美元兑日元维持大约0.3%的涨幅，报148.50日元。 在美上市日本ETF收涨1.03%，报78.73美元。 白宫称，美国总统特朗普签署命令，实施美日贸易协议。",
@@ -160,7 +163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -176,6 +179,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普将缺席四方安全对话峰会，印度分析人士：中国更可靠",
+          "url": "https://news.ifeng.com/c/8mNqJDvspHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普称将很快与普京通话",
+          "url": "https://news.ifeng.com/c/8mOQRxJIYzY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文称是美好的庆祝日，释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1946951936143267463",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普将于周五签署命令，将把美国国防部更名为战争部。（福克斯）",
@@ -358,6 +394,17 @@
           "time_info": "[04时27分 ~ 05时24分]"
         },
         {
+          "title": "特朗普签令正式实施美日贸易协议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25AD%25BE%25E4%25BB%25A4%25E6%25AD%25A3%25E5%25BC%258F%25E5%25AE%259E%25E6%2596%25BD%25E7%25BE%258E%25E6%2597%25A5%25E8%25B4%25B8%25E6%2598%2593%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D6%26c_type%3D31%26realpos%3D6%26pos%3D6%26display_time%3D1757037162%26pre_seqid%3D17570371626360407900716",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于下周一在圣经博物馆发表讲话。",
           "url": "https://flash.jin10.com/detail/20250905020533429800",
           "source": "金十数据",
@@ -375,9 +422,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普宴请科技大佬 唯独少马斯克",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B4%E8%AF%B7%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BD%AC+%E5%94%AF%E7%8B%AC%E5%B0%91%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "今夜，特朗普宴请美国科技巨头，库克、扎克伯格、奥特曼在列，唯独马斯克缺席",
+          "url": "https://wallstreetcn.com/articles/3754957",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "据CNBC：纽约州总检察长对特朗普5亿美元欺诈罚款的撤销提出上诉。",
@@ -413,6 +482,28 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普：将于美东时间周五下午2点签署行政令，下午4点发布公告。",
+          "url": "https://wallstreetcn.com/livenews/2969004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普自称看了九三阅兵：很精彩很震撼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31537672",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署行政命令，正式实施美日贸易协议。",
           "url": "https://flash.jin10.com/detail/20250905042122668800",
           "source": "金十数据",
@@ -446,6 +537,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普下令对“毒贩”开火 引发争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%AF%B9%E2%80%9C%E6%AF%92%E8%B4%A9%E2%80%9D%E5%BC%80%E7%81%AB+%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美联储理事提名人Miran：并不认为债券市场担心美联储的独立性（正遭到美国总统特朗普的破坏）。",
           "url": "https://wallstreetcn.com/livenews/2968835",
           "source": "华尔街见闻-快讯",
@@ -463,9 +565,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本首席谈判代表、经济再生大臣赤泽亮正：美国关税损害日本产业。 特朗普行政令预计最多需要两周时间生效。",
+          "url": "https://wallstreetcn.com/livenews/2968989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普签署行政命令实施美日贸易协定",
+          "url": "https://www.toutiao.com/trending/7545830818632548415/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "乌克兰总统泽连斯基：感谢特朗普总统对我们人民的支持。我们同意进一步接触。",
@@ -490,6 +614,28 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普签令 正式实施美日贸易协议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4+%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "日本首席谈判代表、经济再生大臣赤泽亮正：石破茂通过美国商务部长卢特尼克向特朗普转交信件。 欢迎特朗普签署行政令，以作为对美日贸易协议的坚定执行，将继续忠实、迅速地履行协议。 石破茂在信中邀请特朗普访问日本。 7月22日的协议内容没有任何变化。 日本的5500亿美元投资工具计划不变，5500亿美元将用于投资、贷款和贷款担保。",
+          "url": "https://wallstreetcn.com/livenews/2968985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国多个州起诉“总统特朗普封杀海上风电场”。",
           "url": "https://wallstreetcn.com/livenews/2968824",
           "source": "华尔街见闻-快讯",
@@ -512,6 +658,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普下令重振军队",
+          "url": "https://www.douyin.com/hot/2225995",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美联储理事提名人Miran：如果（临时担任联储理事的）提名资格得到确认，将在担任联储理事期间退出美国总统特朗普的白宫经济顾问委员会（CEA）。 如果被提名为任期更长的联储理事，将从CEA辞职。",
           "url": "https://wallstreetcn.com/livenews/2968822",
           "source": "华尔街见闻-快讯",
@@ -526,7 +683,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "8月ADP就业逊预期 美股三大期指涨跌不一 | 今夜看点",
@@ -538,8 +695,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时53分]"
+        },
+        {
+          "title": "美股收盘：科技巨头集体走强 标普再刷历史新高",
+          "url": "https://www.cls.cn/detail/2136196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 09时53分]"
         },
         {
           "title": "金十图示：2025年09月04日（周四）热门中概股行情一览（美股盘中）",
@@ -551,18 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "美股收盘：科技巨头集体走强 标普再刷历史新高",
-          "url": "https://www.cls.cn/detail/2136196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 07时22分]"
         },
         {
           "title": "DocuSign预计全年营收31.9亿-32.0亿美元，公司原本预计31.5亿-31.6亿美元。 DocuSign美股盘后涨超8%。",
@@ -651,13 +809,24 @@
           "time_info": "[04时27分 ~ 05时24分]"
         },
         {
+          "title": "美股收盘：科技巨头集体走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "小盘股指ETF收涨超1.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/2968935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -685,7 +854,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -717,7 +886,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI计划2026年推出一款由人工智能（AI）支持的就业平台，为企业与那些具备AI技能的应聘人员提供帮助。",
@@ -743,6 +912,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "据英国金融时报，OpenAI明年将与博通合作，量产其自研AI芯片。 博通美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2968992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "沃尔玛百货(WMT.N)：从明年开始，美国的一线员工和办公人员将通过与OpenAI的新合作获得访问人工智能培训的权限。",
           "url": "https://flash.jin10.com/detail/20250905031119440800",
           "source": "金十数据",
@@ -757,7 +937,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大指数涨跌不一，Credo涨约8%，Salesforce跌约7%，美债收益率回落，现货黄金小幅回调",
@@ -771,6 +951,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "重磅非农就业报告前夕，标普500新高，美债涨，以太币跌约4%",
+          "url": "https://wallstreetcn.com/articles/3754934",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "10年期美债收益率跌5.6个基点，投资者等待美国非农就业报告",
@@ -829,8 +1020,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时53分]"
         },
         {
           "title": "伊朗外长：目前正在进行谈判，以确定伊朗与国际原子能机构（IAEA）之间的新合作形式。",
