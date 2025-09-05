@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-06T06:24:24.847757+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-09-06T07:22:12.620869+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "普京与特朗普新一轮会谈何时进行？俄方回应：可能是近期",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文称是美好的庆祝日，释放了哪些信号？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "“割”到特朗普家族头上？孙宇晨被WLFI拉黑！",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "议员“灵魂拷问”：你是特朗普傀儡吗？“美联储理事提名人”Miran：绝对不是！，但又“不会辞去白宫职位”",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "特朗普宴请科技大佬 唯独少马斯克",
@@ -66,8 +66,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "特朗普饭桌上挨个要钱",
@@ -79,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "白宫：特朗普将下令国防部恢复旧名“战争部”，“向对手发出信号”",
@@ -88,11 +88,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "特朗普饭桌上要钱全程",
@@ -116,9 +117,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：不必担心美印关系，我将永远和莫迪做朋友。",
@@ -127,9 +128,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望能邀请俄罗斯总统普京参加G20峰会。",
+          "url": "https://flash.jin10.com/detail/20250906053440484800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将改变这一点。",
+          "url": "https://flash.jin10.com/detail/20250906053402870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "在美上市印度ETF收跌0.21%，报52.48美元，盘后涨0.05%。 美国总统特朗普认为，与印度总理莫迪关系良好。 他对印度购买俄罗斯石油感到失望。",
@@ -143,37 +166,66 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：我希望能邀请俄罗斯总统普京参加G20峰会。",
-          "url": "https://flash.jin10.com/detail/20250906053440484800",
+          "title": "美国总统特朗普：G20将重点关注释放廉价能源。",
+          "url": "https://flash.jin10.com/detail/20250906050510044800",
           "source": "金十数据",
           "ranks": [
-            4
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
         },
         {
-          "title": "美国总统特朗普：我们将改变这一点。",
-          "url": "https://flash.jin10.com/detail/20250906053402870800",
+          "title": "美国总统特朗普：考虑让美国白宫国家经济委员会主任哈塞特担任其他职务。",
+          "url": "https://flash.jin10.com/detail/20250906050454402800",
           "source": "金十数据",
           "ranks": [
-            5
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
         },
         {
-          "title": "美国总统特朗普：将与欧盟讨论对科技公司的罚款。 欧盟的罚款等同于收税。 欧盟靠对科技公司罚款创收。 在9月4日与科技巨头高管们谈到了欧盟的罚款。",
-          "url": "https://wallstreetcn.com/livenews/2969608",
+          "title": "市场消息：特朗普暗示将很快公布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20250906050414874800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美联邦法官阻止特朗普政府取消委内瑞拉与海地移民临时保护",
+          "url": "https://flash.jin10.com/detail/20250906050246686800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
+        },
+        {
+          "title": "周五（9月5日），“特朗普关税输家”指数涨0.84%，报112.18点，本周累涨3.30%。",
+          "url": "https://wallstreetcn.com/livenews/2969583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4,
+            10,
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时22分]"
         },
         {
           "title": "美国能源部长Chris Wright：天然气将成为美国最大的出口商品。 预计天然气出口量将在总统特朗普第二任期内翻倍。",
@@ -202,77 +254,17 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
-          "title": "周五（9月5日），“特朗普关税输家”指数涨0.84%，报112.18点，本周累涨3.30%。",
-          "url": "https://wallstreetcn.com/livenews/2969583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时24分]"
-        },
-        {
-          "title": "美国总统特朗普：G20将重点关注释放廉价能源。",
-          "url": "https://flash.jin10.com/detail/20250906050510044800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国总统特朗普：考虑让美国白宫国家经济委员会主任哈塞特担任其他职务。",
-          "url": "https://flash.jin10.com/detail/20250906050454402800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "市场消息：特朗普暗示将很快公布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20250906050414874800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
           "title": "美国总统特朗普：我很快就会谈到（最新发布的）非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/2969591",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美联邦法官阻止特朗普政府取消委内瑞拉与海地移民临时保护",
-          "url": "https://flash.jin10.com/detail/20250906050246686800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
         },
         {
           "title": "WTI原油期货跌2.22%，暂报61.30美元。 据美联社报道，美国将和欧盟在下周一讨论对俄罗斯实施新的制裁。 美国总统特朗普签署命令，把五角大楼称为战争部 特朗普称，鉴于世界局势，战争部这个名称更好。 特朗普认为，（一系列）和平协议的达成源于贸易和实力。 特朗普谈乌克兰安全保障，称“我们会帮助他们”。 美国国防部长海格塞斯认为，美国将采取攻势，而不只是守势。",
@@ -280,11 +272,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：将与欧盟讨论对科技公司的罚款。 欧盟的罚款等同于收税。 欧盟靠对科技公司罚款创收。 在9月4日与科技巨头高管们谈到了欧盟的罚款。",
+          "url": "https://wallstreetcn.com/livenews/2969608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "水均益谈特朗普评价中国阅兵",
@@ -322,6 +327,51 @@
           "time_info": "[02时33分 ~ 03时21分]"
         },
         {
+          "title": "美国总统特朗普：欧盟罚款几乎等同于税收。",
+          "url": "https://flash.jin10.com/detail/20250906053356439800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：如果有人对我们的公司这样做，我们也应该对他们这样做。",
+          "url": "https://flash.jin10.com/detail/20250906053343307800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普谈论GDP：2026年之后将是“大年“。",
+          "url": "https://wallstreetcn.com/livenews/2969607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：科技罚款是欧洲的收入来源。",
+          "url": "https://flash.jin10.com/detail/20250906053254744800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：我仍然没有决定是否在9月份支持FOMC降息。 就业人口增速绝对低于均衡水平。 （总统特朗普边境安全问题引发的强行驱赶）移民问题可能造成招聘“非自然地”下降。 如果开始看到裁员，将感到神经紧张。 仍然认为我们处于充分就业状态。 （除了实现充分就业）还必须关注美联储在通胀方面的职责（维持价格稳定）。 如果不希望看到通胀，美联储独立性就显得至关重要。 一系列冲击正将美国朝着滞胀的方向推进。",
           "url": "https://wallstreetcn.com/livenews/2969551",
           "source": "华尔街见闻-快讯",
@@ -334,6 +384,29 @@
           "time_info": "[02时33分 ~ 03时21分]"
         },
         {
+          "title": "美国总统特朗普：欧洲一直在处以天文数字般的罚款，将对欧盟的不公行为作出回应，将与其讨论科技罚款。",
+          "url": "https://flash.jin10.com/detail/20250906053246799800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：副总统将代替我出席2025年南非主办的二十国集团（G20）会议。 将考虑邀请俄罗斯参加2026年G20峰会这个问题。",
+          "url": "https://wallstreetcn.com/livenews/2969604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
           "title": "特朗普政府在美国佐治亚州电动车电池厂展开移民突查，拘留475人",
           "url": "https://wallstreetcn.com/livenews/2969548",
           "source": "华尔街见闻-快讯",
@@ -344,6 +417,140 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及GDP）明年将是重要的一年。",
+          "url": "https://flash.jin10.com/detail/20250906052637211800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：沃什和沃勒可能是美联储职位的潜在人选。",
+          "url": "https://flash.jin10.com/detail/20250906052428113800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的石油产量增长。",
+          "url": "https://wallstreetcn.com/livenews/2969598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及非农就业报告）利率水平过高，就业数据尚未体现更多因素。",
+          "url": "https://flash.jin10.com/detail/20250906051923389800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "在美上市印度ETF收跌0.21%，报52.48美元，盘后涨0.05%。 美国总统特朗普认为，与印度总理莫迪关系良好。 “我会一直都是莫迪的朋友”。 他对印度购买俄罗斯石油感到失望。",
+          "url": "https://wallstreetcn.com/livenews/2969592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：将在2026年G20峰会上考虑俄罗斯问题。",
+          "url": "https://flash.jin10.com/detail/20250906051600513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：并没有说过会选择美国白宫国家经济委员会主任哈塞特当美联储主席，他是三、四个人选之一。",
+          "url": "https://flash.jin10.com/detail/20250906051507886800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我不会去南非参加G20峰会。",
+          "url": "https://flash.jin10.com/detail/20250906051421538800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：预测汽油价格很快将达到每加仑2美元。",
+          "url": "https://flash.jin10.com/detail/20250906051401333800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：美国白宫国家经济委员会主任哈塞特相信低利率。",
+          "url": "https://flash.jin10.com/detail/20250906051326687800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我大概知道我要选谁来担任美联储主席了。美国白宫国家经济委员会主任哈塞特是三个可能人选之一。",
+          "url": "https://flash.jin10.com/detail/20250906051303615800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国参议院共和党助手表示，参议院共和党人正在考虑修改规则，为特朗普的美联储理事会成员提名开辟快速确认通道，新规最早或在下月初的会议上进行辩论。",
+          "url": "https://flash.jin10.com/detail/20250906050822714800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "美国法官阻止特朗普政府取消对委内瑞拉和海地移民的保护。",
@@ -368,28 +575,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：欧盟罚款几乎等同于税收。",
-          "url": "https://flash.jin10.com/detail/20250906053356439800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普谈论GDP：2026年之后将是“大年“。",
-          "url": "https://wallstreetcn.com/livenews/2969607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：关于人质问题的大规模抗议使以色列陷入困境。",
           "url": "https://flash.jin10.com/detail/20250906045935653800",
           "source": "金十数据",
@@ -399,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：如果有人对我们的公司这样做，我们也应该对他们这样做。",
-          "url": "https://flash.jin10.com/detail/20250906053343307800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：如果他们不释放人质将面临严重后果。",
@@ -423,17 +597,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：科技罚款是欧洲的收入来源。",
-          "url": "https://flash.jin10.com/detail/20250906053254744800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "市场消息：美国总统特朗普试图让数千亿外援资金失效的努力再遭挫败。",
           "url": "https://flash.jin10.com/detail/20250906045628507800",
           "source": "金十数据",
@@ -443,28 +606,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：欧洲一直在处以天文数字般的罚款，将对欧盟的不公行为作出回应，将与其讨论科技罚款。",
-          "url": "https://flash.jin10.com/detail/20250906053246799800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普：副总统将代替我出席2025年南非主办的二十国集团（G20）会议。 将考虑邀请俄罗斯参加2026年G20峰会这个问题。",
-          "url": "https://wallstreetcn.com/livenews/2969604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：正与哈马斯进行深入谈判。",
@@ -478,17 +619,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：（谈及GDP）明年将是重要的一年。",
-          "url": "https://flash.jin10.com/detail/20250906052637211800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普签署行政命令，授权对非法拘留美国人的国家实施处罚。",
           "url": "https://flash.jin10.com/detail/20250906045205133800",
           "source": "金十数据",
@@ -498,28 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：沃什和沃勒可能是美联储职位的潜在人选。",
-          "url": "https://flash.jin10.com/detail/20250906052428113800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普：美国的石油产量增长。",
-          "url": "https://wallstreetcn.com/livenews/2969598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉增派飞机将带来麻烦。如果委内瑞拉战机威胁到美国，我们将会击落它们。",
@@ -539,7 +647,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -583,7 +691,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -643,28 +751,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：（谈及非农就业报告）利率水平过高，就业数据尚未体现更多因素。",
-          "url": "https://flash.jin10.com/detail/20250906051923389800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "在美上市印度ETF收跌0.21%，报52.48美元，盘后涨0.05%。 美国总统特朗普认为，与印度总理莫迪关系良好。 “我会一直都是莫迪的朋友”。 他对印度购买俄罗斯石油感到失望。",
-          "url": "https://wallstreetcn.com/livenews/2969592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：（谈及就业报告）我们很快会讨论这个问题。",
           "url": "https://flash.jin10.com/detail/20250906044328756800",
           "source": "金十数据",
@@ -676,15 +762,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：将在2026年G20峰会上考虑俄罗斯问题。",
-          "url": "https://flash.jin10.com/detail/20250906051600513800",
-          "source": "金十数据",
+          "title": "特朗普暗示要让哈塞特担任美联储主席，沃勒、沃什、哈塞特闯入“决赛圈”",
+          "url": "https://wallstreetcn.com/livenews/2969596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：我们正在谈论的不是委内瑞拉政权更迭。",
@@ -698,26 +784,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：并没有说过会选择美国白宫国家经济委员会主任哈塞特当美联储主席，他是三、四个人选之一。",
-          "url": "https://flash.jin10.com/detail/20250906051507886800",
-          "source": "金十数据",
+          "title": "特朗普称2026年G20峰会将在他位于迈阿密的度假村举行",
+          "url": "https://wallstreetcn.com/livenews/2969595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普：我不会去南非参加G20峰会。",
-          "url": "https://flash.jin10.com/detail/20250906051421538800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普制造业复兴计划遇挫 就业数据持续萎缩",
@@ -742,17 +817,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：预测汽油价格很快将达到每加仑2美元。",
-          "url": "https://flash.jin10.com/detail/20250906051401333800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：鲍威尔早就该降息了。",
           "url": "https://wallstreetcn.com/livenews/2969501",
           "source": "华尔街见闻-快讯",
@@ -773,17 +837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：美国白宫国家经济委员会主任哈塞特相信低利率。",
-          "url": "https://flash.jin10.com/detail/20250906051326687800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国能源部长赖特：预测特朗普任期内美国天然气出口量将翻一番。",
@@ -808,17 +861,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：我大概知道我要选谁来担任美联储主席了。美国白宫国家经济委员会主任哈塞特是三个可能人选之一。",
-          "url": "https://flash.jin10.com/detail/20250906051303615800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：将对委内瑞拉采取强硬态度。",
           "url": "https://flash.jin10.com/detail/20250906043117970800",
           "source": "金十数据",
@@ -828,17 +870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国参议院共和党助手表示，参议院共和党人正在考虑修改规则，为特朗普的美联储理事会成员提名开辟快速确认通道，新规最早或在下月初的会议上进行辩论。",
-          "url": "https://flash.jin10.com/detail/20250906050822714800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：（谈及乌克兰安全保障）我们将帮助他们。",
@@ -918,11 +949,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达在非农日收跌2.7%，本周跌超4%连跌四周，谷歌A累涨超10%",
@@ -930,11 +962,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈欧盟对谷歌罚款）我不知道欧盟为何这么做，谷歌是伟大的美国公司。",
+          "url": "https://flash.jin10.com/detail/20250906053214245800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "特朗普威胁要启动301调查，此前欧盟对谷歌罚款",
@@ -947,17 +991,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时24分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈欧盟对谷歌罚款）我不知道欧盟为何这么做，谷歌是伟大的美国公司。",
-          "url": "https://flash.jin10.com/detail/20250906053214245800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "欧盟对谷歌公司广告科技的市场主导地位罚款将近30亿欧元。",
@@ -1040,7 +1073,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "8月非农远逊预期 美股三大期指短线拉升 | 今夜看点",
@@ -1051,8 +1084,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2025年09月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -1077,6 +1110,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "巴西圣保罗证交所指数收涨1.17%，至14.25万点上方，本周累计上涨0.86%。 巴西雷亚尔兑美元涨0.62%，报5.4126雷亚尔，美国非农就业报告发布之前高开低走、但全天保持上涨状态，本周累涨0.31%。 美国总统特朗普在美股盘后宣称，“我们对巴西非常不满”。",
+          "url": "https://wallstreetcn.com/livenews/2969616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "金十图示：2025年09月05日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20250906005354277800",
           "source": "金十数据",
@@ -1099,6 +1143,18 @@
           "time_info": "01时21分"
         },
         {
+          "title": "标普道琼斯指数公司宣布，网红券商Robinhood、Applovin、以及Emcor Group被纳入标普500指数。 Marketaxess、凯撒娱乐、光伏逆变器供应商Enphase Energy将被踢出标普500指数。 Nutanix和Transunio将被纳入标普400指数，取代成分股Acadia Healthcare和Manpower Group。 优步将被纳入标普100指数，取代特许通讯。 Robinhood美股盘后涨7.2%，Applovin涨9%，建筑服务商Emcor也涨3%。",
+          "url": "https://wallstreetcn.com/livenews/2969605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.30%，报548.45点，本周累计下跌0.27%。 欧元区STOXX 50指数初步收跌0.69%，报5309.57点，美国非农就业报告发布后、美股开盘之后打破高位窄幅震荡状态，并持续走低，本周累跌0.72%。 富时泛欧绩优300指数初步收跌0.32%，报2177.76点。",
           "url": "https://wallstreetcn.com/livenews/2969518",
           "source": "华尔街见闻-快讯",
@@ -1111,6 +1167,17 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 中概股金龙指数涨超1%",
+          "url": "https://www.cls.cn/detail/2137436",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
           "title": "据知情人士透露，Klarna Group Plc.（KLAR）的IPO获得至少八倍超额认购，预计将于下周一美东时间16:00美股收盘时停止认购。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2969529",
           "source": "华尔街见闻-快讯",
@@ -1121,17 +1188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
-          "title": "标普道琼斯指数公司宣布，网红券商Robinhood、Applovin、以及Emcor Group被纳入标普500指数。 Marketaxess、凯撒娱乐、光伏逆变器供应商Enphase Energy将被踢出标普500指数。 Nutanix和Transunio将被纳入标普400指数，取代成分股Acadia Healthcare和Manpower Group。 优步将被纳入标普100指数，取代特许通讯。 Robinhood美股盘后涨7.2%，Applovin涨9%，建筑服务商Emcor也涨3%。",
-          "url": "https://wallstreetcn.com/livenews/2969605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美股收盘：三大股指收跌 博通涨超9%",
@@ -1148,7 +1204,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股指盘中转跌，英伟达一度跌超4%，就业数据助长降息预期，美债跳涨、黄金新高",
@@ -1174,15 +1230,67 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
+          "title": "非农数据惨淡引爆衰退担忧，美股高开低走，美债与黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3755015",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
           "title": "周五（9月5日）纽约尾盘，美国10年期基准国债收益率下跌8.65个基点，报4.0742%，非农就业报告发布后显著下挫，本周（周一休市）累计下跌15.42个基点，整体交投于4.3043%-4.0609%区间。 两年期美债收益率跌7.86个基点，报3.5092%，本周累跌10.75个基点，交投于3.6741%-3.4619%区间。",
           "url": "https://wallstreetcn.com/livenews/2969613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "墨西哥综合指数收涨1.02%，报60479.76点，继续创收盘历史新高，本周累计上涨3.02%。 本周，墨西哥比索兑美元累计下跌0.32%，报18.7168比索。",
+          "url": "https://wallstreetcn.com/livenews/2969615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美元指数在美国非农日跌0.6%",
+          "url": "https://wallstreetcn.com/livenews/2969569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
+        },
+        {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20250906035810886800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
@@ -1218,31 +1326,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数在美国非农日跌0.6%",
-          "url": "https://wallstreetcn.com/livenews/2969569",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek大招曝光？梁文锋督战超级智能体：能自主学习，或年底发布",
+          "url": "https://wallstreetcn.com/articles/3754976",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时24分]"
-        },
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20250906035810886800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "[07时21分 ~ 07时22分]"
         }
       ]
     }
