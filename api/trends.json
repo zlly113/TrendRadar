@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-09-05T16:32:31.948977+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2025-09-05T17:28:29.833678+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文称是美好的庆祝日，释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1946951936143267463",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时28分]"
+        },
         {
           "title": "普京透露与特朗普会晤时的小花絮",
           "url": "https://news.ifeng.com/c/8mNQ6YsGFuq",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "普京、金正恩等多国领导人盛赞中国阅兵，特朗普发文称是美好的庆祝日，释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/1946951936143267463",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时32分]"
         },
         {
           "title": "特朗普称将很快与普京通话",
@@ -107,6 +108,49 @@
           "time_info": "[02时35分 ~ 07时22分]"
         },
         {
+          "title": "议员“灵魂拷问”：你是特朗普傀儡吗？“美联储理事提名人”Miran：绝对不是！，但又“不会辞去白宫职位”",
+          "url": "https://wallstreetcn.com/articles/3754964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普再挥大棒：将很快开征芯片关税 在美建厂企业可获豁免！",
+          "url": "https://www.cls.cn/detail/2136382",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 17时28分]"
+        },
+        {
+          "title": "今夜，特朗普宴请美国科技巨头，库克、扎克伯格、奥特曼在列，唯独马斯克缺席",
+          "url": "https://wallstreetcn.com/articles/3754957",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普看完九三阅兵忧心忡忡",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8B%E5%AE%8C%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1",
           "source": "bilibili 热搜",
@@ -118,21 +162,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 11时04分]"
-        },
-        {
-          "title": "议员“灵魂拷问”：你是特朗普傀儡吗？“美联储理事提名人”Miran：绝对不是！，但又“不会辞去白宫职位”",
-          "url": "https://wallstreetcn.com/articles/3754964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时03分 ~ 16时32分]"
         },
         {
           "title": "中方驳斥特朗普涉中俄朝三国言论",
@@ -178,30 +207,17 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "特朗普再挥大棒：将很快开征芯片关税 在美建厂企业可获豁免！",
-          "url": "https://www.cls.cn/detail/2136382",
+          "title": "特朗普称将对未在美建厂芯片企业加征关税",
+          "url": "https://www.cls.cn/detail/2136321",
           "source": "财联社热门",
           "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 16时32分]"
-        },
-        {
-          "title": "今夜，特朗普宴请美国科技巨头，库克、扎克伯格、奥特曼在列，唯独马斯克缺席",
-          "url": "https://wallstreetcn.com/articles/3754957",
-          "source": "华尔街见闻",
-          "ranks": [
             10,
-            9,
+            11,
             8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时32分]"
+          "time_info": "[11时03分 ~ 17时28分]"
         },
         {
           "title": "特朗普称中俄朝密谋对抗美国",
@@ -241,19 +257,6 @@
             9,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时03分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普称将对未在美建厂芯片企业加征关税",
-          "url": "https://www.cls.cn/detail/2136321",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -311,6 +314,19 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普宴请科技大佬 唯独少马斯克",
+          "url": "https://www.toutiao.com/trending/7546112526388592683/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普称九三阅兵令人印象深刻",
           "url": "https://www.toutiao.com/trending/7545421925133615140/",
           "source": "今日头条",
@@ -337,16 +353,15 @@
           "time_info": "[13时24分 ~ 15时26分]"
         },
         {
-          "title": "特朗普宴请科技大佬 唯独少马斯克",
-          "url": "https://www.toutiao.com/trending/7546112526388592683/",
-          "source": "今日头条",
+          "title": "经济学家：特朗普政策减少劳动力基数，7万人的非农就业增速更为现实",
+          "url": "https://flash.jin10.com/detail/20250905170129703800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 15时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "特朗普签令 正式实施美日贸易协议",
@@ -419,6 +434,19 @@
           "time_info": "[05时24分 ~ 07时22分]"
         },
         {
+          "title": "“割”到特朗普家族头上？孙宇晨被WLFI拉黑！",
+          "url": "https://wallstreetcn.com/articles/3754990",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时28分]"
+        },
+        {
           "title": "美联储理事提名人Miran（被问及美国总统能否因为利率意见而罢免理事）：不曾建议将美联储控制权交给特朗普。 曾经在支票和资产负债表方面提出建议。",
           "url": "https://wallstreetcn.com/livenews/2968847",
           "source": "华尔街见闻-快讯",
@@ -458,16 +486,16 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
-          "title": "“割”到特朗普家族头上？孙宇晨被WLFI拉黑！",
-          "url": "https://wallstreetcn.com/articles/3754990",
-          "source": "华尔街见闻",
+          "title": "特朗普大宴美国科技巨头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E5%AE%B4%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D7%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A4%25A7%25E5%25AE%25B4%25E7%25BE%258E%25E5%259B%25BD%25E7%25A7%2591%25E6%258A%2580%25E5%25B7%25A8%25E5%25A4%25B4%2523%26flag%3D1%26band_rank%3D7%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1757059874%26pre_seqid%3D17570598747060417011258",
+          "source": "微博",
           "ranks": [
-            9,
-            7
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "美国上诉法院驳回了限制特朗普在洛杉矶使用军队的裁决。",
@@ -564,6 +592,18 @@
           "time_info": "[05时24分 ~ 06时27分]"
         },
         {
+          "title": "特朗普发布与普京合影",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时28分]"
+        },
+        {
           "title": "储能公司EOS Energy Enterprises Inc.计划2025年年底之前在美国国内生产电池材料阴极，从而避免遭受总统特朗普挑起的关税所带来的影响。 最近一年，该公司（EOSE）股价累计涨超203%。",
           "url": "https://wallstreetcn.com/livenews/2968892",
           "source": "华尔街见闻-快讯",
@@ -609,6 +649,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "特朗普威胁欧洲领导人对华施加压力？中方回应",
+          "url": "https://www.cls.cn/detail/2136771",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于下周一在圣经博物馆发表讲话。",
           "url": "https://flash.jin10.com/detail/20250905020533429800",
           "source": "金十数据",
@@ -629,17 +680,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普大宴美国科技巨头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E5%AE%B4%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D7%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A4%25A7%25E5%25AE%25B4%25E7%25BE%258E%25E5%259B%25BD%25E7%25A7%2591%25E6%258A%2580%25E5%25B7%25A8%25E5%25A4%25B4%2523%26flag%3D1%26band_rank%3D7%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1757059874%26pre_seqid%3D17570598747060417011258",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "特朗普宴请科技大佬 唯独少马斯克",
@@ -692,7 +732,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -774,6 +814,17 @@
           "time_info": "11时04分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的下一轮会谈可能在不久的将来举行。",
+          "url": "https://flash.jin10.com/detail/20250905164650997800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "特朗普晚宴点名比尔盖茨讲话",
           "url": "https://www.toutiao.com/trending/7546434597240851995/",
           "source": "今日头条",
@@ -794,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
-        },
-        {
-          "title": "特朗普发布与普京合影",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "周四（9月4日），“特朗普关税输家”指数涨2.68%，报111.25点。",
@@ -1085,7 +1125,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1136,7 +1176,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1239,8 +1279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时28分]"
         },
         {
           "title": "美股三大指数涨跌不一，Credo涨约8%，Salesforce跌约7%，美债收益率回落，现货黄金小幅回调",
@@ -1274,7 +1314,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -1401,7 +1441,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
