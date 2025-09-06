@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-06T12:29:06.735529+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-09-06T13:24:21.595186+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "普京与特朗普新一轮会谈何时进行？俄方回应：可能是近期",
@@ -44,6 +44,18 @@
           "time_info": "[00时29分 ~ 12时29分]"
         },
         {
+          "title": "特朗普又要开搞欧洲了",
+          "url": "https://news.ifeng.com/c/8mQ5YCWgT2z",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时24分]"
+        },
+        {
           "title": "议员“灵魂拷问”：你是特朗普傀儡吗？“美联储理事提名人”Miran：绝对不是！，但又“不会辞去白宫职位”",
           "url": "https://wallstreetcn.com/articles/3754964",
           "source": "华尔街见闻",
@@ -70,18 +82,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普又要开搞欧洲了",
-          "url": "https://news.ifeng.com/c/8mQ5YCWgT2z",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 12时29分]"
         },
         {
           "title": "特朗普饭桌上挨个要钱",
@@ -136,8 +136,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 12时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普：我们好像把俄印输给了中国",
+          "url": "https://news.ifeng.com/c/8mQK4tgBv6S",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "特朗普签了，允许美“国防部”使用“战争部”称号",
@@ -151,17 +163,6 @@
           "time_info": "[09时48分 ~ 11时33分]"
         },
         {
-          "title": "特朗普：我们好像把俄印输给了中国",
-          "url": "https://news.ifeng.com/c/8mQK4tgBv6S",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
           "title": "特朗普正式将美国“国防部”改名为“战争部”",
           "url": "https://news.ifeng.com/c/8mQJa75MU6K",
           "source": "凤凰网",
@@ -169,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "马杜罗敦促特朗普放弃对委内瑞拉的暴力计划",
@@ -179,9 +180,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
         },
         {
           "title": "特朗普：“无需担心”美印关系，“我始终是莫迪的朋友”",
@@ -190,9 +191,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "巴西总统再批美国关税立场并称特朗普无意对话",
+          "url": "https://flash.jin10.com/detail/20250906120839028800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "非农远不及预期，特朗普再施压：鲍威尔早就该降息了",
+          "url": "https://wallstreetcn.com/articles/3755046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：将与欧盟讨论对科技公司的罚款。 欧盟的罚款等同于收税。 欧盟靠对科技公司罚款创收。 在9月4日与科技巨头高管们谈到了欧盟的罚款。",
@@ -208,17 +231,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 11时33分]"
-        },
-        {
-          "title": "巴西总统再批美国关税立场并称特朗普无意对话",
-          "url": "https://flash.jin10.com/detail/20250906120839028800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "在美上市印度ETF收跌0.21%，报52.48美元，盘后涨0.05%。 美国总统特朗普认为，与印度总理莫迪关系良好。 他对印度购买俄罗斯石油感到失望。",
@@ -267,17 +279,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 12时29分]"
-        },
-        {
-          "title": "非农远不及预期，特朗普再施压：鲍威尔早就该降息了",
-          "url": "https://wallstreetcn.com/articles/3755046",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 12时29分]"
         },
         {
           "title": "美国总统特朗普：考虑让美国白宫国家经济委员会主任哈塞特担任其他职务。",
@@ -392,6 +393,21 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
+          "title": "特朗普签署行政令 调整关税政策生效范围",
+          "url": "https://wallstreetcn.com/livenews/2969623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            19,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 13时24分]"
+        },
+        {
           "title": "特朗普签令 美国防部能叫战争部了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4+%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E8%83%BD%E5%8F%AB%E6%88%98%E4%BA%89%E9%83%A8%E4%BA%86",
           "source": "百度热搜",
@@ -457,20 +473,6 @@
           "time_info": "[05时24分 ~ 07时22分]"
         },
         {
-          "title": "特朗普签署行政令 调整关税政策生效范围",
-          "url": "https://wallstreetcn.com/livenews/2969623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时29分]"
-        },
-        {
           "title": "美国总统特朗普：副总统将代替我出席2025年南非主办的二十国集团（G20）会议。 将考虑邀请俄罗斯参加2026年G20峰会这个问题。",
           "url": "https://wallstreetcn.com/livenews/2969604",
           "source": "华尔街见闻-快讯",
@@ -495,6 +497,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 09时48分]"
+        },
+        {
+          "title": "特朗普签署行政令将美国防部更名为「战争部」，此时更名有哪些意图？",
+          "url": "https://www.zhihu.com/question/1947569046242420676",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：如果有人对我们的公司这样做，我们也应该对他们这样做。",
@@ -630,17 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普签署行政令将美国防部更名为「战争部」，此时更名有哪些意图？",
-          "url": "https://www.zhihu.com/question/1947569046242420676",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "美国总统特朗普：（谈及非农就业报告）利率水平过高，就业数据尚未体现更多因素。",
@@ -798,6 +801,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "特朗普：我们好像把俄印输给了中国",
+          "url": "https://www.toutiao.com/trending/7545739533908787209/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国总统特朗普：如果他们不释放人质将面临严重后果。",
           "url": "https://flash.jin10.com/detail/20250906045651083800",
           "source": "金十数据",
@@ -930,6 +944,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普饭桌上挨个要钱",
+          "url": "https://www.douyin.com/hot/2227129",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国总统特朗普：与印度总理莫迪“相处融洽”。",
           "url": "https://flash.jin10.com/detail/20250906044458840800",
           "source": "金十数据",
@@ -994,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：无需担心美印关系",
+          "url": "https://www.toutiao.com/trending/7546083809348190247/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：（谈及就业报告）我们很快会讨论这个问题。",
@@ -1189,17 +1225,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "美国总统特朗普：威胁要动用301条款来废除针对美国企业的处罚。 （谈及谷歌罚款）不会允许歧视行为。 苹果应该拿回170亿美元罚款。",
-          "url": "https://wallstreetcn.com/livenews/2969564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
           "title": "欧盟对谷歌罚款35亿美元，特朗普：不会容忍，将考虑反制",
           "url": "https://news.ifeng.com/c/8mPitS1aCyu",
           "source": "凤凰网",
@@ -1209,8 +1234,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时24分]"
+        },
+        {
+          "title": "美国总统特朗普：威胁要动用301条款来废除针对美国企业的处罚。 （谈及谷歌罚款）不会允许歧视行为。 苹果应该拿回170亿美元罚款。",
+          "url": "https://wallstreetcn.com/livenews/2969564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "谷歌母公司Alphabet预计将在2025年三季度计提29.5亿欧元（来自欧盟的反垄断）罚款。",
@@ -1366,8 +1402,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 中概股金龙指数涨超1%",
@@ -1379,8 +1415,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时24分]"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收涨1.17%，至14.25万点上方，本周累计上涨0.86%。 巴西雷亚尔兑美元涨0.62%，报5.4126雷亚尔，美国非农就业报告发布之前高开低走、但全天保持上涨状态，本周累涨0.31%。 美国总统特朗普在美股盘后宣称，“我们对巴西非常不满”。",
+          "url": "https://wallstreetcn.com/livenews/2969616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            18,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "金十图示：2025年09月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -1392,21 +1444,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "巴西圣保罗证交所指数收涨1.17%，至14.25万点上方，本周累计上涨0.86%。 巴西雷亚尔兑美元涨0.62%，报5.4126雷亚尔，美国非农就业报告发布之前高开低走、但全天保持上涨状态，本周累涨0.31%。 美国总统特朗普在美股盘后宣称，“我们对巴西非常不满”。",
-          "url": "https://wallstreetcn.com/livenews/2969616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            18,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2025年09月05日（周五）热门中概股行情一览（美股收盘）",
@@ -1514,11 +1551,12 @@
           "ranks": [
             5,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时24分]"
         },
         {
           "title": "据The Information：OpenAI今年预计通过ChatGPT实现近100亿美元收入。",
@@ -1529,8 +1567,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时24分]"
         },
         {
           "title": "据The Information：在2027年和2028年，OpenAI预计将消耗大约350亿美元和450亿美元。",
@@ -1541,8 +1579,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时24分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将消耗超过80亿美元，比此前预测高出约15亿美元。",
@@ -1553,8 +1591,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时24分]"
         },
         {
           "title": "据The Information：OpenAI预计2030年的收入将比之前的预测高出约15%。",
@@ -1565,8 +1603,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时24分]"
         },
         {
           "title": "据The Information：OpenAI表示，到2029年，其业务将消耗1150亿美元。",
@@ -1605,8 +1643,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时24分]"
         },
         {
           "title": "重磅非农就业报告前夕，标普500新高，美债涨，以太币跌约4%",
@@ -1630,11 +1668,12 @@
             14,
             21,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[06时24分 ~ 13时24分]"
         }
       ]
     },
@@ -1652,8 +1691,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "历史首次！国际金价突破3600美元，投资者憧憬美联储降息前景",
@@ -1695,11 +1734,12 @@
             12,
             19,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "美元指数在美国非农日跌0.6%",
