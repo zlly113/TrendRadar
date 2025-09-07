@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-07T22:20:24.536963+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-09-07T23:23:28.570865+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称印度倒向中国，莫迪回应",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 23时23分]"
         },
         {
           "title": "美日关税协议细节披露：日本投资5500亿美元，特朗普决定投向，“长期90%利润”归美国",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 23时23分]"
         },
         {
           "title": "莫迪回应特朗普称印度倒向中国 ：印美关系积极",
@@ -366,15 +366,15 @@
           "time_info": "20时45分"
         },
         {
-          "title": "美民调：特朗普支持率为43%，通胀处理认可度最低",
-          "url": "https://wallstreetcn.com/livenews/2969823",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普下月将赴韩参加APEC会议，美国正悄悄做准备",
+          "url": "https://news.ifeng.com/c/8mSjOzInkMe",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时23分"
         },
         {
           "title": "特朗普将美国防部更名战争部",
@@ -402,6 +402,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时56分 ~ 20时45分]"
+        },
+        {
+          "title": "美民调：特朗普支持率为43%，通胀处理认可度最低",
+          "url": "https://wallstreetcn.com/livenews/2969823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时23分]"
         },
         {
           "title": "媒体人：普京让特朗普有些“失落”",
@@ -467,6 +479,18 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
+          "title": "美民调：特朗普支持率为43% 通胀处理认可度最低",
+          "url": "https://flash.jin10.com/detail/20250907214309666800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时23分]"
+        },
+        {
           "title": "专家：特朗普一周连吃3张红牌",
           "url": "https://www.toutiao.com/trending/7547229269164822079/",
           "source": "今日头条",
@@ -526,15 +550,15 @@
           "time_info": "[04时23分 ~ 05时21分]"
         },
         {
-          "title": "美民调：特朗普支持率为43% 通胀处理认可度最低",
-          "url": "https://flash.jin10.com/detail/20250907214309666800",
+          "title": "美国白宫国家经济委员会主任哈塞特：制裁俄罗斯的时机和程度将由特朗普决定。",
+          "url": "https://flash.jin10.com/detail/20250907223517972800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时23分"
         },
         {
           "title": "李在明政府与特朗普的“蜜月期”没了？",
@@ -598,7 +622,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -630,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时22分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时22分 ~ 23时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 中概股金龙指数涨超1%",
@@ -669,8 +693,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 23时23分]"
         },
         {
           "title": "高盛：美股多头继续押AI 空头担心增长和集中度 共识看多黄金",
@@ -725,8 +749,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 23时23分]"
         },
         {
           "title": "付鹏：美债突破在即？关注US10Y 3年收敛三角形末端的关键信号：解析从美债波动率到美股波动率的传导密码【付鹏说3】",
@@ -736,11 +760,12 @@
             5,
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 23时23分]"
         },
         {
           "title": "付鹏：美债破局在即？关注收敛三角形末端的关键信号：解析从美债波动率到美股波动率的传导密码",
