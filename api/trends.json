@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-07T19:21:48.534890+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-09-07T20:45:42.495680+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称印度倒向中国，莫迪回应",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 20时45分]"
         },
         {
           "title": "莫迪回应特朗普称印度倒向中国 ：印美关系积极",
@@ -54,11 +54,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 20时45分]"
         },
         {
           "title": "特朗普调整全球关税政策 黄金、钨、铀等关键商品获豁免",
@@ -270,6 +271,20 @@
           "time_info": "[12时29分 ~ 17时34分]"
         },
         {
+          "title": "特朗普对印度态度大掉头",
+          "url": "https://www.toutiao.com/trending/7546479108629479467/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普将于周日美国东部时间下午2点出席美国网球公开赛。",
           "url": "https://wallstreetcn.com/livenews/2969724",
           "source": "华尔街见闻-快讯",
@@ -284,19 +299,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时59分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普对印度态度大掉头",
-          "url": "https://www.toutiao.com/trending/7546479108629479467/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 19时21分]"
         },
         {
           "title": "非农远不及预期，特朗普再施压：鲍威尔早就该降息了",
@@ -336,6 +338,31 @@
           "time_info": "[09时59分 ~ 13时22分]"
         },
         {
+          "title": "美国财长贝森特：特朗普周五与欧盟领导人就俄罗斯问题进行了通话。",
+          "url": "https://flash.jin10.com/detail/20250907201735570800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "特朗普：让芝加哥见识战争部的厉害",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E8%8A%9D%E5%8A%A0%E5%93%A5%E8%A7%81%E8%AF%86%E6%88%98%E4%BA%89%E9%83%A8%E7%9A%84%E5%8E%89%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普将美国防部更名战争部",
           "url": "https://www.douyin.com/hot/2227610",
           "source": "抖音",
@@ -355,24 +382,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普：让芝加哥见识战争部的厉害",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E8%8A%9D%E5%8A%A0%E5%93%A5%E8%A7%81%E8%AF%86%E6%88%98%E4%BA%89%E9%83%A8%E7%9A%84%E5%8E%89%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 20时45分]"
         },
         {
           "title": "媒体人：普京让特朗普有些“失落”",
@@ -497,6 +512,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美国财长贝森特：就业数据显示，特朗普批评美联储行动迟缓是正确的。",
+          "url": "https://flash.jin10.com/detail/20250907200655821800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "特朗普允许国防部又名战争部",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%81%E8%AE%B8%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8F%88%E5%90%8D%E6%88%98%E4%BA%89%E9%83%A8",
           "source": "bilibili 热搜",
@@ -530,6 +556,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "台名嘴调侃特朗普受九三阅兵刺激",
+          "url": "https://www.toutiao.com/trending/7546856988563980329/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "特朗普为何要把国防部更名为战争部",
           "url": "https://www.toutiao.com/trending/7547236499872288265/",
           "source": "今日头条",
@@ -561,6 +598,20 @@
           "time_info": "[00时28分 ~ 19时21分]"
         },
         {
+          "title": "高盛市场调研：进入9月，美股多头继续押AI、空头担心增长和集中度、所有人都看多黄金",
+          "url": "https://wallstreetcn.com/articles/3755090",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 20时45分]"
+        },
+        {
           "title": "博通大涨、英伟达下跌，“AI芯片”牵动整个美股",
           "url": "https://wallstreetcn.com/articles/3755065",
           "source": "华尔街见闻",
@@ -574,19 +625,6 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
-          "title": "高盛市场调研：进入9月，美股多头继续押AI、空头担心增长和集中度、所有人都看多黄金",
-          "url": "https://wallstreetcn.com/articles/3755090",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 19时21分]"
-        },
-        {
           "title": "动荡一周后，高盛顶尖交易员：依旧看空美元，看多美股和“价值存储”",
           "url": "https://wallstreetcn.com/articles/3755094",
           "source": "华尔街见闻",
@@ -595,8 +633,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时45分]"
         },
         {
           "title": "高盛：美股多头继续押AI 空头担心增长和集中度 共识看多黄金",
@@ -651,19 +689,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时07分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时07分 ~ 20时45分]"
         },
         {
           "title": "付鹏：美债突破在即？关注US10Y 3年收敛三角形末端的关键信号：解析从美债波动率到美股波动率的传导密码【付鹏说3】",
           "url": "https://wallstreetcn.com/premium/articles/3755084?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 20时45分]"
         },
         {
           "title": "付鹏：美债破局在即？关注收敛三角形末端的关键信号：解析从美债波动率到美股波动率的传导密码",
@@ -691,11 +730,12 @@
           "ranks": [
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 20时45分]"
         },
         {
           "title": "现货金价一度升破3600关口 特朗普官宣美联储主席前三人选 | 环球市场",
