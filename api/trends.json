@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-08T20:53:41.572971+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2025-09-08T21:35:52.973525+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "美日关税协议细节披露：日本投资5500亿美元，特朗普决定投向，“长期90%利润”归美国",
@@ -81,6 +81,18 @@
           "time_info": "[14时38分 ~ 16时36分]"
         },
         {
+          "title": "针对超300名韩国人在美被捕，特朗普最新回应",
+          "url": "https://news.ifeng.com/c/8mU2cEyJalM",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普称准备对俄罗斯实施第二阶段制裁",
           "url": "https://wallstreetcn.com/articles/3755115",
           "source": "华尔街见闻",
@@ -91,20 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 20时53分]"
-        },
-        {
-          "title": "针对超300名韩国人在美被捕，特朗普最新回应",
-          "url": "https://news.ifeng.com/c/8mU2cEyJalM",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 21时35分]"
         },
         {
           "title": "乌克兰女子在美国轻轨车厢遭刺喉，特朗普：太可怕了",
@@ -115,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时35分]"
         },
         {
           "title": "事关俄乌，特朗普再发“召集令”",
@@ -203,6 +203,17 @@
           "time_info": "[12时31分 ~ 13时25分]"
         },
         {
+          "title": "5500亿美元投资细节曝光，“日本将任由特朗普摆布”",
+          "url": "https://news.ifeng.com/c/8mU0ALWqMk0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
           "title": "俄乌和谈僵局难破！特朗普再发威胁：准备对俄实施第二阶段制裁",
           "url": "https://www.cls.cn/detail/2137947",
           "source": "财联社热门",
@@ -228,17 +239,6 @@
           "time_info": "[12时31分 ~ 15时28分]"
         },
         {
-          "title": "美国总统特朗普：拜登自动笔丑闻影响重大，虽然不如通俄门骗局与2020大选舞弊指控，但它仍是有史以来最大的丑闻之一！！！",
-          "url": "https://flash.jin10.com/detail/20250908204203745800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "日本首相辞职 特朗普表示不知情",
           "url": "https://flash.jin10.com/detail/20250908065226750800",
           "source": "金十数据",
@@ -248,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普：希望奥斯卡重新审视他们的评奖标准",
+          "url": "https://flash.jin10.com/detail/20250908211124009800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "特朗普：准备对俄实施第二阶段制裁",
@@ -262,17 +273,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时57分 ~ 13时25分]"
-        },
-        {
-          "title": "5500亿美元投资细节曝光，“日本将任由特朗普摆布”",
-          "url": "https://news.ifeng.com/c/8mU0ALWqMk0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 20时53分]"
         },
         {
           "title": "威逼委内瑞拉特朗普想干什么",
@@ -310,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "美国总统特朗普：拜登自动笔丑闻影响重大，虽然不如通俄门骗局与2020大选舞弊指控，但它仍是有史以来最大的丑闻之一！！！",
+          "url": "https://flash.jin10.com/detail/20250908204203745800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "贝森特：如果最高法院裁定特朗普越权，财政部将退还大约“一半关税”",
@@ -385,6 +397,30 @@
           "time_info": "[05时21分 ~ 06时22分]"
         },
         {
+          "title": "特朗普回应石破茂辞职：完全不知道",
+          "url": "https://www.toutiao.com/trending/7546576841772125735/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
+        },
+        {
+          "title": "媒体：特朗普“异常冷漠”震动日本",
+          "url": "https://www.toutiao.com/trending/7547261913877594175/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普回应乌女难民逃到美国遭刺死",
           "url": "https://www.toutiao.com/trending/7546822043514408490/",
           "source": "今日头条",
@@ -424,20 +460,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
         {
-          "title": "特朗普回应石破茂辞职：完全不知道",
-          "url": "https://www.toutiao.com/trending/7546576841772125735/",
-          "source": "今日头条",
+          "title": "据华盛顿邮报：美国总统特朗普政府要求最高法院允许其冻结数十亿美元的外国援助。",
+          "url": "https://flash.jin10.com/detail/20250908205622005800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时35分"
         },
         {
           "title": "印度首席经济顾问：特朗普关税或使印度本财年GDP下降0.5个百分点",
@@ -460,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "乌克兰女子在美遭刺喉 特朗普称可怕",
+          "url": "https://www.toutiao.com/trending/7547247538714787903/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "特朗普向哈马斯发出“最后警告”",
@@ -504,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
-        },
-        {
-          "title": "媒体：特朗普“异常冷漠”震动日本",
-          "url": "https://www.toutiao.com/trending/7547261913877594175/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-08）",
@@ -586,7 +622,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "高盛市场调研：进入9月，美股多头继续押AI、空头担心增长和集中度、所有人都看多黄金",
@@ -614,15 +650,15 @@
           "time_info": "[00时27分 ~ 14时39分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-09-08）",
-          "url": "https://flash.jin10.com/detail/20250908204253679800",
-          "source": "金十数据",
+          "title": "美股盘前中概股普涨，欧股上涨，美元持续走低，现货黄金站上3620美元",
+          "url": "https://wallstreetcn.com/articles/3755133",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "高盛分析师：美股涨势将扩大至小盘股",
@@ -636,15 +672,16 @@
           "time_info": "17时30分"
         },
         {
-          "title": "美股盘前中概股普涨，欧股上涨，美元持续走低，现货黄金站上3620美元",
-          "url": "https://wallstreetcn.com/articles/3755133",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-09-08）",
+          "url": "https://flash.jin10.com/detail/20250908204253679800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "美股盘前中概股普涨，日股全面收涨，现货黄金站上3620美元",
@@ -700,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2970327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美股三大股指期货周一小幅低开，纳指期货现跌0.1%。",
@@ -804,7 +852,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -836,8 +884,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时12分 ~ 20时53分]"
+          "appearance_count": 15,
+          "time_info": "[11时12分 ~ 21时35分]"
         },
         {
           "title": "付鹏：美债突破在即？关注US10Y 3年收敛三角形末端的关键信号：解析从美债波动率到美股波动率的传导密码【付鹏说3】",
@@ -886,7 +934,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -903,7 +951,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -919,11 +967,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时35分]"
         }
       ]
     },
