@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-09T22:26:04.703071+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2025-09-09T23:57:23.133434+08:00",
+  "total_titles_processed": 2079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "针对超300名韩国人在美被捕，特朗普最新回应",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1948668633254425128",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时27分 ~ 23时57分]"
         },
         {
           "title": "乌克兰女子在美国轻轨车厢遭刺喉，特朗普：太可怕了",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时36分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1948668633254425128",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时27分 ~ 22时26分]"
         },
         {
           "title": "特朗普回应石破茂辞职：完全不知道",
@@ -137,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时55分 ~ 22时26分]"
+          "appearance_count": 19,
+          "time_info": "[09时55分 ~ 23时57分]"
         },
         {
           "title": "特朗普回应乌女难民逃到美国遭刺死",
@@ -216,6 +216,28 @@
           "time_info": "[02时36分 ~ 07时23分]"
         },
         {
+          "title": "以色列：特朗普批准在卡塔尔精准打击哈马斯领导层",
+          "url": "https://news.ifeng.com/c/8mW4AcOsTic",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
+          "title": "特朗普批准以军精准打击哈马斯行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E4%BB%A5%E5%86%9B%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%93%88%E9%A9%AC%E6%96%AF%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
           "title": "特朗普性侵案上诉失败，需赔偿女作家8330万美元",
           "url": "https://news.ifeng.com/c/8mUaPBzpuaL",
           "source": "凤凰网",
@@ -247,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "AXIOS网站记者：美国官员证实，在以色列袭击卡塔尔哈马斯官员前，特朗普政府已收到通知。该官员补充称，以色列是在导弹发射后才发出通知的，因此特朗普政府没有机会介入。",
+          "url": "https://flash.jin10.com/detail/20250909233515548800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "特朗普上诉失败 需赔女方8330万美元",
@@ -406,6 +439,17 @@
           "time_info": "[01时22分 ~ 03时23分]"
         },
         {
+          "title": "原油一度涨近2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
+          "url": "https://wallstreetcn.com/articles/3755257",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
           "title": "特朗普希望落空？关税大棒下美国农业贸易逆差再创新高",
           "url": "https://www.cls.cn/detail/2139213",
           "source": "财联社热门",
@@ -532,6 +576,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "民主党反击特朗普 指责其抵押贷款欺诈调查是滥用权力",
+          "url": "https://flash.jin10.com/detail/20250909231519178800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "特朗普媒体科技集团(DJT.O)宣布真实社交平台新增“编辑推文”功能。",
           "url": "https://flash.jin10.com/detail/20250909203132207800",
           "source": "金十数据",
@@ -549,7 +604,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -560,9 +615,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "被指滥用职权针对特朗普政敌，联邦住房金融局局长Pulte面临调查",
+          "url": "https://wallstreetcn.com/livenews/2971073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "美国总统特朗普：美联储已经崩溃，需要进行修复。",
@@ -596,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "据美国国会山报：美国众议院司法委员会民主党人正对特朗普政府的抵押贷款欺诈调查启动彻查，指控联邦住房金融署（FHFA）在针对特朗普三名政治对手时存在“公然滥用职权”行为。",
+          "url": "https://flash.jin10.com/detail/20250909225423574800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "“特朗普致爱泼斯坦署名信”曝光",
@@ -706,6 +783,18 @@
           "time_info": "16时34分"
         },
         {
+          "title": "美股期指走高 重磅就业报告来袭 苹果新品发布在即 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2140207",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时57分]"
+        },
+        {
           "title": "利好出尽是利空 摩根大通交易员警告降息或引发美股下挫",
           "url": "https://wallstreetcn.com/livenews/2970406",
           "source": "华尔街见闻-快讯",
@@ -754,18 +843,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股期指走高 重磅就业报告来袭 苹果新品发布在即 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2140207",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "金十图示：2025年09月08日（周一）美股热门股票行情一览（美股盘中）",
@@ -901,7 +978,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -967,7 +1044,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -989,7 +1066,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -1079,7 +1156,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -1144,8 +1221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时42分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[14时42分 ~ 23时57分]"
         },
         {
           "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
@@ -1307,7 +1384,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金首次涨超 3560 美元，国际金价连涨七日，国内金饰价涨破 1050 元，受哪些因素影响？",
@@ -1351,6 +1428,17 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "以军袭击哈马斯高层 油价金价齐涨",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E5%B1%82+%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%BD%90%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
           "title": "金十图示：2025年09月09日（周二）上海金午盘价为831.08元/克，较国际金价(835.2元/克)，低4.12元/克。",
           "url": "https://flash.jin10.com/detail/20250909150256201800",
           "source": "金十数据",
@@ -1387,18 +1475,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "外媒：伊朗谴责以色列袭击哈马斯高官",
           "url": "https://wallstreetcn.com/livenews/2971061",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时57分]"
+        },
+        {
+          "title": "伊朗谴责以色列袭击哈马斯高官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与国际原子能机构有望在开罗会谈上达成协议。",
@@ -1493,7 +1593,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
