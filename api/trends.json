@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-09T15:34:51.904618+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-09-09T16:34:15.510806+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "针对超300名韩国人在美被捕，特朗普最新回应",
@@ -55,6 +55,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "“在印度问题上，特朗普政府犯了一个大错”",
+          "url": "https://news.ifeng.com/c/8mVGuAhFcNp",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普给爱波斯坦的信件被曝光，信中还有简笔画",
+          "url": "https://news.ifeng.com/c/8mVFvTgzQsx",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 16时34分]"
         },
         {
           "title": "特朗普称准备对俄罗斯实施第二阶段制裁",
@@ -119,30 +145,6 @@
           "time_info": "[02时36分 ~ 14时42分]"
         },
         {
-          "title": "“在印度问题上，特朗普政府犯了一个大错”",
-          "url": "https://news.ifeng.com/c/8mVGuAhFcNp",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普给爱波斯坦的信件被曝光，信中还有简笔画",
-          "url": "https://news.ifeng.com/c/8mVFvTgzQsx",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时34分]"
-        },
-        {
           "title": "特朗普：准备对俄实施第二阶段制裁",
           "url": "https://news.ifeng.com/c/8mUlqaedZ3F",
           "source": "凤凰网",
@@ -153,6 +155,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 13时24分]"
+        },
+        {
+          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "特朗普政府请求冻结数十亿美元援助",
@@ -228,21 +246,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 13时24分]"
-        },
-        {
-          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 15时34分]"
         },
         {
           "title": "刺杀特朗普未遂男子受审",
@@ -427,6 +430,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美最高法院支持特朗普政府在加州的移民突袭执法政策",
+          "url": "https://wallstreetcn.com/livenews/2970831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普喊话哈马斯接受停火意味什么",
           "url": "https://www.toutiao.com/trending/7547886117291298340/",
           "source": "今日头条",
@@ -485,7 +499,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大指数开盘上涨，百度涨超7%，美元持续走低，现货黄金站上3630美元",
@@ -522,6 +536,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时23分 ~ 13时24分]"
+        },
+        {
+          "title": "泰克资源美股盘前涨超10%，此前英美资源集团宣布将以530亿英镑的交易价格与该公司合并。",
+          "url": "https://flash.jin10.com/detail/20250909160340479800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "利好出尽是利空 摩根大通交易员警告降息或引发美股下挫",
@@ -643,6 +668,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "AI数据中心概念股Nebius Group美股盘前涨超45%，公司与微软达成至多194亿美元AI基建协议。",
+          "url": "https://wallstreetcn.com/livenews/2970828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "加拿大矿业公司泰克资源ADR美股盘后涨13.9%，报道称，英美公司接近达成收购该公司的协议。",
           "url": "https://wallstreetcn.com/livenews/2970506",
           "source": "华尔街见闻-快讯",
@@ -669,8 +705,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "长端美债ETF收涨超1.3%，和黄金ETF、新兴市场ETF领跑美股大类资产类ETF",
@@ -683,6 +719,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
+          "url": "https://wallstreetcn.com/articles/3755201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时34分]"
         },
         {
           "title": "“新债王”Gundlach的DoubleLine Capital：如果美联储降息，将让美债收益率曲线变得更加陡峭。",
@@ -698,6 +745,18 @@
           "time_info": "[00时37分 ~ 02时37分]"
         },
         {
+          "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
+          "url": "https://www.cls.cn/detail/2139429",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 16时34分]"
+        },
+        {
           "title": "长端美债收益率至少跌超5个基点，继续跌离200日均线",
           "url": "https://wallstreetcn.com/livenews/2970455",
           "source": "华尔街见闻-快讯",
@@ -710,17 +769,6 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
-          "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
-          "url": "https://wallstreetcn.com/articles/3755201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时34分]"
-        },
-        {
           "title": "城堡投资经济学家：30年期美债收益率是经济状况的关键衡量指标",
           "url": "https://wallstreetcn.com/livenews/2970413",
           "source": "华尔街见闻-快讯",
@@ -731,17 +779,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时23分]"
-        },
-        {
-          "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
-          "url": "https://www.cls.cn/detail/2139429",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         }
       ]
     },
@@ -797,7 +834,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -808,7 +845,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -822,6 +859,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：已解决谷歌会议（Google Meet）客户遇到的问题。",
+          "url": "https://flash.jin10.com/detail/20250909023421146800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时27分]"
+        },
+        {
+          "title": "Vidu Q1参考生图硬刚Google Nano Banana，7图参考实现“一致性”突破",
+          "url": "https://wallstreetcn.com/livenews/2970752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时34分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：我们正在调查谷歌会议（Google Meet）问题的报告。",
+          "url": "https://flash.jin10.com/detail/20250909020204389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时27分]"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间13:24（北京时间周二01:24），谷歌会议（Google Meet）在美国出现9710次故障。",
+          "url": "https://flash.jin10.com/detail/20250909014538116800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时27分]"
+        },
+        {
+          "title": "韩国称需就地图数据与谷歌进一步磋商。",
+          "url": "https://wallstreetcn.com/livenews/2970804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -887,64 +991,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：已解决谷歌会议（Google Meet）客户遇到的问题。",
-          "url": "https://flash.jin10.com/detail/20250909023421146800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时27分]"
-        },
-        {
-          "title": "Vidu Q1参考生图硬刚Google Nano Banana，7图参考实现“一致性”突破",
-          "url": "https://wallstreetcn.com/livenews/2970752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时34分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：我们正在调查谷歌会议（Google Meet）问题的报告。",
-          "url": "https://flash.jin10.com/detail/20250909020204389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时27分]"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间13:24（北京时间周二01:24），谷歌会议（Google Meet）在美国出现9710次故障。",
-          "url": "https://flash.jin10.com/detail/20250909014538116800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数8日下跌",
@@ -970,13 +1018,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时23分]"
+        },
+        {
+          "title": "美元指数短线拉升，现涨0.03%，此前一度跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/2970808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "阿曼与伊朗就恢复与国际原子能机构（IAEA）合作展开讨论。",
+          "url": "https://flash.jin10.com/detail/20250909155219684800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
         {
           "title": "唐驳虎：伊朗向西方“屈辱求和”失败",
           "url": "https://www.toutiao.com/trending/7547917857955253801/",
