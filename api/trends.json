@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-09T09:55:43.455217+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-09-09T11:06:23.813329+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "针对超300名韩国人在美被捕，特朗普最新回应",
@@ -98,8 +98,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 11时06分]"
         },
         {
           "title": "威逼委内瑞拉特朗普想干什么",
@@ -147,15 +147,37 @@
           "time_info": "[02时36分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：准备对俄实施第二阶段制裁",
+          "url": "https://news.ifeng.com/c/8mUlqaedZ3F",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时06分]"
+        },
+        {
           "title": "特朗普性侵案上诉失败，需赔偿女作家8330万美元",
           "url": "https://news.ifeng.com/c/8mUaPBzpuaL",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "“特朗普寄给爱泼斯坦的庆生信”被公开，白宫回应",
+          "url": "https://news.ifeng.com/c/8mVFvTgzQsx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         },
         {
           "title": "特朗普政府拟在近期发布抨击劳工统计局的报告",
@@ -175,20 +197,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
         {
-          "title": "特朗普：准备对俄实施第二阶段制裁",
-          "url": "https://news.ifeng.com/c/8mUlqaedZ3F",
+          "title": "“在印度问题上，特朗普政府犯了一个大错”",
+          "url": "https://news.ifeng.com/c/8mVGuAhFcNp",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "11时06分"
         },
         {
           "title": "特朗普在白宫半年，如何“秋后算账”？",
@@ -197,9 +219,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普上诉失败 需赔女方8330万美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%AF%89%E5%A4%B1%E8%B4%A5+%E9%9C%80%E8%B5%94%E5%A5%B3%E6%96%B98330%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时06分]"
         },
         {
           "title": "美国科技和金融巨头将随特朗普第二次访问英国",
@@ -301,6 +335,30 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "特朗普翻案失败 仍须赔8330万美元",
+          "url": "https://www.toutiao.com/trending/7547741357742424105/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时06分]"
+        },
+        {
+          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时06分]"
+        },
+        {
           "title": "特朗普：战争部回归，美国也回来了。",
           "url": "https://flash.jin10.com/detail/20250909005546981800",
           "source": "金十数据",
@@ -313,17 +371,6 @@
           "time_info": "[02时37分 ~ 03时23分]"
         },
         {
-          "title": "特朗普上诉失败 需赔女方8330万美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%AF%89%E5%A4%B1%E8%B4%A5+%E9%9C%80%E8%B5%94%E5%A5%B3%E6%96%B98330%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
           "title": "报道：特朗普政府正准备批评美国BLS即将披露的就业报告",
           "url": "https://wallstreetcn.com/livenews/2970512",
           "source": "华尔街见闻-快讯",
@@ -333,28 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普翻案失败 仍须赔8330万美元",
-          "url": "https://www.toutiao.com/trending/7547741357742424105/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普：正等待芝加哥来电求助，将彻底整顿该市治安。不解芝加哥为何至今未联系我们。",
@@ -427,8 +452,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时06分]"
         },
         {
           "title": "利好出尽是利空 摩根大通交易员警告降息或引发美股下挫",
@@ -545,7 +570,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -573,7 +598,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -584,7 +609,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -595,7 +620,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -617,7 +642,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
@@ -665,6 +690,18 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "为何华尔街开始悄然配置避险资产？美银Hartnett：美债承压下的\"尼克松重演\"",
+          "url": "https://wallstreetcn.com/articles/3755176",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时06分]"
+        },
+        {
           "title": "城堡投资经济学家：30年期美债收益率是经济状况的关键衡量指标",
           "url": "https://wallstreetcn.com/livenews/2970413",
           "source": "华尔街见闻-快讯",
@@ -675,17 +712,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时23分]"
-        },
-        {
-          "title": "为何华尔街开始悄然配置避险资产？美银Hartnett：美债承压下的\"尼克松重演\"",
-          "url": "https://wallstreetcn.com/articles/3755176",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         }
       ]
     },
@@ -741,7 +767,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
@@ -819,6 +845,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek、通义千问等国产大模型引领全球开源创新生态",
+          "url": "https://wallstreetcn.com/livenews/2970651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为何伊朗空军曾锁定以战机却无法击落",
+          "url": "https://www.toutiao.com/trending/7547884618129608231/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         }
       ]
     }
