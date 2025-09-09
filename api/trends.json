@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-09T19:23:17.101100+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2025-09-09T20:55:03.971491+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "针对超300名韩国人在美被捕，特朗普最新回应",
@@ -121,11 +121,12 @@
             14,
             11,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时55分]"
         },
         {
           "title": "特朗普回应乌女难民逃到美国遭刺死",
@@ -160,6 +161,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时36分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1948668633254425128",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 20时55分]"
         },
         {
           "title": "特朗普：准备对俄实施第二阶段制裁",
@@ -201,17 +214,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时36分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1948668633254425128",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "特朗普性侵案上诉失败，需赔偿女作家8330万美元",
@@ -481,7 +483,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -495,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)宣布真实社交平台新增“编辑推文”功能。",
+          "url": "https://flash.jin10.com/detail/20250909203132207800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "特朗普喊话哈马斯接受停火意味什么",
@@ -721,7 +734,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -815,7 +828,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -888,7 +901,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -899,7 +912,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -918,7 +931,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为何华尔街开始悄然配置避险资产？美银Hartnett：美债承压下的\"尼克松重演\"",
@@ -930,8 +943,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时55分]"
         },
         {
           "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
@@ -942,8 +955,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时42分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[14时42分 ~ 20时55分]"
         },
         {
           "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
@@ -1006,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时23分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比上升 空头占比持平",
+          "url": "https://wallstreetcn.com/livenews/2970988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
