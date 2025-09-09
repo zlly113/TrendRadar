@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-10T04:31:08.514212+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-09-10T05:22:47.201405+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 25,
       "titles": [
         {
           "title": "以色列：特朗普批准在卡塔尔精准打击哈马斯领导层",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
@@ -27,20 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
-        },
-        {
-          "title": "原油一度涨近2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
-          "url": "https://wallstreetcn.com/articles/3755257",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
@@ -50,6 +38,18 @@
             9,
             10,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
+        },
+        {
+          "title": "原油一度涨近2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
+          "url": "https://wallstreetcn.com/articles/3755257",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -114,6 +114,83 @@
           "time_info": "[02时39分 ~ 03时32分]"
         },
         {
+          "title": "原油盘中涨超2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
+          "url": "https://wallstreetcn.com/articles/3755257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "周二（9月9日），“特朗普关税输家”指数跌1.32%，报110.32点。",
+          "url": "https://wallstreetcn.com/livenews/2971173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国最高法院将快速审理特朗普关税案。",
+          "url": "https://wallstreetcn.com/livenews/2971172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国财长贝森特：相信最高法院将支持总统特朗普的关税政策。",
+          "url": "https://wallstreetcn.com/livenews/2971171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国财长贝森特：我还打算写一些关于美元的东西。 将在文章中讨论如何保持美元（在全球储备货币）的主导地位。 美国濒临临界点，总统特朗普正将美国从边缘地带拽回来。",
+          "url": "https://wallstreetcn.com/livenews/2971170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国最高法院审理特朗普关税案，辩论安排在11月初",
+          "url": "https://flash.jin10.com/detail/20250910044639862800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国最高法院加速处理特朗普关税上诉案。",
+          "url": "https://flash.jin10.com/detail/20250910042729222800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
           "title": "白宫：美国总统特朗普与卡塔尔领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20250910014741945800",
           "source": "金十数据",
@@ -125,6 +202,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "美国最高法院同意审理特朗普对上诉法院裁定其大部分关税无效的上诉案。",
+          "url": "https://flash.jin10.com/detail/20250910042652819800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
           "title": "白宫：以色列总理内塔尼亚胡告诉美国总统特朗普，他希望尽快实现和平。",
           "url": "https://flash.jin10.com/detail/20250910014728526800",
           "source": "金十数据",
@@ -134,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普回应以色列空袭卡塔尔：不会再有下次",
+          "url": "https://flash.jin10.com/detail/20250910042549829800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "白宫：袭击发生后，美国总统特朗普与以色列总理内塔尼亚胡进行了通话。",
@@ -156,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国财长贝森特：我相信最高法院会支持特朗普的关税。",
+          "url": "https://flash.jin10.com/detail/20250910042125272800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "被指滥用职权针对特朗普政敌，联邦住房金融局局长Pulte面临调查",
@@ -183,7 +293,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股期指走高 重磅就业报告来袭 苹果新品发布在即 | 今夜看点",
@@ -196,8 +306,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至22.15%。",
@@ -206,7 +316,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -215,22 +325,24 @@
           "url": "https://wallstreetcn.com/livenews/2971165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
         },
         {
           "title": "Bill Holdings Inc.(BILL）美股盘后涨3.1%，英国金融时报报道称，私募、野蛮人Elliott对该公司持股至少5%。",
           "url": "https://wallstreetcn.com/livenews/2971164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
         },
         {
           "title": "金十图示：2025年09月09日（周二）美股热门股票行情一览（美股收盘）",
@@ -239,7 +351,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -261,7 +373,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -272,7 +384,80 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "甲骨文美股盘后涨幅扩大至22.15%。 人工智能（AI）基础设施概念股CoreWeave涨3.7%，AMD和英伟达涨2%，超微电脑涨1.7%，GE Vernova涨1.5%，核电概念股Constellation Energy涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/2971167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘后涨幅扩大至20%。",
+          "url": "https://flash.jin10.com/detail/20250910042144964800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜，谷歌A收涨将近2.4%，苹果在秋季新品发布会当天跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/2971177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "谷歌云计算CEO Thomas Kurian：预计谷歌云（年度）营收到2027年将达到580亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2971157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "谷歌云计算CEO：预计谷歌云（年度）营收到2027年将达到580亿美元。",
+          "url": "https://flash.jin10.com/detail/20250910035900497800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌云的Rust SDK现已可用。",
+          "url": "https://flash.jin10.com/detail/20250910034704583800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -290,8 +475,22 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
+        },
+        {
+          "title": "为何伊朗空军曾锁定以战机却无法击落",
+          "url": "https://www.toutiao.com/trending/7547884618129608231/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 05时22分]"
         },
         {
           "title": "构建合作新框架，伊朗与国际原子能机构达成协议",
@@ -304,19 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时32分]"
-        },
-        {
-          "title": "为何伊朗空军曾锁定以战机却无法击落",
-          "url": "https://www.toutiao.com/trending/7547884618129608231/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "伊朗外交部发言人：伊朗和国际原子能机构已就在新情况下如何互动达成一致。这一协议的细节将在几分钟后由外交部长在新闻发布会上公布。",
@@ -333,47 +519,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌云计算CEO Thomas Kurian：预计谷歌云（年度）营收到2027年将达到580亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2971157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "谷歌云计算CEO：预计谷歌云（年度）营收到2027年将达到580亿美元。",
-          "url": "https://flash.jin10.com/detail/20250910035900497800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌云的Rust SDK现已可用。",
-          "url": "https://flash.jin10.com/detail/20250910034704583800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "以军袭击哈马斯高层 油价金价齐涨",
@@ -381,11 +528,23 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
+        },
+        {
+          "title": "金价跌超0.2%，和美股费城金银指数在美国CPI数据发布前脱离历史最高位",
+          "url": "https://wallstreetcn.com/livenews/2971180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "金价",
@@ -413,25 +572,26 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "两年期美债收益率涨超5个基点，投资者注意力从就业数据年度修订转向美国CPI",
           "url": "https://wallstreetcn.com/livenews/2971149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时22分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数涨超0.3%",
@@ -439,11 +599,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时22分]"
+        },
+        {
+          "title": "美元指数9日上涨",
+          "url": "https://flash.jin10.com/detail/20250910044759832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     }
