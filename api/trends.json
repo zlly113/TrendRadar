@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-09T17:29:47.113785+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-09-09T18:28:11.931506+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "针对超300名韩国人在美被捕，特朗普最新回应",
@@ -111,6 +111,23 @@
           "time_info": "[00时37分 ~ 09时55分]"
         },
         {
+          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17,
+            14,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时28分]"
+        },
+        {
           "title": "特朗普回应乌女难民逃到美国遭刺死",
           "url": "https://www.toutiao.com/trending/7546822043514408490/",
           "source": "今日头条",
@@ -143,23 +160,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时36分 ~ 14时42分]"
-        },
-        {
-          "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31569989",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17,
-            14,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时29分]"
         },
         {
           "title": "特朗普：准备对俄实施第二阶段制裁",
@@ -201,6 +201,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时36分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普政府切断科研经费，顶尖华裔数学家陶哲轩被迫紧急筹款，美科研经费困境有多严重？会产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1948668633254425128",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "特朗普性侵案上诉失败，需赔偿女作家8330万美元",
@@ -266,7 +277,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -277,7 +288,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -464,6 +475,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-09）",
+          "url": "https://flash.jin10.com/detail/20250909175657504800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "特朗普喊话哈马斯接受停火意味什么",
           "url": "https://www.toutiao.com/trending/7547886117291298340/",
           "source": "今日头条",
@@ -522,7 +544,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大指数开盘上涨，百度涨超7%，美元持续走低，现货黄金站上3630美元",
@@ -561,17 +583,6 @@
           "time_info": "[07时23分 ~ 13时24分]"
         },
         {
-          "title": "Eightco美股盘前涨超10%，前一交易日收涨3008.97%，报45.08美元，该公司宣布采用基于代币WorldCoin的财库策略。",
-          "url": "https://wallstreetcn.com/livenews/2970886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "泰克资源美股盘前涨超10%，此前英美资源集团宣布将以530亿英镑的交易价格与该公司合并。",
           "url": "https://flash.jin10.com/detail/20250909160340479800",
           "source": "金十数据",
@@ -594,6 +605,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时37分]"
+        },
+        {
+          "title": "Eightco美股盘前涨超10%，前一交易日收涨3008.97%，报45.08美元，该公司宣布采用基于代币WorldCoin的财库策略。",
+          "url": "https://wallstreetcn.com/livenews/2970886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
         },
         {
           "title": "半导体ETF收涨1.1%，领跑美股行业ETF",
@@ -713,6 +736,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "美股涨不动了？加皇银行分析师称买方“累了”",
+          "url": "https://flash.jin10.com/detail/20250909175033764800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "加拿大矿业公司泰克资源ADR美股盘后涨13.9%，报道称，英美公司接近达成收购该公司的协议。",
           "url": "https://wallstreetcn.com/livenews/2970506",
           "source": "华尔街见闻-快讯",
@@ -730,7 +764,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -741,7 +775,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -761,8 +795,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时28分]"
         },
         {
           "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
@@ -773,8 +807,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 18时28分]"
+        },
+        {
+          "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
+          "url": "https://www.cls.cn/detail/2139429",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 18时28分]"
         },
         {
           "title": "长端美债ETF收涨超1.3%，和黄金ETF、新兴市场ETF领跑美股大类资产类ETF",
@@ -787,19 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "抛美债、买黄金！早在特朗普加征关税前 印度央行便已有所行动",
-          "url": "https://www.cls.cn/detail/2139429",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 17时29分]"
         },
         {
           "title": "“新债王”Gundlach的DoubleLine Capital：如果美联储降息，将让美债收益率曲线变得更加陡峭。",
@@ -845,17 +879,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "纳斯达克拟向加密交易所Gemini投资5000万美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/2970883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "谷歌(GOOG.O)：已解决谷歌会议（Google Meet）客户遇到的问题。",
           "url": "https://flash.jin10.com/detail/20250909023421146800",
           "source": "金十数据",
@@ -878,6 +901,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 15时34分]"
+        },
+        {
+          "title": "纳斯达克拟向加密交易所Gemini投资5000万美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/2970883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：我们正在调查谷歌会议（Google Meet）问题的报告。",
@@ -1060,6 +1095,56 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与国际原子能机构有望在开罗会谈上达成协议。",
+          "url": "https://flash.jin10.com/detail/20250909180113875800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "阿曼与伊朗就恢复与国际原子能机构（IAEA）合作展开讨论。",
+          "url": "https://flash.jin10.com/detail/20250909155219684800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "唐驳虎：伊朗向西方“屈辱求和”失败",
+          "url": "https://www.toutiao.com/trending/7547917857955253801/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "为何伊朗空军曾锁定以战机却无法击落",
+          "url": "https://www.toutiao.com/trending/7547884618129608231/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1098,45 +1183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿曼与伊朗就恢复与国际原子能机构（IAEA）合作展开讨论。",
-          "url": "https://flash.jin10.com/detail/20250909155219684800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "唐驳虎：伊朗向西方“屈辱求和”失败",
-          "url": "https://www.toutiao.com/trending/7547917857955253801/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "为何伊朗空军曾锁定以战机却无法击落",
-          "url": "https://www.toutiao.com/trending/7547884618129608231/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
         }
       ]
     },
