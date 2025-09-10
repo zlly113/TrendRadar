@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-10T07:22:37.825367+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2025-09-10T09:50:19.961487+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "以色列：特朗普批准在卡塔尔精准打击哈马斯领导层",
@@ -26,11 +26,12 @@
             3,
             4,
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时50分]"
         },
         {
           "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
@@ -75,9 +76,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普：明日公布对以色列袭击卡塔尔的完整声明",
+          "url": "https://news.ifeng.com/c/8mWlfSX6WRX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普回应以军空袭卡塔尔：深感遗憾",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8D%A1%E5%A1%94%E5%B0%94%EF%BC%9A%E6%B7%B1%E6%84%9F%E9%81%97%E6%86%BE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "卡塔尔埃米尔在与特朗普的电话通话中表示，卡塔尔将采取一切必要措施来保护其安全并维护其主权。",
@@ -108,9 +131,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "原油盘中涨超2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
+          "url": "https://wallstreetcn.com/articles/3755257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时22分 ~ 09时50分]"
         },
         {
           "title": "特朗普：以色列袭击多哈“不是我做出的决定”",
@@ -125,16 +160,16 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "原油盘中涨超2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
-          "url": "https://wallstreetcn.com/articles/3755257",
-          "source": "华尔街见闻",
+          "title": "以色列：特朗普批准精准打击哈马斯行动，卡塔尔谴责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31581324",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7
+            14,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时22分 ~ 07时22分]"
+          "time_info": "[06时23分 ~ 09时50分]"
         },
         {
           "title": "贝森特：美国总统特朗普关于“美联储用高利率扼杀经济增长”的说法没错",
@@ -257,17 +292,6 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "以色列：特朗普批准精准打击哈马斯行动，卡塔尔谴责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31581324",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于9月16-18日前往英国。",
           "url": "https://wallstreetcn.com/livenews/2971120",
           "source": "华尔街见闻-快讯",
@@ -309,7 +333,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -320,7 +344,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -331,7 +355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -397,7 +421,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -433,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普称将于本周或下周与普京通话",
+          "url": "https://wallstreetcn.com/livenews/2971263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "以色列总理内塔尼亚胡：加沙战争可以立即结束。我们同意了特朗普的计划。",
@@ -475,6 +510,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美股收盘：三大指数齐创收盘新高 中概金龙指数冲击三年半高位",
+          "url": "https://www.cls.cn/detail/2140393",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时50分]"
         },
         {
           "title": "甲骨文第一财季调整后营收149.3亿美元，分析师预期150.3亿美元。 第一财季运营利润62.4亿美元，分析师预期62.1亿美元。 第一财季运营利润率42%，分析师预期41.2%。 第一财季营收（IAAS+SAAS）为72亿美元，分析师预期73.1亿美元。 第一财季云基础设施营收（IAAS）为33亿美元，分析师预期33.8亿美元。 第一财季云应用营收（SAAS）为38亿美元，分析师预期38.7亿美元。 预计2026财年云基础设施营收将增长77%，至180亿美元。 甲骨文（ORCL）美股盘后涨8.46%，涨幅随后扩大至将近11%。",
@@ -539,17 +586,6 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
-          "title": "美股收盘：三大指数齐创收盘新高 中概金龙指数冲击三年半高位",
-          "url": "https://www.cls.cn/detail/2140393",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
           "title": "金十图示：2025年09月09日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20250910040550352800",
           "source": "金十数据",
@@ -600,7 +636,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -611,7 +647,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -809,6 +845,18 @@
           "time_info": "[00时32分 ~ 06时23分]"
         },
         {
+          "title": "非农就业数据大幅下修，纳指创新高美债承压，黄金冲高后下挫，甲骨文绩后大涨27%",
+          "url": "https://wallstreetcn.com/articles/3755223",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时50分]"
+        },
+        {
           "title": "两年期美债收益率涨超5个基点，投资者注意力从就业数据年度修订转向美国CPI",
           "url": "https://wallstreetcn.com/livenews/2971149",
           "source": "华尔街见闻-快讯",
@@ -819,17 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时22分]"
-        },
-        {
-          "title": "非农就业数据大幅下修，纳指创新高美债承压，黄金冲高后下挫，甲骨文绩后大涨27%",
-          "url": "https://wallstreetcn.com/articles/3755223",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         }
       ]
     },
@@ -861,6 +898,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在韩国开设第三个亚洲办事处",
+          "url": "https://wallstreetcn.com/livenews/2971275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
