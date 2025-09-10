@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-10T18:27:19.546161+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-09-10T19:21:07.354310+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时22分 ~ 18时27分]"
+          "appearance_count": 22,
+          "time_info": "[05时22分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普称愿意对中印大幅加征关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2140940",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时21分]"
+        },
+        {
+          "title": "中方回应特朗普称愿对中印大幅加税",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%A4%A7%E5%B9%85%E5%8A%A0%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
@@ -107,21 +134,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时23分 ~ 18时27分]"
-        },
-        {
-          "title": "中方回应特朗普称愿对中印大幅加税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%A4%A7%E5%B9%85%E5%8A%A0%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 18时27分]"
+          "appearance_count": 21,
+          "time_info": "[06时23分 ~ 19时21分]"
         },
         {
           "title": "特朗普：明日公布对以色列袭击卡塔尔的完整声明",
@@ -159,17 +173,15 @@
           "time_info": "[09时50分 ~ 12时29分]"
         },
         {
-          "title": "特朗普称愿意对中印大幅加征关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2140940",
-          "source": "财联社热门",
+          "title": "特朗普称愿对中印大幅加征关税，外交部回应",
+          "url": "https://news.ifeng.com/c/8mXIKR44RgO",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            2,
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "学者：特朗普或因关税政策逐渐失势",
@@ -192,6 +204,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普称愿对中印大幅加征关税",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%A4%A7%E5%B9%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D26%26band_rank%3D25%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2584%25BF%25E5%25AF%25B9%25E4%25B8%25AD%25E5%258D%25B0%25E5%25A4%25A7%25E5%25B9%2585%25E5%258A%25A0%25E5%25BE%2581%25E5%2585%25B3%25E7%25A8%258E%2523%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26realpos%3D25%26cate%3D5001%26dgr%3D0%26display_time%3D1757496145%26pre_seqid%3D17574961454000255177068",
+          "source": "微博",
+          "ranks": [
+            25,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "特朗普回应以色列空袭卡塔尔",
@@ -240,28 +265,6 @@
           "time_info": "03时32分"
         },
         {
-          "title": "白宫：特朗普据理“依法”解除了美联储理事丽莎·库克的职务。 对美联储理事库克的裁决并非最终决定。",
-          "url": "https://wallstreetcn.com/livenews/2971567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "特朗普称愿对中印大幅加征关税，外交部回应",
-          "url": "https://news.ifeng.com/c/8mXIKR44RgO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 18时27分]"
-        },
-        {
           "title": "最新的路透社/益普索民调显示，特朗普的支持率为42%。",
           "url": "https://flash.jin10.com/detail/20250910030305393800",
           "source": "金十数据",
@@ -284,16 +287,16 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普称愿对中印大幅加征关税",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%A4%A7%E5%B9%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D26%26band_rank%3D25%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2584%25BF%25E5%25AF%25B9%25E4%25B8%25AD%25E5%258D%25B0%25E5%25A4%25A7%25E5%25B9%2585%25E5%258A%25A0%25E5%25BE%2581%25E5%2585%25B3%25E7%25A8%258E%2523%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26realpos%3D25%26cate%3D5001%26dgr%3D0%26display_time%3D1757496145%26pre_seqid%3D17574961454000255177068",
-          "source": "微博",
+          "title": "白宫：特朗普据理“依法”解除了美联储理事丽莎·库克的职务。 对美联储理事库克的裁决并非最终决定。",
+          "url": "https://wallstreetcn.com/livenews/2971567",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            5
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
         },
         {
           "title": "特朗普：以色列袭击多哈“不是我做出的决定”",
@@ -505,7 +508,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -527,7 +530,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -768,7 +771,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -871,6 +874,18 @@
           "time_info": "[17时27分 ~ 18时27分]"
         },
         {
+          "title": "游戏驿站美股盘前大涨超10%，公司第二季度硬件销售超预期。",
+          "url": "https://wallstreetcn.com/livenews/2971542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
           "title": "金十图示：2025年09月09日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20250910040550352800",
           "source": "金十数据",
@@ -888,7 +903,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -946,17 +961,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "游戏驿站美股盘前大涨超10%，公司第二季度硬件销售超预期。",
-          "url": "https://wallstreetcn.com/livenews/2971542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨幅扩大至20%。",
@@ -1065,7 +1069,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1079,6 +1083,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗谴责以色列袭击哈马斯高官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时23分]"
+        },
+        {
+          "title": "为何伊朗空军曾锁定以战机却无法击落",
+          "url": "https://www.toutiao.com/trending/7547884618129608231/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20,
+            23,
+            21,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时39分 ~ 07时22分]"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：伊朗已表达关切，国际原子能机构作为国际机构有责任解决这些关切。",
+          "url": "https://flash.jin10.com/detail/20250910174727735800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "构建合作新框架，伊朗与国际原子能机构达成协议",
+          "url": "https://wallstreetcn.com/livenews/2971133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时32分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗和国际原子能机构已就在新情况下如何互动达成一致。这一协议的细节将在几分钟后由外交部长在新闻发布会上公布。",
+          "url": "https://flash.jin10.com/detail/20250910015929462800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时32分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格奇：协议规定，我们的行动必须得到伊朗国家安全委员会的批准，我们与国际机构的合作也将遵循这一规定。",
+          "url": "https://flash.jin10.com/detail/20250910184806387800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "伊朗外交部长阿拉格奇：我们与国际机构的协议符合伊朗议会的法律，承认我们的权利，并定义了新的合作模式。",
+          "url": "https://flash.jin10.com/detail/20250910184531432800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -1097,8 +1191,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时59分 ~ 18时27分]"
+          "appearance_count": 18,
+          "time_info": "[10时59分 ~ 19时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜，谷歌A收涨将近2.4%，苹果在秋季新品发布会当天跌约1.5%",
@@ -1160,74 +1254,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗谴责以色列袭击哈马斯高官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
-        },
-        {
-          "title": "为何伊朗空军曾锁定以战机却无法击落",
-          "url": "https://www.toutiao.com/trending/7547884618129608231/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            20,
-            23,
-            21,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时39分 ~ 07时22分]"
-        },
-        {
-          "title": "国际原子能机构总干事格罗西：伊朗已表达关切，国际原子能机构作为国际机构有责任解决这些关切。",
-          "url": "https://flash.jin10.com/detail/20250910174727735800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "构建合作新框架，伊朗与国际原子能机构达成协议",
-          "url": "https://wallstreetcn.com/livenews/2971133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时32分]"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗和国际原子能机构已就在新情况下如何互动达成一致。这一协议的细节将在几分钟后由外交部长在新闻发布会上公布。",
-          "url": "https://flash.jin10.com/detail/20250910015929462800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1240,8 +1266,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时22分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[07时22分 ~ 19时21分]"
         },
         {
           "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
