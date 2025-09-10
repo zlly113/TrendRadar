@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-11T00:33:04.281564+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-11T01:21:39.079082+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称愿意对中印大幅加征关税，外交部回应",
@@ -19,6 +19,28 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "美国总统特朗普政府就法院阻止罢免美联储理事库克的裁决提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/2971765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普已下令采取迅速行动，以确保韩国关于被扣押韩国人的愿望得到满足。",
+          "url": "https://flash.jin10.com/detail/20250911010035848800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
           "title": "特朗普称愿对中印大幅加征关税，中方连说两个“坚决反对”",
           "url": "https://news.ifeng.com/c/8mXIKR44RgO",
           "source": "凤凰网",
@@ -26,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         },
         {
           "title": "以军空袭美国盟友卡塔尔踩了“红线”？特朗普称事先不知情感到“很糟糕”",
@@ -37,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         },
         {
           "title": "特朗普再次敦促美联储大幅降息",
@@ -48,30 +70,54 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         },
         {
           "title": "瑞士历峰集团创始人兼董事会主席Johann Rupert告诉股东们：相信瑞士能够处置好与美国之间的贸易纠纷，两国之间（针对美国总统特朗普的关税威胁）存在误解。",
           "url": "https://wallstreetcn.com/livenews/2971754",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "WTI原油期货涨约1.3%，刷新日高至63.10美元。 美国总统特朗普在自家社交媒体平台谈论波兰与俄罗斯之间的紧张关系。",
           "url": "https://wallstreetcn.com/livenews/2971737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "法官阻止罢免美联储理事库克，特朗普政府火速上诉",
+          "url": "https://flash.jin10.com/detail/20250911004333571800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普政府就法院阻止罢免美联储理事库克的裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20250911003058791800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "美国总统特朗普：俄罗斯无人机侵犯波兰领空是怎么回事？我们走着瞧！",
@@ -80,7 +126,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
         }
@@ -88,18 +134,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "PPI意外走弱提振降息预期，美股开盘涨跌不一，甲骨文大涨40%，美元走低，黄金维持涨势",
           "url": "https://wallstreetcn.com/articles/3755317",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         },
         {
           "title": "若最高法院也裁定“特朗普关税”非法，对美股有何影响？一文看懂",
@@ -111,6 +158,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "金十图示：2025年09月10日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250911003131890800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "金十图示：2025年09月10日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250911003125509800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     },
@@ -123,11 +192,12 @@
           "url": "https://wallstreetcn.com/livenews/2971759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "据伊朗Press TV：真主党领导人表示愿意与各方合作制止以色列的侵略，呼吁民族团结，制止美以对黎巴嫩的侵略。",
@@ -136,7 +206,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
         }
@@ -154,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         }
       ]
     },
@@ -171,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时21分]"
         }
       ]
     }
