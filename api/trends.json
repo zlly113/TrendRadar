@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-10T19:21:07.354310+08:00",
-  "total_titles_processed": 1769,
+  "generated_at": "2025-09-10T20:51:23.092348+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "又变了！特朗普：期待跟莫迪谈",
@@ -58,18 +58,6 @@
           "time_info": "[00时32分 ~ 12时29分]"
         },
         {
-          "title": "原油盘中涨超2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
-          "url": "https://wallstreetcn.com/articles/3755257",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[05时22分 ~ 19时21分]"
-        },
-        {
           "title": "特朗普称愿意对中印大幅加征关税，外交部回应",
           "url": "https://www.cls.cn/detail/2140940",
           "source": "财联社热门",
@@ -79,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 20时51分]"
         },
         {
           "title": "中方回应特朗普称愿对中印大幅加税",
@@ -90,11 +78,24 @@
             4,
             5,
             2,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 20时51分]"
+        },
+        {
+          "title": "原油盘中涨超2%，以色列称精准打击卡塔尔的哈马斯高层、特朗普“批准”",
+          "url": "https://wallstreetcn.com/articles/3755257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[05时22分 ~ 20时51分]"
         },
         {
           "title": "观察｜美国抓捕数百名韩国工人，暴露特朗普政策一个根本矛盾点",
@@ -131,11 +132,12 @@
             14,
             17,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[06时23分 ~ 19时21分]"
+          "appearance_count": 22,
+          "time_info": "[06时23分 ~ 20时51分]"
         },
         {
           "title": "特朗普：明日公布对以色列袭击卡塔尔的完整声明",
@@ -265,6 +267,17 @@
           "time_info": "03时32分"
         },
         {
+          "title": "凯雷投资集团：美国总统特朗普施压降息恐推高长期借贷成本。",
+          "url": "https://flash.jin10.com/detail/20250910204842517800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "最新的路透社/益普索民调显示，特朗普的支持率为42%。",
           "url": "https://flash.jin10.com/detail/20250910030305393800",
           "source": "金十数据",
@@ -285,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "“特朗普致爱泼斯坦署名信”风波再起，下一步要鉴定笔迹？",
+          "url": "https://news.ifeng.com/c/8mXb5sVzwkY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "白宫：特朗普据理“依法”解除了美联储理事丽莎·库克的职务。 对美联储理事库克的裁决并非最终决定。",
@@ -502,6 +526,17 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "特朗普称愿对中印大幅加征关税，中方连说两个“坚决反对”",
+          "url": "https://news.ifeng.com/c/8mXIKR44RgO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "推动“战争部”回归，特朗普不想得诺奖了？",
           "url": "https://news.ifeng.com/c/8mXTBBmLmyQ",
           "source": "凤凰网",
@@ -522,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普要求欧盟对中印加税能如愿吗",
+          "url": "https://www.toutiao.com/trending/7548385268336692772/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "特朗普的美联储提名人米兰料在参院银行委员会过关",
@@ -1159,7 +1205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1170,7 +1216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
@@ -1188,11 +1234,12 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时59分 ~ 19时21分]"
+          "appearance_count": 19,
+          "time_info": "[10时59分 ~ 20时51分]"
         },
         {
           "title": "美股七巨头收盘播报｜，谷歌A收涨将近2.4%，苹果在秋季新品发布会当天跌约1.5%",
@@ -1266,8 +1313,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时22分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[07时22分 ~ 20时51分]"
         },
         {
           "title": "美国“股债双升”对应“两种叙事”：美债定价“就业放缓”，美股定价“经济加速”",
@@ -1297,7 +1344,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数涨超0.3%",
@@ -1323,6 +1370,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫26点，最低至97.6。澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.6622。纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5955。",
+          "url": "https://flash.jin10.com/detail/20250910203135113800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
