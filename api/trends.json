@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-12T02:32:39.663427+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-09-12T03:20:20.389208+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "政治盟友演讲时遭枪击身亡，特朗普下令全美降半旗，此事将对美国政坛产生哪些影响？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普盟友遭枪杀案又抓错人：71岁老人获释",
@@ -26,8 +26,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "据悉查理·柯克枪击案之后，特朗普团队加强了安保措施。",
+          "url": "https://flash.jin10.com/detail/20250912031328804800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普：我们将拨款570万美元，用于援助堪萨斯州的严重风暴、龙卷风和洪水灾害。",
+          "url": "https://flash.jin10.com/detail/20250912030514250800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普：请求美国法院暂停允许Lisa Cook继续留在美联储的命令。",
+          "url": "https://wallstreetcn.com/livenews/2972497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "解读特朗普盟友被枪杀案",
@@ -47,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -70,35 +103,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
         },
         {
-          "title": "杀害特朗普盟友的武器已被找到",
-          "url": "https://www.toutiao.com/trending/7548626636472795179/",
-          "source": "今日头条",
+          "title": "特朗普要求杀害乌难民凶手判死刑",
+          "url": "https://www.douyin.com/hot/2232963",
+          "source": "抖音",
           "ranks": [
-            13,
-            5
+            28,
+            26,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时32分]"
-        },
-        {
-          "title": "美国商务部长：特朗普希望哈佛大学拿出5亿美元建职业学校",
-          "url": "https://wallstreetcn.com/livenews/2972464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普政治盟友身亡 拜登奥巴马发声",
@@ -106,11 +129,38 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "杀害特朗普盟友的武器已被找到",
+          "url": "https://www.toutiao.com/trending/7548626636472795179/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            5,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "time_info": "[01时22分 ~ 03时20分]"
+        },
+        {
+          "title": "美国商务部长：特朗普希望哈佛大学拿出5亿美元建职业学校",
+          "url": "https://wallstreetcn.com/livenews/2972464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
         },
         {
           "title": "特朗普在柯克遇刺后发表全国讲话",
@@ -118,22 +168,24 @@
           "source": "抖音",
           "ranks": [
             18,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普下令全国降半旗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普政治盟友遭枪击身亡",
@@ -142,11 +194,12 @@
           "ranks": [
             13,
             12,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普政治盟友遭枪击身亡",
@@ -155,11 +208,12 @@
           "ranks": [
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "视频｜一声枪响，特朗普盟友倒在美国校园演讲现场的血泊中身亡",
@@ -167,11 +221,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普盟友遇刺：政治暴力成美国“残酷常态”，言论武器化带来全球威胁",
@@ -183,8 +238,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普政治盟友遭枪击身亡",
@@ -196,8 +251,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "被枪杀的特朗普盟友支持拥枪",
@@ -205,11 +260,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            28
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普就盟友被枪杀发表全国讲话",
+          "url": "https://www.toutiao.com/trending/7547833186093662251/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "time_info": "[01时22分 ~ 03时20分]"
         },
         {
           "title": "话锋突变 美商务部长推后特朗普经济成果时间表",
@@ -224,28 +293,15 @@
           "time_info": "[01时22分 ~ 02时32分]"
         },
         {
-          "title": "特朗普就盟友被枪杀发表全国讲话",
-          "url": "https://www.toutiao.com/trending/7547833186093662251/",
-          "source": "今日头条",
+          "title": "特朗普政府要求美国上诉法院暂停一项裁定，该裁定阻止罢免美联储理事库克。",
+          "url": "https://flash.jin10.com/detail/20250912025407507800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            25
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普要求杀害乌难民凶手判死刑",
-          "url": "https://www.douyin.com/hot/2232963",
-          "source": "抖音",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "美国总统提名的印度大使：特朗普总统全力致力于继续与四边机制国家举行会晤。",
@@ -257,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "曝特朗普要求以总理不再袭击卡塔尔",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BB%A5%E6%80%BB%E7%90%86%E4%B8%8D%E5%86%8D%E8%A2%AD%E5%87%BB%E5%8D%A1%E5%A1%94%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "现代汽车推迟美国佐治亚州电池工厂的建设，此前特朗普政府对其实施突击搜查。",
@@ -292,6 +359,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普为何非要给国防部改名",
+          "url": "https://www.toutiao.com/trending/7548833013711244863/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
           "title": "特朗普提名的驻印度大使候选人表示，美国正在解决与印度关系中的“小问题”。",
           "url": "https://flash.jin10.com/detail/20250912001346882800",
           "source": "金十数据",
@@ -325,6 +403,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普“军事牌”会搅乱全球和平吗",
+          "url": "https://www.toutiao.com/trending/7548827108424814143/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
           "title": "美国商务部长卢特尼克：如果消费者承担的关税超过10%，企业（就应当）分担成本。 相信最高法院将在关税问题上站在我们（总统特朗普）一边。",
           "url": "https://wallstreetcn.com/livenews/2972422",
           "source": "华尔街见闻-快讯",
@@ -350,7 +439,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普盟友遭枪击身亡，美股枪械股急涨",
@@ -360,8 +449,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "华尔街名将Yardeni上调美股目标，料标普指数年内上7000点不是梦",
+          "url": "https://wallstreetcn.com/livenews/2972494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "金十图示：2025年09月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -425,8 +525,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "科技股力挺标普纳指新高，甲骨文暴涨36%，中概股回调，美债走强",
+          "url": "https://wallstreetcn.com/articles/3755317",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "30年期美债收益率在拍卖后走高，日内跌1.6个基点，报4.66%。",
@@ -439,17 +550,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时32分]"
-        },
-        {
-          "title": "科技股力挺标普纳指新高，甲骨文暴涨36%，中概股回调，美债走强",
-          "url": "https://wallstreetcn.com/articles/3755317",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
         }
       ]
     },
