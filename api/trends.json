@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-13T17:23:08.189411+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-09-13T18:24:00.872158+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：柯克枪击案嫌疑人已被拘捕",
@@ -102,11 +102,12 @@
             20,
             17,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 18时24分]"
         },
         {
           "title": "特朗普深陷爱泼斯坦案泥潭",
@@ -117,11 +118,35 @@
             24,
             23,
             22,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普回忆听闻柯克死讯却先大谈白宫新舞厅",
+          "url": "https://v.ifeng.com/c/8mc92hx6VZo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普没自信了：我对普京快没耐心了",
+          "url": "https://news.ifeng.com/c/8mcHCQaPtK7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时24分]"
         },
         {
           "title": "特朗普对以色列的态度为什么变了",
@@ -164,29 +189,6 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
-          "title": "特朗普回忆听闻柯克死讯却先大谈白宫新舞厅",
-          "url": "https://v.ifeng.com/c/8mc92hx6VZo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普没自信了：我对普京快没耐心了",
-          "url": "https://news.ifeng.com/c/8mcHCQaPtK7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普出席活动右脸下垂还昏昏欲睡",
           "url": "https://www.toutiao.com/trending/7549041939325161003/",
           "source": "今日头条",
@@ -213,6 +215,17 @@
           "time_info": "[00时28分 ~ 04时27分]"
         },
         {
+          "title": "柯克案嫌犯是特朗普支持者吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9F%AF%E5%85%8B%E6%A1%88%E5%AB%8C%E7%8A%AF%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E8%80%85%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
           "title": "刺杀特朗普盟友的枪手是何许人",
           "url": "https://www.toutiao.com/trending/7549375980528209459/",
           "source": "今日头条",
@@ -222,6 +235,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普对华政策致使美农民绝望喊话",
+          "url": "https://www.toutiao.com/trending/7549027508071497770/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时24分]"
+        },
+        {
+          "title": "贝莱德计划在下周美国总统特朗普访问英国期间，宣布对英国数据中心基础设施投资5亿英镑。（天空新闻）",
+          "url": "https://wallstreetcn.com/livenews/2973304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时24分]"
         },
         {
           "title": "美联邦上诉法院裁定 特朗普政府撤销数十万移民身份有效",
@@ -251,6 +292,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时34分 ~ 17时23分]"
+        },
+        {
+          "title": "在美被拘韩国工人回国，接机者举特朗普照片：我们不是朋友吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31605932",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "特朗普亲密盟友柯克为何遭枪杀",
@@ -343,20 +397,6 @@
           "time_info": "[14时34分 ~ 16时29分]"
         },
         {
-          "title": "贝莱德计划在下周美国总统特朗普访问英国期间，宣布对英国数据中心基础设施投资5亿英镑。（天空新闻）",
-          "url": "https://wallstreetcn.com/livenews/2973304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时23分]"
-        },
-        {
           "title": "报道：特朗普政府将儿童死亡与新冠疫苗接种挂钩",
           "url": "https://wallstreetcn.com/livenews/2973152",
           "source": "华尔街见闻-快讯",
@@ -367,19 +407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时21分]"
-        },
-        {
-          "title": "特朗普对华政策致使美农民绝望喊话",
-          "url": "https://www.toutiao.com/trending/7549027508071497770/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "特朗普称将向孟菲斯市派遣国民警卫队“打击犯罪”",
@@ -435,18 +462,6 @@
           "time_info": "[07时21分 ~ 10时55分]"
         },
         {
-          "title": "在美被拘韩国工人回国，接机者举特朗普照片：我们不是朋友吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31605932",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普政府撤销数十万移民身份有效",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%92%A4%E9%94%80%E6%95%B0%E5%8D%81%E4%B8%87%E7%A7%BB%E6%B0%91%E8%BA%AB%E4%BB%BD%E6%9C%89%E6%95%88",
           "source": "百度热搜",
@@ -493,6 +508,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时31分]"
+        },
+        {
+          "title": "以色列对多哈发动袭击后，白宫称特朗普将与卡塔尔首相会面，双方会讨论哪些问题？",
+          "url": "https://www.zhihu.com/question/1950135708216981394",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周五与卡塔尔首相共同进餐。（白宫记者团）",
@@ -637,8 +663,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 17时23分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 18时24分]"
         },
         {
           "title": "市场押注美联储下周降息 美股三大期指涨跌不一 | 今夜看点",
@@ -769,7 +795,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini Space Station(GEMI.O)恢复交易，现涨38%，此前因市场波动暂停交易。",
@@ -833,6 +859,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时21分]"
+        },
+        {
+          "title": "报道称美监管方调查搜索广告，亚马逊、谷歌盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3755503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "据知情人士透露，Gemini的美国IPO超额认购倍数将超过20倍。 大约70%的认购将无法获得配售。（彭博）",
@@ -908,11 +945,12 @@
           "ranks": [
             18,
             2,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时24分]"
         },
         {
           "title": "黄金价格大涨带来什么影响",
@@ -936,11 +974,12 @@
           "url": "https://wallstreetcn.com/articles/3755472",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时43分 ~ 17时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时43分 ~ 18时24分]"
         },
         {
           "title": "两年期美债收益率于美国CPI发布当周涨超4个基点，投资者静候美联储9月利率决议",
