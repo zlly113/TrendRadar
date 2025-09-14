@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-14T11:08:59.890394+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-09-14T12:29:48.471466+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时29分]"
         },
         {
           "title": "白俄罗斯媒体：卢卡申科收到特朗普“特殊”签名信",
@@ -42,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时29分]"
         },
         {
           "title": "特朗普称要“派兵” 美市长轻蔑一笑",
@@ -65,11 +66,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时29分]"
         },
         {
           "title": "特朗普：当所有北约国家都停止购买俄罗斯石油时 我将准备对俄罗斯实施重大制裁",
@@ -128,6 +130,19 @@
           "time_info": "[05时20分 ~ 09时58分]"
         },
         {
+          "title": "“雷声大雨点小”！特朗普“关税战”影响远小于“理论水平”，关键原因是“豁免”",
+          "url": "https://wallstreetcn.com/articles/3755542",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时29分]"
+        },
+        {
           "title": "特朗普：一旦所有北约成员国停止从俄罗斯购买石油，我准备对俄罗斯实施重大制裁。（新浪）",
           "url": "https://wallstreetcn.com/livenews/2973344",
           "source": "华尔街见闻-快讯",
@@ -139,18 +154,6 @@
           "time_info": "[00时26分 ~ 03时17分]"
         },
         {
-          "title": "“雷声大雨点小”！特朗普“关税战”影响远小于“理论水平”，关键原因是“豁免”",
-          "url": "https://wallstreetcn.com/articles/3755542",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 11时08分]"
-        },
-        {
           "title": "特朗普：北约对中国加税有助于停战",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8C%97%E7%BA%A6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E7%A8%8E%E6%9C%89%E5%8A%A9%E4%BA%8E%E5%81%9C%E6%88%98",
           "source": "百度热搜",
@@ -158,8 +161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 11时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时29分]"
         },
         {
           "title": "特朗普逼北约停购俄石油对俄制裁",
@@ -187,25 +190,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 11时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时29分]"
         },
         {
           "title": "DeepSeek、宇树科技等被MIT科技评论评为聪明公司",
           "url": "https://wallstreetcn.com/livenews/2973428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时29分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道称美监管方调查搜索广告，亚马逊、谷歌盘中转跌",
@@ -217,6 +221,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "《滚石》、Billboard出版商起诉谷歌AI摘要功能",
+          "url": "https://flash.jin10.com/detail/20250914105929151800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：标普冲击6600点失利 纳指本周连创5日新高",
+          "url": "https://www.cls.cn/detail/2144179",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时29分]"
+        },
+        {
+          "title": "“5个月大涨32%的美股”碰上“恢复降息的美联储”，下周会发生什么？",
+          "url": "https://wallstreetcn.com/articles/3755548",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     },
@@ -235,25 +281,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：标普冲击6600点失利 纳指本周连创5日新高",
-          "url": "https://www.cls.cn/detail/2144179",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时08分]"
         }
       ]
     }
