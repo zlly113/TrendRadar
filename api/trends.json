@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-14T13:24:05.790742+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-09-14T14:33:47.445954+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,20 @@
           "time_info": "[00时26分 ~ 13时24分]"
         },
         {
+          "title": "“雷声大雨点小”！特朗普“关税战”影响远小于“理论水平”，关键原因是“豁免”",
+          "url": "https://wallstreetcn.com/articles/3755542",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时33分]"
+        },
+        {
           "title": "特朗普：当所有北约国家都停止购买俄罗斯石油时 我将准备对俄罗斯实施重大制裁",
           "url": "https://flash.jin10.com/detail/20250913192316969800",
           "source": "金十数据",
@@ -131,19 +145,6 @@
           "time_info": "[05时20分 ~ 09时58分]"
         },
         {
-          "title": "“雷声大雨点小”！特朗普“关税战”影响远小于“理论水平”，关键原因是“豁免”",
-          "url": "https://wallstreetcn.com/articles/3755542",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普：北约对中国加税有助于停战",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8C%97%E7%BA%A6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E7%A8%8E%E6%9C%89%E5%8A%A9%E4%BA%8E%E5%81%9C%E6%88%98",
           "source": "百度热搜",
@@ -151,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时33分]"
         },
         {
           "title": "特朗普：一旦所有北约成员国停止从俄罗斯购买石油，我准备对俄罗斯实施重大制裁。（新浪）",
@@ -192,8 +193,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时33分]"
         },
         {
           "title": "DeepSeek、宇树科技等被MIT科技评论评为聪明公司",
@@ -202,11 +203,12 @@
           "ranks": [
             1,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 14时33分]"
         }
       ]
     },
@@ -214,6 +216,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "《滚石》、Billboard出版商起诉谷歌AI摘要功能",
+          "url": "https://flash.jin10.com/detail/20250914105929151800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时33分]"
+        },
         {
           "title": "报道称美监管方调查搜索广告，亚马逊、谷歌盘中转跌",
           "url": "https://wallstreetcn.com/articles/3755503",
@@ -224,18 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时19分]"
-        },
-        {
-          "title": "《滚石》、Billboard出版商起诉谷歌AI摘要功能",
-          "url": "https://flash.jin10.com/detail/20250914105929151800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时24分]"
         }
       ]
     },
@@ -263,11 +266,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 14时33分]"
         }
       ]
     },
