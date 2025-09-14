@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-15T04:25:19.932991+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-09-15T05:20:49.524466+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英国首相斯塔默将与到访的美国总统特朗普签署量子计算协议。（英国每日电讯报）",
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "岚目镜观｜宏观繁荣与微观冷感，隐伏特朗普2.0的“阿克琉斯之踵”？",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储利率决议与英、日、加央行决议接连登场；特朗普将对英国进行国事访问",
@@ -39,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "特朗普处理枪击案方式你怎么看",
@@ -52,11 +53,23 @@
           "ranks": [
             8,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "打压现代汽车工厂后 特朗普试图挽留外国工人",
+          "url": "https://flash.jin10.com/detail/20250915044516358800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -72,11 +85,12 @@
             19,
             15,
             14,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
         }
       ]
     },
@@ -92,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
         }
       ]
     }
