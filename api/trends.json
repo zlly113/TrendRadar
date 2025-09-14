@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-14T18:23:53.424855+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-09-14T19:19:27.574978+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普没自信了：我对普京快没耐心了",
@@ -168,6 +168,28 @@
           "time_info": "[00时26分 ~ 03时17分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-14）",
+          "url": "https://flash.jin10.com/detail/20250914181006291800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "岚目镜观｜宏观繁荣与微观冷感，隐伏特朗普2.0的“阿克琉斯之踵”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31608144",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普逼北约停购俄石油对俄制裁",
           "url": "https://www.toutiao.com/trending/7549340329837805594/",
           "source": "今日头条",
@@ -192,11 +214,12 @@
             5,
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek、宇树科技等被MIT科技评论评为聪明公司",
@@ -262,8 +285,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 18时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：标普冲击6600点失利 纳指本周连创5日新高",
@@ -292,11 +315,12 @@
           "ranks": [
             1,
             6,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时19分]"
         },
         {
           "title": "伊朗与国际原子能机构合作协议已获伊朗最高国家安全委员会批准",
@@ -305,11 +329,12 @@
           "ranks": [
             2,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时19分]"
         }
       ]
     },
