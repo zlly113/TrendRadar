@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-15T20:52:49.492656+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2025-09-15T21:32:42.258810+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美联储重磅决议即将来袭 特朗普预言：本周将“大幅降息”！",
@@ -41,11 +41,12 @@
           "ranks": [
             1,
             5,
-            23
+            23,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 20时52分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 21时32分]"
         },
         {
           "title": "特朗普预期美联储本周将大幅降息",
@@ -61,8 +62,23 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 21时32分]"
+        },
+        {
+          "title": "中方已邀请特朗普今年访华？外交部：没有可以提供的信息",
+          "url": "https://www.cls.cn/detail/2145260",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 21时32分]"
         },
         {
           "title": "岚目镜观｜宏观繁荣与微观冷感，隐伏特朗普2.0的“阿克琉斯之踵”？",
@@ -94,20 +110,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "中方已邀请特朗普今年访华？外交部：没有可以提供的信息",
-          "url": "https://www.cls.cn/detail/2145260",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时52分]"
         },
         {
           "title": "外交部回应“邀请特朗普访华”",
@@ -193,6 +195,18 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
+          "title": "中方已邀请特朗普今年访华？外交部：没有可以提供的信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31612936",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 21时32分]"
+        },
+        {
           "title": "英国政府表示，美国和英国将在美国总统特朗普本周访问英国期间签署一项协议，加快两国企业建设核电站的速度。",
           "url": "https://flash.jin10.com/detail/20250915071224338800",
           "source": "金十数据",
@@ -271,18 +285,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "中方已邀请特朗普今年访华？外交部：没有可以提供的信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31612936",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 20时52分]"
         },
         {
           "title": "特朗普再度敦促美上诉法院批准解雇美联储理事库克",
@@ -376,6 +378,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普：公司不应被强制发布季报",
+          "url": "https://wallstreetcn.com/livenews/2974006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普威胁将宣布全国进入紧急状态",
+          "url": "https://www.toutiao.com/trending/7550206609004396587/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时32分]"
         },
         {
           "title": "特朗普是否访华看两个关键时间节点",
@@ -488,17 +514,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普：公司不应被强制发布季报",
-          "url": "https://wallstreetcn.com/livenews/2974006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "美国总统特朗普：英国之旅将会非常棒。",
           "url": "https://flash.jin10.com/detail/20250915064504426800",
           "source": "金十数据",
@@ -508,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：鲍威尔降息幅度必须比他自己想得更大。",
+          "url": "https://wallstreetcn.com/livenews/2974031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：美联储主席是不称职的，并正在损害住房市场。",
@@ -538,7 +564,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -571,7 +597,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -593,18 +619,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普威胁将宣布全国进入紧急状态",
-          "url": "https://www.toutiao.com/trending/7550206609004396587/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -612,7 +627,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "“5个月大涨32%的美股”碰上“恢复降息的美联储”，下周会发生什么？",
@@ -652,6 +667,28 @@
           "time_info": "18时29分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-09-15）",
+          "url": "https://flash.jin10.com/detail/20250915212658507800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2974048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特斯拉美股盘前涨幅扩大至超6%，文件显示，特斯拉首席执行官马斯克买入超过250万股特斯拉股票。",
           "url": "https://wallstreetcn.com/livenews/2973968",
           "source": "华尔街见闻-快讯",
@@ -661,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "美股盘前，热门中概股涨幅扩大，蔚来涨超4%，阿里巴巴、小鹏汽车、理想汽车涨超3%；富时中国A50指数期货涨幅扩大至0.24%。",
+          "url": "https://wallstreetcn.com/livenews/2974047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美股三大股指期货基本平开。",
@@ -673,6 +721,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "三倍做多富时中国ETF-Direxion美股盘前短线拉升，涨近3%",
+          "url": "https://wallstreetcn.com/livenews/2974019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时32分]"
         },
         {
           "title": "英伟达美股盘前跌超2%",
@@ -692,7 +752,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -708,17 +768,6 @@
           "time_info": "19时22分"
         },
         {
-          "title": "三倍做多富时中国ETF-Direxion美股盘前短线拉升，涨近3%",
-          "url": "https://wallstreetcn.com/livenews/2974019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "英伟达(NVDA.O)美股盘前直线下挫，跌幅扩大至2.15%。",
           "url": "https://flash.jin10.com/detail/20250915160401293800",
           "source": "金十数据",
@@ -728,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "甲骨文美股盘前涨超4%，现报303.92美元。",
+          "url": "https://wallstreetcn.com/livenews/2974035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "摩根大通：随着美联储宽松预期兑现 ，美股情绪可能转而变得谨慎",
@@ -854,7 +914,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
