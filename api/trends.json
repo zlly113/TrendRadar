@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-15T07:22:47.181527+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2025-09-15T10:03:41.208255+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "岚目镜观｜宏观繁荣与微观冷感，隐伏特朗普2.0的“阿克琉斯之踵”？",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 10时03分]"
         },
         {
           "title": "英国首相斯塔默将与到访的美国总统特朗普签署量子计算协议。（英国每日电讯报）",
@@ -43,7 +44,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -67,7 +68,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -78,7 +79,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -89,7 +90,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -143,15 +144,37 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普将于美东时间周一下午 （北京时间次日凌晨）4 点签署总统备忘录。",
+          "url": "https://flash.jin10.com/detail/20250915095712609800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美国总统特朗普：我们将拭目以待马杜罗的情况如何发展。",
           "url": "https://flash.jin10.com/detail/20250915064750339800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普预期美联储本周将“大幅降息”",
+          "url": "https://news.ifeng.com/c/8mf6uLmmu8d",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国总统特朗普：欧洲应避免从俄罗斯进行采购。",
@@ -160,7 +183,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -171,7 +194,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -182,7 +205,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -193,7 +216,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -204,7 +227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -215,7 +238,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -226,7 +249,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -237,9 +260,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "柯克枪击案中的特朗普：亲自充当“发言人”，提前归咎特定群体",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31610479",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国总统特朗普：于周日清晨前往亚利桑那州。",
@@ -248,7 +282,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -266,8 +300,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 10时03分]"
         },
         {
           "title": "美股三大股指期货基本平开。",
