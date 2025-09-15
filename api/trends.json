@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-09-16T02:35:49.071417+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-09-16T03:20:24.317425+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普敦促美国共和党团结一致，通过“干净”的临时拨款法案",
           "url": "https://wallstreetcn.com/livenews/2974156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
         },
         {
           "title": "外交部回应“邀请特朗普访华”",
@@ -28,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "特朗普称去年3亿人死于毒品惊呆网友",
@@ -42,6 +43,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普谈对委内瑞拉“发动攻击”",
+          "url": "https://www.toutiao.com/trending/7549480966063325223/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren评论纽约时报关于（总统特朗普达成的）阿联酋芯片协议的报道。",
+          "url": "https://wallstreetcn.com/livenews/2974170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普预期美联储本周将大幅降息",
+          "url": "https://www.douyin.com/hot/2237304",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "加拿大总理卡尼：在周末与美国总统特朗普讨论了俄乌问题。",
+          "url": "https://flash.jin10.com/detail/20250916023801540800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "乌克兰总统泽连斯基：在联合国大会召开前一周，美国总统特朗普将访问欧洲。我们与欧洲国家领导人的积极合作正在进行中，这样我们才能协调一致，真正达成向俄罗斯施压的决定。",
@@ -72,7 +118,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -94,7 +140,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -105,18 +151,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "特朗普谈对委内瑞拉“发动攻击”",
-          "url": "https://www.toutiao.com/trending/7549480966063325223/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -127,67 +162,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特斯拉提振美股开启“超级央行周”，纳指涨0.45%，谷歌涨超3%续刷历史新高，英伟达跌超1%",
-          "url": "https://wallstreetcn.com/articles/3755608",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
-        },
-        {
-          "title": "谷歌广告技术出售提议未达到美司法部要求",
-          "url": "https://flash.jin10.com/detail/20250916005404424800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "一名代理律师称，Alphabet旗下谷歌公司考虑出售广告科技业务的某些部分，希望能化解欧洲和美国监管部门的反垄断顾虑。 然而，谷歌的方案建议远远无法满足美国司法部的要求。",
-          "url": "https://wallstreetcn.com/livenews/2974138",
+          "title": "华尔街重量级策略师发出警告：美联储降息后美股涨势或暂歇",
+          "url": "https://wallstreetcn.com/livenews/2974176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时35分]"
-        },
-        {
-          "title": "市场消息：谷歌广告技术出售交易远未达到司法部的要求。",
-          "url": "https://flash.jin10.com/detail/20250916003540937800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
+          "time_info": "03时20分"
+        },
         {
           "title": "美股三大期指盘前小幅走高 英伟达遭调查股价下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2145674",
@@ -197,8 +192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "标普500指数涨0.47%，道指大体持平，纳指涨0.76%，半导体指数涨0.47%，银行指数涨0.32%。 纳斯达克金龙中国指数涨幅收窄至不足0.6%，美股盘初一度涨超1.4%。",
@@ -237,6 +232,57 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉提振美股开启“超级央行周”，纳指涨0.45%，谷歌涨超3%续刷历史新高，英伟达跌超1%",
+          "url": "https://wallstreetcn.com/articles/3755608",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "谷歌广告技术出售提议未达到美司法部要求",
+          "url": "https://flash.jin10.com/detail/20250916005404424800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "一名代理律师称，Alphabet旗下谷歌公司考虑出售广告科技业务的某些部分，希望能化解欧洲和美国监管部门的反垄断顾虑。 然而，谷歌的方案建议远远无法满足美国司法部的要求。",
+          "url": "https://wallstreetcn.com/livenews/2974138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
+          "title": "市场消息：谷歌广告技术出售交易远未达到司法部的要求。",
+          "url": "https://flash.jin10.com/detail/20250916003540937800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -245,11 +291,12 @@
           "url": "https://flash.jin10.com/detail/20250916020838475800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
         }
       ]
     }
