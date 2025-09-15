@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-15T11:15:09.526208+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2025-09-15T12:30:32.401771+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "岚目镜观｜宏观繁荣与微观冷感，隐伏特朗普2.0的“阿克琉斯之踵”？",
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 11时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时30分]"
         },
         {
           "title": "英国首相斯塔默将与到访的美国总统特朗普签署量子计算协议。（英国每日电讯报）",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "据英国金融时报：特朗普今年任命的美国证交会主席阿特金斯承诺，在对企业“破门而入”进行激进执法之前，将向企业发出技术违规通知。阿特金斯指出，“不能突然砸他们的门，然后说‘抓到你了，你在做一些事情，这是技术违规’。”",
+          "url": "https://flash.jin10.com/detail/20250915121108673800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "美国总统特朗普：预计美联储将 “大幅降息”。",
@@ -130,8 +141,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普预期美联储本周将大幅降息",
+          "url": "https://www.douyin.com/hot/2237304",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时03分 ~ 11时15分]"
+          "time_info": "[11时14分 ~ 12时30分]"
         },
         {
           "title": "柯克枪击案中的特朗普：亲自充当“发言人”，提前归咎特定群体",
@@ -145,17 +168,6 @@
           "time_info": "[10时03分 ~ 11时15分]"
         },
         {
-          "title": "特朗普预期美联储本周将大幅降息",
-          "url": "https://www.douyin.com/hot/2237304",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
           "title": "打压现代汽车工厂后 特朗普试图挽留外国工人",
           "url": "https://flash.jin10.com/detail/20250915044516358800",
           "source": "金十数据",
@@ -166,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "据英国金融时报：特朗普新任命的美国证交会官员废除了激进的执法议程。",
+          "url": "https://flash.jin10.com/detail/20250915120420546800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "特朗普再度敦促美上诉法院批准解雇美联储理事库克",
@@ -190,6 +213,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "美联储重磅决议即将来袭 特朗普预言：本周将“大幅降息”！",
+          "url": "https://www.cls.cn/detail/2144897",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "美国总统特朗普：我们将拭目以待马杜罗的情况如何发展。",
           "url": "https://flash.jin10.com/detail/20250915064750339800",
           "source": "金十数据",
@@ -207,7 +241,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -309,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普“选择性失明”：都是左翼的错",
+          "url": "https://www.toutiao.com/trending/7549359879132119083/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     },
@@ -344,11 +389,12 @@
           "url": "https://www.cls.cn/detail/2144800",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时30分]"
         }
       ]
     },
