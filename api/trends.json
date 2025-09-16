@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-16T14:39:01.482024+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-09-16T15:26:30.688366+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称去年3亿人死于毒品，但美国总人口才3.4亿",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "美联储本周降息50基点几无可能？CBO主任：特朗普关税已推高通胀",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "特朗普又夸中国了，但这次我们真接不住啊",
@@ -41,8 +41,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普起诉《纽约时报》，索赔150亿美元",
+          "url": "https://news.ifeng.com/c/8mh0AHOMxWa",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 15时26分]"
         },
         {
           "title": "外交部回应“邀请特朗普访华”",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普起诉《纽约时报》，索赔150亿美元",
-          "url": "https://news.ifeng.com/c/8mh0AHOMxWa",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 14时39分]"
         },
         {
           "title": "特朗普：内塔尼亚胡不会再袭击卡塔尔",
@@ -507,6 +507,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "欧盟据悉推迟提出制裁俄罗斯最新措施 以因应特朗普对G7的要求",
+          "url": "https://wallstreetcn.com/livenews/2974492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国总统特朗普：针对《纽约时报》提起150亿美元的诽谤诉讼。",
           "url": "https://flash.jin10.com/detail/20250916114852163800",
           "source": "金十数据",
@@ -568,7 +579,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -642,7 +653,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：纳指、标普500续刷新高 Alphabet市值突破3万亿美元",
@@ -653,8 +664,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时26分]"
         },
         {
           "title": "美股三大期指盘前小幅走高 英伟达遭调查股价下跌 | 今夜看点",
@@ -732,6 +743,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "美股财报制度生变？华尔街炸锅：美股将迎腥风血雨！",
+          "url": "https://www.cls.cn/detail/2146243",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "金十图示：2025年09月15日（周一）美股热门股票行情一览（美股盘中）",
@@ -942,7 +964,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -983,7 +1005,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际金价再创历史新高 特朗普呼吁取消季度财报制度 | 环球市场",
@@ -991,11 +1013,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "国际金价涨超1%，和美股金银指数、金矿股指数创历史新高，现货白银继续创2011年以来新高",
@@ -1032,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "金价再创历史新高 美联储降息预期压制美元走软",
+          "url": "https://flash.jin10.com/detail/20250916145008782800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
