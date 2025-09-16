@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-16T21:36:19.729700+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2025-09-16T22:26:01.271477+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 85,
       "titles": [
         {
           "title": "美联储本周降息50基点几无可能？CBO主任：特朗普关税已推高通胀",
@@ -156,15 +156,15 @@
           "time_info": "[09时51分 ~ 13时24分]"
         },
         {
-          "title": "特朗普：与英国的关系非常好。 英国会希望完善贸易协议，我们将进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/2974722",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：不想赚钱，想让俄乌冲突停止。",
+          "url": "https://flash.jin10.com/detail/20250916220113060800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普提名的美联储理事候选人米兰通过了美国参议院的程序性阻碍，即将获得确认。",
@@ -202,6 +202,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：与英国的关系非常好。 英国会希望完善贸易协议，我们将进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/2974722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：以色列不会（再）袭击卡塔尔。",
@@ -432,6 +444,17 @@
           "time_info": "[11时01分 ~ 11时37分]"
         },
         {
+          "title": "美国总统特朗普谈及欧洲购买俄罗斯石油，称：不想赚钱，我希望俄乌冲突停止。",
+          "url": "https://wallstreetcn.com/livenews/2974749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国律师警告：允许特朗普罢免FTC成员也将动摇美联储独立性",
           "url": "https://flash.jin10.com/detail/20250916034037611800",
           "source": "金十数据",
@@ -454,13 +477,24 @@
           "time_info": "12时29分"
         },
         {
+          "title": "特朗普：将与犹他州合作，该州有死刑。",
+          "url": "https://flash.jin10.com/detail/20250916215946805800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普：美联储应该具独立性。",
           "url": "https://wallstreetcn.com/livenews/2974717",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -498,6 +532,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "特朗普：澳大利亚总理即将来访。",
+          "url": "https://flash.jin10.com/detail/20250916215445830800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：在联合国大会召开前一周，美国总统特朗普将访问欧洲。我们与欧洲国家领导人的积极合作正在进行中，这样我们才能协调一致，真正达成向俄罗斯施压的决定。",
           "url": "https://flash.jin10.com/detail/20250916004246080800",
           "source": "金十数据",
@@ -515,7 +560,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -529,6 +574,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普否认他在15%汽车关税上做出妥协。",
+          "url": "https://wallstreetcn.com/livenews/2974743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普：三艘委内瑞拉船只被“掀翻”。",
+          "url": "https://flash.jin10.com/detail/20250916215310772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普：美联储应该听取民意，但他们得做出选择。",
+          "url": "https://wallstreetcn.com/livenews/2974742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "联合国发言人：预计特朗普和联合国秘书长古特雷斯将在联大一般性辩论第一天举行双边会晤。",
@@ -559,7 +637,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -592,9 +670,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普：（对委内瑞拉表示）停止将帮派成员和监狱释放人员送往我国。",
+          "url": "https://flash.jin10.com/detail/20250916215239309800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "内塔尼亚胡在以色列轰炸卡塔尔之前与特朗普进行了交谈",
@@ -614,9 +703,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普：泽连斯基和普京互相憎恨。",
+          "url": "https://flash.jin10.com/detail/20250916215150177800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普：对政府中的每个人都有信心。",
@@ -625,9 +725,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普：看来我得和泽连斯基、普京坐在一起了。",
+          "url": "https://flash.jin10.com/detail/20250916215137484800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国高级官员：美国总统特朗普访问英国期间，两国将宣布超过100亿美元的交易。",
@@ -639,6 +750,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普登上空军一号飞往英国进行国事访问。",
+          "url": "https://flash.jin10.com/detail/20250916214819936800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普否认他在15%汽车关税上做出妥协。",
+          "url": "https://flash.jin10.com/detail/20250916214743837800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国总统特朗普：共和党人必须团结起来，反击激进左翼民主党人的要求。民主党人希望政府关门。共和党人希望政府开门。",
@@ -674,6 +807,17 @@
           "time_info": "20时51分"
         },
         {
+          "title": "特朗普：（关于加沙城攻势）我不太了解这方面的情况，需要看看会发生什么。",
+          "url": "https://flash.jin10.com/detail/20250916214504758800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国国务卿卢比奥：特朗普下周或将与乌克兰总统泽连斯基在纽约会晤。",
           "url": "https://wallstreetcn.com/livenews/2974447",
           "source": "华尔街见闻-快讯",
@@ -694,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普：美联储应该倾听民众的声音，但他们必须做出选择。",
+          "url": "https://flash.jin10.com/detail/20250916214450270800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "论“特朗普式降息”的威力",
@@ -724,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -746,9 +901,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普称已签署米兰入职美联储的相关文件",
+          "url": "https://wallstreetcn.com/livenews/2974717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "纽约时报发言人：美国总统特朗普提起的诉讼“没有根据，缺乏任何合法的法律主张”。",
@@ -768,7 +934,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -790,7 +956,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -801,7 +967,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -823,7 +989,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
@@ -831,7 +997,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：纳指、标普500续刷新高 Alphabet市值突破3万亿美元",
@@ -879,7 +1045,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -965,7 +1131,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -981,6 +1147,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2974739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美银首席投资策略师Hartnett：随着对成长股的押注增加，美股涨势有望延续。",
           "url": "https://flash.jin10.com/detail/20250916173419572800",
           "source": "金十数据",
@@ -990,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.08%，标普500指数涨0.17%，纳指涨0.18%。台积电开盘涨1.95%，股价创历史新高。纽约时报跌约2%，此前特朗普以诽谤和名誉侵权提起150亿美元的诉讼。稀土概念股MP Materials涨超2%，报道称美国正商谈设立50亿美元矿产投资基金。",
+          "url": "https://wallstreetcn.com/livenews/2974734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "金十图示：2025年09月15日（周一）美股热门股票行情一览（美股盘中）",
@@ -1009,7 +1197,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1056,6 +1244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20250916214353339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -1201,7 +1400,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际金价再创历史新高 特朗普呼吁取消季度财报制度 | 环球市场",
@@ -1223,11 +1422,23 @@
           "ranks": [
             23,
             12,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时36分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时26分]"
+        },
+        {
+          "title": "国际金价涨穿3700美元创历史新高，美股金银指数维持超过0.7%的跌幅",
+          "url": "https://wallstreetcn.com/livenews/2974757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "德商银行：将今年年底的金价预测上调至3600美元/盎司。",
@@ -1303,6 +1514,92 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美元指数DXY亚市早盘持续走低，一度跌至7月24日以来的低点97.226，现报97.25。",
+          "url": "https://flash.jin10.com/detail/20250916110915918800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "美元指数DXY短线走高近10点，最新报97.12。",
+          "url": "https://flash.jin10.com/detail/20250916203359245800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "美元指数日内跌幅达0.5%，报96.8693。",
+          "url": "https://wallstreetcn.com/livenews/2974751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "周一（9月15日）纽约尾盘，ICE美元指数跌0.26%，报97.296点，日内交投区间为97.702-97.273点。 彭博美元指数跌0.31%，报1194.60点，日内交投区间为1199.03-1194.44点，北京时间14:30之前高位震荡，随后持续走低。",
+          "url": "https://wallstreetcn.com/livenews/2974179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "美元指数跌破97，日内跌0.36%，创7月7日以来新低。",
+          "url": "https://wallstreetcn.com/livenews/2974595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20250916040610919800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美元指数DXY跌至7月4日以来最低水平，日内跌幅近0.5%，报96.89。",
+          "url": "https://flash.jin10.com/detail/20250916214257564800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -1361,70 +1658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数DXY亚市早盘持续走低，一度跌至7月24日以来的低点97.226，现报97.25。",
-          "url": "https://flash.jin10.com/detail/20250916110915918800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "美元指数DXY短线走高近10点，最新报97.12。",
-          "url": "https://flash.jin10.com/detail/20250916203359245800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "周一（9月15日）纽约尾盘，ICE美元指数跌0.26%，报97.296点，日内交投区间为97.702-97.273点。 彭博美元指数跌0.31%，报1194.60点，日内交投区间为1199.03-1194.44点，北京时间14:30之前高位震荡，随后持续走低。",
-          "url": "https://wallstreetcn.com/livenews/2974179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
-        },
-        {
-          "title": "美元指数跌破97，日内跌0.36%，创7月7日以来新低。",
-          "url": "https://wallstreetcn.com/livenews/2974595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20250916040610919800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         }
       ]
     },
@@ -1500,11 +1733,12 @@
             2,
             29,
             18,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时36分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时26分]"
         }
       ]
     }
