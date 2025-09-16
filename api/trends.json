@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T03:22:09.961698+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-09-17T04:29:02.602718+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -21,15 +21,15 @@
           "time_info": "[00时33分 ~ 03时22分]"
         },
         {
-          "title": "特朗普第二任期内第四度会晤，内塔尼亚胡将再访白宫",
-          "url": "https://wallstreetcn.com/livenews/2974848",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普乘坐空军一号抵达英国，进行第二次对英访问。",
+          "url": "https://flash.jin10.com/detail/20250917041022631800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普批评美国加州州长纽森试图用低收入住房取代被帕利塞德火灾毁坏的房产。",
@@ -38,9 +38,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
+          "url": "https://wallstreetcn.com/livenews/2974827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：刚刚与印度总理莫迪进行了一次愉快的电话交谈。就莫迪在结束俄乌冲突问题上提供的支持表示感谢。",
@@ -67,16 +80,16 @@
           "time_info": "[02时35分 ~ 03时22分]"
         },
         {
-          "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
-          "url": "https://wallstreetcn.com/livenews/2974827",
+          "title": "特朗普第二任期内第四度会晤，内塔尼亚胡将再访白宫",
+          "url": "https://wallstreetcn.com/livenews/2974848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时22分]"
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡表示，特朗普邀请他于9月29日星期一在白宫举行会议。",
@@ -138,6 +151,50 @@
           "time_info": "01时22分"
         },
         {
+          "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
+          "url": "https://wallstreetcn.com/livenews/2974858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "泽连斯基：愿与特朗普和普京会面 但不去莫斯科",
+          "url": "https://flash.jin10.com/detail/20250917035313411800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：与美国总统特朗普进行了不错的通话。",
+          "url": "https://wallstreetcn.com/livenews/2974855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普与莫迪通话 寻求缓解关税与俄油分歧",
+          "url": "https://flash.jin10.com/detail/20250917035235245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国众议院共和党发布政府融资立法草案，计划让特朗普政府持续运作至11月21日。",
           "url": "https://wallstreetcn.com/livenews/2974801",
           "source": "华尔街见闻-快讯",
@@ -155,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -180,6 +237,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：和特朗普讨论加强我们的共同努力，通过额外措施增加对俄罗斯的经济压力。",
+          "url": "https://flash.jin10.com/detail/20250917034243903800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我与特朗普进行了一次愉快的通话。",
+          "url": "https://flash.jin10.com/detail/20250917034205325800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "英镑兑美元维持超过0.4%的涨幅，报1.3654。 美国总统特朗普携英伟达等高科技企业抵达英国之前，据英国金融时报，英国放弃对美国钢铁出口零关税的计划。",
@@ -213,12 +292,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "特朗普第二任期内第四度会晤 内塔尼亚胡将再访白宫",
+          "url": "https://flash.jin10.com/detail/20250917031119124800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
@@ -229,19 +319,86 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美股三大期指涨跌不一 甲骨文盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2146961",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "周二（9月16日），降息赢家指数跌0.55%，报102.26点，美股盘初显著走低，随后逐步收复失地。 “特朗普关税输家”指数跌0.12%，报110.42点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.12%，报19.16点。 人工智能（AI）赢家指数跌0.19%，报265.61点。 AI软件先驱指数跌0.89%，报129.49点，美股盘初显著走低，全天呈现出长尾L形走势。",
+          "url": "https://wallstreetcn.com/livenews/2974866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250917040710136800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超2.8%，微软和英伟达则至多跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/2974865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2025年09月16日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250917040542802800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：甲骨文高开低走 金龙指数涨1.7%",
+          "url": "https://flash.jin10.com/detail/20250917040110187800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "城堡证券策略师：美股短期或遇波动 年底有望强势收官",
+          "url": "https://flash.jin10.com/detail/20250917034831868800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -278,11 +435,12 @@
           "ranks": [
             23,
             14,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "分析师：美联储若确认多次降息 金价或再攀高峰",
@@ -310,18 +468,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数跌约0.7%",
           "url": "https://wallstreetcn.com/livenews/2974849",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20250917040615429800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时29分"
         },
         {
           "title": "恒天然：9月16日全球乳品贸易（GDT）拍卖价格指数下降0.8%，奶粉各合同期FAS拍卖均价4,041美元/吨。 批发奶粉价格指数跌0.8%，报3,790美元/吨。",
@@ -333,6 +503,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：OpenAI已经聘请前xAI首席财务官Mike Liberatore",
+          "url": "https://wallstreetcn.com/livenews/2974838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "微软(MSFT.O)的投资与OpenAI及其星际之门项目是分开的。",
+          "url": "https://flash.jin10.com/detail/20250917033155455800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -355,19 +554,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：OpenAI已经聘请前xAI首席财务官Mike Liberatore",
-          "url": "https://wallstreetcn.com/livenews/2974838",
+          "title": "周二（9月16日）纽约尾盘，美国10年期国债收益率跌1.15个基点，报4.0260%，北京时间20:30发布美国零售销售数据后刷新日高至4.0604%。 两年期美债收益率跌2.74个基点，报3.5095%。 2/10年期美债收益率利差涨1.575个基点，报+51.442个基点。",
+          "url": "https://wallstreetcn.com/livenews/2974851",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时29分"
         }
       ]
     },
@@ -385,8 +584,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     }
