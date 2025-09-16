@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T02:35:43.713799+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-09-17T03:22:09.961698+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -13,55 +13,106 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
-          "title": "美国总统特朗普：刚刚与印度总理莫迪进行了一次愉快的电话交谈。就莫迪在结束俄乌冲突问题上提供的支持表示感谢。",
-          "url": "https://flash.jin10.com/detail/20250917020258931800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国总统特朗普：共和党将举行中期选举大会，以展示我们自2024年总统大选以来取得的伟大成就。时间和地点待定。敬请期待，这将是一场盛会，精彩纷呈！",
-          "url": "https://flash.jin10.com/detail/20250917015749614800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
-          "url": "https://wallstreetcn.com/livenews/2974827",
+          "title": "特朗普第二任期内第四度会晤，内塔尼亚胡将再访白宫",
+          "url": "https://wallstreetcn.com/livenews/2974848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时22分"
         },
         {
-          "title": "市场消息：以色列总理内塔尼亚胡表示，特朗普邀请他于9月29日星期一在白宫举行会议。",
-          "url": "https://flash.jin10.com/detail/20250917015439024800",
+          "title": "美国总统特朗普批评美国加州州长纽森试图用低收入住房取代被帕利塞德火灾毁坏的房产。",
+          "url": "https://flash.jin10.com/detail/20250917025114867800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：刚刚与印度总理莫迪进行了一次愉快的电话交谈。就莫迪在结束俄乌冲突问题上提供的支持表示感谢。",
+          "url": "https://flash.jin10.com/detail/20250917020258931800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：共和党将举行中期选举大会，以展示我们自2024年总统大选以来取得的伟大成就。时间和地点待定。敬请期待，这将是一场盛会，精彩纷呈！",
+          "url": "https://flash.jin10.com/detail/20250917015749614800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
+          "url": "https://wallstreetcn.com/livenews/2974827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡表示，特朗普邀请他于9月29日星期一在白宫举行会议。",
+          "url": "https://flash.jin10.com/detail/20250917015439024800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普邀请我两周后访问白宫。",
+          "url": "https://flash.jin10.com/detail/20250917015231381800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "印度总理莫迪：已经与美国总统特朗普通话。",
+          "url": "https://wallstreetcn.com/livenews/2974823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
         },
         {
           "title": "美国卫生部（HHS）：原疾控中心（CDC）主任Monarez在被免职之前的行为（对特朗普政府）“具有恶意”。 Monarez的一系列决定既没有获得总统特朗普和（反对新冠疫苗的）卫生部长RFK Jr.的许可。",
@@ -74,28 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时35分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：特朗普邀请我两周后访问白宫。",
-          "url": "https://flash.jin10.com/detail/20250917015231381800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "印度总理莫迪：已经与美国总统特朗普通话。",
-          "url": "https://wallstreetcn.com/livenews/2974823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
         },
         {
           "title": "特朗普政府批准第一批援乌武器 由盟友掏钱",
@@ -120,6 +149,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国白宫：美国总统特朗普签署行政命令以防止长岛铁路停工。",
+          "url": "https://flash.jin10.com/detail/20250917022353557800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "消息人士称，美国总统特朗普的政府批准了首个由盟友支付费用的乌克兰军援计划。",
           "url": "https://flash.jin10.com/detail/20250917005004413800",
           "source": "金十数据",
@@ -137,7 +177,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -170,7 +210,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -185,11 +225,12 @@
           "url": "https://wallstreetcn.com/articles/3755688",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "美股三大期指涨跌不一 甲骨文盘前涨超4% | 今夜看点",
@@ -199,8 +240,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -236,11 +277,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "分析师：美联储若确认多次降息 金价或再攀高峰",
@@ -260,9 +302,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数跌约0.7%",
+          "url": "https://wallstreetcn.com/livenews/2974849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "恒天然：9月16日全球乳品贸易（GDT）拍卖价格指数下降0.8%，奶粉各合同期FAS拍卖均价4,041美元/吨。 批发奶粉价格指数跌0.8%，报3,790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2974780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
@@ -285,19 +355,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒天然：9月16日全球乳品贸易（GDT）拍卖价格指数下降0.8%，奶粉各合同期FAS拍卖均价4,041美元/吨。 批发奶粉价格指数跌0.8%，报3,790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2974780",
+          "title": "报道：OpenAI已经聘请前xAI首席财务官Mike Liberatore",
+          "url": "https://wallstreetcn.com/livenews/2974838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -315,8 +385,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     }
