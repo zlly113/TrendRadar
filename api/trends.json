@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T00:33:51.375528+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-17T01:22:27.576579+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -15,8 +15,52 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普政府批准第一批援乌武器 由盟友掏钱",
+          "url": "https://flash.jin10.com/detail/20250917010018740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国卫生部（HHS）：原疾控中心（CDC）主任Monarez在被免职之前的行为（对特朗普政府）“具有恶意”。 Monarez的一系列决定既没有获得总统特朗普和（反对新冠疫苗的）卫生部长RFK Jr.的许可。",
+          "url": "https://wallstreetcn.com/livenews/2974807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国众议院共和党发布政府融资立法草案，计划让特朗普政府持续运作至11月21日。",
+          "url": "https://wallstreetcn.com/livenews/2974801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "消息人士称，美国总统特朗普的政府批准了首个由盟友支付费用的乌克兰军援计划。",
+          "url": "https://flash.jin10.com/detail/20250917005004413800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "英镑兑美元维持超过0.4%的涨幅，报1.3654。 美国总统特朗普携英伟达等高科技企业抵达英国之前，据英国金融时报，英国放弃对美国钢铁出口零关税的计划。",
@@ -43,9 +87,71 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3755688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 甲骨文盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2146961",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250917003119405800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "金十图示：2025年09月16日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250917003034000800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "有外资机构已看涨金价至5000美元",
+          "url": "https://www.toutiao.com/trending/7550637827843690047/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时22分]"
+        },
         {
           "title": "分析师：美联储若确认多次降息 金价或再攀高峰",
           "url": "https://flash.jin10.com/detail/20250916234055393800",
@@ -56,45 +162,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "有外资机构已看涨金价至5000美元",
-          "url": "https://www.toutiao.com/trending/7550637827843690047/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3755688",
-          "source": "华尔街见闻",
+          "title": "谷歌母公司Alphabet旗下Waymo：“很快”就会在美国旧金山机场测试（无人驾驶汽车产品）。",
+          "url": "https://wallstreetcn.com/livenews/2974796",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 甲骨文盘前涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2146961",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -124,11 +208,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时22分]"
         }
       ]
     }
