@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T06:22:30.813314+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-09-17T07:19:11.089537+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -33,15 +33,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "微软CEO Satya Nadella将在美国总统特朗普的英国行程中陪同。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/2974894",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我在对《纽约时报》的诉讼中收到了令人惊叹的反馈。大多数人的感受是：“是时候了！”这个案子是在大佛罗里达州提起的，激进的左翼媒体正在努力摧毁美国，我们要在各个层面上阻止他们。",
+          "url": "https://flash.jin10.com/detail/20250917065927891800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时19分"
         },
         {
           "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
@@ -142,6 +142,18 @@
           "time_info": "[05时23分 ~ 06时22分]"
         },
         {
+          "title": "微软CEO Satya Nadella将在美国总统特朗普的英国行程中陪同。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2974894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：特朗普邀请我两周后访问白宫。",
           "url": "https://flash.jin10.com/detail/20250917015231381800",
           "source": "金十数据",
@@ -188,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
+          "url": "https://news.ifeng.com/c/8mhw6erHbys",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
@@ -286,7 +309,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -393,7 +416,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
@@ -413,11 +436,34 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时19分]"
+        },
+        {
+          "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
+          "url": "https://wallstreetcn.com/articles/3755688",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2147127",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -539,7 +585,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌大模型Gemini超越OpenAI的ChatGPT，问鼎苹果公司应用商店APP Store。",
@@ -548,9 +594,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "英国政府：Salesforce宣布，到2030年将对英国业务追加投资20亿美元。 微软、英伟达、谷歌、OpenAI和CoreWeave等美国科技企业承诺共计投资310亿英镑（约合423亿美元），用于提升数据中心、计算机芯片在内英国的人工智能（AI）基础设施和尖端技术。",
+          "url": "https://wallstreetcn.com/livenews/2974893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "微软和OpenAI加入美国科技巨头们对英国投资423亿美元的计划。 此外，英伟达、谷歌等也将在英国加大AI投资。",
+          "url": "https://wallstreetcn.com/livenews/2974892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下Waymo：“很快”就会在美国旧金山机场测试（无人驾驶汽车产品）。",
@@ -565,26 +635,26 @@
           "time_info": "[01时22分 ~ 02时35分]"
         },
         {
-          "title": "英国政府：Salesforce宣布，到2030年将对英国业务追加投资20亿美元。 微软、英伟达、谷歌、OpenAI和CoreWeave等美国科技企业承诺共计投资310亿英镑（约合423亿美元），用于提升数据中心、计算机芯片在内英国的人工智能（AI）基础设施和尖端技术。",
-          "url": "https://wallstreetcn.com/livenews/2974893",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌Gemini超越ChatGPT 登顶苹果App Store",
+          "url": "https://flash.jin10.com/detail/20250917061254950800",
+          "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时19分"
         },
         {
-          "title": "微软和OpenAI加入美国科技巨头们对英国投资423亿美元的计划。 此外，英伟达、谷歌等也将在英国加大AI投资。",
-          "url": "https://wallstreetcn.com/livenews/2974892",
+          "title": "谷歌大模型Gemini超越OpenAI的ChatGPT，问鼎苹果公司应用商店APP Store",
+          "url": "https://wallstreetcn.com/livenews/2974899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时19分"
         }
       ]
     },
@@ -597,11 +667,12 @@
           "url": "https://wallstreetcn.com/livenews/2974898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
         },
         {
           "title": "报道：OpenAI已经聘请前xAI首席财务官Mike Liberatore",
@@ -620,11 +691,12 @@
           "url": "https://flash.jin10.com/detail/20250917053148265800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
         },
         {
           "title": "微软(MSFT.O)的投资与OpenAI及其星际之门项目是分开的。",
@@ -693,6 +765,60 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一口气了解伊朗经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时19分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
+          "url": "https://wallstreetcn.com/livenews/2974895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
+          "url": "https://news.ifeng.com/c/8miEsKViqXV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
+          "url": "https://flash.jin10.com/detail/20250917053502292800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -731,47 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一口气了解伊朗经济",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时22分]"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
-          "url": "https://wallstreetcn.com/livenews/2974895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
-          "url": "https://flash.jin10.com/detail/20250917053502292800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         }
       ]
     },
