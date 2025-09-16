@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-16T13:24:49.571695+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-09-16T14:39:01.482024+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称去年3亿人死于毒品，但美国总人口才3.4亿",
@@ -16,8 +16,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时39分]"
+        },
+        {
+          "title": "美联储本周降息50基点几无可能？CBO主任：特朗普关税已推高通胀",
+          "url": "https://www.cls.cn/detail/2145985",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普又夸中国了，但这次我们真接不住啊",
+          "url": "https://news.ifeng.com/c/8mgfWAnhKRF",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时39分]"
         },
         {
           "title": "外交部回应“邀请特朗普访华”",
@@ -34,29 +59,16 @@
           "time_info": "[00时33分 ~ 09时51分]"
         },
         {
-          "title": "美联储本周降息50基点几无可能？CBO主任：特朗普关税已推高通胀",
-          "url": "https://www.cls.cn/detail/2145985",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普又夸中国了，但这次我们真接不住啊",
-          "url": "https://news.ifeng.com/c/8mgfWAnhKRF",
+          "title": "特朗普起诉《纽约时报》，索赔150亿美元",
+          "url": "https://news.ifeng.com/c/8mh0AHOMxWa",
           "source": "凤凰网",
           "ranks": [
-            1,
-            6
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时39分]"
         },
         {
           "title": "特朗普：内塔尼亚胡不会再袭击卡塔尔",
@@ -70,15 +82,20 @@
           "time_info": "[11时37分 ~ 13时24分]"
         },
         {
-          "title": "特朗普起诉《纽约时报》，索赔150亿美元",
-          "url": "https://news.ifeng.com/c/8mh0AHOMxWa",
-          "source": "凤凰网",
+          "title": "牛弹琴：特朗普又夸中国了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E5%A4%B8%E4%B8%AD%E5%9B%BD%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            2
+            10,
+            7,
+            8,
+            14,
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时39分]"
         },
         {
           "title": "牛弹琴：特朗普又夸中国了",
@@ -131,21 +148,6 @@
             6,
             22,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时24分]"
-        },
-        {
-          "title": "牛弹琴：特朗普又夸中国了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E5%A4%B8%E4%B8%AD%E5%9B%BD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            8,
-            14,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -560,6 +562,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "美国国务卿卢比奥：特朗普下周或将与乌克兰总统泽连斯基在纽约会晤。",
+          "url": "https://wallstreetcn.com/livenews/2974447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美国总统特朗普：行动中击毙了3名男性“恐怖分子”，此次袭击中没有美军人员受到伤害。",
           "url": "https://flash.jin10.com/detail/20250916040317736800",
           "source": "金十数据",
@@ -640,8 +653,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 13时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时39分]"
         },
         {
           "title": "美股三大期指盘前小幅走高 英伟达遭调查股价下跌 | 今夜看点",
@@ -821,7 +834,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -900,7 +913,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -908,7 +921,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI董事长：人工智能泡沫并非全无益处",
@@ -923,13 +936,24 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "OpenAI更新ChatGPT的个性化页面",
+          "url": "https://wallstreetcn.com/livenews/2974468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "CNBC：马斯克旗下xAI的前首席财务官突然离职后现已加入OpenAI",
           "url": "https://wallstreetcn.com/livenews/2974407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -940,7 +964,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -951,7 +975,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -970,8 +994,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时39分]"
         },
         {
           "title": "国际金价涨超1%，和美股金银指数、金矿股指数创历史新高，现货白银继续创2011年以来新高",
