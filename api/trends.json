@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T13:26:07.248802+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2025-09-17T14:38:14.394712+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普携夫人访问英国，现场画面公布",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时38分]"
         },
         {
           "title": "特朗普政府为什么死咬委内瑞拉？",
@@ -27,11 +27,50 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普第四次延长TikTok禁令宽限期",
+          "url": "https://news.ifeng.com/c/8mib3LRYSFV",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时01分 ~ 13时26分]"
+          "time_info": "[12时31分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普预告的中美大交易是什么",
+          "url": "https://www.toutiao.com/trending/7550327079306821673/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14,
+            13,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时38分]"
+        },
+        {
+          "title": "美财长贝森特：特朗普推动取消季度财报制度，将利好投资者",
+          "url": "https://www.cls.cn/detail/2147114",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时38分]"
         },
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -48,41 +87,53 @@
           "time_info": "[00时33分 ~ 06时22分]"
         },
         {
-          "title": "特朗普第四次延长TikTok禁令宽限期",
-          "url": "https://news.ifeng.com/c/8mib3LRYSFV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普预告的中美大交易是什么",
-          "url": "https://www.toutiao.com/trending/7550327079306821673/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时26分]"
-        },
-        {
-          "title": "美财长贝森特：特朗普推动取消季度财报制度，将利好投资者",
-          "url": "https://www.cls.cn/detail/2147114",
+          "title": "特朗普对英国进行国事访问 欧盟委员会将提出对以色列的制裁措施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2147144",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时38分]"
+        },
+        {
+          "title": "日本为何拒绝特朗普给中国加税要求",
+          "url": "https://www.toutiao.com/trending/7550855041964314138/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21,
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 14时38分]"
+        },
+        {
+          "title": "胡锡进：抗议者把温莎城堡搞成特朗普的耻辱柱，让英国很没面子",
+          "url": "https://news.ifeng.com/c/8mihtQIy0JK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "美印关系微妙时刻，特朗普祝莫迪生日快乐，“通话非常愉快”",
+          "url": "https://news.ifeng.com/c/8miYsALqkwg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "“你哪家媒体的？”特朗普“开怼”澳记者，还要和澳总理告状",
@@ -128,32 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "特朗普对英国进行国事访问 欧盟委员会将提出对以色列的制裁措施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2147144",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时26分]"
-        },
-        {
-          "title": "日本为何拒绝特朗普给中国加税要求",
-          "url": "https://www.toutiao.com/trending/7550855041964314138/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
@@ -621,18 +646,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3755688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时22分]"
-        },
-        {
           "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
           "url": "https://wallstreetcn.com/articles/3755688",
           "source": "华尔街见闻",
@@ -641,8 +654,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 13时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
@@ -653,8 +666,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 13时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 14时38分]"
+        },
+        {
+          "title": "美股三大股指高开，台积电创历史新高，黄金逼近3700美元关口，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3755688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时22分]"
         },
         {
           "title": "美股三大期指涨跌不一 甲骨文盘前涨超4% | 今夜看点",
@@ -868,7 +893,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -879,7 +904,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
@@ -1132,7 +1157,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周二（9月16日）纽约尾盘，美国10年期国债收益率跌1.15个基点，报4.0260%，北京时间20:30发布美国零售销售数据后刷新日高至4.0604%。 两年期美债收益率跌2.74个基点，报3.5095%。 2/10年期美债收益率利差涨1.575个基点，报+51.442个基点。",
@@ -1145,6 +1170,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时23分]"
+        },
+        {
+          "title": "机构：美联储降息对美债持有者而言是好消息",
+          "url": "https://flash.jin10.com/detail/20250917134103221800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
+          "url": "https://www.zhihu.com/question/1951240126534510500",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         }
       ]
     }
