@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T17:27:19.277146+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2025-09-17T18:26:22.149434+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普携夫人访问英国，现场画面公布",
@@ -143,8 +143,43 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普携CEO造访，英规模最大仪仗队相迎，民众抗议",
+          "url": "https://news.ifeng.com/c/8mixu2oqcJk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
+          "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普终于打通了莫迪的电话，印媒：然后呢？",
+          "url": "https://news.ifeng.com/c/8miy5uoS5Sb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
+          "url": "https://www.cls.cn/detail/2147702",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
         },
         {
           "title": "特朗普再延长TikTok禁令",
@@ -181,17 +216,6 @@
           "time_info": "[12时31分 ~ 13时26分]"
         },
         {
-          "title": "特朗普携CEO造访，英规模最大仪仗队相迎，民众抗议",
-          "url": "https://news.ifeng.com/c/8mixu2oqcJk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "美国总统特朗普批评美国加州州长纽森试图用低收入住房取代被帕利塞德火灾毁坏的房产。",
           "url": "https://flash.jin10.com/detail/20250917025114867800",
           "source": "金十数据",
@@ -212,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普终于打通了莫迪的电话，印媒：然后呢？",
-          "url": "https://news.ifeng.com/c/8miy5uoS5Sb",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "特朗普第四次延长TikTok禁令宽限期",
@@ -332,18 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
-          "url": "https://www.cls.cn/detail/2147702",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "微软CEO Satya Nadella将在美国总统特朗普的英国行程中陪同。（Axios）",
@@ -465,6 +466,17 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
+          "title": "中方回应特朗普延长TikTok禁令执行",
+          "url": "https://www.toutiao.com/trending/7550776867473608255/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普“开怼”澳记者：你哪家媒体的",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%BC%80%E6%80%BC%E2%80%9D%E6%BE%B3%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E5%93%AA%E5%AE%B6%E5%AA%92%E4%BD%93%E7%9A%84",
           "source": "百度热搜",
@@ -531,6 +543,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "克里姆林宫：（就特朗普警告将对俄实施更多制裁）我们对通过外交途径解决乌克兰冲突持开放态度。",
+          "url": "https://flash.jin10.com/detail/20250917175534721800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美国众议院共和党发布政府融资立法草案，计划让特朗普政府持续运作至11月21日。",
           "url": "https://wallstreetcn.com/livenews/2974801",
           "source": "华尔街见闻-快讯",
@@ -551,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-17）",
+          "url": "https://flash.jin10.com/detail/20250917174949995800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "消息人士称，美国总统特朗普的政府批准了首个由盟友支付费用的乌克兰军援计划。",
@@ -652,15 +686,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "中方回应特朗普延长TikTok禁令执行",
-          "url": "https://www.toutiao.com/trending/7550776867473608255/",
-          "source": "今日头条",
+          "title": "特朗普施压 + 德国转向 欧洲推动扩大用俄冻结资产援乌",
+          "url": "https://flash.jin10.com/detail/20250917173752700800",
+          "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "18时26分"
         },
         {
           "title": "牛弹琴：特朗普又夸中国了",
@@ -743,7 +777,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
@@ -754,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时18分 ~ 17时27分]"
+          "appearance_count": 14,
+          "time_info": "[07时18分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
@@ -808,6 +842,19 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国能源基础设施公司新堡能源（New Fortress Energy）美股盘前涨幅一度扩大至68%。",
+          "url": "https://wallstreetcn.com/livenews/2975293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "周二（9月16日），降息赢家指数跌0.55%，报102.26点，美股盘初显著走低，随后逐步收复失地。 “特朗普关税输家”指数跌0.12%，报110.42点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.12%，报19.16点。 人工智能（AI）赢家指数跌0.19%，报265.61点。 AI软件先驱指数跌0.89%，报129.49点，美股盘初显著走低，全天呈现出长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/2974866",
           "source": "华尔街见闻-快讯",
@@ -819,18 +866,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美国能源基础设施公司新堡能源（New Fortress Energy）美股盘前涨幅一度扩大至68%。",
-          "url": "https://wallstreetcn.com/livenews/2975293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.8%，微软和英伟达则至多跌超1.6%",
@@ -870,6 +905,18 @@
           "time_info": "[05时23分 ~ 06时22分]"
         },
         {
+          "title": "美股芯片股盘前短线走低，英伟达盘前一度跌近1%，英特尔、AMD跌0.5%，阿斯麦跌0.78%。",
+          "url": "https://wallstreetcn.com/livenews/2975297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
           "title": "金十图示：2025年09月16日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20250917040542802800",
           "source": "金十数据",
@@ -903,17 +950,6 @@
           "time_info": "16时34分"
         },
         {
-          "title": "美股芯片股盘前短线走低，英伟达盘前一度跌近1%，英特尔、AMD跌0.5%，阿斯麦跌0.78%。",
-          "url": "https://wallstreetcn.com/livenews/2975297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "城堡证券策略师：美股短期或遇波动 年底有望强势收官",
           "url": "https://flash.jin10.com/detail/20250917034831868800",
           "source": "金十数据",
@@ -931,9 +967,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "高盛策略师：全球投资者对欧股反弹持怀疑态度，因市场担忧德国能否兑现大规模财政改革承诺，且在美股受AI推动、中国领跑新兴市场的背景下，基金经理对欧股落后表示担忧。",
+          "url": "https://flash.jin10.com/detail/20250917173109892800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -1095,6 +1142,18 @@
           "time_info": "06时22分"
         },
         {
+          "title": "沙特支付生态将迎来巨变：谷歌支付全面上线，支付宝2026年接入",
+          "url": "https://www.cls.cn/detail/2147397",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "英国政府：Salesforce宣布，到2030年将对英国业务追加投资20亿美元。 微软、英伟达、谷歌、OpenAI和CoreWeave等美国科技企业承诺共计投资310亿英镑（约合423亿美元），用于提升数据中心、计算机芯片在内英国的人工智能（AI）基础设施和尖端技术。",
           "url": "https://wallstreetcn.com/livenews/2974893",
           "source": "华尔街见闻-快讯",
@@ -1119,15 +1178,15 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
-          "title": "沙特支付生态将迎来巨变：谷歌支付全面上线，支付宝2026年接入",
-          "url": "https://www.cls.cn/detail/2147397",
-          "source": "财联社热门",
+          "title": "谷歌市值突破 3 万亿美元，为第四家迈入该梯队的美国公司，相比英伟达、微软、苹果，其市值逻辑有何特点？",
+          "url": "https://www.zhihu.com/question/1951204585428463642",
+          "source": "知乎",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
+          "time_info": "[17时27分 ~ 18时26分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下Waymo：“很快”就会在美国旧金山机场测试（无人驾驶汽车产品）。",
@@ -1151,17 +1210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "谷歌市值突破 3 万亿美元，为第四家迈入该梯队的美国公司，相比英伟达、微软、苹果，其市值逻辑有何特点？",
-          "url": "https://www.zhihu.com/question/1951204585428463642",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "谷歌大模型Gemini超越OpenAI的ChatGPT，问鼎苹果公司应用商店APP Store",
@@ -1238,6 +1286,19 @@
           "time_info": "[09时51分 ~ 12时31分]"
         },
         {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31623615",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
           "url": "https://flash.jin10.com/detail/20250917053502292800",
           "source": "金十数据",
@@ -1248,18 +1309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31623615",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "据塔斯尼姆通讯：伊朗阿瓦士一栋住宅楼发生瓦斯爆炸，造成6人死亡。",
@@ -1290,6 +1339,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "英伟达：宣布微软、英伟达和OpenAI合作的英国AI基础设施承诺。",
+          "url": "https://wallstreetcn.com/livenews/2975286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "OpenAI将面向青少年用户群推出具有家长控制权限的ChatGPT。 当前，该公司面临关于未成年人安全的审查。",
           "url": "https://wallstreetcn.com/livenews/2974898",
           "source": "华尔街见闻-快讯",
@@ -1300,18 +1362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "英伟达：宣布微软、英伟达和OpenAI合作的英国AI基础设施承诺。",
-          "url": "https://wallstreetcn.com/livenews/2975286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "报道：OpenAI已经聘请前xAI首席财务官Mike Liberatore",
@@ -1405,8 +1455,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美联储决议前夕 长期美债收益率小幅走低",
+          "url": "https://flash.jin10.com/detail/20250917180759641800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "周二（9月16日）纽约尾盘，美国10年期国债收益率跌1.15个基点，报4.0260%，北京时间20:30发布美国零售销售数据后刷新日高至4.0604%。 两年期美债收益率跌2.74个基点，报3.5095%。 2/10年期美债收益率利差涨1.575个基点，报+51.442个基点。",
           "url": "https://wallstreetcn.com/livenews/2974851",
@@ -1447,8 +1508,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时26分]"
         }
       ]
     }
