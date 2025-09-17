@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T07:19:11.089537+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-09-17T09:51:59.467132+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普提名的米兰确认出任美联储理事，或将参与 16 日美联储会议，他如何影响利率？降息幅度会超预期吗？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普携夫人访问英国，现场画面公布",
+          "url": "https://news.ifeng.com/c/8miKdSjuUIn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普批评美国加州州长纽森试图用低收入住房取代被帕利塞德火灾毁坏的房产。",
@@ -39,9 +50,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普预告的中美大交易是什么",
+          "url": "https://www.toutiao.com/trending/7550327079306821673/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：刚刚与印度总理莫迪通话。",
@@ -154,6 +176,17 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
+          "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
+          "url": "https://news.ifeng.com/c/8mhw6erHbys",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时51分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：特朗普邀请我两周后访问白宫。",
           "url": "https://flash.jin10.com/detail/20250917015231381800",
           "source": "金十数据",
@@ -203,17 +236,6 @@
         },
         {
           "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
-          "url": "https://news.ifeng.com/c/8mhw6erHbys",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "泽连斯基：愿与特朗普和普京会面，但不去莫斯科",
           "url": "https://wallstreetcn.com/livenews/2974858",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -235,6 +257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时23分]"
+        },
+        {
+          "title": "美财长贝森特：特朗普推动取消季度财报制度，将利好投资者",
+          "url": "https://www.cls.cn/detail/2147114",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "特朗普政府批准第一批援乌武器 由盟友掏钱",
@@ -268,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普对英国进行国事访问 欧盟委员会将提出对以色列的制裁措施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2147144",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国众议院共和党发布政府融资立法草案，计划让特朗普政府持续运作至11月21日。",
@@ -345,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "以军发动地面攻势坦克开进加沙城，特朗普警告哈马斯“别动人质”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31617832",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普抵达英国 进行国事访问",
@@ -437,33 +492,36 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时51分]"
         },
         {
           "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
           "url": "https://wallstreetcn.com/articles/3755688",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时51分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
           "url": "https://www.cls.cn/detail/2147127",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时51分]"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -641,7 +699,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -652,9 +710,76 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一口气了解伊朗经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时51分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
+          "url": "https://wallstreetcn.com/livenews/2974895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
+          "url": "https://news.ifeng.com/c/8miEsKViqXV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时51分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
+          "url": "https://flash.jin10.com/detail/20250917053502292800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "以方首次披露：曾在伊朗部署百名特工",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%96%B9%E9%A6%96%E6%AC%A1%E6%8A%AB%E9%9C%B2%EF%BC%9A%E6%9B%BE%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%83%A8%E7%BD%B2%E7%99%BE%E5%90%8D%E7%89%B9%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -761,60 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一口气了解伊朗经济",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BA%86%E8%A7%A3%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时19分]"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
-          "url": "https://wallstreetcn.com/livenews/2974895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
-          "url": "https://news.ifeng.com/c/8miEsKViqXV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
-          "url": "https://flash.jin10.com/detail/20250917053502292800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时19分]"
         }
       ]
     },
