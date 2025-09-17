@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T21:33:19.078086+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2025-09-17T22:24:12.000793+08:00",
+  "total_titles_processed": 1953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普携夫人访问英国，现场画面公布",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
+          "url": "https://www.cls.cn/detail/2147702",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时24分]"
         },
         {
           "title": "特朗普政府为什么死咬委内瑞拉？",
@@ -72,20 +86,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时27分 ~ 21时33分]"
-        },
-        {
-          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
-          "url": "https://www.cls.cn/detail/2147702",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时33分]"
         },
         {
           "title": "美财长贝森特：特朗普推动取消季度财报制度，将利好投资者",
@@ -174,6 +174,17 @@
           "time_info": "[11时01分 ~ 15时23分]"
         },
         {
+          "title": "欧盟官员终于警觉：特朗普借对华关税设局，算计的是我们？",
+          "url": "https://news.ifeng.com/c/8mjFjwVPqzr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普终于打通了莫迪的电话，印媒：然后呢？",
           "url": "https://news.ifeng.com/c/8miy5uoS5Sb",
           "source": "凤凰网",
@@ -205,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "特朗普称美国“击沉”三艘委内瑞拉船只",
-          "url": "https://wallstreetcn.com/livenews/2975434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "硅谷巨头携大单随特朗普访英：投资超300亿英镑，打造英版星门",
@@ -347,6 +347,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普称美国“击沉”三艘委内瑞拉船只",
+          "url": "https://wallstreetcn.com/livenews/2975434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：飞往英国的航班很顺利，英国是一个非常特别的地方。",
@@ -665,7 +677,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -690,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "信函显示，超过100名民主党议员敦促特朗普政府放弃取消车辆排放规则的计划。",
+          "url": "https://flash.jin10.com/detail/20250917215110557800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：和特朗普讨论加强我们的共同努力，通过额外措施增加对俄罗斯的经济压力。",
@@ -849,7 +872,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
@@ -860,8 +883,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 21时33分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
@@ -914,28 +937,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2975431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "Lyft美股盘前涨24%，Uber盘前跌超3%，消息称在线租车平台Lyft宣布与Waymo开展合作。",
-          "url": "https://wallstreetcn.com/livenews/2975430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "美国能源基础设施公司新堡能源（New Fortress Energy）美股盘前涨幅一度扩大至68%。",
           "url": "https://wallstreetcn.com/livenews/2975293",
           "source": "华尔街见闻-快讯",
@@ -973,6 +974,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2975431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时24分]"
+        },
+        {
+          "title": "Lyft美股盘前涨24%，Uber盘前跌超3%，消息称在线租车平台Lyft宣布与Waymo开展合作。",
+          "url": "https://wallstreetcn.com/livenews/2975430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时24分]"
         },
         {
           "title": "做多美元指数收跌超0.6%，和农产品基金领跌美股大类资产类ETF",
@@ -1033,6 +1058,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，公用事业ETF涨1%，半导体ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2975457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股盘前，甲骨文(ORCL.N)涨1.2%，阿里巴巴(BABA.N)涨约2.5%，百度(BIDU.O)涨超8%。",
           "url": "https://flash.jin10.com/detail/20250917160054918800",
           "source": "金十数据",
@@ -1075,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美股开盘，道指涨0.04%，标普500指数涨0.02%，纳指跌0.01%。英伟达跌超1%，AMD跌近1%。Lyft涨近12%，公司宣布与Alphabet旗下自动驾驶公司Waymo展开合作。纳斯达克中国金龙指数涨超2%，百度涨近8%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2975441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2025年09月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -1222,7 +1269,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一口气了解伊朗经济",
@@ -1254,8 +1301,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时24分]"
         },
         {
           "title": "以方首次披露：曾在伊朗部署百名外国特工，摧毁其导弹系统",
@@ -1318,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "外媒：鲁比奥称伊朗导弹计划为“不可接受的风险”，伊朗驳斥：“胡言乱语”",
+          "url": "https://wallstreetcn.com/livenews/2975447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗媒体：伊朗处决一名被指控为以色列情报机构充当间谍的男子。",
@@ -1618,8 +1676,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 22时24分]"
         }
       ]
     }
