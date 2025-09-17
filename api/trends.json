@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-17T18:26:22.149434+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-09-17T19:21:52.120518+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普携夫人访问英国，现场画面公布",
@@ -73,6 +73,17 @@
           "time_info": "[09时51分 ~ 15时23分]"
         },
         {
+          "title": "特朗普再延长TikTok禁令执行，外交部回应",
+          "url": "https://news.ifeng.com/c/8miuwXIL4Q9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
+        },
+        {
           "title": "胡锡进：抗议者把温莎城堡搞成特朗普的耻辱柱，让英国很没面子",
           "url": "https://news.ifeng.com/c/8mihtQIy0JK",
           "source": "凤凰网",
@@ -136,17 +147,6 @@
           "time_info": "[11时01分 ~ 15时23分]"
         },
         {
-          "title": "特朗普再延长TikTok禁令执行，外交部回应",
-          "url": "https://news.ifeng.com/c/8miuwXIL4Q9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时26分]"
-        },
-        {
           "title": "特朗普携CEO造访，英规模最大仪仗队相迎，民众抗议",
           "url": "https://news.ifeng.com/c/8mixu2oqcJk",
           "source": "凤凰网",
@@ -154,8 +154,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
+          "url": "https://www.cls.cn/detail/2147702",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "特朗普终于打通了莫迪的电话，印媒：然后呢？",
@@ -169,17 +182,15 @@
           "time_info": "[17时27分 ~ 18时26分]"
         },
         {
-          "title": "特朗普再次延长TikTok禁令执行，外交部回应",
-          "url": "https://www.cls.cn/detail/2147702",
-          "source": "财联社热门",
+          "title": "特朗普造访 英用规模最大仪仗队相迎",
+          "url": "https://www.toutiao.com/trending/7550976639086104114/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            5,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "特朗普再延长TikTok禁令",
@@ -371,6 +382,18 @@
           "time_info": "[07时18分 ~ 11时01分]"
         },
         {
+          "title": "中方回应特朗普延长TikTok禁令执行",
+          "url": "https://www.toutiao.com/trending/7550776867473608255/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
           "title": "特朗普再延长TikTok禁令宽限期",
           "url": "https://www.toutiao.com/trending/7550776865825508907/",
           "source": "今日头条",
@@ -466,17 +489,6 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
-          "title": "中方回应特朗普延长TikTok禁令执行",
-          "url": "https://www.toutiao.com/trending/7550776867473608255/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时26分]"
-        },
-        {
           "title": "特朗普“开怼”澳记者：你哪家媒体的",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%BC%80%E6%80%BC%E2%80%9D%E6%BE%B3%E8%AE%B0%E8%80%85%EF%BC%9A%E4%BD%A0%E5%93%AA%E5%AE%B6%E5%AA%92%E4%BD%93%E7%9A%84",
           "source": "百度热搜",
@@ -549,7 +561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -582,7 +594,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -692,7 +704,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -788,8 +800,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 18时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场静待美联储利率决议",
@@ -978,7 +990,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1147,11 +1159,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
+        },
+        {
+          "title": "谷歌市值突破 3 万亿美元，为第四家迈入该梯队的美国公司，相比英伟达、微软、苹果，其市值逻辑有何特点？",
+          "url": "https://www.zhihu.com/question/1951204585428463642",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时26分]"
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "英国政府：Salesforce宣布，到2030年将对英国业务追加投资20亿美元。 微软、英伟达、谷歌、OpenAI和CoreWeave等美国科技企业承诺共计投资310亿英镑（约合423亿美元），用于提升数据中心、计算机芯片在内英国的人工智能（AI）基础设施和尖端技术。",
@@ -1176,17 +1201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "谷歌市值突破 3 万亿美元，为第四家迈入该梯队的美国公司，相比英伟达、微软、苹果，其市值逻辑有何特点？",
-          "url": "https://www.zhihu.com/question/1951204585428463642",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时26分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下Waymo：“很快”就会在美国旧金山机场测试（无人驾驶汽车产品）。",
@@ -1295,8 +1309,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "以方首次披露：曾在伊朗部署百名外国特工 摧毁其导弹系统",
@@ -1464,7 +1478,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1508,8 +1522,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 19时21分]"
         }
       ]
     }
