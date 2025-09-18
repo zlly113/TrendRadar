@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-18T07:21:59.792550+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-09-18T09:49:57.460189+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "欧盟官员终于警觉：特朗普借对华关税设局，算计的是我们？",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "【早报】特朗普再次延长TikTok禁令执行，外交部回应；工信部发文，事关辅助驾驶",
+          "url": "https://www.cls.cn/detail/2148403",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普结束讲话。",
@@ -138,6 +149,18 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
+          "title": "特朗普又走到英国国王前头去了",
+          "url": "https://news.ifeng.com/c/8mjLoiIXy8G",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时49分]"
+        },
+        {
           "title": "【美联储库克同款剧情上演，财长贝森特被曝也曾双房并列“主要居所”】抵押贷款文件显示，美国财政部长斯科特·贝森特曾同意同时将两处不同房产作为其“主要居所”。这与总统特朗普试图罢免美联储理事丽莎·库克时援引的矛盾承诺如出一辙。2007年，在贝森特签署的自相矛盾的协议中，他同时将纽约州和马萨诸塞州的房产作为主要居所。但抵押贷款专家指出，其行为并无不当迹象。该案例恰恰说明：住房贷款文件中的不一致之处未必构成欺诈证据。贝森特的抵押贷款其他证据表明，其贷款方美国银行并未依赖这些承诺，也从未预期他将两处房产同时作为主要住所使用。",
           "url": "https://wallstreetcn.com/livenews/2975531",
           "source": "华尔街见闻-快讯",
@@ -160,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普又走到英国国王前头去了",
-          "url": "https://news.ifeng.com/c/8mjLoiIXy8G",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
         },
         {
           "title": "美联储降息25个基点，联邦基金利率目标区间现在为4.00%-4.25%，符合市场预期。 下调超额准备金利率25个基点，至4.15%；下调储备金利率25个基点，至4%。 联邦公开市场委员会（FOMC）在决议声明称，就业面临的下行风险加重，失业率略有上升但仍处于低位。 总统特朗普提名、获得国会山批准、已经宣誓就职的新理事Miran持异议，倾向于降息50个基点。 通胀已上升，一定程度上仍处于高位。 一位美联储官员预计2025年不会降息，（另外）一位美联储官员预计2025年利率将下调150个基点。",
@@ -236,7 +248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -258,7 +270,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -280,9 +292,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美联储终于降息了，特朗普满意了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31625589",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "特朗普在与英国国王的晚宴中致辞，美国一众科技公司领导人列席。",
@@ -324,7 +347,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -426,8 +449,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时49分]"
         },
         {
           "title": "半导体ETF收跌超0.6%，领跌美股行业ETF，银行ETF则至少涨1.1%",
@@ -554,6 +577,69 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "冈拉克：金价年底前“几乎肯定”将收于4000美元上方",
+          "url": "https://flash.jin10.com/detail/20250918035151451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美联储降息对股市金价有何影响",
+          "url": "https://www.toutiao.com/trending/7551197944536600091/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "金价在美联储降息日跌超0.8%，鲍威尔称没有人支持新理事Miran降息50个基点的主张",
+          "url": "https://wallstreetcn.com/livenews/2975630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美国10年期国债收益率从4.04%跳水至4.01%下方，金价剧烈波动于3696.67-3654.44美元。标普500指数转涨，道指涨380点。美元指数跌0.2%，报96.46点。彭博美元指数创2025年新低。美联储如期宣布降息25个基点，交易员加大对美联储今年至少再降息一次的押注。",
+          "url": "https://wallstreetcn.com/livenews/2975553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26pos%3D5%26realpos%3D6%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D6%26dgr%3D0%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1758160125%26pre_seqid%3D17581601252110139119479",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
@@ -617,6 +703,58 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "因鲍威尔打消市场对大幅降息的希望 美债下跌",
+          "url": "https://flash.jin10.com/detail/20250918035219531800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国10年期国债收益率跌约4个基点，在美联储暗示2025年还有降息50个基点机会之后，跌穿3.99%，创4月份以来新低。 两年期美债收益率短线从3.54%一线跳水至接近3.46%的水平。",
+          "url": "https://wallstreetcn.com/livenews/2975560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美债收益率于美联储降息日全面反弹至少超4个基点",
+          "url": "https://wallstreetcn.com/livenews/2975646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时21分]"
+        },
+        {
+          "title": "美联储降息日，主要资产震荡，美股涨跌不一，美债收益率最终走高，黄金跌美元涨",
+          "url": "https://wallstreetcn.com/articles/3755794",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -668,90 +806,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "冈拉克：金价年底前“几乎肯定”将收于4000美元上方",
-          "url": "https://flash.jin10.com/detail/20250918035151451800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "金价在美联储降息日跌超0.8%，鲍威尔称没有人支持新理事Miran降息50个基点的主张",
-          "url": "https://wallstreetcn.com/livenews/2975630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "美国10年期国债收益率从4.04%跳水至4.01%下方，金价剧烈波动于3696.67-3654.44美元。标普500指数转涨，道指涨380点。美元指数跌0.2%，报96.46点。彭博美元指数创2025年新低。美联储如期宣布降息25个基点，交易员加大对美联储今年至少再降息一次的押注。",
-          "url": "https://wallstreetcn.com/livenews/2975553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "因鲍威尔打消市场对大幅降息的希望 美债下跌",
-          "url": "https://flash.jin10.com/detail/20250918035219531800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国10年期国债收益率跌约4个基点，在美联储暗示2025年还有降息50个基点机会之后，跌穿3.99%，创4月份以来新低。 两年期美债收益率短线从3.54%一线跳水至接近3.46%的水平。",
-          "url": "https://wallstreetcn.com/livenews/2975560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时22分]"
-        },
-        {
-          "title": "美债收益率于美联储降息日全面反弹至少超4个基点",
-          "url": "https://wallstreetcn.com/livenews/2975646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
@@ -765,6 +821,45 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
+          "url": "https://www.cls.cn/detail/2148418",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "梁文锋论文登上《自然》封面",
+          "url": "https://news.ifeng.com/c/8mjzg1mMEq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI 发布 GPT-5-Codex，编程能力大幅提升，还有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1951228571914859740",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
