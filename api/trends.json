@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-18T22:26:33.176866+08:00",
-  "total_titles_processed": 2069,
+  "generated_at": "2025-09-18T23:27:51.519648+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 103,
       "titles": [
         {
           "title": "欧盟官员终于警觉：特朗普借对华关税设局，算计的是我们？",
@@ -31,6 +31,18 @@
           "time_info": "[09时49分 ~ 15时25分]"
         },
         {
+          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
+          "url": "https://wallstreetcn.com/articles/3755803",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时27分]"
+        },
+        {
           "title": "美联储终于降息了，特朗普满意了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31625589",
           "source": "澎湃新闻",
@@ -42,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时49分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 23时27分]"
         },
         {
           "title": "特朗普又走到英国国王前头去了",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时03分 ~ 15时25分]"
-        },
-        {
-          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
-          "url": "https://wallstreetcn.com/articles/3755803",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 22时26分]"
         },
         {
           "title": "特朗普预告的中美大交易是什么",
@@ -194,7 +194,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -205,9 +205,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "白宫官员声称：特朗普政府并没有参与英伟达对英特尔的投资。",
+          "url": "https://wallstreetcn.com/livenews/2976186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国民主党参议员敦促特朗普政府关注约旦河西岸“崩溃”的风险。",
@@ -227,7 +238,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -260,9 +271,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美国最高法院将于11月5日就特朗普关税案听取口头辩论。",
+          "url": "https://flash.jin10.com/detail/20250918231100381800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美国最高法院安排11月5日对特朗普关税官司进行口头辩论。",
+          "url": "https://wallstreetcn.com/livenews/2976183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：加密货币是房地产资产的“完美对冲工具”。",
@@ -274,28 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "美国总统特朗普：股市创新高。 随着时间的推移，股市会表现得更好。",
-          "url": "https://wallstreetcn.com/livenews/2976166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "特朗普想要韩国土地 李在明回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E9%9F%A9%E5%9B%BD%E5%9C%9F%E5%9C%B0+%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：特朗普集团“几乎没有任何债务”。",
@@ -326,9 +337,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "迫于特朗普压力，欧盟计划加快逐步淘汰俄罗斯液化天然气",
+          "url": "https://wallstreetcn.com/livenews/2976181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "英国王室以最高规格迎接特朗普",
@@ -389,6 +411,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时52分 ~ 21时33分]"
+        },
+        {
+          "title": "特朗普想要韩国土地 李在明回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E9%9F%A9%E5%9B%BD%E5%9C%9F%E5%9C%B0+%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
+          "title": "美国总统特朗普：股市创新高。 随着时间的推移，股市会表现得更好。",
+          "url": "https://wallstreetcn.com/livenews/2976166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "特朗普甩开英国王和卫兵聊天",
@@ -543,9 +589,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普反对英国承认巴勒斯坦建国 但未施压其改变立场",
+          "url": "https://flash.jin10.com/detail/20250918230213773800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：超过一年无法出售份额。",
@@ -576,7 +633,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -590,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国总统特朗普重申呼吁其他国家停止购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20250918225645516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "鲍威尔：我不会说所有的就业市场放缓都是（美国总统特朗普挑起的）关税一手造成的。",
@@ -614,15 +682,37 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国总统特朗普：再次呼吁停止购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2976178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普：英美技术协议将确保两国并肩引领下一次伟大的技术革命。",
           "url": "https://flash.jin10.com/detail/20250918221943654800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普：对其他国家购买俄罗斯石油感到失望。",
+          "url": "https://flash.jin10.com/detail/20250918225628718800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国总统特朗普宣扬就业数据和投资情况。",
@@ -631,9 +721,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普：如果油价下跌，俄罗斯总统普京将别无选择，只能结束战争。",
+          "url": "https://flash.jin10.com/detail/20250918225618556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "特朗普：正通过谈判收回阿富汗巴格拉姆空军基地",
+          "url": "https://flash.jin10.com/detail/20250918225501159800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "巴西央行按兵不动，称关注特朗普关税威胁",
@@ -664,9 +776,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及与普京的阿拉斯加会晤是否是一个错误）不。",
+          "url": "https://flash.jin10.com/detail/20250918225358674800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "白宫：美国总统特朗普与英国首相斯塔默在巴勒斯坦国问题上持不同意见。",
+          "url": "https://wallstreetcn.com/livenews/2976173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国总统特朗普证实Centrica与X-Energy的交易。",
@@ -686,7 +820,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -724,6 +858,17 @@
           "time_info": "20时52分"
         },
         {
+          "title": "美国总统特朗普：（就吉米直播秀停播一事表示）吉米·坎摩尔被解雇是因为收视率不好。早就应该解雇他了。",
+          "url": "https://flash.jin10.com/detail/20250918225332990800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国农业部长：特朗普的关税可能为美国农民提供救助。",
           "url": "https://flash.jin10.com/detail/20250918120459069800",
           "source": "金十数据",
@@ -733,6 +878,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "英国首相斯塔默：英国承认巴勒斯坦国的时机与美国总统特朗普的国事访问无关。",
+          "url": "https://flash.jin10.com/detail/20250918224900898800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美国总统特朗普称，普京“让我失望”。 被问及是否对阿拉斯加会晤普京感到后悔，称“不”。",
+          "url": "https://wallstreetcn.com/livenews/2976168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普施压下，鲍威尔维持了美联储的团结",
@@ -790,6 +957,17 @@
           "time_info": "20时52分"
         },
         {
+          "title": "特朗普访英双刀齐下：面子主权都要抢",
+          "url": "https://www.toutiao.com/trending/7551403598920289819/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普在与英国国王的晚宴中致辞，美国一众科技公司领导人列席。",
           "url": "https://flash.jin10.com/detail/20250918042517723800",
           "source": "金十数据",
@@ -832,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "白宫：特朗普与斯塔默在巴勒斯坦国问题上持不同意见。",
+          "url": "https://flash.jin10.com/detail/20250918223833345800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国总统特朗普在美国国会大厦外放置了一尊自己手持比特币的金色雕像。",
@@ -889,6 +1078,17 @@
           "time_info": "20时52分"
         },
         {
+          "title": "美国总统特朗普：希望在俄乌局势上有好消息。",
+          "url": "https://flash.jin10.com/detail/20250918223755498800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "据BBC：巴西总统卢拉表示，他与美国总统特朗普“没有关系”。",
           "url": "https://flash.jin10.com/detail/20250918051514341800",
           "source": "金十数据",
@@ -900,15 +1100,37 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国总统特朗普：我们正在努力夺回巴格拉姆空军基地。",
+          "url": "https://flash.jin10.com/detail/20250918223651506800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普与英国首相斯塔默的新闻发布会即将举行。",
           "url": "https://flash.jin10.com/detail/20250918220437528800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普：与英国首相斯塔默讨论了北海问题。",
+          "url": "https://flash.jin10.com/detail/20250918223500830800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普“空军一号”遭逼近 空管急了",
@@ -920,6 +1142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "美国总统特朗普：风力发电是一个昂贵的笑话，一场灾难。",
+          "url": "https://flash.jin10.com/detail/20250918223448197800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "如何看待特朗普大战美联储",
@@ -958,7 +1191,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
@@ -1036,6 +1269,18 @@
           "time_info": "[17时26分 ~ 18时27分]"
         },
         {
+          "title": "美股半导体指数涨3.5%，英特尔涨约26%",
+          "url": "https://wallstreetcn.com/livenews/2976164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
           "title": "半导体ETF收跌超0.6%，领跌美股行业ETF，银行ETF则至少涨1.1%",
           "url": "https://wallstreetcn.com/livenews/2975628",
           "source": "华尔街见闻-快讯",
@@ -1084,15 +1329,16 @@
           "time_info": "[16时34分 ~ 17时26分]"
         },
         {
-          "title": "美股半导体指数涨3.5%，英特尔涨约26%",
-          "url": "https://wallstreetcn.com/livenews/2976164",
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨近3%，生物科技指数ETF、科技行业ETF、全球科技股指数ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2976151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "英特尔美股盘前涨超19%，英伟达以50亿美元入股英特尔。",
@@ -1139,15 +1385,15 @@
           "time_info": "21时33分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨近3%，生物科技指数ETF、科技行业ETF、全球科技股指数ETF均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2976151",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储降息为美股IPO“开绿灯” 多行业企业将启动申请",
+          "url": "https://flash.jin10.com/detail/20250918224611911800",
+          "source": "金十数据",
           "ranks": [
-            15
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时27分"
         },
         {
           "title": "美股三大股指集体高开，英特尔涨超27%",
@@ -1156,7 +1402,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -1175,7 +1421,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价狂飙金饰一口价也要涨",
@@ -1264,6 +1510,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "香港黄金劫案背后是全球金价疯狂",
+          "url": "https://www.toutiao.com/trending/7551402130473487908/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "“新债王”速评热点：美联储降息“恰到好处”，金价将涨破4000美元！",
           "url": "https://www.cls.cn/detail/2148422",
           "source": "财联社热门",
@@ -1295,6 +1552,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "梁文锋参与的 DeepSeek-R1 论文登上 Nature 封面，这具有什么意义？",
+          "url": "https://www.zhihu.com/question/1951809909768303482",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 23时27分]"
+        },
+        {
+          "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
+          "url": "https://www.zhihu.com/question/1951240126534510500",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "梁文锋发Nature了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%91Nature%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            4,
+            8,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 23时27分]"
+        },
+        {
+          "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
+          "url": "https://www.cls.cn/detail/2148418",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 15时25分]"
+        },
+        {
+          "title": "梁文锋论文登上《自然》封面",
+          "url": "https://news.ifeng.com/c/8mjzg1mMEq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 13时25分]"
+        },
+        {
+          "title": "DeepSeek：深度求索从未要求用户向个人账户或非官方账户付款",
+          "url": "https://wallstreetcn.com/livenews/2975982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时27分]"
+        },
+        {
+          "title": "梁文锋论文登权威期刊《自然》封面",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%AE%BA%E6%96%87%E7%99%BB%E6%9D%83%E5%A8%81%E6%9C%9F%E5%88%8A%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 15时25分]"
+        },
+        {
+          "title": "华为和DeepSeek手拉手迈出一大步",
+          "url": "https://www.toutiao.com/trending/7551407404953374227/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -1398,108 +1768,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "梁文锋参与的 DeepSeek-R1 论文登上 Nature 封面，这具有什么意义？",
-          "url": "https://www.zhihu.com/question/1951809909768303482",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 22时26分]"
-        },
-        {
-          "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
-          "url": "https://www.zhihu.com/question/1951240126534510500",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "梁文锋发Nature了",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%91Nature%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            4,
-            8,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 22时26分]"
-        },
-        {
-          "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
-          "url": "https://www.cls.cn/detail/2148418",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 15时25分]"
-        },
-        {
-          "title": "梁文锋论文登上《自然》封面",
-          "url": "https://news.ifeng.com/c/8mjzg1mMEq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 13时25分]"
-        },
-        {
-          "title": "DeepSeek：深度求索从未要求用户向个人账户或非官方账户付款",
-          "url": "https://wallstreetcn.com/livenews/2975982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时27分]"
-        },
-        {
-          "title": "梁文锋论文登权威期刊《自然》封面",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%AE%BA%E6%96%87%E7%99%BB%E6%9D%83%E5%A8%81%E6%9C%9F%E5%88%8A%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B0%81%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 15时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌 Gemini 下载量超过 ChatGPT，这背后原因有哪些？",
@@ -1513,6 +1783,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时03分 ~ 14时38分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：美国地区的谷歌和Gmail出现故障。",
+          "url": "https://flash.jin10.com/detail/20250918231352940800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "PayPal股价短线拉升，涨副扩大至3.5%，该公司与谷歌达成持续多年的协议。",
@@ -1641,7 +1922,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -1692,7 +1973,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -1713,8 +1994,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时49分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 23时27分]"
         },
         {
           "title": "因鲍威尔打消市场对大幅降息的希望 美债下跌",
