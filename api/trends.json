@@ -1,22 +1,33 @@
 {
-  "generated_at": "2025-09-19T02:36:42.365765+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-09-19T03:21:55.265482+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
-          "title": "以色列常驻联合国代表：以总理本月底将与特朗普见面",
-          "url": "https://flash.jin10.com/detail/20250919022835363800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：有时候无人机会坠落，我希望（波兰发生的情况）就是那样。",
+          "url": "https://wallstreetcn.com/livenews/2976252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：与英国国王查尔斯讨论乌克兰局势。 查尔斯对贸易的兴趣超过其他任何事。 英美两国正为了贸易协议而努力，结果将对双方都有利。",
+          "url": "https://wallstreetcn.com/livenews/2976251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "03时21分"
         },
         {
           "title": "美国保守派非营利性组织“美国转折点”任命查理·柯克的遗孀艾莉卡·柯克为该组织新任首席执行官兼董事会主席。特朗普的盟友查理·柯克此前在犹他山谷大学演讲时遭枪击身亡。",
@@ -30,15 +41,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普反对英国承认巴勒斯坦国计划",
-          "url": "https://wallstreetcn.com/livenews/2976240",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫：特朗普因直升机故障改乘备用机",
+          "url": "https://news.ifeng.com/c/8mlE0cRwPgr",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "03时21分"
         },
         {
           "title": "特朗普寻求加快大型电力项目 以满足人工智能需求",
@@ -52,6 +63,41 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普表示，如果网络媒体对他不利，他将考虑吊销它们的执照。",
+          "url": "https://flash.jin10.com/detail/20250919024913306800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "以色列常驻联合国代表：以总理本月底将与特朗普见面",
+          "url": "https://flash.jin10.com/detail/20250919022835363800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普反对英国承认巴勒斯坦国计划",
+          "url": "https://wallstreetcn.com/livenews/2976240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
           "url": "https://wallstreetcn.com/articles/3755803",
           "source": "华尔街见闻",
@@ -59,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "美联储终于降息了，特朗普满意了吗？",
@@ -71,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "英士兵受阅时佩剑差点刺中特朗普",
@@ -84,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "特朗普带小女儿蒂芙尼参加英国国宴",
@@ -97,8 +143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "美国总统特朗普寻求加快大型电力项目以满足人工智能需求。",
@@ -111,6 +157,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普暗示俄乌冲突问题将传来“好消息”",
+          "url": "https://flash.jin10.com/detail/20250919021719976800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
         },
         {
           "title": "特朗普想要韩国土地 李在明回应",
@@ -137,6 +195,18 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "美国总统特朗普谈及英国（贸易）协议，称：美国（的手中）总是有绳子。 美方如此强大，能让人们按美国的想法来做。",
+          "url": "https://wallstreetcn.com/livenews/2976232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
           "title": "特朗普政府将美国最高法院卷入司法纠纷：要求允许特朗普解雇美联储理事库克",
           "url": "https://wallstreetcn.com/livenews/2976194",
           "source": "华尔街见闻-快讯",
@@ -147,6 +217,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美国总统特朗普：在移民问题上不认可英国首相斯塔默的立场。 也不支持他对能源的看法。",
+          "url": "https://wallstreetcn.com/livenews/2976231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "WTI原油期货维持超过0.9%的跌幅，持稳于日低62.66美元附近，特朗普称“需要进一步降低油价”。",
+          "url": "https://wallstreetcn.com/livenews/2976230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普：需要进一步压低石油价格，在俄罗斯石油问题上斯塔默不是一个“罪犯”",
+          "url": "https://wallstreetcn.com/livenews/2976229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
         },
         {
           "title": "特朗普政府请求美国最高法院允许总统解雇美联储理事库克。",
@@ -161,6 +267,30 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "美国总统特朗普：感觉还不是“要求普京停火”的时机。",
+          "url": "https://wallstreetcn.com/livenews/2976228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默不应为俄罗斯石油问题负责。",
+          "url": "https://flash.jin10.com/detail/20250919015641562800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
           "title": "白宫官员声称：特朗普政府并没有参与英伟达对英特尔的投资。",
           "url": "https://wallstreetcn.com/livenews/2976186",
           "source": "华尔街见闻-快讯",
@@ -171,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默不是俄罗斯石油问题的罪魁祸首。",
+          "url": "https://flash.jin10.com/detail/20250919015332960800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
         },
         {
           "title": "白宫官员表示，特朗普政府并未参与英伟达对英特尔的投资。",
@@ -197,6 +339,18 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：通过英特尔投资协议，笔记本电脑市场的一个新的领域对我们开放。 我们成为英特尔服务器CPU的一个主要客户。 特朗普政府并没有染指（英伟达与）英特尔合作伙伴关系（的谈判）。 （两家公司的）工程师团队共同合作了一年。 我们的协议侧重于新款定制芯片。 投资英特尔的回报将是巨大的。 合作关系解决250亿-500亿美元的市场。 台积电的产能像魔术。 Arm路线图将继续下去，我们将恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/2976217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
           "title": "美国总统特朗普：再次呼吁停止购买俄罗斯石油。",
           "url": "https://wallstreetcn.com/livenews/2976178",
           "source": "华尔街见闻-快讯",
@@ -220,101 +374,13 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普暗示俄乌冲突问题将传来“好消息”",
-          "url": "https://flash.jin10.com/detail/20250919021719976800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普谈及英国（贸易）协议，称：美国（的手中）总是有绳子。 美方如此强大，能让人们按美国的想法来做。",
-          "url": "https://wallstreetcn.com/livenews/2976232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普：在移民问题上不认可英国首相斯塔默的立场。 也不支持他对能源的看法。",
-          "url": "https://wallstreetcn.com/livenews/2976231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "WTI原油期货维持超过0.9%的跌幅，持稳于日低62.66美元附近，特朗普称“需要进一步降低油价”。",
-          "url": "https://wallstreetcn.com/livenews/2976230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "特朗普：需要进一步压低石油价格，在俄罗斯石油问题上斯塔默不是一个“罪犯”",
-          "url": "https://wallstreetcn.com/livenews/2976229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普：感觉还不是“要求普京停火”的时机。",
-          "url": "https://wallstreetcn.com/livenews/2976228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普：英国首相斯塔默不应为俄罗斯石油问题负责。",
-          "url": "https://flash.jin10.com/detail/20250919015641562800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普：英国首相斯塔默不是俄罗斯石油问题的罪魁祸首。",
-          "url": "https://flash.jin10.com/detail/20250919015332960800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
           "title": "美国总统特朗普：在华盛顿特区取得良好工作成果后，下一个目标是整顿芝加哥。",
           "url": "https://flash.jin10.com/detail/20250919015256525800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -325,7 +391,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -336,18 +402,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：通过英特尔投资协议，笔记本电脑市场的一个新的领域对我们开放。 我们成为英特尔服务器CPU的一个主要客户。 特朗普政府并没有染指（英伟达与）英特尔合作伙伴关系（的谈判）。 （两家公司的）工程师团队共同合作了一年。 我们的协议侧重于新款定制芯片。 投资英特尔的回报将是巨大的。 合作关系解决250亿-500亿美元的市场。 台积电的产能像魔术。 Arm路线图将继续下去，我们将恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/2976217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -358,7 +413,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -369,7 +424,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -391,7 +446,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -402,7 +457,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -413,7 +468,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -435,7 +490,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -468,7 +523,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -490,7 +545,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -512,7 +567,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -530,8 +585,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "华为和DeepSeek手拉手迈出一大步",
@@ -542,8 +597,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek严正声明：任何冒用公司名义开展“算力租赁”、“融资”等行为均属违法，将依法追究其法律责任",
@@ -568,11 +623,12 @@
           "url": "https://flash.jin10.com/detail/20250919020257521800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
         },
         {
           "title": "网络状况监测网站DownDetector：美国地区的谷歌和Gmail出现故障。",
@@ -599,8 +655,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "美联储降息推动美股大涨，英特尔暴涨27%，AMD、台积电跳水，10年期美债上涨",
@@ -610,8 +666,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -644,28 +700,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "香港黄金劫案背后是全球金价疯狂",
-          "url": "https://www.toutiao.com/trending/7551402130473487908/",
-          "source": "今日头条",
+          "title": "市场消息：美国共和党参议员克鲁兹提出一项法案，禁止受制裁的伊朗官员在纽约联合国大会召开前进入美国。",
+          "url": "https://flash.jin10.com/detail/20250919025310157800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            10,
-            20
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
         {
           "title": "法国总统马克龙：对伊朗的联合国制裁将恢复。",
           "url": "https://flash.jin10.com/detail/20250918235627463800",
@@ -677,6 +725,26 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港黄金劫案背后是全球金价疯狂",
+          "url": "https://www.toutiao.com/trending/7551402130473487908/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
