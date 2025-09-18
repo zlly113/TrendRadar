@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-09-19T01:22:41.021719+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-09-19T02:36:42.365765+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "以色列常驻联合国代表：以总理本月底将与特朗普见面",
+          "url": "https://flash.jin10.com/detail/20250919022835363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
         {
           "title": "美国保守派非营利性组织“美国转折点”任命查理·柯克的遗孀艾莉卡·柯克为该组织新任首席执行官兼董事会主席。特朗普的盟友查理·柯克此前在犹他山谷大学演讲时遭枪击身亡。",
           "url": "https://flash.jin10.com/detail/20250919004108618800",
@@ -14,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普反对英国承认巴勒斯坦国计划",
+          "url": "https://wallstreetcn.com/livenews/2976240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "特朗普寻求加快大型电力项目 以满足人工智能需求",
@@ -25,9 +47,58 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
+          "url": "https://wallstreetcn.com/articles/3755803",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "美联储终于降息了，特朗普满意了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31625589",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "英士兵受阅时佩剑差点刺中特朗普",
+          "url": "https://www.toutiao.com/trending/7551242341059972654/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%92%82%E8%8A%99%E5%B0%BC%E5%8F%82%E5%8A%A0%E8%8B%B1%E5%9B%BD%E5%9B%BD%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "美国总统特朗普寻求加快大型电力项目以满足人工智能需求。",
@@ -66,28 +137,6 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
-          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
-          "url": "https://wallstreetcn.com/articles/3755803",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "美联储终于降息了，特朗普满意了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31625589",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
           "title": "特朗普政府将美国最高法院卷入司法纠纷：要求允许特朗普解雇美联储理事库克",
           "url": "https://wallstreetcn.com/livenews/2976194",
           "source": "华尔街见闻-快讯",
@@ -118,30 +167,6 @@
           "ranks": [
             16,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%92%82%E8%8A%99%E5%B0%BC%E5%8F%82%E5%8A%A0%E8%8B%B1%E5%9B%BD%E5%9B%BD%E5%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "英士兵受阅时佩剑差点刺中特朗普",
-          "url": "https://www.toutiao.com/trending/7551242341059972654/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -190,9 +215,163 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普暗示俄乌冲突问题将传来“好消息”",
+          "url": "https://flash.jin10.com/detail/20250919021719976800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普谈及英国（贸易）协议，称：美国（的手中）总是有绳子。 美方如此强大，能让人们按美国的想法来做。",
+          "url": "https://wallstreetcn.com/livenews/2976232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：在移民问题上不认可英国首相斯塔默的立场。 也不支持他对能源的看法。",
+          "url": "https://wallstreetcn.com/livenews/2976231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "WTI原油期货维持超过0.9%的跌幅，持稳于日低62.66美元附近，特朗普称“需要进一步降低油价”。",
+          "url": "https://wallstreetcn.com/livenews/2976230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：需要进一步压低石油价格，在俄罗斯石油问题上斯塔默不是一个“罪犯”",
+          "url": "https://wallstreetcn.com/livenews/2976229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：感觉还不是“要求普京停火”的时机。",
+          "url": "https://wallstreetcn.com/livenews/2976228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默不应为俄罗斯石油问题负责。",
+          "url": "https://flash.jin10.com/detail/20250919015641562800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默不是俄罗斯石油问题的罪魁祸首。",
+          "url": "https://flash.jin10.com/detail/20250919015332960800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：在华盛顿特区取得良好工作成果后，下一个目标是整顿芝加哥。",
+          "url": "https://flash.jin10.com/detail/20250919015256525800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普谈及与英国的协议：美国总是附加条件的。",
+          "url": "https://flash.jin10.com/detail/20250919015213355800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默同意欧洲必须停止从俄罗斯购买石油。",
+          "url": "https://flash.jin10.com/detail/20250919015149237800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：通过英特尔投资协议，笔记本电脑市场的一个新的领域对我们开放。 我们成为英特尔服务器CPU的一个主要客户。 特朗普政府并没有染指（英伟达与）英特尔合作伙伴关系（的谈判）。 （两家公司的）工程师团队共同合作了一年。 我们的协议侧重于新款定制芯片。 投资英特尔的回报将是巨大的。 合作关系解决250亿-500亿美元的市场。 台积电的产能像魔术。 Arm路线图将继续下去，我们将恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/2976217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：我想帮助英国变得强大。",
+          "url": "https://flash.jin10.com/detail/20250919015041962800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：在移民和能源问题上不同意英国首相斯塔默的观点。",
+          "url": "https://flash.jin10.com/detail/20250919015023417800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国最高法院将于11月5日就特朗普关税案听取口头辩论",
@@ -206,6 +385,39 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国总统特朗普：希望将（阿富汗）巴格拉姆机场夺回。",
+          "url": "https://flash.jin10.com/detail/20250919014837302800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：应该弹劾众议员Ilhan Omar。",
+          "url": "https://flash.jin10.com/detail/20250919014713652800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "市场消息：特朗普重申对风力发电和风车的批评。特朗普批评太阳能电池板占据农田。",
+          "url": "https://flash.jin10.com/detail/20250919014544956800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "特朗普反对英国承认巴勒斯坦建国 但未施压其改变立场",
           "url": "https://flash.jin10.com/detail/20250918230213773800",
           "source": "金十数据",
@@ -215,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国总统特朗普：北海还有很多石油。",
+          "url": "https://flash.jin10.com/detail/20250919014425485800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "白宫：美国总统特朗普与英国首相斯塔默在巴勒斯坦国问题上持不同意见。",
@@ -239,6 +462,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国总统特朗普：我们需要进一步降低油价。如果我们把油价降下来，（俄乌）冲突就结束了。",
+          "url": "https://flash.jin10.com/detail/20250919014319331800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "美国总统特朗普：对其他国家购买俄罗斯石油感到失望。",
           "url": "https://flash.jin10.com/detail/20250918225628718800",
           "source": "金十数据",
@@ -250,6 +484,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国总统特朗普： 如果我必须要求停火，将采取强硬措施。",
+          "url": "https://flash.jin10.com/detail/20250919014133573800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "美国总统特朗普：如果油价下跌，俄罗斯总统普京将别无选择，只能结束战争。",
           "url": "https://flash.jin10.com/detail/20250918225618556800",
           "source": "金十数据",
@@ -259,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国总统特朗普：现在不是要求普京停火的时候。",
+          "url": "https://flash.jin10.com/detail/20250919014053709800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
@@ -274,30 +530,60 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "华为和DeepSeek手拉手迈出一大步",
           "url": "https://www.toutiao.com/trending/7551407404953374227/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "DeepSeek严正声明：任何冒用公司名义开展“算力租赁”、“融资”等行为均属违法，将依法追究其法律责任",
           "url": "https://www.cls.cn/detail/2148828",
           "source": "财联社热门",
           "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌将Gemini AI引入Chrome浏览器",
+          "url": "https://flash.jin10.com/detail/20250919020257521800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时36分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：美国地区的谷歌和Gmail出现故障。",
+          "url": "https://flash.jin10.com/detail/20250918231352940800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
@@ -313,8 +599,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "美联储降息推动美股大涨，英特尔暴涨27%，AMD、台积电跳水，10年期美债上涨",
@@ -324,8 +610,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     },
@@ -340,7 +626,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -351,26 +637,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网络状况监测网站DownDetector：美国地区的谷歌和Gmail出现故障。",
-          "url": "https://flash.jin10.com/detail/20250918231352940800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -384,11 +653,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     },
