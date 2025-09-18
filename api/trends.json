@@ -1,44 +1,69 @@
 {
-  "generated_at": "2025-09-19T00:31:25.037518+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-19T01:22:41.021719+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美国保守派非营利性组织“美国转折点”任命查理·柯克的遗孀艾莉卡·柯克为该组织新任首席执行官兼董事会主席。特朗普的盟友查理·柯克此前在犹他山谷大学演讲时遭枪击身亡。",
+          "url": "https://flash.jin10.com/detail/20250919004108618800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普寻求加快大型电力项目 以满足人工智能需求",
+          "url": "https://flash.jin10.com/detail/20250919003246552800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
         {
           "title": "美国总统特朗普寻求加快大型电力项目以满足人工智能需求。",
           "url": "https://flash.jin10.com/detail/20250918235755718800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普想要韩国土地 李在明回应",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E9%9F%A9%E5%9B%BD%E5%9C%9F%E5%9C%B0+%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普寻求加快大型电力项目，以满足AI需求",
           "url": "https://wallstreetcn.com/livenews/2976198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
@@ -48,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "美联储终于降息了，特朗普满意了吗？",
@@ -59,74 +84,115 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普政府将美国最高法院卷入司法纠纷：要求允许特朗普解雇美联储理事库克",
           "url": "https://wallstreetcn.com/livenews/2976194",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "特朗普政府请求美国最高法院允许总统解雇美联储理事库克。",
           "url": "https://flash.jin10.com/detail/20250918233935298800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "白宫官员声称：特朗普政府并没有参与英伟达对英特尔的投资。",
           "url": "https://wallstreetcn.com/livenews/2976186",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%92%82%E8%8A%99%E5%B0%BC%E5%8F%82%E5%8A%A0%E8%8B%B1%E5%9B%BD%E5%9B%BD%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "英士兵受阅时佩剑差点刺中特朗普",
           "url": "https://www.toutiao.com/trending/7551242341059972654/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "白宫官员表示，特朗普政府并未参与英伟达对英特尔的投资。",
           "url": "https://flash.jin10.com/detail/20250918231948792800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "迫于特朗普压力，欧盟计划加快逐步淘汰俄罗斯液化天然气",
           "url": "https://wallstreetcn.com/livenews/2976181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美国总统特朗普：再次呼吁停止购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2976178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普请求最高法院批准罢免美联储理事库克",
+          "url": "https://flash.jin10.com/detail/20250919002752447800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         },
         {
           "title": "美国最高法院将于11月5日就特朗普关税案听取口头辩论",
@@ -134,28 +200,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普：再次呼吁停止购买俄罗斯石油。",
-          "url": "https://wallstreetcn.com/livenews/2976178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%92%82%E8%8A%99%E5%B0%BC%E5%8F%82%E5%8A%A0%E8%8B%B1%E5%9B%BD%E5%9B%BD%E5%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -220,7 +264,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋发Nature了",
@@ -230,8 +274,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "华为和DeepSeek手拉手迈出一大步",
@@ -241,8 +285,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "DeepSeek严正声明：任何冒用公司名义开展“算力租赁”、“融资”等行为均属违法，将依法追究其法律责任",
+          "url": "https://www.cls.cn/detail/2148828",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -258,8 +313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "美联储降息推动美股大涨，英特尔暴涨27%，AMD、台积电跳水，10年期美债上涨",
@@ -269,8 +324,36 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年09月18日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250919003124821800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "金十图示：2025年09月18日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250919003017973800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -300,11 +383,12 @@
           "url": "https://www.toutiao.com/trending/7551402130473487908/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -317,11 +401,12 @@
           "url": "https://flash.jin10.com/detail/20250918235627463800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     }
