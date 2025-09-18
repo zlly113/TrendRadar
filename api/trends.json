@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-18T18:27:02.252953+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2025-09-18T19:22:07.100331+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时22分]"
         },
         {
           "title": "特朗普又走到英国国王前头去了",
@@ -123,6 +123,17 @@
           "time_info": "[11时03分 ~ 15时25分]"
         },
         {
+          "title": "特朗普“死亡名单”继续更新",
+          "url": "https://news.ifeng.com/c/8mkRqoG2OKy",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时22分]"
+        },
+        {
           "title": "美客机差点撞上特朗普所乘空军一号",
           "url": "https://www.toutiao.com/trending/7550581446528843815/",
           "source": "今日头条",
@@ -163,6 +174,17 @@
           "time_info": "[02时35分 ~ 06时25分]"
         },
         {
+          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
+          "url": "https://wallstreetcn.com/articles/3755803",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时22分]"
+        },
+        {
           "title": "美国民主党参议员敦促特朗普政府关注约旦河西岸“崩溃”的风险。",
           "url": "https://flash.jin10.com/detail/20250918004809914800",
           "source": "金十数据",
@@ -191,7 +213,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -242,17 +264,6 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
-          "title": "特朗普“死亡名单”继续更新",
-          "url": "https://news.ifeng.com/c/8mkRqoG2OKy",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时27分]"
-        },
-        {
           "title": "鲍威尔：我们没有讨论政治问题。 如果我讨论美联储理事Lisa Cook与美国总统特朗普之间的官司，那将是不合适的。",
           "url": "https://wallstreetcn.com/livenews/2975580",
           "source": "华尔街见闻-快讯",
@@ -277,15 +288,15 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
-          "url": "https://wallstreetcn.com/articles/3755803",
-          "source": "华尔街见闻",
+          "title": "柯克遭刺杀，奥巴马批特朗普加剧撕裂，白宫：制造分裂的是你",
+          "url": "https://news.ifeng.com/c/8mkTUlwEesD",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时27分]"
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "网友调侃特朗普夫人访英造型像衣帽架",
@@ -348,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
-        },
-        {
-          "title": "柯克遭刺杀，奥巴马批特朗普加剧撕裂，白宫：制造分裂的是你",
-          "url": "https://news.ifeng.com/c/8mkTUlwEesD",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "投资咨询公司Mercer称客户撤离美国资产，特朗普政策风险加速多元化",
@@ -437,7 +437,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -514,7 +514,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -591,7 +591,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -682,6 +682,157 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
+          "url": "https://www.cls.cn/detail/2148373",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 15时25分]"
+        },
+        {
+          "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
+          "url": "https://wallstreetcn.com/articles/3755688",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "美联储决议倒计时！美股开盘涨跌不一，英伟达跌超1%，黄金、白银下跌",
+          "url": "https://wallstreetcn.com/articles/3755770",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "AMD美股盘前跳水，跌超3％。",
+          "url": "https://wallstreetcn.com/livenews/2976074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "诺和诺德美股盘前涨近5%，诺和诺德称司美格鲁肽在降低心脏风险方面优于礼来的dulaglutide。",
+          "url": "https://wallstreetcn.com/livenews/2976002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时27分]"
+        },
+        {
+          "title": "半导体ETF收跌超0.6%，领跌美股行业ETF，银行ETF则至少涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/2975628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌超2.6%，跳空低开之后，在美联储降息后一度扩大跌幅",
+          "url": "https://wallstreetcn.com/livenews/2975627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，农产品基金跌约2.1%，黄金ETF跌约0.8%",
+          "url": "https://wallstreetcn.com/livenews/2975647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时21分]"
+        },
+        {
+          "title": "美股盘前热门中概股普跌，京东、拼多多、理想汽车、百度、阿里巴巴跌1％，小鹏汽车跌2％，哔哩哔哩、蔚来跌3％。",
+          "url": "https://wallstreetcn.com/livenews/2975964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时26分]"
+        },
+        {
+          "title": "英特尔美股盘前涨超19%，英伟达以50亿美元入股英特尔。",
+          "url": "https://wallstreetcn.com/livenews/2976068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "金十图示：2025年09月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250918003151326800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "金十图示：2025年09月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250918003118902800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     },
@@ -811,135 +962,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
-          "url": "https://www.cls.cn/detail/2148373",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时25分 ~ 15时25分]"
-        },
-        {
-          "title": "议息前夕市场谨慎，美股终结连涨，中概股指数逆市收涨，黄金一度涨破3700美元",
-          "url": "https://wallstreetcn.com/articles/3755688",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美联储决议倒计时！美股开盘涨跌不一，英伟达跌超1%，黄金、白银下跌",
-          "url": "https://wallstreetcn.com/articles/3755770",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "诺和诺德美股盘前涨近5%，诺和诺德称司美格鲁肽在降低心脏风险方面优于礼来的dulaglutide。",
-          "url": "https://wallstreetcn.com/livenews/2976002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
-        },
-        {
-          "title": "半导体ETF收跌超0.6%，领跌美股行业ETF，银行ETF则至少涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/2975628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌超2.6%，跳空低开之后，在美联储降息后一度扩大跌幅",
-          "url": "https://wallstreetcn.com/livenews/2975627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，农产品基金跌约2.1%，黄金ETF跌约0.8%",
-          "url": "https://wallstreetcn.com/livenews/2975647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "美股盘前热门中概股普跌，京东、拼多多、理想汽车、百度、阿里巴巴跌1％，小鹏汽车跌2％，哔哩哔哩、蔚来跌3％。",
-          "url": "https://wallstreetcn.com/livenews/2975964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时26分]"
-        },
-        {
-          "title": "金十图示：2025年09月17日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20250918003151326800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2025年09月17日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20250918003118902800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
@@ -948,11 +970,12 @@
           "url": "https://www.zhihu.com/question/1951809909768303482",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时03分 ~ 19时22分]"
         },
         {
           "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
@@ -980,8 +1003,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时03分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
@@ -1063,8 +1086,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时22分]"
         },
         {
           "title": "伊朗外长与英法德外长通话 讨论解除对伊制裁等议题",
@@ -1278,8 +1301,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时22分]"
         },
         {
           "title": "因鲍威尔打消市场对大幅降息的希望 美债下跌",
