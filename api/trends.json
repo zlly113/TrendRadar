@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-18T21:33:36.142585+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-09-18T22:26:33.176866+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 82,
       "titles": [
         {
           "title": "欧盟官员终于警觉：特朗普借对华关税设局，算计的是我们？",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时49分 ~ 22时26分]"
         },
         {
           "title": "特朗普又走到英国国王前头去了",
@@ -69,6 +69,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时03分 ~ 15时25分]"
+        },
+        {
+          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
+          "url": "https://wallstreetcn.com/articles/3755803",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时26分]"
         },
         {
           "title": "特朗普预告的中美大交易是什么",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时24分 ~ 18时27分]"
-        },
-        {
-          "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
-          "url": "https://wallstreetcn.com/articles/3755803",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时33分]"
         },
         {
           "title": "英士兵受阅时佩剑差点刺中特朗普",
@@ -187,6 +188,28 @@
           "time_info": "[02时35分 ~ 06时25分]"
         },
         {
+          "title": "美国总统特朗普：欢迎英国承诺增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20250918222132702800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普：普京让我失望。",
+          "url": "https://wallstreetcn.com/livenews/2976168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国民主党参议员敦促特朗普政府关注约旦河西岸“崩溃”的风险。",
           "url": "https://flash.jin10.com/detail/20250918004809914800",
           "source": "金十数据",
@@ -196,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们将看看乌克兰会谈会如何发展。",
+          "url": "https://flash.jin10.com/detail/20250918222128221800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普结束讲话。",
@@ -220,6 +254,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "美国总统特朗普：我认为俄乌问题可能是最容易解决的，但实际情况却非常复杂。",
+          "url": "https://flash.jin10.com/detail/20250918222122104800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普二儿子埃里克・特朗普：加密货币是房地产资产的“完美对冲工具”。",
           "url": "https://flash.jin10.com/detail/20250918004507261800",
           "source": "金十数据",
@@ -229,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国总统特朗普：股市创新高。 随着时间的推移，股市会表现得更好。",
+          "url": "https://wallstreetcn.com/livenews/2976166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普想要韩国土地 李在明回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E9%9F%A9%E5%9B%BD%E5%9C%9F%E5%9C%B0+%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：特朗普集团“几乎没有任何债务”。",
@@ -251,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京让我失望。",
+          "url": "https://flash.jin10.com/detail/20250918222050324800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "英国王室以最高规格迎接特朗普",
@@ -436,6 +514,18 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
+          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
+          "url": "https://www.toutiao.com/trending/7550908747619532839/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时26分]"
+        },
+        {
           "title": "英国国王提醒特朗普“小心剑”",
           "url": "https://www.toutiao.com/trending/7550965978910375977/",
           "source": "今日头条",
@@ -445,6 +535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "美国总统特朗普：随着时间推移，股市将表现得更好。",
+          "url": "https://flash.jin10.com/detail/20250918222043531800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：超过一年无法出售份额。",
@@ -467,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "美国总统特朗普：股市创下新高。",
+          "url": "https://flash.jin10.com/detail/20250918222002516800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：致力于拥有美国比特币份额。",
@@ -502,6 +614,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国总统特朗普：英美技术协议将确保两国并肩引领下一次伟大的技术革命。",
+          "url": "https://flash.jin10.com/detail/20250918221943654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国总统特朗普宣扬就业数据和投资情况。",
+          "url": "https://flash.jin10.com/detail/20250918221923906800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "巴西央行按兵不动，称关注特朗普关税威胁",
           "url": "https://wallstreetcn.com/livenews/2975645",
           "source": "华尔街见闻-快讯",
@@ -524,6 +658,17 @@
           "time_info": "11时04分"
         },
         {
+          "title": "美国总统特朗普：致力于确保英国拥有可靠的人工智能供应。",
+          "url": "https://flash.jin10.com/detail/20250918221857263800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普证实Centrica与X-Energy的交易。",
           "url": "https://flash.jin10.com/detail/20250918203004876800",
           "source": "金十数据",
@@ -533,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "美国总统特朗普：期待与英国加强安全联盟。",
+          "url": "https://flash.jin10.com/detail/20250918221851665800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普访英 英国获2050亿美元投资",
@@ -678,17 +834,6 @@
           "time_info": "18时27分"
         },
         {
-          "title": "特朗普带小女儿蒂芙尼参加英国国宴",
-          "url": "https://www.toutiao.com/trending/7550908747619532839/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "美国总统特朗普在美国国会大厦外放置了一尊自己手持比特币的金色雕像。",
           "url": "https://flash.jin10.com/detail/20250918052154442800",
           "source": "金十数据",
@@ -755,6 +900,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国总统特朗普与英国首相斯塔默的新闻发布会即将举行。",
+          "url": "https://flash.jin10.com/detail/20250918220437528800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普“空军一号”遭逼近 空管急了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E2%80%9D%E9%81%AD%E9%80%BC%E8%BF%91+%E7%A9%BA%E7%AE%A1%E6%80%A5%E4%BA%86",
           "source": "百度热搜",
@@ -802,7 +958,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
@@ -863,7 +1019,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -928,6 +1084,17 @@
           "time_info": "[16时34分 ~ 17时26分]"
         },
         {
+          "title": "美股半导体指数涨3.5%，英特尔涨约26%",
+          "url": "https://wallstreetcn.com/livenews/2976164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "英特尔美股盘前涨超19%，英伟达以50亿美元入股英特尔。",
           "url": "https://wallstreetcn.com/livenews/2976068",
           "source": "华尔街见闻-快讯",
@@ -967,9 +1134,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨近3%，生物科技指数ETF、科技行业ETF、全球科技股指数ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2976151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔涨超27%",
+          "url": "https://wallstreetcn.com/livenews/2976140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "英伟达美股盘前涨超3%。",
@@ -1222,8 +1411,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时03分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时03分 ~ 22时26分]"
         },
         {
           "title": "豆包月活超越 DeepSeek，夺 8 月中国原生 AI App 月活第一，反映了行业哪些趋势？",
@@ -1251,8 +1440,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时03分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时03分 ~ 22时26分]"
         },
         {
           "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
@@ -1387,7 +1576,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY短线下挫十余点，现报97.06。",
@@ -1444,6 +1633,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "现货黄金短线跳水，一度失守3630美元/盎司，日内跌约0.75%；美元指数短线拉升，日内涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/2976149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "消息人士：软银与OpenAI在日本的人工智能合资企业严重延期，现预计将在11月有最新进展。",
+          "url": "https://flash.jin10.com/detail/20250918141630416800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "软银与OpenAI在日本的AI合资企业进度慢于计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/2975895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时25分]"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5-Codex，编程能力大幅提升，还有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1951228571914859740",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "OpenAI 修复 ChatGPT 安全漏洞 曾存信息暴露隐患",
+          "url": "https://flash.jin10.com/detail/20250918220402782800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -1458,11 +1709,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时49分 ~ 22时26分]"
         },
         {
           "title": "因鲍威尔打消市场对大幅降息的希望 美债下跌",
@@ -1498,46 +1750,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "消息人士：软银与OpenAI在日本的人工智能合资企业严重延期，现预计将在11月有最新进展。",
-          "url": "https://flash.jin10.com/detail/20250918141630416800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "软银与OpenAI在日本的AI合资企业进度慢于计划。（路透）",
-          "url": "https://wallstreetcn.com/livenews/2975895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时25分]"
-        },
-        {
-          "title": "OpenAI 发布 GPT-5-Codex，编程能力大幅提升，还有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1951228571914859740",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         }
       ]
     },
