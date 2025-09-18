@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-18T11:04:01.849684+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-09-18T12:31:21.545677+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "欧盟官员终于警觉：特朗普借对华关税设局，算计的是我们？",
@@ -50,8 +50,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普又走到英国国王前头去了",
+          "url": "https://news.ifeng.com/c/8mjLoiIXy8G",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时31分]"
         },
         {
           "title": "中方回应特朗普延长TikTok禁令执行",
@@ -90,6 +103,18 @@
           "time_info": "01时23分"
         },
         {
+          "title": "“只等特朗普离开，英国政府本周末就承认巴勒斯坦国”",
+          "url": "https://news.ifeng.com/c/8mk4trnqPrW",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
+        },
+        {
           "title": "特朗普二儿子埃里克・特朗普：加密货币是房地产资产的“完美对冲工具”。",
           "url": "https://flash.jin10.com/detail/20250918004507261800",
           "source": "金十数据",
@@ -99,18 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普又走到英国国王前头去了",
-          "url": "https://news.ifeng.com/c/8mjLoiIXy8G",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时04分]"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：特朗普集团“几乎没有任何债务”。",
@@ -130,7 +143,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -177,22 +190,48 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
-          "title": "“只等特朗普离开，英国政府本周末就承认巴勒斯坦国”",
-          "url": "https://news.ifeng.com/c/8mk4trnqPrW",
-          "source": "凤凰网",
+          "title": "美客机差点撞上特朗普所乘空军一号",
+          "url": "https://www.toutiao.com/trending/7550581446528843815/",
+          "source": "今日头条",
           "ranks": [
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
+        },
+        {
+          "title": "英士兵受阅时佩剑差点刺中特朗普",
+          "url": "https://www.toutiao.com/trending/7551242341059972654/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普访英被指无视王室礼仪",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E8%8B%B1%E8%A2%AB%E6%8C%87%E6%97%A0%E8%A7%86%E7%8E%8B%E5%AE%A4%E7%A4%BC%E4%BB%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26band_rank%3D26%26pos%3D25%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AE%25BF%25E8%258B%25B1%25E8%25A2%25AB%25E6%258C%2587%25E6%2597%25A0%25E8%25A7%2586%25E7%258E%258B%25E5%25AE%25A4%25E7%25A4%25BC%25E4%25BB%25AA%2523%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1758164527%26pre_seqid%3D17581645278760234195832",
+          "source": "微博",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
         },
         {
           "title": "【美联储库克同款剧情上演，财长贝森特被曝也曾双房并列“主要居所”】抵押贷款文件显示，美国财政部长斯科特·贝森特曾同意同时将两处不同房产作为其“主要居所”。这与总统特朗普试图罢免美联储理事丽莎·库克时援引的矛盾承诺如出一辙。2007年，在贝森特签署的自相矛盾的协议中，他同时将纽约州和马萨诸塞州的房产作为主要居所。但抵押贷款专家指出，其行为并无不当迹象。该案例恰恰说明：住房贷款文件中的不一致之处未必构成欺诈证据。贝森特的抵押贷款其他证据表明，其贷款方美国银行并未依赖这些承诺，也从未预期他将两处房产同时作为主要住所使用。",
@@ -205,17 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
-        },
-        {
-          "title": "美客机差点撞上特朗普所乘空军一号",
-          "url": "https://www.toutiao.com/trending/7550581446528843815/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "美国总统特朗普的二儿子Eric Trump：将继续致力于拥有美国比特币（American Bitcoin）份额。 持股的锁仓时间超过一年。 Trump Organization“实际上并没有债务”。 就房地产资产而言，加密数字货币是“绝佳的对冲工具”。",
@@ -254,28 +282,6 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "英士兵受阅时佩剑差点刺中特朗普",
-          "url": "https://www.toutiao.com/trending/7551242341059972654/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
-        },
-        {
-          "title": "特朗普访英被指无视王室礼仪",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E8%8B%B1%E8%A2%AB%E6%8C%87%E6%97%A0%E8%A7%86%E7%8E%8B%E5%AE%A4%E7%A4%BC%E4%BB%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26band_rank%3D26%26pos%3D25%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AE%25BF%25E8%258B%25B1%25E8%25A2%25AB%25E6%258C%2587%25E6%2597%25A0%25E8%25A7%2586%25E7%258E%258B%25E5%25AE%25A4%25E7%25A4%25BC%25E4%25BB%25AA%2523%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1758164527%26pre_seqid%3D17581645278760234195832",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
-        },
-        {
           "title": "特朗普二儿子埃里克・特朗普：超过一年无法出售份额。",
           "url": "https://flash.jin10.com/detail/20250918003830028800",
           "source": "金十数据",
@@ -285,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "投资咨询公司Mercer称客户撤离美国资产，特朗普政策风险加速多元化",
+          "url": "https://wallstreetcn.com/livenews/2975827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "特朗普二儿子埃里克・特朗普：致力于拥有美国比特币份额。",
@@ -320,6 +337,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "巴西总统卢拉：和特朗普没有关系，他又不是世界之王",
+          "url": "https://news.ifeng.com/c/8mkDYa3Xzfd",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "巴西央行按兵不动，称关注特朗普关税威胁",
           "url": "https://wallstreetcn.com/livenews/2975645",
           "source": "华尔街见闻-快讯",
@@ -337,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -351,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国农业部长：特朗普的关税可能为美国农民提供救助。",
+          "url": "https://flash.jin10.com/detail/20250918120459069800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "特朗普施压下，鲍威尔维持了美联储的团结",
@@ -441,6 +480,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普“空军一号”遭逼近 空管急了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E2%80%9D%E9%81%AD%E9%80%BC%E8%BF%91+%E7%A9%BA%E7%AE%A1%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "如何看待特朗普大战美联储",
           "url": "https://www.toutiao.com/trending/7550998153151909426/",
           "source": "今日头条",
@@ -494,6 +544,18 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
+          "url": "https://www.cls.cn/detail/2148373",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时31分]"
+        },
+        {
           "title": "美联储决议倒计时！美股开盘涨跌不一，英伟达跌超1%，黄金、白银下跌",
           "url": "https://wallstreetcn.com/articles/3755770",
           "source": "华尔街见闻",
@@ -506,18 +568,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：降息夜市场剧烈震荡 三大股指涨跌不一 中国金龙指数大涨2.8%",
-          "url": "https://www.cls.cn/detail/2148373",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时04分]"
         },
         {
           "title": "半导体ETF收跌超0.6%，领跌美股行业ETF，银行ETF则至少涨1.1%",
@@ -604,8 +654,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
         },
         {
           "title": "DeepSeek-R1开创历史 梁文锋论文登上《自然》封面",
@@ -613,11 +663,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
           "title": "梁文锋论文登上《自然》封面",
@@ -628,19 +679,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
           "title": "梁文锋发Nature了",
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%91Nature%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
         },
         {
           "title": "梁文锋论文登权威期刊《自然》封面",
@@ -672,6 +724,18 @@
           "time_info": "[04时27分 ~ 05时21分]"
         },
         {
+          "title": "谷歌 Gemini 下载量超过 ChatGPT，这背后原因有哪些？",
+          "url": "https://www.zhihu.com/question/1950924361725871009",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时31分]"
+        },
+        {
           "title": "新股Gemini Space Station Inc.（GEMI）收跌12.80%，报24.53美元，跌破IPO发行价28美元。",
           "url": "https://wallstreetcn.com/livenews/2975625",
           "source": "华尔街见闻-快讯",
@@ -682,17 +746,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "谷歌 Gemini 下载量超过 ChatGPT，这背后原因有哪些？",
-          "url": "https://www.zhihu.com/question/1950924361725871009",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "Reddit与谷歌公司洽谈另外一份人工智能（AI）内容协议。 Reddit股价跌幅从6.5%收窄至不足2.0%。",
@@ -732,18 +785,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储降息对股市金价有何影响",
           "url": "https://www.toutiao.com/trending/7551197944536600091/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
           "title": "冈拉克：金价年底前“几乎肯定”将收于4000美元上方",
@@ -755,6 +809,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26pos%3D5%26realpos%3D6%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D6%26dgr%3D0%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1758160125%26pre_seqid%3D17581601252110139119479",
+          "source": "微博",
+          "ranks": [
+            6,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
           "title": "金价在美联储降息日跌超0.8%，鲍威尔称没有人支持新理事Miran降息50个基点的主张",
@@ -769,18 +836,6 @@
           "time_info": "[05时21分 ~ 06时25分]"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26pos%3D5%26realpos%3D6%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D6%26dgr%3D0%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26display_time%3D1758160125%26pre_seqid%3D17581601252110139119479",
-          "source": "微博",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
-        },
-        {
           "title": "美国10年期国债收益率从4.04%跳水至4.01%下方，金价剧烈波动于3696.67-3654.44美元。标普500指数转涨，道指涨380点。美元指数跌0.2%，报96.46点。彭博美元指数创2025年新低。美联储如期宣布降息25个基点，交易员加大对美联储今年至少再降息一次的押注。",
           "url": "https://wallstreetcn.com/livenews/2975553",
           "source": "华尔街见闻-快讯",
@@ -791,6 +846,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "金价狂飙金饰一口价也要涨",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E9%87%91%E9%A5%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E4%B9%9F%E8%A6%81%E6%B6%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D24%26flag%3D1%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D23%26realpos%3D24%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E9%2587%2591%25E9%25A5%25B0%25E4%25B8%2580%25E5%258F%25A3%25E4%25BB%25B7%25E4%25B9%259F%25E8%25A6%2581%25E6%25B6%25A8%2523%26display_time%3D1758169725%26pre_seqid%3D175816972524702345115112",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -889,11 +955,12 @@
           "url": "https://wallstreetcn.com/articles/3755794",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时31分]"
         },
         {
           "title": "美债收益率于美联储降息日全面反弹至少超4个基点",
