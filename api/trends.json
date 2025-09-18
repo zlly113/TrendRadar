@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-19T05:23:45.729844+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2025-09-19T06:22:38.613662+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "白宫：特朗普因直升机故障改乘备用机",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 06时22分]"
         },
         {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "美联储终于降息了，特朗普满意了吗？",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "英士兵受阅时佩剑差点刺中特朗普",
@@ -54,8 +55,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普带小女儿蒂芙尼参加英国国宴",
@@ -66,11 +67,12 @@
             18,
             13,
             23,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：与英国国王查尔斯讨论乌克兰局势。 查尔斯对贸易的兴趣超过其他任何事。 英美两国正为了贸易协议而努力，结果将对双方都有利。",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普呼吁众议院民主党团结一致，批准一份干净的（不含附加条件的）临时开支草案。",
+          "url": "https://wallstreetcn.com/livenews/2976297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普：有时候无人机会坠落，我希望（波兰发生的情况）就是那样。",
@@ -163,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "英美领导人举行会谈 特朗普：俄乌问题很复杂",
+          "url": "https://wallstreetcn.com/livenews/2976285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "特朗普暗示俄乌冲突问题将传来“好消息”",
@@ -428,15 +453,26 @@
           "time_info": "01时22分"
         },
         {
-          "title": "英美领导人举行会谈 特朗普：俄乌问题很复杂",
-          "url": "https://wallstreetcn.com/livenews/2976285",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：美参议院一次性投票确认了48名特朗普提名人",
+          "url": "https://flash.jin10.com/detail/20250919052259320800",
+          "source": "金十数据",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：共和党人应该对临时拨款法案投赞成票。",
+          "url": "https://flash.jin10.com/detail/20250919050647031800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普：在华盛顿特区取得良好工作成果后，下一个目标是整顿芝加哥。",
@@ -665,7 +701,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -764,6 +800,42 @@
           "time_info": "01时22分"
         },
         {
+          "title": "金十图示：2025年09月18日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250919040548178800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2025年09月18日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250919040543137800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨约3.5%，特斯拉跌超2.1%",
+          "url": "https://wallstreetcn.com/livenews/2976281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
           "title": "金十图示：2025年09月18日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20250919003017973800",
           "source": "金十数据",
@@ -775,46 +847,13 @@
           "time_info": "01时22分"
         },
         {
-          "title": "金十图示：2025年09月18日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20250919040548178800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年09月18日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20250919040543137800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨约3.5%，特斯拉跌超2.1%",
-          "url": "https://wallstreetcn.com/livenews/2976281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "美股收盘：三大股指齐创新高 英特尔大涨22%",
           "url": "https://flash.jin10.com/detail/20250919040132314800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -831,11 +870,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "美联储降息日，主要资产震荡，美股涨跌不一，美债收益率最终走高，黄金跌美元涨",
@@ -854,11 +894,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时22分]"
         },
         {
           "title": "7-30年期美债收益率涨超2个基点",
@@ -866,22 +907,75 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时22分]"
         },
         {
           "title": "英国7月大笔增持美债 中国减持",
           "url": "https://flash.jin10.com/detail/20250919040535848800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：美国共和党参议员克鲁兹提出一项法案，禁止受制裁的伊朗官员在纽约联合国大会召开前进入美国。",
+          "url": "https://flash.jin10.com/detail/20250919025310157800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
+          "url": "https://wallstreetcn.com/livenews/2976295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "法国总统马克龙：对伊朗的联合国制裁将恢复。",
+          "url": "https://flash.jin10.com/detail/20250918235627463800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
+          "url": "https://flash.jin10.com/detail/20250919053022617800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -897,8 +991,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "华为和DeepSeek手拉手迈出一大步",
@@ -907,11 +1001,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "DeepSeek严正声明：任何冒用公司名义开展“算力租赁”、“融资”等行为均属违法，将依法追究其法律责任",
@@ -970,22 +1065,24 @@
             20,
             23,
             25,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "美联储降息靴子落地 金价上涨行情还能走多远",
           "url": "https://flash.jin10.com/detail/20250919045325023800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         }
       ]
     },
@@ -999,11 +1096,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时22分]"
         },
         {
           "title": "美元指数18日上涨",
@@ -1012,38 +1110,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：美国共和党参议员克鲁兹提出一项法案，禁止受制裁的伊朗官员在纽约联合国大会召开前进入美国。",
-          "url": "https://flash.jin10.com/detail/20250919025310157800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "法国总统马克龙：对伊朗的联合国制裁将恢复。",
-          "url": "https://flash.jin10.com/detail/20250918235627463800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     }
