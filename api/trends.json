@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-19T12:30:52.418409+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-09-19T13:25:27.223667+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 82,
       "titles": [
         {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
@@ -85,8 +85,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普碰瓷：夺回阿富汗空军基地，离中国太近",
+          "url": "https://news.ifeng.com/c/8mljstiWvxv",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
+          "title": "韩国总统李在明下周没有与特朗普举行峰会的计划。",
+          "url": "https://wallstreetcn.com/livenews/2976515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "韩国总统李在明下周将前往纽约参加联合国大会，但没有与特朗普举行峰会的计划。",
+          "url": "https://flash.jin10.com/detail/20250919131123004800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "美国总统特朗普：与英国国王查尔斯讨论乌克兰局势。 查尔斯对贸易的兴趣超过其他任何事。 英美两国正为了贸易协议而努力，结果将对双方都有利。",
@@ -109,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普碰瓷：夺回阿富汗空军基地，离中国太近",
-          "url": "https://news.ifeng.com/c/8mljstiWvxv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         },
         {
           "title": "特朗普寻求加快大型电力项目 以满足人工智能需求",
@@ -208,11 +231,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 13时25分]"
+        },
+        {
+          "title": "微软称要打造世界最强AI数据中心 特朗普寻求加快大型电力项目建设 | 环球市场",
+          "url": "https://www.cls.cn/detail/2149635",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时52分 ~ 12时30分]"
+          "time_info": "[11时05分 ~ 13时25分]"
         },
         {
           "title": "特朗普因直升机故障改乘备用机",
@@ -298,18 +335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "微软称要打造世界最强AI数据中心 特朗普寻求加快大型电力项目建设 | 环球市场",
-          "url": "https://www.cls.cn/detail/2149635",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 12时30分]"
         },
         {
           "title": "美国总统特朗普：我们将查明ANTIFA组织资金的来源。",
@@ -626,6 +651,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普在英表态：普京将别无选择",
+          "url": "https://www.toutiao.com/trending/7551166912177405993/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美国总统特朗普：我想帮助英国变得强大。",
           "url": "https://flash.jin10.com/detail/20250919015041962800",
           "source": "金十数据",
@@ -879,6 +915,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普访英难掩英美分歧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E8%8B%B1%E9%9A%BE%E6%8E%A9%E8%8B%B1%E7%BE%8E%E5%88%86%E6%AD%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美国总统特朗普：如果油价下跌，俄罗斯总统普京将别无选择，只能结束战争。",
           "url": "https://flash.jin10.com/detail/20250918225618556800",
           "source": "金十数据",
@@ -926,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：三大股指齐创历史新高 英伟达入股推动英特尔暴涨22.8%",
@@ -939,8 +986,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "【早报】美股三大指数齐创新高，英特尔暴涨超22%；上交所：天普股份部分投资者被暂停账户交易",
@@ -951,8 +998,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2025年09月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -1092,6 +1139,18 @@
           "time_info": "[04时29分 ~ 06时22分]"
         },
         {
+          "title": "外国投资者7月美债持仓再创新高，加拿大、中国、印度持仓下降",
+          "url": "https://wallstreetcn.com/articles/3755874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
           "title": "英国7月大笔增持美债 中国减持",
           "url": "https://flash.jin10.com/detail/20250919040535848800",
           "source": "金十数据",
@@ -1102,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "外国投资者7月美债持仓再创新高，加拿大、中国、印度持仓下降",
-          "url": "https://wallstreetcn.com/articles/3755874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         }
       ]
     },
@@ -1125,11 +1173,12 @@
           "url": "https://wallstreetcn.com/livenews/2976493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
         },
         {
           "title": "美元指数涨约0.5%，脱离美联储决议日所创2022年以来最低位",
