@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-19T11:05:19.557682+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-09-19T12:30:52.418409+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时30分]"
         },
         {
           "title": "美国总统特朗普：与英国国王查尔斯讨论乌克兰局势。 查尔斯对贸易的兴趣超过其他任何事。 英美两国正为了贸易协议而努力，结果将对双方都有利。",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普碰瓷：夺回阿富汗空军基地，离中国太近",
+          "url": "https://news.ifeng.com/c/8mljstiWvxv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "特朗普寻求加快大型电力项目 以满足人工智能需求",
@@ -192,6 +203,31 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控",
+          "url": "https://wallstreetcn.com/articles/3755869",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普因直升机故障改乘备用机",
+          "url": "https://www.toutiao.com/trending/7551583695770111538/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时30分]"
+        },
+        {
           "title": "美国总统特朗普寻求加快大型电力项目以满足人工智能需求。",
           "url": "https://flash.jin10.com/detail/20250918235755718800",
           "source": "金十数据",
@@ -264,15 +300,16 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
-          "title": "黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控",
-          "url": "https://wallstreetcn.com/articles/3755869",
-          "source": "华尔街见闻",
+          "title": "微软称要打造世界最强AI数据中心 特朗普寻求加快大型电力项目建设 | 环球市场",
+          "url": "https://www.cls.cn/detail/2149635",
+          "source": "财联社热门",
           "ranks": [
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时05分]"
+          "time_info": "[11时05分 ~ 12时30分]"
         },
         {
           "title": "美国总统特朗普：我们将查明ANTIFA组织资金的来源。",
@@ -419,18 +456,6 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
-          "title": "特朗普因直升机故障改乘备用机",
-          "url": "https://www.toutiao.com/trending/7551583695770111538/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时05分]"
-        },
-        {
           "title": "美国总统特朗普：英国首相斯塔默不是俄罗斯石油问题的罪魁祸首。",
           "url": "https://flash.jin10.com/detail/20250919015332960800",
           "source": "金十数据",
@@ -500,17 +525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "微软称要打造世界最强AI数据中心 特朗普寻求加快大型电力项目建设 | 环球市场",
-          "url": "https://www.cls.cn/detail/2149635",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时05分"
         },
         {
           "title": "美媒：美参议院一次性投票确认了48名特朗普提名人",
@@ -640,7 +654,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -706,7 +720,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -912,8 +926,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：三大股指齐创历史新高 英伟达入股推动英特尔暴涨22.8%",
@@ -925,8 +939,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时30分]"
         },
         {
           "title": "【早报】美股三大指数齐创新高，英特尔暴涨超22%；上交所：天普股份部分投资者被暂停账户交易",
@@ -937,8 +951,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年09月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -1024,7 +1038,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储降息推动美股大涨，英特尔暴涨27%，AMD、台积电跳水，10年期美债上涨",
@@ -1088,6 +1102,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "外国投资者7月美债持仓再创新高，加拿大、中国、印度持仓下降",
+          "url": "https://wallstreetcn.com/articles/3755874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元兑日元短线持续走低，现跌0.47%，报147.30。日经225指数跌幅扩大至0.42%。",
+          "url": "https://wallstreetcn.com/livenews/2976493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "美元指数涨约0.5%，脱离美联储决议日所创2022年以来最低位",
+          "url": "https://wallstreetcn.com/livenews/2976265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时22分]"
+        },
+        {
+          "title": "英国央行如期维持利率不变，放缓缩表步伐。“超级央行周”即将收官，今日日本央行决议料按兵不动，未来加息时机仍存悬念。当前美元/日元空头占优，日经225指数出现买进信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20250919104159138800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "美元指数18日上涨",
+          "url": "https://flash.jin10.com/detail/20250919040202216800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -1183,47 +1260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数涨约0.5%，脱离美联储决议日所创2022年以来最低位",
-          "url": "https://wallstreetcn.com/livenews/2976265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时22分]"
-        },
-        {
-          "title": "英国央行如期维持利率不变，放缓缩表步伐。“超级央行周”即将收官，今日日本央行决议料按兵不动，未来加息时机仍存悬念。当前美元/日元空头占优，日经225指数出现买进信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20250919104159138800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "美元指数18日上涨",
-          "url": "https://flash.jin10.com/detail/20250919040202216800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         }
       ]
     },
