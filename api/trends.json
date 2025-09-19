@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-09-19T14:38:21.388846+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2025-09-19T15:26:09.632804+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
+        {
+          "title": "英国人仍在反对特朗普，但声调明显变了",
+          "url": "https://news.ifeng.com/c/8mlkSyDkLp9",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时26分]"
+        },
         {
           "title": "意外！美联储“25基点降息”只有一人反对，是特朗普刚任命的Miran",
           "url": "https://wallstreetcn.com/articles/3755803",
@@ -78,18 +90,6 @@
           "time_info": "[03时21分 ~ 06时22分]"
         },
         {
-          "title": "英国人仍在反对特朗普，但声调明显变了",
-          "url": "https://news.ifeng.com/c/8mlkSyDkLp9",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时38分]"
-        },
-        {
           "title": "特朗普碰瓷：夺回阿富汗空军基地，离中国太近",
           "url": "https://news.ifeng.com/c/8mljstiWvxv",
           "source": "凤凰网",
@@ -99,8 +99,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时26分]"
+        },
+        {
+          "title": "黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控",
+          "url": "https://wallstreetcn.com/articles/3755869",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时26分]"
         },
         {
           "title": "韩国总统李在明下周没有与特朗普举行峰会的计划。",
@@ -167,20 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控",
-          "url": "https://wallstreetcn.com/articles/3755869",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普呼吁众议院民主党团结一致，批准一份干净的（不含附加条件的）临时开支草案。",
@@ -255,6 +255,18 @@
           "time_info": "[11时05分 ~ 14时38分]"
         },
         {
+          "title": "特朗普准备在美国“反恐”意味什么",
+          "url": "https://www.toutiao.com/trending/7551564635770748982/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普因直升机故障改乘备用机",
           "url": "https://www.toutiao.com/trending/7551583695770111538/",
           "source": "今日头条",
@@ -302,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普“提醒”黄仁勋等科技界大佬：AI正在接管世界，希望是对的！",
+          "url": "https://www.cls.cn/detail/2149680",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "特朗普想要韩国土地 李在明回应",
@@ -609,17 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "特朗普准备在美国“反恐”意味什么",
-          "url": "https://www.toutiao.com/trending/7551564635770748982/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "美国总统特朗普：在华盛顿特区取得良好工作成果后，下一个目标是整顿芝加哥。",
@@ -936,7 +948,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -999,8 +1011,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 15时26分]"
         },
         {
           "title": "美股收盘：三大股指齐创历史新高 英伟达入股推动英特尔暴涨22.8%",
@@ -1129,6 +1141,18 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "外国投资者7月美债持仓再创新高，加拿大、中国、印度持仓下降",
+          "url": "https://wallstreetcn.com/articles/3755874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时26分]"
+        },
+        {
           "title": "美联储降息日，主要资产震荡，美股涨跌不一，美债收益率最终走高，黄金跌美元涨",
           "url": "https://wallstreetcn.com/articles/3755794",
           "source": "华尔街见闻",
@@ -1151,18 +1175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
-        },
-        {
-          "title": "外国投资者7月美债持仓再创新高，加拿大、中国、印度持仓下降",
-          "url": "https://wallstreetcn.com/articles/3755874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时38分]"
         },
         {
           "title": "7-30年期美债收益率涨超2个基点",
@@ -1188,6 +1200,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：美国共和党参议员克鲁兹提出一项法案，禁止受制裁的伊朗官员在纽约联合国大会召开前进入美国。",
+          "url": "https://flash.jin10.com/detail/20250919025310157800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
+          "url": "https://wallstreetcn.com/livenews/2976295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "法国总统马克龙：对伊朗的联合国制裁将恢复。",
+          "url": "https://flash.jin10.com/detail/20250918235627463800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "官员表示，文件显示，由于美国的反对，伊拉克通过伊朗获得土库曼天然气的尝试失败。",
+          "url": "https://flash.jin10.com/detail/20250919150041408800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
+          "url": "https://flash.jin10.com/detail/20250919053022617800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -1241,57 +1315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "市场消息：美国共和党参议员克鲁兹提出一项法案，禁止受制裁的伊朗官员在纽约联合国大会召开前进入美国。",
-          "url": "https://flash.jin10.com/detail/20250919025310157800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
-          "url": "https://wallstreetcn.com/livenews/2976295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "法国总统马克龙：对伊朗的联合国制裁将恢复。",
-          "url": "https://flash.jin10.com/detail/20250918235627463800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "美媒：美军“尼米兹”号航母被追踪到正在驶近伊朗",
-          "url": "https://flash.jin10.com/detail/20250919053022617800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         }
       ]
     },
