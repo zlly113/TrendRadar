@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-20T15:22:46.267297+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-09-20T16:30:48.662733+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时30分]"
         },
         {
           "title": "详讯：习近平同特朗普通电话",
@@ -85,8 +85,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时21分 ~ 15时22分]"
+          "appearance_count": 16,
+          "time_info": "[03时21分 ~ 16时30分]"
         },
         {
           "title": "死磕中国?特朗普要重返阿富汗",
@@ -99,11 +99,12 @@
             10,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时22分 ~ 16时30分]"
         },
         {
           "title": "特朗普",
@@ -158,17 +159,6 @@
           "time_info": "[01时22分 ~ 06时23分]"
         },
         {
-          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
-          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 14时33分]"
-        },
-        {
           "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
           "url": "https://wallstreetcn.com/articles/3755934",
           "source": "华尔街见闻",
@@ -177,8 +167,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 16时30分]"
         },
         {
           "title": "美参议院未通过临时拨款法案 特朗普：政府可能在会在10月停摆",
@@ -191,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 16时30分]"
         },
         {
           "title": "特朗普签署法令对 H-1B 签证加收 10 万美元新费用，有何目的？将带来哪些影响？",
@@ -202,8 +192,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
+          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时58分 ~ 15时22分]"
+          "time_info": "[09时49分 ~ 14时33分]"
         },
         {
           "title": "特朗普宣布价码高达500万美元的富豪永居项目，大幅提高H-1B签证成本",
@@ -233,6 +234,17 @@
           "time_info": "[00时31分 ~ 04时28分]"
         },
         {
+          "title": "特朗普称普京“让我失望”，克宫回应",
+          "url": "https://news.ifeng.com/c/8mnlnDDWMRM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "市场消息：特朗普前顾问史蒂夫・班农提出让美国财长贝森特同时执掌财政部与美联储的想法。",
           "url": "https://flash.jin10.com/detail/20250920024902602800",
           "source": "金十数据",
@@ -257,6 +269,21 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
+          "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31635875",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时30分]"
+        },
+        {
           "title": "特朗普再次下令美军炸毁“运毒船”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E4%B8%8B%E4%BB%A4%E7%BE%8E%E5%86%9B%E7%82%B8%E6%AF%81%E2%80%9C%E8%BF%90%E6%AF%92%E8%88%B9%E2%80%9D",
           "source": "百度热搜",
@@ -272,18 +299,18 @@
           "time_info": "[11时34分 ~ 15时22分]"
         },
         {
-          "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31635875",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：今日，当我得知埃里克·西伯特获得弗吉尼亚州两位糟糕透顶的民主党参议员异常强烈的支持后，立即撤销了对他在弗吉尼亚东区联邦检察官的提名。",
+          "url": "https://flash.jin10.com/detail/20250920121704925800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            14,
+            2,
             12,
-            10
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时30分]"
         },
         {
           "title": "特朗普拒绝批准4亿美元对台军售",
@@ -325,17 +352,16 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
-          "title": "美国总统特朗普：今日，当我得知埃里克·西伯特获得弗吉尼亚州两位糟糕透顶的民主党参议员异常强烈的支持后，立即撤销了对他在弗吉尼亚东区联邦检察官的提名。",
-          "url": "https://flash.jin10.com/detail/20250920121704925800",
-          "source": "金十数据",
+          "title": "特朗普扔出“签证炸弹”：企业急拦员工出境，返美机票价格大涨",
+          "url": "https://news.ifeng.com/c/8mnn9BmGXfV",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            12,
-            15
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时22分]"
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
         },
         {
           "title": "美法官驳回特朗普对《纽约时报》提起的150亿美元诉讼",
@@ -401,6 +427,18 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "特朗普出创收新招金卡签证，低档100万美元，高档500万在美不交税",
+          "url": "https://wallstreetcn.com/articles/3755946",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
+        },
+        {
           "title": "白宫考虑推出“特朗普网上药店” 提供更便宜的购药渠道",
           "url": "https://flash.jin10.com/detail/20250920042202011800",
           "source": "金十数据",
@@ -433,6 +471,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "工作签10万、绿卡100万、白金卡500万！特朗普大幅提高“美国移民门槛”，印度人懵了！",
+          "url": "https://wallstreetcn.com/articles/3755954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
         },
         {
           "title": "美联储宣布社区银行会议日程。 美国总统特朗普的财政部长贝森特将发言。 黑石集团Schwarzman和Robinhood的CEO Tenev将发言。",
@@ -483,17 +533,6 @@
           "time_info": "[07时22分 ~ 09时49分]"
         },
         {
-          "title": "特朗普出创收新招金卡签证，低档100万美元，高档500万在美不交税",
-          "url": "https://wallstreetcn.com/articles/3755946",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普政府请求最高法院撤销委内瑞拉移民合法保护",
           "url": "https://wallstreetcn.com/livenews/2976944",
           "source": "华尔街见闻-快讯",
@@ -528,6 +567,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普大幅提高“美国移民门槛”",
+          "url": "https://www.toutiao.com/trending/7552035944031850010/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
         },
         {
           "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
@@ -626,17 +677,6 @@
           "time_info": "[10时58分 ~ 11时34分]"
         },
         {
-          "title": "特朗普扔出“签证炸弹”：企业急拦员工出境，返美机票价格大涨",
-          "url": "https://news.ifeng.com/c/8mnn9BmGXfV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "市场消息：特朗普政府官员们考虑推出一个网站，帮助廉价药物的买卖交易。",
           "url": "https://flash.jin10.com/detail/20250920034406229800",
           "source": "金十数据",
@@ -646,17 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "工作签10万、绿卡100万、白金卡500万！特朗普大幅提高“美国移民门槛”，印度人懵了！",
-          "url": "https://wallstreetcn.com/articles/3755954",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "特朗普会采取何种手段重返阿富汗",
@@ -679,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普大幅提高“美国移民门槛”",
-          "url": "https://www.toutiao.com/trending/7552035944031850010/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "特朗普政府已请求美国最高法院允许其执行一项政策，根据出生时指定的性别，将护照上的性别标识限制为“男性”和“女性”，取消拜登政府时期推出的自行选择性别的政策。",
@@ -797,7 +815,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -874,8 +892,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 16时30分]"
         },
         {
           "title": "美股三大期指小幅走高 特斯拉机器人团队高管跳槽 | 今夜看点",
@@ -1146,6 +1164,75 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价暴涨 金料商为何跑路",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8+%E9%87%91%E6%96%99%E5%95%86%E4%B8%BA%E4%BD%95%E8%B7%91%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "随着美联储政策路径受到关注，金价走高",
+          "url": "https://flash.jin10.com/detail/20250920015551358800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "金价飙涨有金料商卷款跑路",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%9C%89%E9%87%91%E6%96%99%E5%95%86%E5%8D%B7%E6%AC%BE%E8%B7%91%E8%B7%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D28%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D28%26lcate%3D5001%26cate%3D5001%26pos%3D29%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%25A3%2599%25E6%25B6%25A8%25E6%259C%2589%25E9%2587%2591%25E6%2596%2599%25E5%2595%2586%25E5%258D%25B7%25E6%25AC%25BE%25E8%25B7%2591%25E8%25B7%25AF%2523%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1758356994%26pre_seqid%3D175835699390702349082107",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据TechCrunch：谷歌(GOOG.O)将终止其《金融时报》的企业订阅服务。",
+          "url": "https://flash.jin10.com/detail/20250920133137201800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
+        },
+        {
+          "title": "OpenAI/Gemini 共斩 ICPC 2025 金牌，AI 编程已经超越人类了吗？",
+          "url": "https://www.zhihu.com/question/1952020016259137562",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1159,8 +1246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时30分]"
         },
         {
           "title": "OpenAI首批智能硬件传出新消息",
@@ -1171,8 +1258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 16时30分]"
         }
       ]
     },
@@ -1202,41 +1289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据TechCrunch：谷歌(GOOG.O)将终止其《金融时报》的企业订阅服务。",
-          "url": "https://flash.jin10.com/detail/20250920133137201800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "随着美联储政策路径受到关注，金价走高",
-          "url": "https://flash.jin10.com/detail/20250920015551358800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         }
       ]
     }
