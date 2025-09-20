@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-20T10:58:48.216085+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-09-20T11:34:20.540208+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 11时34分]"
         },
         {
           "title": "详讯：习近平同特朗普通电话",
@@ -80,11 +80,12 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 10时58分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 11时34分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -98,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时21分 ~ 10时58分]"
+          "appearance_count": 10,
+          "time_info": "[03时21分 ~ 11时34分]"
         },
         {
           "title": "特朗普",
@@ -189,6 +190,20 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
+          "title": "特朗普宣布价码高达500万美元的富豪永居项目，大幅提高H-1B签证成本",
+          "url": "https://wallstreetcn.com/livenews/2976994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时34分]"
+        },
+        {
           "title": "特朗普拒绝批准4亿美元对台军售",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E6%89%B9%E5%87%864%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D25%26flag%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258B%2592%25E7%25BB%259D%25E6%2589%25B9%25E5%2587%25864%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E5%25AF%25B9%25E5%258F%25B0%25E5%2586%259B%25E5%2594%25AE%2523%26dgr%3D0%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1758313256%26pre_seqid%3D175831325689702345909109",
           "source": "微博",
@@ -213,19 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普宣布价码高达500万美元的富豪永居项目，大幅提高H-1B签证成本",
-          "url": "https://wallstreetcn.com/livenews/2976994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 10时58分]"
         },
         {
           "title": "报道：特朗普将对H-1B签证加收10万美元的新费用",
@@ -304,6 +306,17 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
+          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时34分]"
+        },
+        {
           "title": "白宫考虑推出“特朗普网上药店” 提供更便宜的购药渠道",
           "url": "https://flash.jin10.com/detail/20250920042202011800",
           "source": "金十数据",
@@ -338,15 +351,16 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
-          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
-          "source": "凤凰网",
+          "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
+          "url": "https://wallstreetcn.com/articles/3755934",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时49分 ~ 10时58分]"
+          "time_info": "[10时58分 ~ 11时34分]"
         },
         {
           "title": "美联储宣布社区银行会议日程。 美国总统特朗普的财政部长贝森特将发言。 黑石集团Schwarzman和Robinhood的CEO Tenev将发言。",
@@ -397,6 +411,18 @@
           "time_info": "[07时22分 ~ 09时49分]"
         },
         {
+          "title": "美参议院未通过临时拨款法案 特朗普：政府可能在会在10月停摆",
+          "url": "https://www.cls.cn/detail/2150831",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时34分]"
+        },
+        {
           "title": "特朗普政府请求最高法院撤销委内瑞拉移民合法保护",
           "url": "https://wallstreetcn.com/livenews/2976944",
           "source": "华尔街见闻-快讯",
@@ -431,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普签署法令对 H-1B 签证加收 10 万美元新费用，有何目的？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1952594562250962144",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时34分]"
         },
         {
           "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
@@ -493,6 +530,18 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "特朗普推出“特朗普金卡”签证计划",
+          "url": "https://www.toutiao.com/trending/7551948646187535913/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时34分]"
+        },
+        {
           "title": "新任美联储理事Miran：9月点阵图里的低利率预期是我给出的。 美联储利率远离中性水平。 希望能在未来说服美联储的某些同僚（倒向Miran的利率政策主张）。 我不认为关税会造成任何实质性的通胀，我显然在关注关税对通胀的影响。 经济增速将在下半年变得更好。 美联储政策所给出的增速扩大程度并不明显，我认为潜在增速将与实际增速共同加快。 美国总统特朗普的移民政策将带来反通胀效果。",
           "url": "https://wallstreetcn.com/livenews/2976854",
           "source": "华尔街见闻-快讯",
@@ -505,15 +554,16 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
-          "url": "https://wallstreetcn.com/articles/3755934",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普已经利用“金股”机制来阻挠美国钢铁公司的工厂计划。 特朗普政府阻止美国钢铁关闭伊利诺伊州工厂的那些计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2976983",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            27,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时34分]"
         },
         {
           "title": "市场消息：特朗普政府官员们考虑推出一个网站，帮助廉价药物的买卖交易。",
@@ -549,15 +599,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美参议院未通过临时拨款法案 特朗普：政府可能在会在10月停摆",
-          "url": "https://www.cls.cn/detail/2150831",
-          "source": "财联社热门",
+          "title": "特朗普再次下令美军炸毁“运毒船”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E4%B8%8B%E4%BB%A4%E7%BE%8E%E5%86%9B%E7%82%B8%E6%AF%81%E2%80%9C%E8%BF%90%E6%AF%92%E8%88%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "11时34分"
         },
         {
           "title": "特朗普政府已请求美国最高法院允许其执行一项政策，根据出生时指定的性别，将护照上的性别标识限制为“男性”和“女性”，取消拜登政府时期推出的自行选择性别的政策。",
@@ -580,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普签署法令对 H-1B 签证加收 10 万美元新费用，有何目的？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1952594562250962144",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         },
         {
           "title": "市场消息：特朗普料将对H-1B签证增收10万美元新费用。",
@@ -701,28 +740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普已经利用“金股”机制来阻挠美国钢铁公司的工厂计划。 特朗普政府阻止美国钢铁关闭伊利诺伊州工厂的那些计划。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2976983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "特朗普推出“特朗普金卡”签证计划",
-          "url": "https://www.toutiao.com/trending/7551948646187535913/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
@@ -766,8 +783,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时34分]"
         },
         {
           "title": "美股收盘：三大指数再创历史新高 降息为市场涨势增添了动力",
@@ -778,8 +795,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时34分]"
         },
         {
           "title": "“三巫日”成交量激增，美股再创新高，美元三连涨，白银时隔14年重回43美元高位",
@@ -790,8 +807,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时34分]"
         },
         {
           "title": "美股成交量创纪录第三高",
@@ -800,11 +817,12 @@
           "ranks": [
             4,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时34分]"
         },
         {
           "title": "黄金ETF收涨超1%，领跑美股大类资产类ETF，小盘股指ETF跌超0.7%",
@@ -813,11 +831,12 @@
           "ranks": [
             6,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时34分]"
         },
         {
           "title": "科技行业ETF收涨1%，领跑美股行业ETF，银行ETF和能源ETF则跌超1%",
@@ -826,11 +845,12 @@
           "ranks": [
             7,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时34分]"
         },
         {
           "title": "金十图示：2025年09月19日（周五）美股热门股票行情一览（美股收盘）",
@@ -869,7 +889,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗方面表示，保留对任何非法行动作出适当回应的权利。",
@@ -931,6 +951,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 10时58分]"
+        },
+        {
+          "title": "伊朗常驻联合国代表：美欧和以色列是造成当前局势的主要责任方",
+          "url": "https://flash.jin10.com/detail/20250920102525594800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "伊朗常驻联合国代表：外交之门并未关闭。伊朗外交部长将于下周在纽约会见欧洲同行。（此前联合国安理会未能通过永久解除联合国对伊朗制裁的决议）",
@@ -1027,19 +1058,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 11时34分]"
         },
         {
           "title": "OpenAI首批智能硬件传出新消息",
           "url": "https://www.cls.cn/detail/2150781",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时34分]"
         }
       ]
     },
