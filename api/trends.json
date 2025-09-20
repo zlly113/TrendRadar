@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-09-20T09:49:22.059001+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-09-20T10:58:48.216085+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "详讯：习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时49分]"
-        },
         {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://wallstreetcn.com/articles/3755924",
           "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时58分]"
+        },
+        {
+          "title": "详讯：习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%A6%E8%AE%AF%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
@@ -79,11 +79,27 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 10时58分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31635353",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            9,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时21分 ~ 10时58分]"
         },
         {
           "title": "特朗普",
@@ -136,20 +152,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 06时23分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31635353",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时21分 ~ 09时49分]"
         },
         {
           "title": "黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控",
@@ -213,6 +215,19 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普宣布价码高达500万美元的富豪永居项目，大幅提高H-1B签证成本",
+          "url": "https://wallstreetcn.com/livenews/2976994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 10时58分]"
+        },
+        {
           "title": "报道：特朗普将对H-1B签证加收10万美元的新费用",
           "url": "https://wallstreetcn.com/livenews/2976909",
           "source": "华尔街见闻-快讯",
@@ -224,18 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普宣布价码高达500万美元的富豪永居项目，大幅提高H-1B签证成本",
-          "url": "https://wallstreetcn.com/livenews/2976994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时49分]"
         },
         {
           "title": "美法官驳回特朗普对《纽约时报》提起的150亿美元诉讼",
@@ -335,6 +338,17 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
+          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
+        },
+        {
           "title": "美联储宣布社区银行会议日程。 美国总统特朗普的财政部长贝森特将发言。 黑石集团Schwarzman和Robinhood的CEO Tenev将发言。",
           "url": "https://wallstreetcn.com/livenews/2976874",
           "source": "华尔街见闻-快讯",
@@ -419,6 +433,42 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
+          "url": "https://flash.jin10.com/detail/20250920080427404800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
+        },
+        {
+          "title": "美国总统特朗普：此次袭击中没有美国部队受到伤害。",
+          "url": "https://flash.jin10.com/detail/20250920080303746800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
+        },
+        {
+          "title": "美国总统特朗普：根据我的命令，战争部长下令对美军南方司令部责任区内的一艘船只实施了致命的动能打击。情报确认该船只正在走私非法毒品，空袭导致3名男子死亡。",
+          "url": "https://flash.jin10.com/detail/20250920080253884800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
+        },
+        {
           "title": "新任美联储理事Miran：美联储的所有同僚都对我很好，包括（与美国总统特朗普存在司法纠纷的）理事Lisa Cook。",
           "url": "https://wallstreetcn.com/livenews/2976856",
           "source": "华尔街见闻-快讯",
@@ -455,15 +505,15 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普签署法令，对H-1B签证加收10万美元新费用",
-          "url": "https://news.ifeng.com/c/8mnB3IHXPwO",
-          "source": "凤凰网",
+          "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
+          "url": "https://wallstreetcn.com/articles/3755934",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "10时58分"
         },
         {
           "title": "市场消息：特朗普政府官员们考虑推出一个网站，帮助廉价药物的买卖交易。",
@@ -499,6 +549,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美参议院未通过临时拨款法案 特朗普：政府可能在会在10月停摆",
+          "url": "https://www.cls.cn/detail/2150831",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "特朗普政府已请求美国最高法院允许其执行一项政策，根据出生时指定的性别，将护照上的性别标识限制为“男性”和“女性”，取消拜登政府时期推出的自行选择性别的政策。",
           "url": "https://flash.jin10.com/detail/20250920003320375800",
           "source": "金十数据",
@@ -521,15 +582,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "特朗普签署法令对H-1B签证加收10万美元新费用",
-          "url": "https://flash.jin10.com/detail/20250920080427404800",
-          "source": "金十数据",
+          "title": "特朗普签署法令对 H-1B 签证加收 10 万美元新费用，有何目的？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1952594562250962144",
+          "source": "知乎",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "10时58分"
         },
         {
           "title": "市场消息：特朗普料将对H-1B签证增收10万美元新费用。",
@@ -543,17 +604,6 @@
           "time_info": "02时36分"
         },
         {
-          "title": "美国总统特朗普：此次袭击中没有美国部队受到伤害。",
-          "url": "https://flash.jin10.com/detail/20250920080303746800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "美国总统特朗普：正在处理多项贸易和军事协议，包括大规模购买波音飞机、一项重要的F-16交易，以及继续进行F-35的谈判。",
           "url": "https://flash.jin10.com/detail/20250920015945817800",
           "source": "金十数据",
@@ -563,17 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普：根据我的命令，战争部长下令对美军南方司令部责任区内的一艘船只实施了致命的动能打击。情报确认该船只正在走私非法毒品，空袭导致3名男子死亡。",
-          "url": "https://flash.jin10.com/detail/20250920080253884800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "在美国下级法院要求国务院签发反映个人性别认同的护照后，特朗普政府要求美国最高法院进行干预。",
@@ -662,6 +701,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国总统特朗普已经利用“金股”机制来阻挠美国钢铁公司的工厂计划。 特朗普政府阻止美国钢铁关闭伊利诺伊州工厂的那些计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2976983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "特朗普推出“特朗普金卡”签证计划",
+          "url": "https://www.toutiao.com/trending/7551948646187535913/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -717,8 +778,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 10时58分]"
+        },
+        {
+          "title": "“三巫日”成交量激增，美股再创新高，美元三连涨，白银时隔14年重回43美元高位",
+          "url": "https://wallstreetcn.com/articles/3755911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时49分]"
+          "time_info": "[09时49分 ~ 10时58分]"
         },
         {
           "title": "美股成交量创纪录第三高",
@@ -726,11 +799,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 10时58分]"
+        },
+        {
+          "title": "黄金ETF收涨超1%，领跑美股大类资产类ETF，小盘股指ETF跌超0.7%",
+          "url": "https://wallstreetcn.com/livenews/2976986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 10时58分]"
+        },
+        {
+          "title": "科技行业ETF收涨1%，领跑美股行业ETF，银行ETF和能源ETF则跌超1%",
+          "url": "https://wallstreetcn.com/livenews/2976985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 10时58分]"
         },
         {
           "title": "金十图示：2025年09月19日（周五）美股热门股票行情一览（美股收盘）",
@@ -753,41 +853,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
-        },
-        {
-          "title": "黄金ETF收涨超1%，领跑美股大类资产类ETF，小盘股指ETF跌超0.7%",
-          "url": "https://wallstreetcn.com/livenews/2976986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时49分]"
-        },
-        {
-          "title": "科技行业ETF收涨1%，领跑美股行业ETF，银行ETF和能源ETF则跌超1%",
-          "url": "https://wallstreetcn.com/livenews/2976985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时49分]"
-        },
-        {
-          "title": "“三巫日”成交量激增，美股再创新高，美元三连涨，白银时隔14年重回43美元高位",
-          "url": "https://wallstreetcn.com/articles/3755911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "金十图示：2025年09月19日（周五）热门中概股行情一览（美股盘中）",
@@ -860,11 +925,12 @@
           "url": "https://flash.jin10.com/detail/20250920080947752800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
         },
         {
           "title": "伊朗常驻联合国代表：外交之门并未关闭。伊朗外交部长将于下周在纽约会见欧洲同行。（此前联合国安理会未能通过永久解除联合国对伊朗制裁的决议）",
@@ -895,6 +961,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "明晟公司（MSCI）发展中国家股票指数跌0.4%，使得本周累计涨幅收窄至略超1.0%。 MSCI新兴市场货币指数跌0.2%，创最近三周最差单日表现，9月份迄今仍然累涨0.8%。 彭博现货美元指数涨0.2%，美元得到快钱的支撑。",
+          "url": "https://wallstreetcn.com/livenews/2976979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 10时58分]"
+        },
+        {
           "title": "周五（9月19日）纽约尾盘，现货黄金涨1.11%，报3684.80美元/盎司，本周累计上涨1.15%。 COMEX黄金期货涨1.11%，报3719.30美元/盎司，本周累涨0.89%。 费城金银指数收涨4.76%，报283.70点，突破9月15日所创收盘历史最高位277.84点。 纽约证交所ARCA金矿开采商指数收涨4.52%，报2010.36点，也突破9月15日所创收盘历史最高位。 现货白银累涨2.14%，报43.0854美元/盎司。 COMEX白银期货累涨1.28%，报43.380美元/盎司。 COMEX铜期货累跌0.43%，报4.6305美元/磅。 现货铂金累涨0.79%，报1408.36美元/盎司；现货钯金累跌3.55%，报1157.44美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2976961",
           "source": "华尔街见闻-快讯",
@@ -906,19 +986,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
-        },
-        {
-          "title": "明晟公司（MSCI）发展中国家股票指数跌0.4%，使得本周累计涨幅收窄至略超1.0%。 MSCI新兴市场货币指数跌0.2%，创最近三周最差单日表现，9月份迄今仍然累涨0.8%。 彭博现货美元指数涨0.2%，美元得到快钱的支撑。",
-          "url": "https://wallstreetcn.com/livenews/2976979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时23分 ~ 09时49分]"
         },
         {
           "title": "美元指数周五涨0.3%，本周V形反转",
@@ -960,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时58分]"
         },
         {
           "title": "OpenAI首批智能硬件传出新消息",
@@ -970,9 +1037,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 10时58分]"
         }
       ]
     },
