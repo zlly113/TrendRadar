@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-21T21:27:16.177082+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-09-21T22:21:56.451361+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "工作签10万、绿卡100万、白金卡500万！特朗普大幅提高“美国移民门槛”，印度人懵了！",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 22时21分]"
         },
         {
           "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
@@ -200,8 +200,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 21时27分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 22时21分]"
         },
         {
           "title": "特朗普出创收新招金卡签证，低档100万美元，高档500万在美不交税",
@@ -228,8 +228,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 22时21分]"
         },
         {
           "title": "特朗普拟大幅改革美国工作签证，对H-1B增10万美元费用",
@@ -361,6 +361,20 @@
           "time_info": "[02时32分 ~ 11时14分]"
         },
         {
+          "title": "特朗普H-1B新政引恐慌 白宫紧急澄清：一次性收费、新老划断",
+          "url": "https://www.cls.cn/detail/2151110",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 22时21分]"
+        },
+        {
           "title": "印度外交部：特朗普的H1-B签证费用可能会通过家庭中断的方式产生人道主义后果。",
           "url": "https://flash.jin10.com/detail/20250920213841792800",
           "source": "金十数据",
@@ -409,18 +423,16 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
-          "title": "特朗普H-1B新政引恐慌 白宫紧急澄清：一次性收费、新老划断",
-          "url": "https://www.cls.cn/detail/2151110",
-          "source": "财联社热门",
+          "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
+          "url": "https://v.ifeng.com/c/8mphCxMcAC7",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时21分]"
         },
         {
           "title": "英国皇家马当着特朗普的面排便",
@@ -453,18 +465,6 @@
           "time_info": "[10时00分 ~ 15时21分]"
         },
         {
-          "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
-          "url": "https://v.ifeng.com/c/8mphCxMcAC7",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时27分]"
-        },
-        {
           "title": "土耳其总统埃尔多安：将与美国总统特朗普讨论贸易和军工产业合作。",
           "url": "https://flash.jin10.com/detail/20250921150200919800",
           "source": "金十数据",
@@ -478,6 +478,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时21分 ~ 19时20分]"
+        },
+        {
+          "title": "美国总统特朗普：若俄罗斯继续升级冲突，美国将援助保卫波兰。",
+          "url": "https://flash.jin10.com/detail/20250921220033762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "特朗普对H-1B签证征收10万美元费用 引发美国企业恐慌",
@@ -504,17 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：联合国会议结束后，我将与我的朋友特朗普总统举行上任以来的第四次会晤，我们有很多事情要讨论。",
-          "url": "https://flash.jin10.com/detail/20250921202459071800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "特朗普提名前律师任地区检察官 施压司法部长调查政敌",
@@ -619,6 +619,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：联合国会议结束后，我将与我的朋友特朗普总统举行上任以来的第四次会晤，我们有很多事情要讨论。",
+          "url": "https://flash.jin10.com/detail/20250921202459071800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时21分]"
         },
         {
           "title": "为规避政府停摆 美国会民主党领袖要求尽快与特朗普会面",
@@ -769,6 +781,17 @@
           "time_info": "[20时47分 ~ 21时27分]"
         },
         {
+          "title": "美国参议院少数党领袖舒默：随时准备与特朗普会面以避免政府关门。",
+          "url": "https://flash.jin10.com/detail/20250921211454131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "特朗普对H-1B签证加收10万美元新费用 料将重创美国科技行业",
           "url": "https://www.cls.cn/detail/2151040",
           "source": "财联社热门",
@@ -902,8 +925,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 22时21分]"
         },
         {
           "title": "5万亿“三巫日”放量创新高！刚刚，美股成交量创“历史第三高点”",
@@ -989,11 +1012,12 @@
             13,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 22时21分]"
         }
       ]
     },
@@ -1008,11 +1032,12 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时21分]"
         }
       ]
     },
