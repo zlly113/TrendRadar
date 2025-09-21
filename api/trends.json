@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-21T20:47:25.941636+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-09-21T21:27:16.177082+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "工作签10万、绿卡100万、白金卡500万！特朗普大幅提高“美国移民门槛”，印度人懵了！",
@@ -39,6 +39,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普专机，险些被撞了",
+          "url": "https://news.ifeng.com/c/8mpKYlEOcQq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 21时27分]"
         },
         {
           "title": "特朗普威胁“美国政府很可能10月1日关门”，民主党“准备大干一场”，这次“狼来了”要成真？",
@@ -83,20 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 20时47分]"
-        },
-        {
-          "title": "特朗普专机，险些被撞了",
-          "url": "https://news.ifeng.com/c/8mpKYlEOcQq",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 20时47分]"
+          "appearance_count": 14,
+          "time_info": "[11时14分 ~ 21时27分]"
         },
         {
           "title": "特朗普：我们在乌克兰战争中赚钱了，北约为一切买单",
@@ -155,6 +155,24 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "视频丨特朗普：美国正从俄乌冲突中获利",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31640705",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            9,
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普是如何卖“美国移民金卡”的",
           "url": "https://www.toutiao.com/trending/7552081389735202323/",
           "source": "今日头条",
@@ -182,8 +200,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时23分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 21时27分]"
         },
         {
           "title": "特朗普出创收新招金卡签证，低档100万美元，高档500万在美不交税",
@@ -206,28 +224,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时47分]"
-        },
-        {
-          "title": "视频丨特朗普：美国正从俄乌冲突中获利",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31640705",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13,
-            9,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 21时27分]"
         },
         {
           "title": "特朗普拟大幅改革美国工作签证，对H-1B增10万美元费用",
@@ -280,6 +282,24 @@
           "time_info": "[00时28分 ~ 14时35分]"
         },
         {
+          "title": "特朗普大秀办公室24K金：金光闪闪，这多好看！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31640708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16,
+            15,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 21时27分]"
+        },
+        {
           "title": "美参议院未通过临时拨款法案 特朗普：政府可能在会在10月停摆",
           "url": "https://www.cls.cn/detail/2150831",
           "source": "财联社热门",
@@ -291,23 +311,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普大秀办公室24K金：金光闪闪，这多好看！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31640708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时47分]"
         },
         {
           "title": "特朗普自爆美国从俄乌冲突中获利",
@@ -406,6 +409,20 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "特朗普H-1B新政引恐慌 白宫紧急澄清：一次性收费、新老划断",
+          "url": "https://www.cls.cn/detail/2151110",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时27分]"
+        },
+        {
           "title": "英国皇家马当着特朗普的面排便",
           "url": "https://www.toutiao.com/trending/7551732288465469479/",
           "source": "今日头条",
@@ -434,6 +451,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时00分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
+          "url": "https://v.ifeng.com/c/8mphCxMcAC7",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时27分]"
         },
         {
           "title": "土耳其总统埃尔多安：将与美国总统特朗普讨论贸易和军工产业合作。",
@@ -477,6 +506,17 @@
           "time_info": "10时00分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：联合国会议结束后，我将与我的朋友特朗普总统举行上任以来的第四次会晤，我们有很多事情要讨论。",
+          "url": "https://flash.jin10.com/detail/20250921202459071800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "特朗普提名前律师任地区检察官 施压司法部长调查政敌",
           "url": "https://flash.jin10.com/detail/20250921183848584800",
           "source": "金十数据",
@@ -486,19 +526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "特朗普H-1B新政引恐慌 白宫紧急澄清：一次性收费、新老划断",
-          "url": "https://www.cls.cn/detail/2151110",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时47分]"
         },
         {
           "title": "特朗普为何宣布美军要重返阿富汗",
@@ -568,18 +595,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
-          "url": "https://v.ifeng.com/c/8mphCxMcAC7",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-21）",
@@ -695,6 +710,17 @@
           "time_info": "[11时14分 ~ 14时35分]"
         },
         {
+          "title": "特朗普：本不希望发战争财 但事实上美国正从俄乌冲突中获利",
+          "url": "https://www.cls.cn/detail/2151069",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
+        },
+        {
           "title": "美国总统特朗普：我将提名林赛·哈利根（Lindsey Halligan）担任弗吉尼亚州东部地区的联邦检察官。",
           "url": "https://flash.jin10.com/detail/20250921083401731800",
           "source": "金十数据",
@@ -731,6 +757,18 @@
           "time_info": "[17时22分 ~ 18时24分]"
         },
         {
+          "title": "市场消息：塔利班指挥官拒绝美国总统特朗普提出的交出空军基地要求。",
+          "url": "https://flash.jin10.com/detail/20250921191430717800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普对H-1B签证加收10万美元新费用 料将重创美国科技行业",
           "url": "https://www.cls.cn/detail/2151040",
           "source": "财联社热门",
@@ -762,17 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
-        },
-        {
-          "title": "市场消息：塔利班指挥官拒绝美国总统特朗普提出的交出空军基地要求。",
-          "url": "https://flash.jin10.com/detail/20250921191430717800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
@@ -850,11 +877,12 @@
           "url": "https://flash.jin10.com/detail/20250921191456458800",
           "source": "金十数据",
           "ranks": [
-            24
+            24,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时27分]"
         }
       ]
     },
@@ -874,8 +902,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 21时27分]"
         },
         {
           "title": "5万亿“三巫日”放量创新高！刚刚，美股成交量创“历史第三高点”",
@@ -935,8 +963,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 21时27分]"
         },
         {
           "title": "OpenAI首批智能硬件传出新消息",
@@ -960,11 +988,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 20时47分]"
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 21时27分]"
         }
       ]
     },
@@ -982,8 +1011,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时27分]"
         }
       ]
     },
