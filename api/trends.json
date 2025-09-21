@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-22T00:29:17.518705+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-22T01:21:38.362051+08:00",
+  "total_titles_processed": 348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普专机，险些被撞了",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "AUKUS的协议还有更严苛条件？“特朗普想榨干盟友”",
+          "url": "https://news.ifeng.com/c/8mpRlavJQgR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时21分"
         },
         {
           "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
@@ -26,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "特朗普H-1B新政引恐慌 白宫紧急澄清：一次性收费、新老划断",
@@ -37,19 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美国政府10月1日面临关门危机，民主党领袖要求与特朗普会面",
-          "url": "https://news.ifeng.com/c/8mpI4tdjWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "“中国订单量仍为零”，美大豆协会主席拖拉机上喊话特朗普：中国市场至关重要，需要立刻行动！",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "美国总统特朗普：若俄罗斯继续升级冲突，美国将援助保卫波兰。",
@@ -70,8 +70,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：随时准备与特朗普会面以避免政府关门。",
@@ -81,8 +81,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：联合国会议结束后，我将与我的朋友特朗普总统举行上任以来的第四次会晤，我们有很多事情要讨论。",
@@ -90,6 +90,17 @@
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "美国政府10月1日面临关门危机，民主党领袖要求与特朗普会面",
+          "url": "https://news.ifeng.com/c/8mpI4tdjWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -106,11 +117,12 @@
           "url": "https://www.zhihu.com/question/1952104083063309302",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -126,8 +138,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -143,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     }
