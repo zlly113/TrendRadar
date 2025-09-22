@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T00:33:44.801116+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-09-23T01:21:00.762210+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "特朗普威胁夺回巴格拉姆空军基地，阿富汗塔利班强硬回应",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉民兵训练是“非常严重的威胁”。",
-          "url": "https://wallstreetcn.com/livenews/2977754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框”",
@@ -48,19 +37,78 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。",
+          "url": "https://wallstreetcn.com/livenews/2977784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉民兵训练是“非常严重的威胁”。",
+          "url": "https://wallstreetcn.com/livenews/2977754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "特朗普征收签证费，美国银行业将转向印度中心",
           "url": "https://wallstreetcn.com/livenews/2977753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "阿富汗强硬回应特朗普：准备再打20年",
+          "url": "https://www.toutiao.com/trending/7552211818828169225/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "阿富汗塔利班强硬回应特朗普威胁",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "美联储理事米兰：总统特朗普从未要求我以某种特定方式制定政策。",
+          "url": "https://flash.jin10.com/detail/20250923003749143800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时21分"
         },
         {
           "title": "美国商务部长：总统特朗普与哈萨克斯坦总统通电话之后，两国达成价值40亿美元的机车协议。 这将给得州和宾夕法尼亚州带来就业机会。",
@@ -74,22 +122,33 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美联储理事米兰：美国总统特朗普从来就没有要求我在美联储追求特定的货币政策。",
+          "url": "https://wallstreetcn.com/livenews/2977771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美联储理事米兰：会倾听特朗普对政策观点的陈述，考虑其论点，然后自己做出决定。",
+          "url": "https://flash.jin10.com/detail/20250923003712566800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
           "title": "美国财长贝森特：本周晚些时候将再面试两名美联储候选人。 到下周结束前面试的11名候选人中，将有10人将开始面试现任美联储董事会成员。 将在下周开始缩小面试候选人名单。 （当被问及他是否为美联储主席候选人时，贝森特说）特朗普喜欢我留在财政部，“我喜欢我在哪里”。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/2977740",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "阿富汗强硬回应特朗普：准备再打20年",
-          "url": "https://www.toutiao.com/trending/7552211818828169225/",
-          "source": "今日头条",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -105,23 +164,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "阿富汗塔利班强硬回应特朗普威胁",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
@@ -135,15 +183,49 @@
           "time_info": "00时33分"
         },
         {
+          "title": "英伟达拟分阶段对OpenAI进行股权投资 不获控制权",
+          "url": "https://flash.jin10.com/detail/20250923005214227800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
           "title": "【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停",
           "url": "https://www.cls.cn/detail/2152231",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "据知情人士透露，英伟达将对OpenAI数据中心进行股权投资。 根据分阶段投资计划，当部署第一个GW算力时，英伟达将投资10%。 英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2977770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时21分"
+        },
+        {
+          "title": "英伟达将向OpenAI投资至多1000亿美元用于算力建设",
+          "url": "https://wallstreetcn.com/livenews/2977760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "英伟达(NVDA.O)短线拉升，涨超1.5%。消息面上，公司将于OpenAI共建AI数据中心。",
@@ -160,7 +242,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉”",
@@ -170,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
         },
         {
           "title": "美股盘初三大股指走低，黄金股普涨，特斯拉涨近3%，加密货币走低，以太坊大跌7%",
@@ -181,8 +263,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "Rex-Osprey的狗狗币ETF（DOJE）目前跌9.52%，报22.44美元，美国上市以来三个交易日（迄今）持续走低，9月18日美股开盘时曾达到27.11美元。",
+          "url": "https://wallstreetcn.com/livenews/2977782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时21分"
         },
         {
           "title": "以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水",
@@ -190,6 +283,56 @@
           "source": "华尔街见闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "金十图示：2025年09月22日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250923003131469800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "金十图示：2025年09月22日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250923003026080800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌在谷歌电视上推出Gemini，Gemini现已在 TCL QM9K 系列电视上可用；今年晚些时候，它将在更多设备上推出。",
+          "url": "https://flash.jin10.com/detail/20250923005126451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "苹果公司股价上涨4.1%。 谷歌母公司Alphabet股价跌幅迅速扩大至1.7%。",
+          "url": "https://wallstreetcn.com/livenews/2977745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -206,28 +349,12 @@
           "url": "https://www.cls.cn/detail/2152541",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果公司股价上涨4.1%。 谷歌母公司Alphabet股价跌幅迅速扩大至1.7%。",
-          "url": "https://wallstreetcn.com/livenews/2977745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
         }
       ]
     },
@@ -240,11 +367,12 @@
           "url": "https://www.cls.cn/detail/2152485",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时21分]"
         }
       ]
     }
