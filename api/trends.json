@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T06:25:42.081719+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2025-09-23T07:23:24.261372+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "特朗普威胁夺回巴格拉姆空军基地，阿富汗塔利班强硬回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "阿富汗强硬回应特朗普：准备再打20年",
@@ -50,11 +50,12 @@
             18,
             10,
             17,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "阿富汗塔利班强硬回应特朗普威胁",
@@ -66,11 +67,12 @@
             24,
             14,
             17,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。",
@@ -84,37 +86,27 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美国总统特朗普签署命令，将反法西斯运动（AntiFA，安提法）定性为美国国内恐怖组织。",
-          "url": "https://wallstreetcn.com/livenews/2977865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美国总统特朗普：我是疫苗的坚定支持者。",
-          "url": "https://flash.jin10.com/detail/20250923055103321800",
+          "title": "据福克斯新闻：特朗普与众议院少数党领袖杰弗里斯和参议院少数党领袖舒默关于政府资金的会议将于周四举行。",
+          "url": "https://flash.jin10.com/detail/20250923065245534800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时23分"
         },
         {
-          "title": "美国总统特朗普：我非常支持疫苗。",
-          "url": "https://wallstreetcn.com/livenews/2977861",
+          "title": "美国总统特朗普签署命令，将反法西斯运动（AntiFA，安提法）定性为美国国内恐怖组织。",
+          "url": "https://wallstreetcn.com/livenews/2977865",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普与国会山民主党领袖们讨论政府运作资金问题。（PunchBowl）",
@@ -154,6 +146,18 @@
           "time_info": "[05时21分 ~ 06时25分]"
         },
         {
+          "title": "美国总统特朗普：我是疫苗的坚定支持者。",
+          "url": "https://flash.jin10.com/detail/20250923055103321800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
           "title": "美国总统特朗普：美国食品药品监督管理局将更新现有药物的标签。",
           "url": "https://flash.jin10.com/detail/20250923045640230800",
           "source": "金十数据",
@@ -176,6 +180,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我非常支持疫苗。",
+          "url": "https://wallstreetcn.com/livenews/2977861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：没有理由给婴儿接种乙肝疫苗，我会建议等到他们12岁再接种。",
@@ -224,6 +240,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美国总统特朗普：泰诺对非孕妇（没有怀孕的女性）来说是没问题的。",
+          "url": "https://wallstreetcn.com/livenews/2977857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：美国股市创历史新高。",
+          "url": "https://flash.jin10.com/detail/20250923053721421800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为12岁之前不应该接种乙肝疫苗。 这是我自己的个人看法。",
+          "url": "https://wallstreetcn.com/livenews/2977856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普将重新安排加州高速铁路拨款的用途。",
@@ -358,15 +410,15 @@
           "time_info": "[02时36分 ~ 03时23分]"
         },
         {
-          "title": "美国总统特朗普：泰诺对非孕妇（没有怀孕的女性）来说是没问题的。",
-          "url": "https://wallstreetcn.com/livenews/2977857",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：乌兹别克斯坦航空公司和波音(BA.N)的协议将为美国创造超过35,000个就业岗位。我们将继续在更多事项上合作。",
+          "url": "https://flash.jin10.com/detail/20250923063827234800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：美国食品药品监督管理局将要求医生告知泰诺的风险。",
@@ -378,28 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：美国股市创历史新高。",
-          "url": "https://flash.jin10.com/detail/20250923053721421800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美国总统特朗普：我认为12岁之前不应该接种乙肝疫苗。 这是我自己的个人看法。",
-          "url": "https://wallstreetcn.com/livenews/2977856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "市场消息：美国最高法院允许特朗普在诉讼继续期间罢免联邦贸易委员会的民主党成员。",
@@ -424,6 +454,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美国总统特朗普：祝贺乌兹别克斯坦总统米尔济约耶夫与波音(BA.N)签订一项重大协议。这笔交易价值超过80亿美元，乌兹别克斯坦航空公司正购买22架波音787梦想客机。",
+          "url": "https://flash.jin10.com/detail/20250923063155988800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "市场消息：美国最高法院将听取关于特朗普试图解雇联邦贸易委员会民主党成员的辩论，尽管该成员受免职保护。",
           "url": "https://flash.jin10.com/detail/20250923031229200800",
           "source": "金十数据",
@@ -446,6 +487,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "土耳其总统埃尔多安：将在与美国总统特朗普的会晤期间就F-35战机进行谈判。",
+          "url": "https://flash.jin10.com/detail/20250923061818218800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美联储理事米兰：总统特朗普从未要求我以某种特定方式制定政策。",
           "url": "https://flash.jin10.com/detail/20250923003749143800",
           "source": "金十数据",
@@ -466,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署命令，正式将“安提法”列为国内恐怖组织。",
+          "url": "https://flash.jin10.com/detail/20250923061548100800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国商务部长：总统特朗普与哈萨克斯坦总统通电话之后，两国达成价值40亿美元的机车协议。 这将给得州和宾夕法尼亚州带来就业机会。",
@@ -499,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "刚果（金）总统：感谢特朗普承诺实现刚果民主共和国的和平，希望继续加强与我们的伙伴关系。卢旺达继续利用代理组织M23犯下暴行，尽管与卢旺达达成和平协议，但局势仍未改善。与M23组织交换囚犯是一个积极的发展，正在等待红十字会的批准。",
+          "url": "https://flash.jin10.com/detail/20250923061009335800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普将向阿拉伯领导人提出美国关于结束加沙冲突的原则。",
@@ -540,7 +614,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -603,18 +677,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉”",
           "url": "https://wallstreetcn.com/articles/3755999",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "美股盘初三大股指走低，黄金股普涨，特斯拉涨近3%，加密货币走低，以太坊大跌7%",
@@ -635,8 +710,45 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创历史新高 英伟达大涨近4%",
+          "url": "https://www.cls.cn/detail/2152669",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "Kenvue Inc.美股盘后涨超4.3%。",
+          "url": "https://wallstreetcn.com/livenews/2977854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时23分]"
+        },
+        {
+          "title": "葛兰素史克ADR美股盘后涨超1%。 美国食品药品管理局（FDA）称，该公司初步同意在更新Leucovorin（亚叶酸，Folinic acid）标签方面配合FDA的工作。",
+          "url": "https://wallstreetcn.com/livenews/2977851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时23分]"
         },
         {
           "title": "Rex-Osprey的狗狗币ETF（DOJE）目前跌9.52%，报22.44美元，美国上市以来三个交易日（迄今）持续走低，9月18日美股开盘时曾达到27.11美元。",
@@ -652,28 +764,16 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
-          "title": "Kenvue Inc.美股盘后涨超4.3%。",
-          "url": "https://wallstreetcn.com/livenews/2977854",
+          "title": "Opendoor美股盘后下跌15%。",
+          "url": "https://wallstreetcn.com/livenews/2977855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11
+            10,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "葛兰素史克ADR美股盘后涨超1%。 美国食品药品管理局（FDA）称，该公司初步同意在更新Leucovorin（亚叶酸，Folinic acid）标签方面配合FDA的工作。",
-          "url": "https://wallstreetcn.com/livenews/2977851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "Kenvue Inc.（KVUE）美股盘后涨幅收窄至4.2%。出于对自闭症的恐惧，特朗普政府建议孕妇避免使用该公司药品Tylenol。",
@@ -710,17 +810,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "Opendoor美股盘后下跌15%。",
-          "url": "https://wallstreetcn.com/livenews/2977855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨4.3%，英伟达创历史新高，Meta和亚马逊跌超1.6%",
@@ -770,7 +859,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停",
@@ -807,6 +896,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "【早报】英伟达股价创新高！拟向OpenAI投资最高1000亿美元；潘功胜、李云泽、吴清、朱鹤新同日发声",
+          "url": "https://www.cls.cn/detail/2152689",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "消息人士：与英伟达的交易不会改变OpenAI的任何算力计划，包括与微软(MSFT.O)的合作或其自主研发芯片的努力。",
           "url": "https://flash.jin10.com/detail/20250923014437251800",
           "source": "金十数据",
@@ -817,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时23分]"
+        },
+        {
+          "title": "英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心",
+          "url": "https://www.cls.cn/detail/2152645",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "据知情人士透露，英伟达将对OpenAI数据中心进行股权投资。 根据分阶段投资计划，当部署第一个GW算力时，英伟达将投资10%。 英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。（彭博）",
@@ -866,8 +977,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "美国交易的中国科技股ETF连续六周吸金，追平DeepSeek时刻的纪录",
@@ -887,11 +998,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时23分]"
         }
       ]
     },
@@ -915,11 +1027,12 @@
           "url": "https://wallstreetcn.com/livenews/2977858",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "苹果公司股价上涨4.1%。 谷歌母公司Alphabet股价跌幅迅速扩大至1.7%。",
@@ -931,6 +1044,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价再创历史新高 减肥药生产商Metsera暴涨超60% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2152485",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "国际金价涨约1.7%，创历史新高逼近3750美元",
+          "url": "https://wallstreetcn.com/livenews/2977841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "国际金价再创历史新高，黄金行业上市公司频获机构调研",
+          "url": "https://wallstreetcn.com/livenews/2977881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -1008,41 +1162,12 @@
           "url": "https://wallstreetcn.com/livenews/2977859",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价再创历史新高 减肥药生产商Metsera暴涨超60% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2152485",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时25分]"
-        },
-        {
-          "title": "国际金价涨约1.7%，创历史新高逼近3750美元",
-          "url": "https://wallstreetcn.com/livenews/2977841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时25分]"
+          "time_info": "[06时25分 ~ 07时23分]"
         }
       ]
     },
@@ -1057,7 +1182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
