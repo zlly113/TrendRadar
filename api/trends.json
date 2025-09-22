@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-22T07:24:16.187097+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-09-22T10:01:36.034250+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "AUKUS的协议还有更严苛条件？“特朗普想榨干盟友”",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "特朗普带密友参观升级的办公室：添置了大量24K黄金，非常漂亮",
@@ -36,11 +37,12 @@
           "url": "https://www.cls.cn/detail/2151110",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "马斯克现身柯克追悼会，或与特朗普闹掰后首度同框",
@@ -83,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -94,7 +96,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -117,9 +119,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "握手、聊天、并肩而坐！马斯克与特朗普闹掰后再同框(图)",
+          "url": "https://news.ifeng.com/c/8mqiyPbQeCP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国总统特朗普：明天我们将在医疗领域发布一项重要公告。明天我们将讨论自闭症，我认为我们找到了自闭症的答案。",
@@ -128,9 +141,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "委内瑞拉证实马杜罗曾致信特朗普",
+          "url": "https://news.ifeng.com/c/8mqkXrN9SX3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国几乎撕裂 特朗普还要“战斗”",
@@ -229,6 +253,39 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
+          "title": "握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框”",
+          "url": "https://wallstreetcn.com/articles/3756000",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "马斯克与特朗普闹掰后再同框",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%B9%E6%8E%B0%E5%90%8E%E5%86%8D%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26band_rank%3D7%26flag%3D0%26pos%3D7%26cate%3D5001%26realpos%3D7%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2597%25B9%25E6%258E%25B0%25E5%2590%258E%25E5%2586%258D%25E5%2590%258C%25E6%25A1%2586%2523%26display_time%3D1758506382%26pre_seqid%3D175850638267402347907108",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "马斯克特朗普闹掰后首次同框",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%B9%E6%8E%B0%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "美国政府10月1日面临关门危机，民主党领袖要求与特朗普会面",
           "url": "https://news.ifeng.com/c/8mpI4tdjWA9",
           "source": "凤凰网",
@@ -246,15 +303,48 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "关系缓和新迹象？马斯克与特朗普闹掰后再同框 现场图曝光",
+          "url": "https://www.cls.cn/detail/2151355",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普抱盟友遗孀一展歌喉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E7%9B%9F%E5%8F%8B%E9%81%97%E5%AD%80%E4%B8%80%E5%B1%95%E6%AD%8C%E5%96%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普暗示激进左翼应对刺杀柯克负责",
+          "url": "https://www.toutiao.com/trending/7552378433150763049/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI领衔！AI热潮下美国“七大科技初创”总估值达1.3万亿美元",
@@ -282,13 +372,24 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "A股苹果产业链开盘活跃，立讯精密竞价涨停，歌尔股份、达瑞电子、蓝思科技、领益智造、环旭电子等多股高开。近日OpenAI已与苹果公司的设备组装商立讯精密签署协议，共同打造一款消费级设备，该款设备预计能与OpenAI的人工智能模型深度协作。",
+          "url": "https://wallstreetcn.com/livenews/2977261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "Sam Altman：OpenAI即将发布新产品",
           "url": "https://wallstreetcn.com/livenews/2977176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -296,7 +397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛对冲基金主管：在“闭眼买就能赚钱”的市场里，不要对抗牛市，“美股还有油”",
@@ -307,8 +408,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时01分]"
+        },
+        {
+          "title": "高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉”",
+          "url": "https://wallstreetcn.com/articles/3755999",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美股三大股指期货低开，纳指期货跌0.07%。",
@@ -317,7 +429,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -346,7 +458,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
