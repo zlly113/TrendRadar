@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T03:23:01.834914+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-09-23T04:29:02.771991+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "特朗普威胁夺回巴格拉姆空军基地，阿富汗塔利班强硬回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "阿富汗强硬回应特朗普：准备再打20年",
@@ -47,11 +47,12 @@
           "ranks": [
             23,
             8,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "阿富汗塔利班强硬回应特朗普威胁",
@@ -60,11 +61,12 @@
           "ranks": [
             26,
             28,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。",
@@ -76,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普与国会山民主党领袖们讨论政府运作资金问题。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/2977828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉民兵训练是“非常严重的威胁”。",
@@ -222,6 +235,28 @@
           "time_info": "[02时36分 ~ 03时23分]"
         },
         {
+          "title": "市场消息：美国最高法院允许特朗普在诉讼继续期间罢免联邦贸易委员会的民主党成员。",
+          "url": "https://flash.jin10.com/detail/20250923031345287800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "市场消息：美国最高法院将听取关于特朗普试图解雇联邦贸易委员会民主党成员的辩论，尽管该成员受免职保护。",
+          "url": "https://flash.jin10.com/detail/20250923031229200800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美联储理事米兰：总统特朗普从未要求我以某种特定方式制定政策。",
           "url": "https://flash.jin10.com/detail/20250923003749143800",
           "source": "金十数据",
@@ -275,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国最高法院允许总统特朗普暂时性地解雇联邦贸易委员会（FTC）仅存的民主党成员Slaughter。",
+          "url": "https://wallstreetcn.com/livenews/2977818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "报道：特朗普政府拟将非处方止痛药泰诺与自闭症联系起来",
@@ -335,8 +381,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
@@ -419,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美股盘初三大股指走低，黄金股普涨，特斯拉涨近3%，加密货币走低，以太坊大跌7%",
@@ -430,8 +476,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水",
@@ -441,8 +487,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "Rex-Osprey的狗狗币ETF（DOJE）目前跌9.52%，报22.44美元，美国上市以来三个交易日（迄今）持续走低，9月18日美股开盘时曾达到27.11美元。",
@@ -482,6 +528,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数22日下跌",
+          "url": "https://flash.jin10.com/detail/20250923034059209800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国白宫：自选举日以来，标准普尔500指数上涨近15%，纳斯达克指数飙升超过21%，投资者已向经济注入近9万亿美元。作为特朗普总统恢复美国制造业使命的一部分，我们预计投资将很快超过15万亿美元，工业产出已达到历史新高，带来了显著的经济效益。",
+          "url": "https://flash.jin10.com/detail/20250923011702877800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时23分]"
+        },
+        {
+          "title": "美元指数跌超0.3%，结束连涨三天的趋势",
+          "url": "https://wallstreetcn.com/livenews/2977820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -494,19 +580,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美国交易的中国科技股ETF连续六周吸金，追平DeepSeek时刻的纪录",
           "url": "https://wallstreetcn.com/livenews/2977809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时29分]"
         }
       ]
     },
@@ -547,22 +634,24 @@
           "url": "https://flash.jin10.com/detail/20250923024435033800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时29分]"
         },
         {
           "title": "伊朗外长：在联合国大会期间于纽约与国际原子能机构负责人会晤。",
           "url": "https://flash.jin10.com/detail/20250923023612224800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时29分]"
         }
       ]
     },
@@ -579,26 +668,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫：自选举日以来，标准普尔500指数上涨近15%，纳斯达克指数飙升超过21%，投资者已向经济注入近9万亿美元。作为特朗普总统恢复美国制造业使命的一部分，我们预计投资将很快超过15万亿美元，工业产出已达到历史新高，带来了显著的经济效益。",
-          "url": "https://flash.jin10.com/detail/20250923011702877800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     }
