@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T01:21:00.762210+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-09-23T02:36:16.715643+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "特朗普威胁夺回巴格拉姆空军基地，阿富汗塔利班强硬回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。",
@@ -47,9 +47,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "阿富汗强硬回应特朗普：准备再打20年",
+          "url": "https://www.toutiao.com/trending/7552211818828169225/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        },
+        {
+          "title": "阿富汗塔利班强硬回应特朗普威胁",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉民兵训练是“非常严重的威胁”。",
@@ -76,39 +100,26 @@
           "time_info": "[00时33分 ~ 01时21分]"
         },
         {
-          "title": "阿富汗强硬回应特朗普：准备再打20年",
-          "url": "https://www.toutiao.com/trending/7552211818828169225/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
-        },
-        {
-          "title": "阿富汗塔利班强硬回应特朗普威胁",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A1%94%E5%88%A9%E7%8F%AD%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
-        },
-        {
           "title": "美联储理事米兰：总统特朗普从未要求我以某种特定方式制定政策。",
           "url": "https://flash.jin10.com/detail/20250923003749143800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普将重新安排加州高速铁路拨款的用途。",
+          "url": "https://flash.jin10.com/detail/20250923014237667800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国商务部长：总统特朗普与哈萨克斯坦总统通电话之后，两国达成价值40亿美元的机车协议。 这将给得州和宾夕法尼亚州带来就业机会。",
@@ -122,15 +133,37 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国总统特朗普将重新安排加州高速铁路拨款的用途。",
+          "url": "https://wallstreetcn.com/livenews/2977793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "美联储理事米兰：美国总统特朗普从来就没有要求我在美联储追求特定的货币政策。",
           "url": "https://wallstreetcn.com/livenews/2977771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "朝鲜劳动党总书记、国务委员长金正恩：无核化概念已经失去意义。 对美国总统特朗普有良好的记忆。（朝中社）",
+          "url": "https://wallstreetcn.com/livenews/2977792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美联储理事米兰：会倾听特朗普对政策观点的陈述，考虑其论点，然后自己做出决定。",
@@ -139,9 +172,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国白宫：特朗普知晓俄罗斯关于《新削减战略武器条约》的提议。",
+          "url": "https://flash.jin10.com/detail/20250923014021260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "白宫新闻秘书：美国理解（总统特朗普关税造成的）农民的焦虑。",
+          "url": "https://wallstreetcn.com/livenews/2977790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国财长贝森特：本周晚些时候将再面试两名美联储候选人。 到下周结束前面试的11名候选人中，将有10人将开始面试现任美联储董事会成员。 将在下周开始缩小面试候选人名单。 （当被问及他是否为美联储主席候选人时，贝森特说）特朗普喜欢我留在财政部，“我喜欢我在哪里”。（CNBC）",
@@ -155,6 +210,61 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国国会山共和党成员们认为：证券交易委员会（SEC）应当帮助美国民众接触到另类资产。 呼吁SEC帮助执行总统特朗普的另类资产行政命令（EO）。",
+          "url": "https://wallstreetcn.com/livenews/2977795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "沃旭能源Orsted Venture赢得法庭判决，将（在美国市场）恢复（被美国总统特朗普喊停的）风电场工作。",
+          "url": "https://wallstreetcn.com/livenews/2977786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：哈萨克斯坦与我们签署了有史以来最大的铁路设备采购协议，价值40亿美元的美国机车和铁路设备。现在，铁路将会迅速回归。",
+          "url": "https://flash.jin10.com/detail/20250923011935068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。 特朗普将在9月23日（美东时间）早间发表“重要讲话”。 特朗普将会见乌克兰和阿根廷的领导人。 特朗普将主持多边中东会议。",
+          "url": "https://wallstreetcn.com/livenews/2977784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国白宫：特朗普时期增强的能源主导地位导致油价下跌，使自2005年以来用于燃料的可支配收入比例降至最低，同时新车的年均拥有和运营成本下降近6%。",
+          "url": "https://flash.jin10.com/detail/20250923011620494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "报道：特朗普政府拟将非处方止痛药泰诺与自闭症联系起来",
           "url": "https://wallstreetcn.com/livenews/2977731",
           "source": "华尔街见闻-快讯",
@@ -164,13 +274,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国白宫：特朗普将于明天上午（北京时间明晚）发表重要演讲。",
+          "url": "https://flash.jin10.com/detail/20250923011506722800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将与卡塔尔、沙特阿拉伯、印度尼西亚、土耳其、巴基斯坦、埃及、阿联酋和约旦举行多边会晤。",
+          "url": "https://flash.jin10.com/detail/20250923011336123800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将在联合国会见联合国秘书长以及乌克兰、阿根廷和欧盟的领导人。",
+          "url": "https://flash.jin10.com/detail/20250923011310139800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停",
+          "url": "https://www.cls.cn/detail/2152231",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        },
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
           "url": "https://wallstreetcn.com/livenews/2977760",
@@ -189,21 +344,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
         {
-          "title": "【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停",
-          "url": "https://www.cls.cn/detail/2152231",
-          "source": "财联社热门",
+          "title": "消息人士：与英伟达的交易不会改变OpenAI的任何算力计划，包括与微软(MSFT.O)的合作或其自主研发芯片的努力。",
+          "url": "https://flash.jin10.com/detail/20250923014437251800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            5
+            11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "据知情人士透露，英伟达将对OpenAI数据中心进行股权投资。 根据分阶段投资计划，当部署第一个GW算力时，英伟达将投资10%。 英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。（彭博）",
@@ -212,7 +366,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -223,7 +377,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -252,8 +406,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "美股盘初三大股指走低，黄金股普涨，特斯拉涨近3%，加密货币走低，以太坊大跌7%",
@@ -263,19 +417,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
-        },
-        {
-          "title": "Rex-Osprey的狗狗币ETF（DOJE）目前跌9.52%，报22.44美元，美国上市以来三个交易日（迄今）持续走低，9月18日美股开盘时曾达到27.11美元。",
-          "url": "https://wallstreetcn.com/livenews/2977782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水",
@@ -285,8 +428,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        },
+        {
+          "title": "Rex-Osprey的狗狗币ETF（DOJE）目前跌9.52%，报22.44美元，美国上市以来三个交易日（迄今）持续走低，9月18日美股开盘时曾达到27.11美元。",
+          "url": "https://wallstreetcn.com/livenews/2977782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时36分]"
         },
         {
           "title": "金十图示：2025年09月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -295,7 +450,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -306,7 +461,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -323,7 +478,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -353,8 +508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     },
@@ -371,8 +526,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国白宫：自选举日以来，标准普尔500指数上涨近15%，纳斯达克指数飙升超过21%，投资者已向经济注入近9万亿美元。作为特朗普总统恢复美国制造业使命的一部分，我们预计投资将很快超过15万亿美元，工业产出已达到历史新高，带来了显著的经济效益。",
+          "url": "https://flash.jin10.com/detail/20250923011702877800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     }
