@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-22T13:26:36.687795+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-09-22T14:40:46.258061+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "AUKUS的协议还有更严苛条件？“特朗普想榨干盟友”",
@@ -88,19 +88,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时40分]"
         },
         {
           "title": "马斯克、白宫发布特朗普马斯克同框照",
           "url": "https://news.ifeng.com/c/8mqrIXbTqTF",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时40分]"
         },
         {
           "title": "特朗普：局势若继续升级，美国会协助波兰等国家防御俄罗斯",
@@ -110,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时40分]"
         },
         {
           "title": "一旦特朗普掌握了这个“撒手锏”，影响将远超议息会议决策",
@@ -121,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时40分]"
         },
         {
           "title": "特朗普为何对中国态度大转弯",
@@ -134,8 +135,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时40分]"
+        },
+        {
+          "title": "关系缓和新迹象？马斯克与特朗普闹掰后再同框 现场图曝光",
+          "url": "https://www.cls.cn/detail/2151355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时40分]"
         },
         {
           "title": "委内瑞拉证实马杜罗曾致信特朗普",
@@ -148,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普与马斯克“握手言和”？",
+          "url": "https://news.ifeng.com/c/8mr3IsDbvmW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：与查理不同，我讨厌我的对手。",
@@ -170,6 +196,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普抱盟友遗孀一展歌喉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E7%9B%9F%E5%8F%8B%E9%81%97%E5%AD%80%E4%B8%80%E5%B1%95%E6%AD%8C%E5%96%89",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：若俄罗斯继续升级冲突，美国将援助保卫波兰。",
@@ -217,19 +258,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "关系缓和新迹象？马斯克与特朗普闹掰后再同框 现场图曝光",
-          "url": "https://www.cls.cn/detail/2151355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时26分]"
-        },
-        {
           "title": "美国几乎撕裂 特朗普还要“战斗”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%92%95%E8%A3%82+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E8%A6%81%E2%80%9C%E6%88%98%E6%96%97%E2%80%9D",
           "source": "百度热搜",
@@ -240,20 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普抱盟友遗孀一展歌喉",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E7%9B%9F%E5%8F%8B%E9%81%97%E5%AD%80%E4%B8%80%E5%B1%95%E6%AD%8C%E5%96%89",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时26分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：随时准备与特朗普会面以避免政府关门。",
@@ -302,6 +316,19 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普儿子模仿爸爸引哄堂大笑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%E6%A8%A1%E4%BB%BF%E7%88%B8%E7%88%B8%E5%BC%95%E5%93%84%E5%A0%82%E5%A4%A7%E7%AC%91",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时40分]"
+        },
+        {
           "title": "美媒：特朗普周二将与阿拉伯国家领导人会晤，商讨加沙停火",
           "url": "https://flash.jin10.com/detail/20250922041253428800",
           "source": "金十数据",
@@ -328,16 +355,17 @@
           "time_info": "[05时21分 ~ 07时24分]"
         },
         {
-          "title": "特朗普儿子模仿爸爸引哄堂大笑",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%E6%A8%A1%E4%BB%BF%E7%88%B8%E7%88%B8%E5%BC%95%E5%93%84%E5%A0%82%E5%A4%A7%E7%AC%91",
-          "source": "百度热搜",
+          "title": "金正恩：仍怀有对特朗普的美好回忆",
+          "url": "https://www.toutiao.com/trending/7551654544137162279/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            10
+            17,
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时26分]"
+          "time_info": "[12时31分 ~ 14时40分]"
         },
         {
           "title": "如何看待特朗普与马斯克握手交谈",
@@ -363,18 +391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 07时24分]"
-        },
-        {
-          "title": "金正恩：仍怀有对特朗普的美好回忆",
-          "url": "https://www.toutiao.com/trending/7551654544137162279/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "马斯克特朗普闹掰后首次同框",
@@ -445,6 +461,28 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普H-1B改革“损己利人”？美就业市场恐再遭重创，加拿大、欧洲料受益！",
+          "url": "https://www.cls.cn/detail/2151360",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普马斯克握手交谈 恩怨了结了吗",
+          "url": "https://www.toutiao.com/trending/7552736226495729203/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "特朗普宣布美军重返阿富汗有何意图",
           "url": "https://www.toutiao.com/trending/7552712917011926547/",
           "source": "今日头条",
@@ -462,7 +500,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -558,8 +596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时40分]"
         },
         {
           "title": "美股三大股指期货低开，纳指期货跌0.07%。",
