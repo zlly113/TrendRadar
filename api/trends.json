@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T09:50:39.337116+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-09-23T11:03:09.804591+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -410,6 +410,17 @@
           "time_info": "[02时36分 ~ 03时23分]"
         },
         {
+          "title": "白宫：特朗普将于美国东部时间周二晚上7:20（北京时间周三早上7:20）在联合国领导人会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20250923103548204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "美国总统特朗普：乌兹别克斯坦航空公司和波音(BA.N)的协议将为美国创造超过35,000个就业岗位。我们将继续在更多事项上合作。",
           "url": "https://flash.jin10.com/detail/20250923063827234800",
           "source": "金十数据",
@@ -608,6 +619,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国联邦法官下令特朗普政府恢复被冻结的加州大学洛杉矶分校（UCLA）研究经费。",
+          "url": "https://flash.jin10.com/detail/20250923102154747800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "特朗普将提加沙战后治理方案 争取阿拉伯与穆斯林国家支持",
           "url": "https://flash.jin10.com/detail/20250923050646198800",
           "source": "金十数据",
@@ -625,7 +647,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -688,7 +710,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉”",
@@ -719,11 +741,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时03分]"
         },
         {
           "title": "美股收盘：三大股指齐创历史新高 英伟达大涨近4%",
@@ -733,8 +756,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时03分]"
         },
         {
           "title": "英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌",
@@ -743,9 +766,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时03分]"
         },
         {
           "title": "Kenvue Inc.美股盘后涨超4.3%。",
@@ -811,6 +834,17 @@
           "time_info": "[05时21分 ~ 06时25分]"
         },
         {
+          "title": "华尔街“崩盘猎人”：美股或重演1929 但眼下仍是奏乐起舞时",
+          "url": "https://www.cls.cn/detail/2152575",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
           "title": "黄金ETF收涨超1.7%，和纳指ETF、小盘股指ETF在美股大类资产类ETF表现突出，大豆基金跌超1.3%",
           "url": "https://wallstreetcn.com/livenews/2977837",
           "source": "华尔街见闻-快讯",
@@ -833,6 +867,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时25分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%BD%90%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨4.3%，英伟达创历史新高，Meta和亚马逊跌超1.6%",
@@ -905,8 +950,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时03分]"
+        },
+        {
+          "title": "英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心",
+          "url": "https://wallstreetcn.com/articles/3756056",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时03分]"
+        },
+        {
+          "title": "英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心",
+          "url": "https://www.cls.cn/detail/2152645",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时03分]"
         },
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
@@ -931,27 +999,28 @@
           "time_info": "01时21分"
         },
         {
-          "title": "英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心",
-          "url": "https://wallstreetcn.com/articles/3756056",
+          "title": "完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI",
+          "url": "https://wallstreetcn.com/articles/3756068",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心",
-          "url": "https://www.cls.cn/detail/2152645",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时03分]"
+        },
+        {
+          "title": "英伟达拟向OpenAI投资1000亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E5%90%91OpenAI%E6%8A%95%E8%B5%841000%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时03分]"
         },
         {
           "title": "消息人士：与英伟达的交易不会改变OpenAI的任何算力计划，包括与微软(MSFT.O)的合作或其自主研发芯片的努力。",
@@ -972,18 +1041,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI",
-          "url": "https://wallstreetcn.com/articles/3756068",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1010,17 +1068,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "英伟达拟向OpenAI投资1000亿美元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E5%90%91OpenAI%E6%8A%95%E8%B5%841000%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "英伟达(NVDA.O)短线拉升，涨超1.5%。消息面上，公司将于OpenAI共建AI数据中心。",
           "url": "https://flash.jin10.com/detail/20250923001133298800",
           "source": "金十数据",
@@ -1035,7 +1082,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际金价再创历史新高 减肥药生产商Metsera暴涨超60% | 今夜看点",
@@ -1047,8 +1094,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时03分]"
+        },
+        {
+          "title": "金价再度刷新历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时03分]"
         },
         {
           "title": "国际金价涨约1.7%，创历史新高逼近3750美元",
@@ -1080,26 +1139,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
         {
-          "title": "金价再度刷新历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "金十图示：2025年09月23日（周二）上海金早盘价为847.95元/克，较国际金价(856.36元/克)，低8.41元/克",
+          "url": "https://flash.jin10.com/detail/20250923102118457800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "11时03分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek线上模型升级",
@@ -1111,8 +1170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时03分]"
         },
         {
           "title": "如何评价 2025 年 9 月 22 日 DeepSeek 新发布的 DeepSeek-V3.1-Terminus 模型？",
@@ -1122,11 +1181,12 @@
             8,
             7,
             6,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时21分 ~ 09时50分]"
+          "appearance_count": 6,
+          "time_info": "[05时21分 ~ 11时03分]"
         },
         {
           "title": "美国交易的中国科技股ETF连续六周吸金，追平DeepSeek时刻的纪录",
@@ -1139,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时29分]"
+        },
+        {
+          "title": "DeepSeek V3.1发布更新",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V3.1%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
         }
       ]
     },
