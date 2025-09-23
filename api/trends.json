@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T11:03:09.804591+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-09-23T12:30:55.588252+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普答凤凰记者：希望其他国家效仿美国，抵制这款孕妇止痛药",
+          "url": "https://news.ifeng.com/c/8msV2QuTMG1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "美国总统特朗普签署命令，将反法西斯运动（AntiFA，安提法）定性为美国国内恐怖组织。",
@@ -416,7 +427,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -625,7 +636,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -710,7 +721,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉”",
@@ -745,8 +756,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：三大股指齐创历史新高 英伟达大涨近4%",
@@ -756,8 +767,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时30分]"
         },
         {
           "title": "英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌",
@@ -767,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时30分]"
         },
         {
           "title": "Kenvue Inc.美股盘后涨超4.3%。",
@@ -810,6 +821,18 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
+          "title": "华尔街“崩盘猎人”：美股或重演1929 但眼下仍是奏乐起舞时",
+          "url": "https://www.cls.cn/detail/2152575",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
           "title": "Opendoor美股盘后下跌15%。",
           "url": "https://wallstreetcn.com/livenews/2977855",
           "source": "华尔街见闻-快讯",
@@ -832,17 +855,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时25分]"
-        },
-        {
-          "title": "华尔街“崩盘猎人”：美股或重演1929 但眼下仍是奏乐起舞时",
-          "url": "https://www.cls.cn/detail/2152575",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，和纳指ETF、小盘股指ETF在美股大类资产类ETF表现突出，大豆基金跌超1.3%",
@@ -878,6 +890,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
+          "title": "八年来最大跑赢幅度！机构人士：亚洲股市将持续“力压”美股",
+          "url": "https://www.cls.cn/detail/2152839",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨4.3%，英伟达创历史新高，Meta和亚马逊跌超1.6%",
@@ -927,7 +950,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停",
@@ -950,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时30分]"
         },
         {
           "title": "英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心",
@@ -961,8 +984,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时30分]"
         },
         {
           "title": "英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心",
@@ -973,8 +996,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时30分]"
         },
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
@@ -1004,11 +1027,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时30分]"
         },
         {
           "title": "英伟达拟向OpenAI投资1000亿美元",
@@ -1035,6 +1059,17 @@
           "time_info": "[02时36分 ~ 03时23分]"
         },
         {
+          "title": "英伟达、甲骨文、OpenAI 动辄千亿的三角游戏闭环了？",
+          "url": "https://www.cls.cn/detail/2152949",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "与OpenAI达成千亿美元合作 英伟达称仍对所有客户一视同仁",
           "url": "https://flash.jin10.com/detail/20250923091901550800",
           "source": "金十数据",
@@ -1046,6 +1081,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "全球多国承认巴勒斯坦国 英伟达拟向OpenAI投资千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2152682",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "据知情人士透露，英伟达将对OpenAI数据中心进行股权投资。 根据分阶段投资计划，当部署第一个GW算力时，英伟达将投资10%。 英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2977770",
           "source": "华尔街见闻-快讯",
@@ -1055,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "ChatGPT产品负责人：在印尼推出ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20250923112646204800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "英伟达将向OpenAI投资至多1000亿美元用于算力建设",
@@ -1103,11 +1160,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时30分]"
         },
         {
           "title": "国际金价涨约1.7%，创历史新高逼近3750美元",
@@ -1150,7 +1208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
