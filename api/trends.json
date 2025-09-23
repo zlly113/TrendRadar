@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-23T12:30:55.588252+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-09-23T13:24:32.019419+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普“边境沙皇”在FBI钓鱼执法中收受5万美元，被疑受贿",
@@ -75,6 +75,17 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
+          "title": "特朗普答凤凰记者：希望其他国家效仿美国，抵制这款孕妇止痛药",
+          "url": "https://news.ifeng.com/c/8msV2QuTMG1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
+        },
+        {
           "title": "白宫新闻秘书：美国总统特朗普将谈论“儿童自闭症大流行”（Childhood Autism Epidemic）。",
           "url": "https://wallstreetcn.com/livenews/2977784",
           "source": "华尔街见闻-快讯",
@@ -95,17 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普答凤凰记者：希望其他国家效仿美国，抵制这款孕妇止痛药",
-          "url": "https://news.ifeng.com/c/8msV2QuTMG1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         },
         {
           "title": "美国总统特朗普签署命令，将反法西斯运动（AntiFA，安提法）定性为美国国内恐怖组织。",
@@ -641,6 +641,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "被问美国为何一直问俄买核原料，特朗普答不上来急找救兵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31655368",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普将提加沙战后治理方案 争取阿拉伯与穆斯林国家支持",
           "url": "https://flash.jin10.com/detail/20250923050646198800",
           "source": "金十数据",
@@ -747,6 +758,17 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：三大股指齐创历史新高 英伟达大涨近4%",
+          "url": "https://www.cls.cn/detail/2152669",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时24分]"
+        },
+        {
           "title": "以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水",
           "url": "https://wallstreetcn.com/articles/3756033",
           "source": "华尔街见闻",
@@ -756,19 +778,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 12时30分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐创历史新高 英伟达大涨近4%",
-          "url": "https://www.cls.cn/detail/2152669",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时30分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌",
@@ -778,8 +789,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "Kenvue Inc.美股盘后涨超4.3%。",
@@ -831,6 +842,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
+          "title": "八年来最大跑赢幅度！机构人士：亚洲股市将持续“力压”美股",
+          "url": "https://www.cls.cn/detail/2152839",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
         },
         {
           "title": "Opendoor美股盘后下跌15%。",
@@ -890,17 +913,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "八年来最大跑赢幅度！机构人士：亚洲股市将持续“力压”美股",
-          "url": "https://www.cls.cn/detail/2152839",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨4.3%，英伟达创历史新高，Meta和亚马逊跌超1.6%",
@@ -973,8 +985,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时24分]"
         },
         {
           "title": "英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心",
@@ -984,8 +996,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心",
@@ -996,8 +1008,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时24分]"
+        },
+        {
+          "title": "完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI",
+          "url": "https://wallstreetcn.com/articles/3756068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时30分]"
+          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "英伟达有意对OpenAI投资至多1000亿美元，两家公司宣布合作意向信函。",
@@ -1022,17 +1047,16 @@
           "time_info": "01时21分"
         },
         {
-          "title": "完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI",
-          "url": "https://wallstreetcn.com/articles/3756068",
-          "source": "华尔街见闻",
+          "title": "英伟达、甲骨文、OpenAI 动辄千亿的三角游戏闭环了？",
+          "url": "https://www.cls.cn/detail/2152949",
+          "source": "财联社热门",
           "ranks": [
-            8,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时30分]"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
         },
         {
           "title": "英伟达拟向OpenAI投资1000亿美元",
@@ -1059,15 +1083,16 @@
           "time_info": "[02时36分 ~ 03时23分]"
         },
         {
-          "title": "英伟达、甲骨文、OpenAI 动辄千亿的三角游戏闭环了？",
-          "url": "https://www.cls.cn/detail/2152949",
+          "title": "全球多国承认巴勒斯坦国 英伟达拟向OpenAI投资千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2152682",
           "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
         },
         {
           "title": "与OpenAI达成千亿美元合作 英伟达称仍对所有客户一视同仁",
@@ -1079,17 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "全球多国承认巴勒斯坦国 英伟达拟向OpenAI投资千亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2152682",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         },
         {
           "title": "据知情人士透露，英伟达将对OpenAI数据中心进行股权投资。 根据分阶段投资计划，当部署第一个GW算力时，英伟达将投资10%。 英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。（彭博）",
@@ -1109,7 +1123,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -1161,11 +1175,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "国际金价涨约1.7%，创历史新高逼近3750美元",
@@ -1272,6 +1287,59 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：很难判断是否会在伊朗核协议恢复问题上达成协议，外交窗口的时间有限。",
+          "url": "https://flash.jin10.com/detail/20250923024435033800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时29分]"
+        },
+        {
+          "title": "伊朗外长：在联合国大会期间于纽约与国际原子能机构负责人会晤。",
+          "url": "https://flash.jin10.com/detail/20250923023612224800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时29分]"
+        },
+        {
+          "title": "白宫禁止那些到美国纽约参加联合国大会的伊朗外交官到开市客/好市多购物，也不允许他们在没有获得美方允许的情况下购买奢侈品。",
+          "url": "https://wallstreetcn.com/livenews/2977859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "以色列总理称未来一年摧毁伊朗轴心",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%B9%B4%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E8%BD%B4%E5%BF%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26q%3D%2523%25E4%25BB%25A5%25E8%2589%25B2%25E5%2588%2597%25E6%2580%25BB%25E7%2590%2586%25E7%25A7%25B0%25E6%259C%25AA%25E6%259D%25A5%25E4%25B8%2580%25E5%25B9%25B4%25E6%2591%25A7%25E6%25AF%2581%25E4%25BC%258A%25E6%259C%2597%25E8%25BD%25B4%25E5%25BF%2583%2523%26cate%3D5001%26dgr%3D0%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D29%26flag%3D1%26band_rank%3D29%26filter_type%3Drealtimehot%26display_time%3D1758604953%26pre_seqid%3D175860495379503027483129",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1349,48 +1417,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：很难判断是否会在伊朗核协议恢复问题上达成协议，外交窗口的时间有限。",
-          "url": "https://flash.jin10.com/detail/20250923024435033800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时29分]"
-        },
-        {
-          "title": "伊朗外长：在联合国大会期间于纽约与国际原子能机构负责人会晤。",
-          "url": "https://flash.jin10.com/detail/20250923023612224800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时29分]"
-        },
-        {
-          "title": "白宫禁止那些到美国纽约参加联合国大会的伊朗外交官到开市客/好市多购物，也不允许他们在没有获得美方允许的情况下购买奢侈品。",
-          "url": "https://wallstreetcn.com/livenews/2977859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
         }
       ]
     },
