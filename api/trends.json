@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-24T02:36:56.298862+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-09-24T03:22:07.307770+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "德国830亿欧元军购清单美企只占8%，“对特朗普是一大打击”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "马克龙被美警察拦下 当场打给特朗普",
@@ -26,8 +26,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普在白宫发布会上宣称泰诺导致自闭症，呼吁孕妇不要服用，这一说法靠谱吗？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1953383530194278349",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "文件显示：根汽车制造商呼吁美国总统特朗普政府放宽环保署的排放规定，理由是电动汽车销量正在放缓。",
@@ -41,51 +54,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "巴西外长：卢拉与特朗普或以电话代替当面会谈",
-          "url": "https://wallstreetcn.com/livenews/2978499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：对许多投资者而言，美元作为避险工具的价值已受到损害，特朗普试图影响美联储的行为，正引发人们对美国货币政策持续独立性的质疑。",
-          "url": "https://flash.jin10.com/detail/20250924021622263800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "特朗普在白宫发布会上宣称泰诺导致自闭症，呼吁孕妇不要服用，这一说法靠谱吗？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1953383530194278349",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩称，与美国总统特朗普围绕“需要削减俄罗斯的化石燃料收入”达成共识。 两人还导论中东局势。",
-          "url": "https://wallstreetcn.com/livenews/2978497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
           "title": "美法官裁定特朗普政府须恢复加州大学逾5亿美元资金",
           "url": "https://news.ifeng.com/c/8mtGzkXJNOl",
           "source": "凤凰网",
@@ -93,8 +61,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
+        },
+        {
+          "title": "加拿大皇家银行CEO Dave McKay：美国总统特朗普的签证收费主张将让加拿大有机会获得科技人才。",
+          "url": "https://wallstreetcn.com/livenews/2978505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "据福克斯新闻：Ryan Routh被控在2024年大选期间试图暗杀特朗普，在审判中被判所有罪名成立。",
+          "url": "https://flash.jin10.com/detail/20250924023400704800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "警方拦下马克龙车队给特朗普让路",
@@ -102,11 +92,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "特朗普警告孕妇别吃“泰诺”",
@@ -115,11 +106,12 @@
           "ranks": [
             19,
             12,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "以色列誓言报复“承认潮”，内塔尼亚胡：我下周见特朗普，你们等着瞧",
@@ -129,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "被问美国为何一直问俄买核原料，特朗普答不上来急找救兵",
@@ -140,8 +132,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "释新闻｜特朗普为何希望美军重返阿富汗？",
@@ -151,19 +143,80 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
+        },
+        {
+          "title": "巴西外长：卢拉与特朗普或以电话代替当面会谈",
+          "url": "https://wallstreetcn.com/livenews/2978499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：对许多投资者而言，美元作为避险工具的价值已受到损害，特朗普试图影响美联储的行为，正引发人们对美国货币政策持续独立性的质疑。",
+          "url": "https://flash.jin10.com/detail/20250924021622263800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩称，与美国总统特朗普围绕“需要削减俄罗斯的化石燃料收入”达成共识。 两人还导论中东局势。",
+          "url": "https://wallstreetcn.com/livenews/2978497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "加拿大央行行长麦克勒姆：特朗普的“解放日”关税令美元的避险地位受到质疑。",
           "url": "https://flash.jin10.com/detail/20250924021605863800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "加拿大央行行长Macklem：美国贸易政策可能会削弱美元的全球安全资产地位。 美国总统特朗普的“自由日”冲击到全球信心。 美国关税可能无法化解全球失衡问题。 美国关税的全面影响还不得而知。",
+          "url": "https://wallstreetcn.com/livenews/2978495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将在一个月内知道俄罗斯总统普京（的计划）。",
+          "url": "https://wallstreetcn.com/livenews/2978480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "鲍威尔：人工智能（AI）意味着某些岗位将被淘汰。 研究表明，AI并非招聘放缓的一个主要原因。 美国经济处于一个解雇水平偏低、招聘活动也偏低的状态。 就业岗位的创造力度已经急剧下滑。 招聘放缓在一定程度上与（美国总统特朗普的）公共政策的不确定性有关。",
@@ -175,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "加拿大央行行长Macklem：美国贸易政策可能会削弱美元的全球安全资产地位。 美国总统特朗普的“自由日”冲击到全球信心。 美国关税可能无法化解全球失衡问题。 美国关税的全面影响还不得而知。",
-          "url": "https://wallstreetcn.com/livenews/2978495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：寻求年底前停止购买俄罗斯石油。 希望在2027年之前实现不再购买俄罗斯能源。 我们希望处理俄罗斯石油和天然气。 将与美国总统特朗普讨论乌克兰问题。",
@@ -243,17 +285,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：我们将在一个月内知道俄罗斯总统普京（的计划）。",
-          "url": "https://wallstreetcn.com/livenews/2978480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
           "title": "美国总统特朗普：在联合国演讲始终是我的荣幸。",
           "url": "https://flash.jin10.com/detail/20250923234328915800",
           "source": "金十数据",
@@ -304,7 +335,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -366,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心",
@@ -377,8 +408,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "尽管“观感上存在争议”，美银：英伟达对OpenAI的这笔“1000亿美元投资”会大赚3-5倍",
@@ -389,8 +420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "如何看待 OpenAI 与 NVIDIA 宣布战略合作，NVDIA 最高投资 1000 亿美元?",
@@ -400,8 +431,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "如何看待英伟达拟向 OpenAI 投资 1000 亿美元？都有哪些信息值得关注？",
@@ -412,19 +443,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时22分]"
         },
         {
           "title": "报道：OpenAI与甲骨文将在美国得州扩建数据中心",
           "url": "https://wallstreetcn.com/livenews/2978488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "美媒：OpenAI和甲骨文将宣布在得州扩建数据中心",
@@ -433,7 +465,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -444,6 +476,42 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "伊朗最高领袖：与美国谈判没有任何好处",
+          "url": "https://wallstreetcn.com/livenews/2978490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "消息人士：如果到9月27日仍未取得进展，联合国将恢复对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20250924021051809800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "消息人士：伊朗仍未满足欧洲大国为避免自动恢复制裁而设定的条件。与伊朗的“恢复制裁”问题讨论将继续进行，以探索一切可能性，寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20250924020713396800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
           "title": "伊朗外交部长：关于制裁的磋商将与所有相关方继续进行。",
           "url": "https://flash.jin10.com/detail/20250924001258502800",
           "source": "金十数据",
@@ -453,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗最高领袖：与美国谈判没有任何好处",
-          "url": "https://wallstreetcn.com/livenews/2978490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         },
         {
           "title": "伊朗哈梅内伊：伊朗没有核弹，未来也不会拥有。 与美国谈判核问题是一条死胡同。",
@@ -488,35 +545,13 @@
           "time_info": "01时28分"
         },
         {
-          "title": "消息人士：如果到9月27日仍未取得进展，联合国将恢复对伊朗的制裁。",
-          "url": "https://flash.jin10.com/detail/20250924021051809800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "消息人士：伊朗仍未满足欧洲大国为避免自动恢复制裁而设定的条件。与伊朗的“恢复制裁”问题讨论将继续进行，以探索一切可能性，寻找解决方案。",
-          "url": "https://flash.jin10.com/detail/20250924020713396800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
           "title": "伊朗最高领袖：与美国谈判没有任何好处",
           "url": "https://flash.jin10.com/detail/20250924015920732800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -524,7 +559,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌",
@@ -534,8 +569,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "美股与黄金同创新高，这意味着什么？",
@@ -545,8 +580,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，芯片股多数上涨，台积电涨约3%，现货黄金突破3786美元续刷历史新高",
@@ -554,11 +589,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
+        },
+        {
+          "title": "上期所原油期货2511合约夜盘收涨1.47%，报482.30元人民币/桶。 沪金夜盘收涨1.02%，报859.88元人民币/克，夜盘之初、美股开盘之前曾涨至862.04元创历史新高；沪银收涨0.80%。",
+          "url": "https://wallstreetcn.com/livenews/2978500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -592,8 +639,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时22分]"
         }
       ]
     },
