@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-25T01:23:03.572342+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-09-25T02:35:06.683392+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "被特朗普定性的这个美国恐怖组织，是何来头？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "胡锡进：白宫贴出一张特朗普的合影，“MAGA”们不高兴了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "特朗普连遇“意外”，白宫发言人急了",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普向阿拉伯领导人提出加沙和平大纲 会议获积极评价",
-          "url": "https://flash.jin10.com/detail/20250925011645820800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "态度剧变！特朗普称乌克兰边界有望“恢复原状”",
@@ -59,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "车队被纽约警察拦下，马克龙当场给特朗普打电话“吐槽”",
@@ -70,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "刺杀特朗普未遂男子当庭试图自杀",
@@ -79,22 +68,37 @@
           "source": "微博",
           "ranks": [
             10,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "释新闻｜史无前例！特朗普宣布首个“国内恐怖组织”意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31666170",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普到联合国电梯提词器都坏了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E8%81%94%E5%90%88%E5%9B%BD%E7%94%B5%E6%A2%AF%E6%8F%90%E8%AF%8D%E5%99%A8%E9%83%BD%E5%9D%8F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "特朗普在联合国批评联合国，声称“你们的国家正在走向地狱”",
@@ -105,31 +109,78 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普到联合国电梯提词器都坏了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E8%81%94%E5%90%88%E5%9B%BD%E7%94%B5%E6%A2%AF%E6%8F%90%E8%AF%8D%E5%99%A8%E9%83%BD%E5%9D%8F%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "特朗普联大演讲与欧洲国家针锋相对",
           "url": "https://www.toutiao.com/trending/7553230212138713129/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "美国总统特朗普告诉国会山民主党：（关于政府融资的）立法草案现在在你们手中。",
+          "url": "https://wallstreetcn.com/livenews/2979193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国中东特使威特科夫：向一些领导人介绍了特朗普提出的中东和加沙和平21点计划。",
+          "url": "https://flash.jin10.com/detail/20250925020754216800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "特朗普向阿拉伯领导人提出加沙和平大纲 会议获积极评价",
+          "url": "https://flash.jin10.com/detail/20250925011645820800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普对乌克兰危机态度为何又变了",
+          "url": "https://www.toutiao.com/trending/7553643087961001499/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
+          "title": "联合国回应特朗普遇“电梯故障”",
+          "url": "https://www.toutiao.com/trending/7553477964688637991/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "学者：特朗普联大演讲有1核心5要点",
@@ -156,6 +207,18 @@
           "time_info": "[00时33分 ~ 01时23分]"
         },
         {
+          "title": "欧洲军工股多数收涨，投资者关注特朗普讲话",
+          "url": "https://wallstreetcn.com/livenews/2979169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren就美国总统特朗普对瑞士商品加征关税一事致函劳力士CEO。",
           "url": "https://wallstreetcn.com/livenews/2979153",
           "source": "华尔街见闻-快讯",
@@ -168,39 +231,6 @@
           "time_info": "[00时33分 ~ 01时23分]"
         },
         {
-          "title": "联合国回应特朗普遇“电梯故障”",
-          "url": "https://www.toutiao.com/trending/7553477964688637991/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "特朗普对乌克兰危机态度为何又变了",
-          "url": "https://www.toutiao.com/trending/7553643087961001499/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "欧洲军工股多数收涨，投资者关注特朗普讲话",
-          "url": "https://wallstreetcn.com/livenews/2979169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
           "title": "美国参议院民主党成员Warren：呼吁对特朗普家族的海外加密货币交易展开调查。",
           "url": "https://flash.jin10.com/detail/20250924235820263800",
           "source": "金十数据",
@@ -210,6 +240,104 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "加州誓言继续起诉特朗普政府环保松绑政策",
+          "url": "https://flash.jin10.com/detail/20250925015405198800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "特朗普想要更多石油，美国页岩老板谴责“破碎”的生意",
+          "url": "https://wallstreetcn.com/livenews/2979187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥重申了特朗普关于停止杀戮的呼吁，并强调莫斯科需要采取有意义的步骤来结束俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20250925012521276800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗总统：伊朗不会追求拥有核武器",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E8%BF%BD%E6%B1%82%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "法国总统马克龙：会见了伊朗总统。",
+          "url": "https://wallstreetcn.com/livenews/2979175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
+          "title": "法国总统马克龙：伊朗避免制裁的时间只剩几个小时了。",
+          "url": "https://flash.jin10.com/detail/20250925010724220800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
+          "title": "美国中东特使威特科夫：我们正在与伊朗沟通，伊朗处境艰难，我们有与伊朗进行谈判的意愿。",
+          "url": "https://flash.jin10.com/detail/20250925020736737800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "法国总统马克龙：伊朗绝不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20250925010701125800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     },
@@ -226,8 +354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "美股三大股指集体上涨，阿里巴巴涨近8%，铜价跳涨2%",
@@ -237,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "“崩盘专家”黑天鹅基金：美股将大幅上涨，随后是“1929式崩盘”",
@@ -248,8 +376,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "美股开盘：百度涨超3% 阿里涨超8%",
@@ -265,57 +393,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "法国总统马克龙：会见了伊朗总统。",
-          "url": "https://wallstreetcn.com/livenews/2979175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗总统：伊朗不会追求拥有核武器",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E8%BF%BD%E6%B1%82%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "法国总统马克龙：伊朗避免制裁的时间只剩几个小时了。",
-          "url": "https://flash.jin10.com/detail/20250925010724220800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "法国总统马克龙：伊朗绝不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20250925010701125800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -324,11 +401,12 @@
           "url": "https://wallstreetcn.com/livenews/2979177",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时35分]"
         },
         {
           "title": "据日经新闻：日本保险公司东京海上与OpenAI合作开发AI代理。",
@@ -337,7 +415,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -351,6 +429,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储分歧加大降息迷雾 美债价格下跌收益率攀升",
+          "url": "https://flash.jin10.com/detail/20250925021905859800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     }
