@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-25T03:20:29.743419+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2025-09-25T04:30:00.095273+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "被特朗普定性的这个美国恐怖组织，是何来头？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "胡锡进：白宫贴出一张特朗普的合影，“MAGA”们不高兴了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "特朗普连遇“意外”，白宫发言人急了",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "态度剧变！特朗普称乌克兰边界有望“恢复原状”",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "车队被纽约警察拦下，马克龙当场给特朗普打电话“吐槽”",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "刺杀特朗普未遂男子当庭试图自杀",
@@ -71,11 +71,12 @@
             10,
             23,
             29,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "释新闻｜史无前例！特朗普宣布首个“国内恐怖组织”意味着什么？",
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "特朗普到联合国电梯提词器都坏了",
@@ -97,11 +98,12 @@
             24,
             26,
             13,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "特朗普在联合国批评联合国，声称“你们的国家正在走向地狱”",
@@ -112,8 +114,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "特朗普联大演讲与欧洲国家针锋相对",
@@ -129,17 +131,6 @@
           "time_info": "[00时32分 ~ 03时20分]"
         },
         {
-          "title": "美国参议院民主党成员Warren就总统特朗普将两房（房利美和房地美）IPO的尝试施压财长贝森特。",
-          "url": "https://wallstreetcn.com/livenews/2979208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "特朗普对乌克兰危机态度为何又变了",
           "url": "https://www.toutiao.com/trending/7553643087961001499/",
           "source": "今日头条",
@@ -149,8 +140,30 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 04时30分]"
+        },
+        {
+          "title": "巴西总统卢拉：我愿意与美国总统特朗普亲自会面。",
+          "url": "https://flash.jin10.com/detail/20250925042427024800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "巴西总统卢拉：邀请美国总统特朗普参加COP30气候峰会。",
+          "url": "https://wallstreetcn.com/livenews/2979231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "美国总统特朗普告诉国会山民主党：（关于政府融资的）立法草案现在在你们手中。",
@@ -163,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren就总统特朗普将两房（房利美和房地美）IPO的尝试施压财长贝森特。",
+          "url": "https://wallstreetcn.com/livenews/2979208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时30分]"
         },
         {
           "title": "特朗普向阿拉伯领导人提出加沙和平大纲 会议获积极评价",
@@ -261,6 +286,39 @@
           "time_info": "[00时33分 ~ 01时23分]"
         },
         {
+          "title": "美国总统特朗普：已获悉得克萨斯州达拉斯冰场办公室发生的致命枪击事件。",
+          "url": "https://flash.jin10.com/detail/20250925041813827800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "美国总统特朗普：我将于本周签署一项行政命令，以瓦解这些国内恐怖主义网络。",
+          "url": "https://flash.jin10.com/detail/20250925041659943800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "据AXIOS网站：特朗普长期顾问、白宫副幕僚长Taylor Budowich计划在本月底离开政府，重返私营部门。",
+          "url": "https://flash.jin10.com/detail/20250925041507010800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
           "title": "美国参议院民主党成员Warren：呼吁对特朗普家族的海外加密货币交易展开调查。",
           "url": "https://flash.jin10.com/detail/20250924235820263800",
           "source": "金十数据",
@@ -278,9 +336,64 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "巴西总统卢拉：我告诉美国总统特朗普，我们有很多事情要谈。",
+          "url": "https://flash.jin10.com/detail/20250925040747044800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "西班牙首相桑切斯：“尊重”美国总统特朗普，但不认可他的主张。 西班牙主要解决住房问题。 西班牙经济重心相当稳固。",
+          "url": "https://wallstreetcn.com/livenews/2979216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "美国总统特朗普计划10月份前往日本，两国官员正在安排行程。（路透）",
+          "url": "https://wallstreetcn.com/livenews/2979214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "市场消息：美国制药中间商正在制定一项提案，准备改变部分业务做法，以避免特朗普政府出台新监管措施。",
+          "url": "https://flash.jin10.com/detail/20250925040558185800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "巴西总统卢拉：当美国总统特朗普说我们彼此很有默契时，我感到很高兴。",
+          "url": "https://flash.jin10.com/detail/20250925040544643800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "特朗普想要更多石油，美国页岩老板谴责“破碎”的生意",
@@ -307,8 +420,96 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "鲍威尔称美股估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高",
+          "url": "https://wallstreetcn.com/articles/3756102",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
+        },
+        {
+          "title": "美股三大股指集体上涨，阿里巴巴涨近8%，铜价跳涨2%",
+          "url": "https://wallstreetcn.com/articles/3756174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
+        },
+        {
+          "title": "“崩盘专家”黑天鹅基金：美股将大幅上涨，随后是“1929式崩盘”",
+          "url": "https://wallstreetcn.com/articles/3756150",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
+        },
+        {
+          "title": "美股开盘：百度涨超3% 阿里涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25+%E9%98%BF%E9%87%8C%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "金十图示：2025年09月24日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250925040600647800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "金十图示：2025年09月24日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250925040520332800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 阿里巴巴涨超8%",
+          "url": "https://flash.jin10.com/detail/20250925040048561800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统：伊朗不会追求拥有核武器",
@@ -318,11 +519,12 @@
             30,
             26,
             24,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 04时30分]"
         },
         {
           "title": "法国总统马克龙：会见了伊朗总统。",
@@ -371,60 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "鲍威尔称美股估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高",
-          "url": "https://wallstreetcn.com/articles/3756102",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
-          "title": "美股三大股指集体上涨，阿里巴巴涨近8%，铜价跳涨2%",
-          "url": "https://wallstreetcn.com/articles/3756174",
-          "source": "华尔街见闻",
+          "title": "伊朗曝以色列核基地独家情报：核武项目、与美欧合作、反人类武器",
+          "url": "https://wallstreetcn.com/livenews/2979215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            15
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "“崩盘专家”黑天鹅基金：美股将大幅上涨，随后是“1929式崩盘”",
-          "url": "https://wallstreetcn.com/articles/3756150",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "美股开盘：百度涨超3% 阿里涨超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25+%E9%98%BF%E9%87%8C%E6%B6%A8%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     },
@@ -471,7 +630,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美联储分歧加大降息迷雾 美债价格下跌收益率攀升",
@@ -484,6 +643,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "周三（9月24日）纽约尾盘，美国10年期国债收益率涨3.85个基点，报4.1447%，日内交投区间为4.0965%-4.1505%，北京时间16:11刷新日低，18:00开始持续震荡上行。 两年期美债收益率涨1.40个基点，报3.6%，日内交投于3.5571%-3.6021%区间。 2/10年期美债收益率利差涨2.266个基点，报+54.064个基点。",
+          "url": "https://wallstreetcn.com/livenews/2979223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/2979212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20250925035309955800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌1.8%，英伟达跌超0.8%，特斯拉涨约4%",
+          "url": "https://wallstreetcn.com/livenews/2979230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     }
