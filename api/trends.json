@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-24T07:23:13.122229+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-09-24T09:53:09.468514+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 81,
       "titles": [
         {
           "title": "德国830亿欧元军购清单美企只占8%，“对特朗普是一大打击”",
@@ -19,17 +19,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "马克龙被美警察拦下 当场打给特朗普",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A2%AB%E7%BE%8E%E8%AD%A6%E5%AF%9F%E6%8B%A6%E4%B8%8B+%E5%BD%93%E5%9C%BA%E6%89%93%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
           "title": "特朗普在白宫发布会上宣称泰诺导致自闭症，呼吁孕妇不要服用，这一说法靠谱吗？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/1953383530194278349",
           "source": "知乎",
@@ -37,11 +26,24 @@
             5,
             7,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时53分]"
+        },
+        {
+          "title": "马克龙被美警察拦下 当场打给特朗普",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A2%AB%E7%BE%8E%E8%AD%A6%E5%AF%9F%E6%8B%A6%E4%B8%8B+%E5%BD%93%E5%9C%BA%E6%89%93%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时53分]"
         },
         {
           "title": "美法官裁定特朗普政府须恢复加州大学逾5亿美元资金",
@@ -62,11 +64,12 @@
             15,
             9,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时53分]"
         },
         {
           "title": "特朗普警告孕妇别吃“泰诺”",
@@ -79,11 +82,12 @@
             10,
             15,
             20,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时53分]"
         },
         {
           "title": "以色列誓言报复“承认潮”，内塔尼亚胡：我下周见特朗普，你们等着瞧",
@@ -91,11 +95,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时53分]"
         },
         {
           "title": "被问美国为何一直问俄买核原料，特朗普答不上来急找救兵",
@@ -120,6 +125,61 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "一觉醒来，特朗普将全世界骂了个遍",
+          "url": "https://news.ifeng.com/c/8mtxel9ZTKz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普联大演讲滚梯卡住提词器坏了",
+          "url": "https://www.toutiao.com/trending/7553300755093684270/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "企图刺杀特朗普，枪手判了",
+          "url": "https://news.ifeng.com/c/8mtaa0DE3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普称乌克兰边界有望“恢复原状”",
+          "url": "https://news.ifeng.com/c/8mttGcyJYFO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "在联合国演讲台上，卢拉当面内涵特朗普",
+          "url": "https://news.ifeng.com/c/8mtSbLGXjVx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "文件显示：根汽车制造商呼吁美国总统特朗普政府放宽环保署的排放规定，理由是电动汽车销量正在放缓。",
@@ -172,7 +232,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -298,6 +358,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：我该拿诺贝尔和平奖",
+          "url": "https://www.toutiao.com/trending/7553209826621427236/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：特朗普的“解放日”关税令美元的避险地位受到质疑。",
           "url": "https://flash.jin10.com/detail/20250924021605863800",
           "source": "金十数据",
@@ -358,6 +429,17 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
+          "title": "态度剧变！特朗普称乌克兰边界有望“恢复原状”",
+          "url": "https://wallstreetcn.com/articles/3756144",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "汽车创新联合会希望美国特朗普政府弱化汽车尾气排放标准。 众多汽车制造商认为，由于市场需求具有挑战性、充电基础设施、经济承受能力等缘故，前总统拜登为2027-32年敲定的监管制度“即使无法实现”。",
           "url": "https://wallstreetcn.com/livenews/2978517",
           "source": "华尔街见闻-快讯",
@@ -370,6 +452,17 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
+          "title": "如何看待特朗普与古特雷斯的分歧",
+          "url": "https://www.toutiao.com/trending/7553343155702136886/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：官员们无法将注意力（重心）从通胀问题上转移到别处。 FOMC成员们不会（在货币政策问题上）接受（来自美国总统特朗普的）外部指令。",
           "url": "https://wallstreetcn.com/livenews/2978516",
           "source": "华尔街见闻-快讯",
@@ -380,6 +473,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普57分钟联大演讲说了啥",
+          "url": "https://www.toutiao.com/trending/7553424622813711935/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "释新闻｜史无前例！特朗普宣布首个“国内恐怖组织”意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31666170",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "锂矿股Lithium Americas盘后涨超94%，报道称特朗普政府考虑持股",
@@ -406,13 +521,46 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "特朗普联大演讲矛头对准欧洲",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%94%E5%A4%A7%E6%BC%94%E8%AE%B2%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E6%AC%A7%E6%B4%B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26band_rank%3D23%26pos%3D24%26filter_type%3Drealtimehot%26realpos%3D23%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%2581%2594%25E5%25A4%25A7%25E6%25BC%2594%25E8%25AE%25B2%25E7%259F%259B%25E5%25A4%25B4%25E5%25AF%25B9%25E5%2587%2586%25E6%25AC%25A7%25E6%25B4%25B2%2523%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1758678682%26pre_seqid%3D1758678682836916382515",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普到联合国电梯提词器都坏了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E8%81%94%E5%90%88%E5%9B%BD%E7%94%B5%E6%A2%AF%E6%8F%90%E8%AF%8D%E5%99%A8%E9%83%BD%E5%9D%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26band_rank%3D24%26pos%3D25%26filter_type%3Drealtimehot%26realpos%3D24%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2588%25B0%25E8%2581%2594%25E5%2590%2588%25E5%259B%25BD%25E7%2594%25B5%25E6%25A2%25AF%25E6%258F%2590%25E8%25AF%258D%25E5%2599%25A8%25E9%2583%25BD%25E5%259D%258F%25E4%25BA%2586%2523%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1758678682%26pre_seqid%3D1758678682836916382515",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "一觉醒来特朗普将全世界骂了个遍",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%82%E4%BA%86%E4%B8%AA%E9%81%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "特朗普联大演讲 自动扶梯、提词器均出现故障",
           "url": "https://flash.jin10.com/detail/20250924063502275800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -456,7 +604,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -489,7 +637,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -522,7 +670,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -544,7 +692,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -566,7 +714,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -794,7 +942,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI",
@@ -917,6 +1065,17 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "特朗普称乌克兰边界有望“恢复原状” OpenAI与甲骨文共建数据中心 | 环球市场",
+          "url": "https://www.cls.cn/detail/2153973",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "报道：OpenAI与甲骨文将在美国得州扩建数据中心",
           "url": "https://wallstreetcn.com/livenews/2978488",
           "source": "华尔街见闻-快讯",
@@ -954,7 +1113,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌",
@@ -995,6 +1154,29 @@
           "time_info": "[00时32分 ~ 06时24分]"
         },
         {
+          "title": "鲍威尔称美股估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高",
+          "url": "https://wallstreetcn.com/articles/3756102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "美股收盘：AI可持续性遭质疑 三大指数集体收跌 纳指跌约1%",
+          "url": "https://www.cls.cn/detail/2153966",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时53分]"
+        },
+        {
           "title": "据路透报道，美国寻求对Lithium Americas（锂美公司）持股至多10%。 Lithium Americas（LAC）美股盘后涨94.48%。",
           "url": "https://wallstreetcn.com/livenews/2978529",
           "source": "华尔街见闻-快讯",
@@ -1017,17 +1199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：AI可持续性遭质疑 三大指数集体收跌 纳指跌约1%",
-          "url": "https://www.cls.cn/detail/2153966",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "上期所原油期货2511合约夜盘收涨1.47%，报482.30元人民币/桶。 沪金夜盘收涨1.02%，报859.88元人民币/克，夜盘之初、美股开盘之前曾涨至862.04元创历史新高；沪银收涨0.80%。",
@@ -1113,7 +1284,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗总统抵达纽约。",
@@ -1126,6 +1297,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "哈梅内伊：与美国谈判无益于伊朗国家利益",
+          "url": "https://news.ifeng.com/c/8mu0x8ZPsp2",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "伊朗最高领袖：与美国谈判没有任何好处",
@@ -1215,7 +1397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1358,11 +1540,12 @@
           "url": "https://wallstreetcn.com/articles/3756070",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时53分]"
         },
         {
           "title": "国际金价涨约0.5%，在欧元区PMI数据发布后创历史新高，逼近3800美元，鲍曼和鲍威尔讲话后大体上守住涨势",
