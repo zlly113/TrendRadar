@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-26T05:22:28.780970+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-09-26T06:21:19.533650+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 74,
       "titles": [
         {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "特朗普要求联合国调查“险恶”破坏事件，联合国：白宫自己干的",
@@ -52,8 +52,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
+          "url": "https://www.zhihu.com/question/1954116674757309098",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：司法部将就科米报告作出决定。",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
-          "url": "https://www.zhihu.com/question/1954116674757309098",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "美国总统特朗普：将发放农民援助金，直到关税生效并惠及他们。",
@@ -100,28 +100,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普签署命令，指示司法部长在华盛顿特区依照法律全面落实死刑。",
-          "url": "https://flash.jin10.com/detail/20250926050229095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：民主党可能会导致政府关门。",
-          "url": "https://wallstreetcn.com/livenews/2979995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "美国总统特朗普：我们今天将有重大消息宣布。",
           "url": "https://flash.jin10.com/detail/20250926000139892800",
           "source": "金十数据",
@@ -131,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：市场今天下跌，不要有负罪感。 我们想要低利率。 想来我们能够推动股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/2979994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "美国总统特朗普：今天（与以色列总理内塔尼亚胡）很好地讨论了加沙问题。",
@@ -169,6 +136,114 @@
           "time_info": "[00时32分 ~ 02时37分]"
         },
         {
+          "title": "美国总统特朗普签署命令，指示司法部长在华盛顿特区依照法律全面落实死刑。",
+          "url": "https://flash.jin10.com/detail/20250926050229095800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：民主党可能会导致政府关门。",
+          "url": "https://wallstreetcn.com/livenews/2979995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：市场今天下跌，不要有负罪感。 我们想要低利率。 想来我们能够推动股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/2979994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：会见了索马里领导人。",
+          "url": "https://flash.jin10.com/detail/20250926045428520800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：巴基斯坦总理和陆军元帅即将到访。",
+          "url": "https://flash.jin10.com/detail/20250926045324824800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：已与内塔尼亚胡就此事进行过沟通，不会发生这种事。现在是时候停止了。",
+          "url": "https://flash.jin10.com/detail/20250926045217646800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：将拨出少量关税收入给农民。",
+          "url": "https://wallstreetcn.com/livenews/2979991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：不会允许以色列吞并约旦河西岸。",
+          "url": "https://flash.jin10.com/detail/20250926045155206800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯正在失去一些领土。",
+          "url": "https://flash.jin10.com/detail/20250926045106206800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
           "title": "亿万富翁格里芬抨击特朗普的企业交易，称当政府开始挑选赢家时，“我们都输了”",
           "url": "https://wallstreetcn.com/livenews/2979926",
           "source": "华尔街见闻-快讯",
@@ -181,6 +256,18 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
+          "title": "美国总统特朗普：乌克兰有机会夺回领土。对俄罗斯总统普京所作所为感到不满，俄罗斯表现不佳。",
+          "url": "https://flash.jin10.com/detail/20250926045044935800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
           "title": "在美上市土耳其ETF涨0.09%，刷新日高至35.33美元。 WTI原油期货跌0.12%，暂报64.31美元。 美国总统特朗普声称，将与土耳其讨论贸易问题，两国将达成重大贸易协议。 土耳其总统埃尔多安是一个硬汉。 希望土耳其停止购买俄罗斯石油。 可能会撤销美国针对土耳其的制裁。",
           "url": "https://wallstreetcn.com/livenews/2979891",
           "source": "华尔街见闻-快讯",
@@ -191,6 +278,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "美国总统特朗普：正在就巴格拉姆空军基地问题与阿富汗方面进行对话。",
+          "url": "https://flash.jin10.com/detail/20250926045023727800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：让赫格塞思（美国国防部长）与世界各地的将军友好相处吧，如果他们愿意，我会参加下周的会议。",
+          "url": "https://flash.jin10.com/detail/20250926044941995800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
         },
         {
           "title": "美联储理事Lisa Cook警告最高法院：如果被美国总统特朗普解雇，市场可能会陷入混乱。",
@@ -217,39 +328,6 @@
           "time_info": "[03时20分 ~ 04时29分]"
         },
         {
-          "title": "美国总统特朗普：会见了索马里领导人。",
-          "url": "https://flash.jin10.com/detail/20250926045428520800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：巴基斯坦总理和陆军元帅即将到访。",
-          "url": "https://flash.jin10.com/detail/20250926045324824800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：已与内塔尼亚胡就此事进行过沟通，不会发生这种事。现在是时候停止了。",
-          "url": "https://flash.jin10.com/detail/20250926045217646800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "俄官员回应特朗普涉普京言论：可能是在迎合需要交谈的领导人们",
           "url": "https://wallstreetcn.com/livenews/2979946",
           "source": "华尔街见闻-快讯",
@@ -259,17 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：将拨出少量关税收入给农民。",
-          "url": "https://wallstreetcn.com/livenews/2979991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "俄官员回应特朗普涉普京言论：可能是在迎合需要交谈的领导人们",
@@ -283,28 +350,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美国总统特朗普：不会允许以色列吞并约旦河西岸。",
-          "url": "https://flash.jin10.com/detail/20250926045155206800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯正在失去一些领土。",
-          "url": "https://flash.jin10.com/detail/20250926045106206800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "特朗普计划用关税收入补贴受贸易政策冲击的美国农民",
           "url": "https://flash.jin10.com/detail/20250926005323452800",
           "source": "金十数据",
@@ -314,28 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰有机会夺回领土。对俄罗斯总统普京所作所为感到不满，俄罗斯表现不佳。",
-          "url": "https://flash.jin10.com/detail/20250926045044935800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国总统特朗普：正在就巴格拉姆空军基地问题与阿富汗方面进行对话。",
-          "url": "https://flash.jin10.com/detail/20250926045023727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "特朗普政府顾问：美国卫生部长RFK Jr.考虑扩大疫苗接种计划。 RFK Jr.可能会让自闭症（Autism）适用于（政府）补偿政策。",
@@ -349,15 +372,26 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美国总统特朗普：让赫格塞思（美国国防部长）与世界各地的将军友好相处吧，如果他们愿意，我会参加下周的会议。",
-          "url": "https://flash.jin10.com/detail/20250926044941995800",
+          "title": "特朗普敦促埃尔多安停购俄油 暗示取消土耳其采购F-35禁令",
+          "url": "https://flash.jin10.com/detail/20250926052355940800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：不会允许以色列吞并约旦河西岸",
+          "url": "https://wallstreetcn.com/livenews/2980005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：是时候让俄罗斯停止了。",
@@ -369,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普批准华盛顿特区恢复死刑",
+          "url": "https://flash.jin10.com/detail/20250926052303326800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：对普京非常失望，他们损失了大约100万士兵，俄罗斯过去两周几乎没有获得任何土地。",
@@ -388,9 +433,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普批准华盛顿特区恢复死刑",
+          "url": "https://wallstreetcn.com/livenews/2980002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：土耳其总统埃尔多安可能对俄罗斯在乌克兰的军事行动拥有重大影响力。",
@@ -410,9 +466,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美防长集结美军全球高级将领下周开会 特朗普回应",
+          "url": "https://flash.jin10.com/detail/20250926051410808800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：（谈及加沙）必须与以色列会面。",
@@ -432,9 +499,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美国总统特朗普签署打击国内恐怖主义的备忘录。",
+          "url": "https://flash.jin10.com/detail/20250926050631192800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：匈牙利是内陆国家，除了俄罗斯，他们无法从其他国家购买石油。",
@@ -443,9 +521,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普：相信土耳其将停止购买俄罗斯石油",
+          "url": "https://wallstreetcn.com/livenews/2979999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普称赞北约在军费开支和国防采购方面的表现。",
@@ -465,7 +554,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -542,7 +631,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -575,7 +664,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -597,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -630,9 +719,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普有关乌克兰最新表态有何意图",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%85%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：我们即将讨论关税。我们还可能会解除对土耳其的制裁。",
@@ -652,7 +752,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -696,7 +796,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -740,7 +840,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         }
@@ -748,7 +848,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
@@ -759,8 +859,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
@@ -771,8 +871,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "美股面临“三连阴”压力 经济数据拖累金铜走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2156390",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
+        },
+        {
+          "title": "美股三大指数集体低开 甲骨文跌近4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%94%B2%E9%AA%A8%E6%96%87%E8%B7%8C%E8%BF%914%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股收盘）",
@@ -784,28 +906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "美股面临“三连阴”压力 经济数据拖累金铜走弱 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2156390",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "美股三大指数集体低开 甲骨文跌近4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%94%B2%E9%AA%A8%E6%96%87%E8%B7%8C%E8%BF%914%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
         },
         {
           "title": "金十图示：2025年09月25日（周四）热门中概股行情一览（美股收盘）",
@@ -882,11 +982,23 @@
           "url": "https://wallstreetcn.com/livenews/2979989",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "航空业ETF收跌2.2%，和生物科技ETF、医疗业ETF、可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2980016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时21分"
         },
         {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
@@ -903,8 +1015,32 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet（GOOGL）盘后涨1.35%。",
+          "url": "https://wallstreetcn.com/livenews/2979993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platform洽谈在广告定位方面使用谷歌公司的大模型Gemini。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2979990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
         {
           "title": "据路透报道，谷歌公司可能会面临欧盟第二轮反垄断罚款。 预计这将在未来数月内发生。",
           "url": "https://wallstreetcn.com/livenews/2979883",
@@ -918,26 +1054,15 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
-          "title": "谷歌母公司Alphabet（GOOGL）盘后涨1.35%。",
-          "url": "https://wallstreetcn.com/livenews/2979993",
+          "title": "谷歌公司关联的加密数字货币矿商TeraWulf Inc.计划为其（多个）数据中心实施30亿美元债务融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2980006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platform洽谈在广告定位方面使用谷歌公司的大模型Gemini。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/2979990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时21分"
         },
         {
           "title": "谷歌请求最高法院暂停应用商店改革令 称将损害安卓生态系统",
@@ -957,7 +1082,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         }
@@ -978,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
@@ -1066,11 +1191,12 @@
           "url": "https://wallstreetcn.com/livenews/2979996",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
         }
       ]
     },
