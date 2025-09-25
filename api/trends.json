@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-26T03:20:52.103140+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-09-26T04:29:47.579698+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：司法部将就科米报告作出决定。",
@@ -54,6 +54,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：今天（与以色列总理内塔尼亚胡）很好地讨论了加沙问题。",
+          "url": "https://wallstreetcn.com/livenews/2979986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国总统特朗普：将发放农民援助金，直到关税生效并惠及他们。",
           "url": "https://flash.jin10.com/detail/20250926000345611800",
           "source": "金十数据",
@@ -63,6 +74,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普要求联合国调查“险恶”破坏事件，联合国：白宫自己干的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31680627",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：将把关税收入用于帮助美国农民。",
@@ -87,17 +111,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普要求联合国调查“险恶”破坏事件，联合国：白宫自己干的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31680627",
-          "source": "澎湃新闻",
+          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
+          "url": "https://www.zhihu.com/question/1954116674757309098",
+          "source": "知乎",
           "ranks": [
-            6,
-            7,
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：我们今天应当有一个重大声明。 将向农民提供一些资金。",
@@ -111,17 +133,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时37分]"
-        },
-        {
-          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
-          "url": "https://www.zhihu.com/question/1954116674757309098",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "亿万富翁格里芬抨击特朗普的企业交易，称当政府开始挑选赢家时，“我们都输了”",
@@ -148,13 +159,25 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
+          "title": "特朗普联大抱怨背后的真相",
+          "url": "https://www.toutiao.com/trending/7553975385956814375/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
           "title": "俄官员回应特朗普涉普京言论：可能是在迎合需要交谈的领导人们",
           "url": "https://wallstreetcn.com/livenews/2979946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -165,7 +188,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -187,9 +210,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美联储理事Lisa Cook警告最高法院：如果被美国总统特朗普解雇，市场可能会陷入混乱。",
+          "url": "https://wallstreetcn.com/livenews/2979970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：是时候让俄罗斯停止了。",
@@ -258,6 +292,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "律师们告知特朗普的最高法院：如果美国总统特朗普罢免美联储理事Lisa Cook，将造成美联储独立性“形同虚设”。",
+          "url": "https://wallstreetcn.com/livenews/2979964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "城堡投资创始人格里芬：（谈及特朗普呼吁结束季度财报发表）季度报告是公平的。",
           "url": "https://flash.jin10.com/detail/20250925235339581800",
           "source": "金十数据",
@@ -267,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "亿万富豪格里芬抨击特朗普大搞企业裙带关系",
+          "url": "https://flash.jin10.com/detail/20250926031914644800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：如果我们会面顺利，几乎可以立即解除对土耳其的制裁。",
@@ -280,6 +336,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美联储理事库克就特朗普总统解雇她的企图向美国最高法院提交回应。",
+          "url": "https://flash.jin10.com/detail/20250926031720279800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国总统特朗普：（谈及加沙）希望带回人质。",
           "url": "https://flash.jin10.com/detail/20250925235231689800",
           "source": "金十数据",
@@ -289,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "沙特外交大臣：阿拉伯和穆斯林国家已向美国总统特朗普明确指出以色列吞并约旦河西岸的风险与危险。",
+          "url": "https://flash.jin10.com/detail/20250926031643961800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：我认为我们即将达成协议。",
@@ -302,6 +380,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "泽连斯基向特朗普提要求 要新型武器",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%A6%81%E6%B1%82+%E8%A6%81%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国总统特朗普：与地区领导人举行了重要会晤。",
           "url": "https://flash.jin10.com/detail/20250925235211345800",
           "source": "金十数据",
@@ -313,17 +402,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普联大抱怨背后的真相",
-          "url": "https://www.toutiao.com/trending/7553975385956814375/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "美国总统特朗普：我们即将讨论关税。我们还可能会解除对土耳其的制裁。",
           "url": "https://flash.jin10.com/detail/20250925235147010800",
           "source": "金十数据",
@@ -333,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国联邦法官Ana C. Reyes警告称：如果特朗普政府的国际贸易委员会（ITC）无所作为，苹果公司的Apple Watch进口将面临风险。 （Reyes本人）“讨厌”阻挠美国进口Apple Watch，但若ITC处理好与苹果和Masimo Corp.之间的（专利纠纷）僵局，（她）可能会考虑（支持阻止进口Apple Watch）。",
+          "url": "https://wallstreetcn.com/livenews/2979956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：关于F-16战机的问题，我们的状况非常好。",
@@ -393,29 +482,97 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
           "url": "https://wallstreetcn.com/articles/3756174",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
           "url": "https://wallstreetcn.com/articles/3756264",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250926040650755800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2025年09月25日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250926040648186800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌将近4.4%，苹果涨1.8%",
+          "url": "https://wallstreetcn.com/livenews/2979985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 英特尔涨近9%",
+          "url": "https://flash.jin10.com/detail/20250926040053456800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股面临“三连阴”压力 经济数据拖累金铜走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2156390",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "美股三大指数集体低开 甲骨文跌近4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%94%B2%E9%AA%A8%E6%96%87%E8%B7%8C%E8%BF%914%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美股三大股指持续回落，纳指、标普500指数均跌超1%，道指跌0.7%。",
@@ -454,28 +611,6 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
-          "title": "美股面临“三连阴”压力 经济数据拖累金铜走弱 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2156390",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "美股三大指数集体低开 甲骨文跌近4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%94%B2%E9%AA%A8%E6%96%87%E8%B7%8C%E8%BF%914%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20250926003239865800",
           "source": "金十数据",
@@ -498,11 +633,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
@@ -582,7 +718,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据路透报道，谷歌公司可能会面临欧盟第二轮反垄断罚款。 预计这将在未来数月内发生。",
@@ -595,6 +731,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "谷歌请求最高法院暂停应用商店改革令 称将损害安卓生态系统",
+          "url": "https://flash.jin10.com/detail/20250926031025753800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（9月25日）纽约尾盘，美国10年期国债收益率涨2.13个基点，报4.1678%。 两年期美债收益率涨5.73个基点，报3.6573%，北京时间20:30发布美国GDP和耐用品订单数据前一分钟下挫，数据法布时拉升。 2/10年期美债收益率利差跌3.194个基点，报+50.847个基点。",
+          "url": "https://wallstreetcn.com/livenews/2979965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨超0.6%，美国GDP等数据出炉后显著上涨",
+          "url": "https://wallstreetcn.com/livenews/2979963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     }
