@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-26T06:21:19.533650+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-09-26T07:23:55.231418+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
         {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
@@ -36,11 +36,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普要求联合国调查“险恶”破坏事件，联合国：白宫自己干的",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
@@ -63,8 +64,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：司法部将就科米报告作出决定。",
@@ -78,6 +79,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：将从2025年10月1日起，对所有厨房橱柜、浴室梳妆台及相关产品征收50%的关税。将对软垫家具征收30%关税。",
+          "url": "https://wallstreetcn.com/livenews/2980043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国总统特朗普：将发放农民援助金，直到关税生效并惠及他们。",
           "url": "https://flash.jin10.com/detail/20250926000345611800",
           "source": "金十数据",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：将从2025年10月1日起对所有在世界其他地区生产的“重型（大型）卡车”征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20250926065223387800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：将把关税收入用于帮助美国农民。",
@@ -328,6 +351,29 @@
           "time_info": "[03时20分 ~ 04时29分]"
         },
         {
+          "title": "特朗普有关乌克兰最新表态有何意图",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%85%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：对所有重型大卡车加征25%的关税",
+          "url": "https://wallstreetcn.com/livenews/2980036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "俄官员回应特朗普涉普京言论：可能是在迎合需要交谈的领导人们",
           "url": "https://wallstreetcn.com/livenews/2979946",
           "source": "华尔街见闻-快讯",
@@ -378,7 +424,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -389,7 +435,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -411,7 +457,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -444,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -477,7 +523,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -510,7 +556,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -532,9 +578,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "又是要给特朗普让路，土耳其总统也在纽约街头被警察拦下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31680778",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普称赞北约在军费开支和国防采购方面的表现。",
@@ -724,17 +781,6 @@
           "time_info": "05时22分"
         },
         {
-          "title": "特朗普有关乌克兰最新表态有何意图",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%85%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "美国总统特朗普：我们即将讨论关税。我们还可能会解除对土耳其的制裁。",
           "url": "https://flash.jin10.com/detail/20250925235147010800",
           "source": "金十数据",
@@ -848,7 +894,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
@@ -859,8 +905,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
@@ -879,11 +925,12 @@
           "url": "https://www.cls.cn/detail/2156390",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美股三大指数集体低开 甲骨文跌近4%",
@@ -928,6 +975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美强劲数据打压降息预期，美股三连跌，中概股指数再度逆市收涨，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3756264",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美股三大股指持续回落，纳指、标普500指数均跌超1%，道指跌0.7%。",
@@ -978,6 +1036,18 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
+          "title": "航空业ETF收跌2.2%，和生物科技ETF、医疗业ETF、可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2980016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
           "title": "甲骨文美股盘后涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/2979989",
           "source": "华尔街见闻-快讯",
@@ -990,15 +1060,26 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
-          "title": "航空业ETF收跌2.2%，和生物科技ETF、医疗业ETF、可选消费ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2980016",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数连跌三日 科技股承压 甲骨文跌超5%",
+          "url": "https://www.cls.cn/detail/2156611",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时23分"
+        },
+        {
+          "title": "【早报】美股三连跌，多只热门中概股逆势上涨；商务部连续出手，事关多家美企",
+          "url": "https://www.cls.cn/detail/2156627",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
@@ -1060,7 +1141,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -1089,6 +1170,69 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI正在推出一项新的ChatGPT功能，每天根据用户之前与聊天机器人的对话，向他们发送一组个性化的新闻、研究和其他更新内容，这是其旗舰产品更加主动的一次早期尝试。",
+          "url": "https://wallstreetcn.com/livenews/2979922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时20分]"
+        },
+        {
+          "title": "OpenAI：GPT-5在众多职业领域表现比肩人类",
+          "url": "https://wallstreetcn.com/livenews/2979919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时20分]"
+        },
+        {
+          "title": "OpenAI CEO：“超级智能”可能在本十年末出现",
+          "url": "https://flash.jin10.com/detail/20250926064357018800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI CEO：“超级智能”可能在本十年末出现",
+          "url": "https://wallstreetcn.com/livenews/2980034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "英国人工智能（AI）数据中心开发商Nscale融资11亿美元，距离其与英伟达和OpenAI达成英国市场的合作伙伴关系才过去一周时间。",
+          "url": "https://wallstreetcn.com/livenews/2979872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -1103,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
@@ -1138,47 +1282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI正在推出一项新的ChatGPT功能，每天根据用户之前与聊天机器人的对话，向他们发送一组个性化的新闻、研究和其他更新内容，这是其旗舰产品更加主动的一次早期尝试。",
-          "url": "https://wallstreetcn.com/livenews/2979922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
-        },
-        {
-          "title": "OpenAI：GPT-5在众多职业领域表现比肩人类",
-          "url": "https://wallstreetcn.com/livenews/2979919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
-        },
-        {
-          "title": "英国人工智能（AI）数据中心开发商Nscale融资11亿美元，距离其与英伟达和OpenAI达成英国市场的合作伙伴关系才过去一周时间。",
-          "url": "https://wallstreetcn.com/livenews/2979872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
         }
       ]
     },
