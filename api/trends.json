@@ -1,12 +1,46 @@
 {
-  "generated_at": "2025-09-26T00:32:35.151166+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-09-26T01:23:49.864135+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
+          "url": "https://v.ifeng.com/c/8mw4dJ2WGMV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31625598",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
+          "url": "https://news.ifeng.com/c/8mwFNONAEL7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
         {
           "title": "美国总统特朗普：司法部将就科米报告作出决定。",
           "url": "https://flash.jin10.com/detail/20250926000535834800",
@@ -19,44 +53,11 @@
           "time_info": "00时32分"
         },
         {
-          "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
-          "url": "https://v.ifeng.com/c/8mw4dJ2WGMV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31625598",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "美国总统特朗普：将发放农民援助金，直到关税生效并惠及他们。",
           "url": "https://flash.jin10.com/detail/20250926000345611800",
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
-          "url": "https://news.ifeng.com/c/8mwFNONAEL7",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,33 +90,58 @@
           "url": "https://wallstreetcn.com/livenews/2979900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         },
         {
           "title": "特朗普要求联合国调查“险恶”破坏事件，联合国：白宫自己干的",
           "url": "https://m.thepaper.cn/newsDetail_forward_31680627",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         },
         {
           "title": "在美上市土耳其ETF涨0.09%，刷新日高至35.33美元。 WTI原油期货跌0.12%，暂报64.31美元。 美国总统特朗普声称，将与土耳其讨论贸易问题，两国将达成重大贸易协议。 土耳其总统埃尔多安是一个硬汉。 希望土耳其停止购买俄罗斯石油。 可能会撤销美国针对土耳其的制裁。",
           "url": "https://wallstreetcn.com/livenews/2979891",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
+          "url": "https://www.zhihu.com/question/1954116674757309098",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普计划用关税收入补贴受贸易政策冲击的美国农民",
+          "url": "https://flash.jin10.com/detail/20250926005323452800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时23分"
         },
         {
           "title": "美国总统特朗普：是时候让俄罗斯停止了。",
@@ -132,17 +158,6 @@
           "title": "美国总统特朗普：对普京非常失望，他们损失了大约100万士兵，俄罗斯过去两周几乎没有获得任何土地。",
           "url": "https://flash.jin10.com/detail/20250925235837737800",
           "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普在联合国大会上的演讲引发了广泛争议，你对该演讲有哪些评价？",
-          "url": "https://www.zhihu.com/question/1954116674757309098",
-          "source": "知乎",
           "ranks": [
             15
           ],
@@ -308,7 +323,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
@@ -318,8 +333,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "Oklo维持超过10%的跌幅，美股盘初一度跌16%、创4月份以来最差盘中表现。 该公司在美国伊利诺伊州阿贡国家实验室（一所多学科研究机构）展开全面的（核）燃料组件装配流程测试。 该公司高管Michael Klein（来自Churchill Capital Corp.）套现670万美元。 高盛给予该公司中性的初始评级，称鉴于现阶段风险，估值是全面的；目标价117美元。",
+          "url": "https://wallstreetcn.com/livenews/2979914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时23分"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
@@ -329,8 +355,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         },
         {
           "title": "美股面临“三连阴”压力 经济数据拖累金铜走弱 | 今夜看点",
@@ -340,8 +366,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         },
         {
           "title": "美股三大指数集体低开 甲骨文跌近4%",
@@ -351,25 +377,48 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250926003239865800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗此时宣布将获得红旗9有何意味",
           "url": "https://www.toutiao.com/trending/7553971783028706879/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
+          "url": "https://flash.jin10.com/detail/20250926003736952800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时23分"
         },
         {
           "title": "国际原子能机构总干事：需尽一切可能让伊朗继续合作",
@@ -381,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗副总统：伊方没有放弃核计划的打算",
+          "url": "https://flash.jin10.com/detail/20250926003143416800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     },
@@ -393,11 +453,12 @@
           "url": "https://wallstreetcn.com/livenews/2979883",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         }
       ]
     },
