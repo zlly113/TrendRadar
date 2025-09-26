@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-27T05:22:49.980595+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2025-09-27T06:24:00.983031+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "特朗普宣布新关税最高达100%，谁最受伤？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "特朗普再挥关税大棒：对专利及品牌药品加征100%、家具30%、重卡25%",
           "url": "https://wallstreetcn.com/articles/3756308",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "特朗普新关税引发广泛困惑 英特尔延续强劲涨势 | 今夜看点",
@@ -62,8 +63,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
+        },
+        {
+          "title": "以美国安全为由，特朗普敦促微软解雇Lisa Monaco",
+          "url": "https://wallstreetcn.com/livenews/2980713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "特朗普对政府关门风险不以为然：要是不得不关，那就关吧",
@@ -89,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
+        },
+        {
+          "title": "知情人士：特朗普政府拟按芯片数量对外国电子设备征税",
+          "url": "https://flash.jin10.com/detail/20250927035645663800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "美国官员称，欧盟药品关税仍为15%，而非特朗普所说的100%",
@@ -127,18 +151,6 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
-          "title": "知情人士：特朗普政府拟按芯片数量对外国电子设备征税",
-          "url": "https://flash.jin10.com/detail/20250927035645663800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
           "title": "知情官员称特朗普考虑对乌提供远程武器 但未承诺解禁",
           "url": "https://wallstreetcn.com/livenews/2980671",
           "source": "华尔街见闻-快讯",
@@ -160,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "鉴于安全因素，特朗普：美国或更换世界杯举办地",
+          "url": "https://wallstreetcn.com/livenews/2980705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普再次警告（孕妇）不要使用泰诺（Tylenol）。",
@@ -190,17 +213,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "伊朗外长阿拉格齐：任何恢复已终止制裁的企图都必须被拒绝，任何资源都不应支持这一非法机制。",
-          "url": "https://flash.jin10.com/detail/20250927041836327800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "以总理：不会允许伊朗恢复核能力",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%85%81%E8%AE%B8%E4%BC%8A%E6%9C%97%E6%81%A2%E5%A4%8D%E6%A0%B8%E8%83%BD%E5%8A%9B",
           "source": "百度热搜",
@@ -208,11 +220,23 @@
             30,
             25,
             26,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：任何恢复已终止制裁的企图都必须被拒绝，任何资源都不应支持这一非法机制。",
+          "url": "https://flash.jin10.com/detail/20250927041836327800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时24分]"
         },
         {
           "title": "法国联合国特使：欧洲大国已加倍努力，以与伊朗达成解决方案。",
@@ -224,8 +248,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 06时24分]"
         },
         {
           "title": "俄罗斯副联合国特使：重新对伊朗实施联合国制裁可能带来非常不利的后果，导致中东局势升级。",
@@ -237,8 +261,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 06时24分]"
         },
         {
           "title": "俄罗斯副联合国特使：伊朗已尽一切努力迎合欧洲和美国，但西方大国却毫无妥协之意。",
@@ -250,8 +274,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 06时24分]"
         },
         {
           "title": "英国驻联合国特使：对伊朗联合国的制裁将于本周末重新实施。",
@@ -262,20 +286,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "联合国安理会表决未通过延长伊朗制裁豁免决议草案",
-          "url": "https://wallstreetcn.com/livenews/2980669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "联合国安理会表决未通过延长伊朗制裁豁免决议草案",
@@ -286,8 +298,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "法国联合国特使：恢复联合国制裁并不意味着与伊朗的外交将告一段落。",
@@ -298,8 +310,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "法国联合国特使：伊朗未采取任何具体行动，而是倾向于推迟一切事宜。",
@@ -308,6 +320,18 @@
           "ranks": [
             24,
             25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
+        },
+        {
+          "title": "联合国安理会表决未通过延长伊朗制裁豁免决议草案",
+          "url": "https://wallstreetcn.com/livenews/2980669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -328,30 +352,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
           "url": "https://wallstreetcn.com/articles/3756301",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "通胀企稳符合预期，美股反弹，白银再创2011年来新高，全周原油大涨美元走强",
           "url": "https://wallstreetcn.com/articles/3756334",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2025年09月26日（周五）美股热门股票行情一览（美股收盘）",
@@ -362,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2025年09月26日（周五）热门中概股行情一览（美股收盘）",
@@ -374,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "据媒体报道，英国将为医药出口支付更多资金，希望能取悦美国总统特朗普。 葛兰素史克ADR美股盘后暂无波动。",
@@ -383,11 +409,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
+        },
+        {
+          "title": "美股三大股指集体收涨",
+          "url": "https://flash.jin10.com/detail/20250927040022459800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
+        },
+        {
+          "title": "美股三大指数集体高开 英特尔涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 06时24分]"
         },
         {
           "title": "通胀数据符合预期，美股反弹，白银再创2011年来新高，全周美元原油大涨",
@@ -399,29 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "美股三大股指集体收涨",
-          "url": "https://flash.jin10.com/detail/20250927040022459800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "美股三大指数集体高开 英特尔涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
         }
       ]
     },
@@ -438,8 +466,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "周五（9月26日）纽约尾盘，ICE美元指数跌0.39%，报98.169点，美国PCE通胀数据发布后持续走低，本周累计上涨0.54%，整体交投区间为97.199-98.605点。 彭博美元指数跌0.27%，报1205.30点，本周累涨0.56%，整体交投区间为1195.21-1209.69点。",
@@ -487,18 +515,30 @@
           "url": "https://wallstreetcn.com/livenews/2980693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时24分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "关于投资OpenAI、AI泡沫、ASIC的竞争...黄仁勋回答了这一切",
+          "url": "https://wallstreetcn.com/articles/3756345",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时24分]"
+        },
         {
           "title": "苹果开发类ChatGPT工具 押注明年3月破局",
           "url": "https://flash.jin10.com/detail/20250927014343276800",
@@ -510,6 +550,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价本周涨超2%，纽约期银累涨约7.9%逼近47美元，铂金累涨超12%",
+          "url": "https://wallstreetcn.com/livenews/2980700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     }
