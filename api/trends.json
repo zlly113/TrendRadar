@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-09-26T20:53:31.482755+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2025-09-26T21:33:32.472949+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 123,
+      "match_count": 125,
       "titles": [
+        {
+          "title": "特朗普宣布新关税最高达100%，谁最受伤？",
+          "url": "https://news.ifeng.com/c/8mxhUG5LH6F",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时25分 ~ 21时33分]"
+        },
         {
           "title": "最高100%！特朗普再挥关税大棒 涉重型卡车、家具、药品",
           "url": "https://www.cls.cn/detail/2156701",
@@ -22,6 +34,19 @@
           "time_info": "[09时51分 ~ 16时35分]"
         },
         {
+          "title": "特朗普宣布将对专利及品牌药品加征100%关税，对国内药企影响几何？",
+          "url": "https://www.cls.cn/detail/2157100",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 21时33分]"
+        },
+        {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
           "url": "https://v.ifeng.com/c/8mw4dJ2WGMV",
           "source": "凤凰网",
@@ -34,42 +59,6 @@
           "time_info": "[00时32分 ~ 09时52分]"
         },
         {
-          "title": "特朗普宣布将对专利及品牌药品加征100%关税，对国内药企影响几何？",
-          "url": "https://www.cls.cn/detail/2157100",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普宣布新关税最高达100%，谁最受伤？",
-          "url": "https://news.ifeng.com/c/8mxhUG5LH6F",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
-          "url": "https://news.ifeng.com/c/8mwFNONAEL7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
           "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
           "url": "https://m.thepaper.cn/newsDetail_forward_31683344",
           "source": "澎湃新闻",
@@ -79,21 +68,19 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时29分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时29分 ~ 21时33分]"
         },
         {
-          "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31625598",
-          "source": "澎湃新闻",
+          "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
+          "url": "https://news.ifeng.com/c/8mwFNONAEL7",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            4,
-            7,
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -111,8 +98,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 20时53分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 21时33分]"
+        },
+        {
+          "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31625598",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
@@ -123,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 21时33分]"
         },
         {
           "title": "特朗普批准华盛顿特区恢复死刑",
@@ -291,6 +292,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：感谢特朗普对伊朗采取大胆、果断的行动。",
+          "url": "https://flash.jin10.com/detail/20250926211257872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "特朗普宣布对进口重卡加征25%关税",
           "url": "https://www.toutiao.com/trending/7553623222403678259/",
           "source": "今日头条",
@@ -423,6 +435,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 11时05分]"
+        },
+        {
+          "title": "特朗普再次加征关税意欲何为",
+          "url": "https://www.toutiao.com/trending/7554291247523827242/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时33分]"
         },
         {
           "title": "又是要给特朗普让路，土耳其总统也在纽约街头被警察拦下",
@@ -592,6 +616,17 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "特朗普新关税引发广泛困惑 英特尔延续强劲涨势 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2157708",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
           "title": "美国总统特朗普：让赫格塞思（美国国防部长）与世界各地的将军友好相处吧，如果他们愿意，我会参加下周的会议。",
           "url": "https://flash.jin10.com/detail/20250926044941995800",
           "source": "金十数据",
@@ -727,17 +762,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普再次加征关税意欲何为",
-          "url": "https://www.toutiao.com/trending/7554291247523827242/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "俄官员回应特朗普涉普京言论：可能是在迎合需要交谈的领导人们",
@@ -1425,7 +1449,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "经济数据打压降息预期，美股三连跌，中概股逆市收涨，白银涨破45美元，加密货币重挫",
@@ -1435,8 +1459,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 21时33分]"
         },
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
@@ -1487,8 +1511,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时04分 ~ 20时53分]"
+          "appearance_count": 15,
+          "time_info": "[11时04分 ~ 21时33分]"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
@@ -1568,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2980522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美股三大股指持续回落，纳指、标普500指数均跌超1%，道指跌0.7%。",
@@ -1666,6 +1701,17 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-09-26）",
+          "url": "https://flash.jin10.com/detail/20250926210853102800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "小鹏汽车(XPEV.N)美股盘前涨幅扩大至5%。",
           "url": "https://flash.jin10.com/detail/20250926174612350800",
           "source": "金十数据",
@@ -1683,7 +1729,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1710,11 +1756,142 @@
           "time_info": "17时27分"
         },
         {
+          "title": "波音美股盘前涨超3%，报道称美国联邦航空局将放宽对波音飞机交付的限制",
+          "url": "https://wallstreetcn.com/livenews/2980502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20250926003239865800",
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "伊朗此时宣布将获得红旗9有何意味",
+          "url": "https://www.toutiao.com/trending/7553971783028706879/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：必须保持清醒头脑，保持警惕，绝不允许伊朗重建核能力。",
+          "url": "https://flash.jin10.com/detail/20250926211420857800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列消除了伊朗对以色列的生存威胁。",
+          "url": "https://flash.jin10.com/detail/20250926211342544800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：伊朗和俄罗斯签署了价值250亿美元的协议，在伊朗建造四座核电站。",
+          "url": "https://wallstreetcn.com/livenews/2980391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
+          "title": "伊朗称已获得大量以色列情报信息",
+          "url": "https://www.toutiao.com/trending/7553415651537190948/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
+        },
+        {
+          "title": "美媒：俄罗斯向伊朗交付米格-29战机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%91%E4%BC%8A%E6%9C%97%E4%BA%A4%E4%BB%98%E7%B1%B3%E6%A0%BC-29%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列已摧毁了伊朗的核武器和弹道导弹计划。",
+          "url": "https://flash.jin10.com/detail/20250926211104520800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
+          "url": "https://flash.jin10.com/detail/20250926003736952800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "国际原子能机构总干事：需尽一切可能让伊朗继续合作",
+          "url": "https://wallstreetcn.com/livenews/2979876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗副总统：伊方没有放弃核计划的打算",
+          "url": "https://flash.jin10.com/detail/20250926003143416800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1885,82 +2062,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗此时宣布将获得红旗9有何意味",
-          "url": "https://www.toutiao.com/trending/7553971783028706879/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社：伊朗和俄罗斯签署了价值250亿美元的协议，在伊朗建造四座核电站。",
-          "url": "https://wallstreetcn.com/livenews/2980391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗称已获得大量以色列情报信息",
-          "url": "https://www.toutiao.com/trending/7553415651537190948/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
-        },
-        {
-          "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
-          "url": "https://flash.jin10.com/detail/20250926003736952800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "国际原子能机构总干事：需尽一切可能让伊朗继续合作",
-          "url": "https://wallstreetcn.com/livenews/2979876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗副总统：伊方没有放弃核计划的打算",
-          "url": "https://flash.jin10.com/detail/20250926003143416800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1969,11 +2070,12 @@
           "url": "https://wallstreetcn.com/livenews/2980516",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时33分]"
         },
         {
           "title": "美元指数DXY短线下挫逾10点，现报98.33。",
@@ -1982,7 +2084,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
