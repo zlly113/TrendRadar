@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-26T14:36:50.981759+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-09-26T15:26:07.477630+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 101,
+      "match_count": 105,
       "titles": [
         {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
@@ -20,6 +20,20 @@
           "time_info": "[00时32分 ~ 09时52分]"
         },
         {
+          "title": "最高100%！特朗普再挥关税大棒 涉重型卡车、家具、药品",
+          "url": "https://www.cls.cn/detail/2156701",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
           "url": "https://news.ifeng.com/c/8mwFNONAEL7",
           "source": "凤凰网",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "最高100%！特朗普再挥关税大棒 涉重型卡车、家具、药品",
-          "url": "https://www.cls.cn/detail/2156701",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 14时36分]"
         },
         {
           "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
@@ -105,6 +106,43 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "特朗普宣布将对专利及品牌药品加征100%关税，对国内药企影响几何？",
+          "url": "https://www.cls.cn/detail/2157100",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普宣布新关税最高达100%，谁最受伤？",
+          "url": "https://news.ifeng.com/c/8mxhUG5LH6F",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31683344",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 15时26分]"
+        },
+        {
           "title": "美国总统特朗普：司法部将就科米报告作出决定。",
           "url": "https://flash.jin10.com/detail/20250926000535834800",
           "source": "金十数据",
@@ -158,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普宣布将对专利及品牌药品加征100%关税，对国内药企影响几何？",
-          "url": "https://www.cls.cn/detail/2157100",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "美国总统特朗普：我们今天将有重大消息宣布。",
@@ -280,6 +307,30 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
+          "url": "https://www.zhihu.com/question/1954819999765066391",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普回应数百美军高级将领被召回",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%95%B0%E7%99%BE%E7%BE%8E%E5%86%9B%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%E8%A2%AB%E5%8F%AC%E5%9B%9E",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普宣布对进口重卡加征25%关税",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%AF%B9%E8%BF%9B%E5%8F%A3%E9%87%8D%E5%8D%A1%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -304,17 +355,16 @@
           "time_info": "[09时51分 ~ 11时05分]"
         },
         {
-          "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31683344",
-          "source": "澎湃新闻",
+          "title": "特朗普再挥关税大棒：对专利及品牌药品加征100%、家具30%、重卡25%",
+          "url": "https://wallstreetcn.com/articles/3756308",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            6
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时36分]"
+          "time_info": "[14时36分 ~ 15时26分]"
         },
         {
           "title": "又是要给特朗普让路，土耳其总统也在纽约街头被警察拦下",
@@ -472,18 +522,6 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
-          "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
-          "url": "https://www.zhihu.com/question/1954819999765066391",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时36分]"
-        },
-        {
           "title": "美国总统特朗普：正在就巴格拉姆空军基地问题与阿富汗方面进行对话。",
           "url": "https://flash.jin10.com/detail/20250926045023727800",
           "source": "金十数据",
@@ -520,18 +558,6 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
-          "title": "特朗普回应数百美军高级将领被召回",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%95%B0%E7%99%BE%E7%BE%8E%E5%86%9B%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%E8%A2%AB%E5%8F%AC%E5%9B%9E",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时36分]"
-        },
-        {
           "title": "特朗普对乌态度为何大转变",
           "url": "https://www.toutiao.com/trending/7554171471187152420/",
           "source": "今日头条",
@@ -542,6 +568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普要加征关税对药企影响如何",
+          "url": "https://www.toutiao.com/trending/7554231077192076843/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "特朗普联大抱怨背后的真相",
@@ -596,7 +633,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -623,24 +660,13 @@
           "time_info": "03时20分"
         },
         {
-          "title": "特朗普再挥关税大棒：对专利及品牌药品加征100%、家具30%、重卡25%",
-          "url": "https://wallstreetcn.com/articles/3756308",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "诺和诺德在Tradegate交易所下跌3%，此前美国总统特朗普称从2025年10月1日起，将对任何品牌或专利的医药产品征收100%的关税，除非公司正在美国建立他们的制药工厂。",
           "url": "https://wallstreetcn.com/livenews/2980249",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -662,7 +688,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -728,7 +754,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -753,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "瑞士经济部：目前尚不清楚特朗普所宣布措施的任何细节。",
+          "url": "https://flash.jin10.com/detail/20250926150817134800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "特朗普批准华盛顿特区恢复死刑",
@@ -830,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "瑞士经济部：（就美国总统特朗普宣布对制药业征收关税）相关部门正与相关利益方共同分析这些措施的影响。",
+          "url": "https://flash.jin10.com/detail/20250926150750233800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国总统特朗普：匈牙利是内陆国家，除了俄罗斯，他们无法从其他国家购买石油。",
@@ -1168,6 +1216,17 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "经济数据打压降息预期，美股三连跌，中概股逆市收涨，白银涨破45美元，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3756264",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时26分]"
+        },
+        {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
           "url": "https://wallstreetcn.com/articles/3756174",
           "source": "华尔街见闻",
@@ -1178,17 +1237,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "经济数据打压降息预期，美股三连跌，中概股逆市收涨，白银涨破45美元，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3756264",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 14时36分]"
         },
         {
           "title": "美股收盘：三大指数连跌三日 科技股承压 甲骨文跌超5%",
@@ -1238,6 +1286,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
+          "url": "https://wallstreetcn.com/articles/3756301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 15时26分]"
         },
         {
           "title": "美股三大指数集体低开 甲骨文跌近4%",
@@ -1293,19 +1355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
-          "url": "https://wallstreetcn.com/articles/3756301",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 14时36分]"
         },
         {
           "title": "美股三大股指持续回落，纳指、标普500指数均跌超1%，道指跌0.7%。",
@@ -1632,7 +1681,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际金价涨约0.4%，白银涨约2.9%",
@@ -1645,6 +1694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年09月26日（周五）上海金午盘价为852.4元/克，较国际金价(859.72元/克)，低7.32元/克",
+          "url": "https://flash.jin10.com/detail/20250926150250554800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
