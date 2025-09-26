@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-26T21:33:32.472949+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2025-09-26T22:24:00.996392+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 125,
+      "match_count": 134,
       "titles": [
         {
           "title": "特朗普宣布新关税最高达100%，谁最受伤？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[15时25分 ~ 22时24分]"
         },
         {
           "title": "最高100%！特朗普再挥关税大棒 涉重型卡车、家具、药品",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时36分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 22时24分]"
         },
         {
           "title": "马克龙、埃尔多安、李在明都被堵街头，只为给特朗普让道",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时29分 ~ 22时24分]"
         },
         {
           "title": "特朗普幕僚布多维奇将离开白宫，为第二任期离职的最高级别官员",
@@ -95,11 +95,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时36分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 22时24分]"
         },
         {
           "title": "特朗普说中国不使用风力发电？去年风电新增装机已是火电的1.5倍",
@@ -124,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[13时25分 ~ 22时24分]"
         },
         {
           "title": "特朗普批准华盛顿特区恢复死刑",
@@ -237,6 +238,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "布伦特原油期货涨超1.2%，报69.45美元。 美国总统特朗普再次声称，非常接近就加沙问题达成协议。",
+          "url": "https://wallstreetcn.com/livenews/2980571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：将发放农民援助金，直到关税生效并惠及他们。",
           "url": "https://flash.jin10.com/detail/20250926000345611800",
           "source": "金十数据",
@@ -281,6 +293,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：如果政府不得不关门，那就关门。",
+          "url": "https://flash.jin10.com/detail/20250926221318411800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：我们今天将有重大消息宣布。",
           "url": "https://flash.jin10.com/detail/20250926000139892800",
           "source": "金十数据",
@@ -298,9 +321,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美国总统特朗普：经济表现良好，物价正在下降。",
+          "url": "https://flash.jin10.com/detail/20250926221219144800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "特朗普宣布对进口重卡加征25%关税",
@@ -720,6 +754,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "特朗普药品关税计划似乎让许多药企松了口气",
+          "url": "https://wallstreetcn.com/livenews/2980566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "土耳其总统埃尔多安：已与美国总统特朗普就如何实现加沙和巴勒斯坦的停火与持久和平达成共识，特朗普意识到局势不能再这样持续下去。",
           "url": "https://flash.jin10.com/detail/20250926170303361800",
           "source": "金十数据",
@@ -852,6 +897,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "美国总统特朗普：加沙问题已非常接近达成协议。加沙协议将让被扣押人员重获自由，终结冲突。",
+          "url": "https://flash.jin10.com/detail/20250926220907120800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "匈牙利总理欧尔班：在购买俄罗斯能源问题上匈牙利不必和特朗普一致。",
           "url": "https://wallstreetcn.com/livenews/2980245",
           "source": "华尔街见闻-快讯",
@@ -905,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：经济数据表现很棒。",
+          "url": "https://wallstreetcn.com/livenews/2980556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：是时候让俄罗斯停止了。",
@@ -1026,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普预测加沙问题将达成协议",
+          "url": "https://wallstreetcn.com/livenews/2980552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：（谈及加沙）必须与以色列会面。",
@@ -1270,6 +1348,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美国总统特朗普：经济数据非常出色。",
+          "url": "https://flash.jin10.com/detail/20250926215515697800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "泽连斯基向特朗普提要求 要新型武器",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%A6%81%E6%B1%82+%E8%A6%81%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8",
           "source": "百度热搜",
@@ -1444,12 +1533,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美国总统特朗普：看来我们将达成加沙协议。",
+          "url": "https://flash.jin10.com/detail/20250926215038060800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "经济数据打压降息预期，美股三连跌，中概股逆市收涨，白银涨破45美元，加密货币重挫",
@@ -1459,8 +1559,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时51分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[09时51分 ~ 22时24分]"
         },
         {
           "title": "科技继续拖累，三大美股指两连跌，中概股大反弹，人民币失守7.13，伦铜一年新高",
@@ -1488,6 +1588,22 @@
           "time_info": "[07时23分 ~ 14时36分]"
         },
         {
+          "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
+          "url": "https://wallstreetcn.com/articles/3756301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时04分 ~ 22时24分]"
+        },
+        {
           "title": "【早报】美股三连跌，多只热门中概股逆势上涨；商务部连续出手，事关多家美企",
           "url": "https://www.cls.cn/detail/2156627",
           "source": "财联社热门",
@@ -1498,21 +1614,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时23分 ~ 14时36分]"
-        },
-        {
-          "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
-          "url": "https://wallstreetcn.com/articles/3756301",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时04分 ~ 21时33分]"
         },
         {
           "title": "美股盘初纳指跌超1%，芯片股领跌，加密货币概念股多数下跌，黄金高位下跌近40美元",
@@ -1600,7 +1701,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1689,6 +1790,17 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "通胀数据符合预期，美股开盘止跌反弹，波音上涨4.7%，美元创两月最佳周表现，金银回调",
+          "url": "https://wallstreetcn.com/articles/3756334",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "甲骨文美股盘后涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/2979989",
           "source": "华尔街见闻-快讯",
@@ -1707,7 +1819,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1756,15 +1868,37 @@
           "time_info": "17时27分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF涨0.9%，全球航空业ETF涨0.85%，能源业ETF涨0.81%。",
+          "url": "https://wallstreetcn.com/livenews/2980545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "波音美股盘前涨超3%，报道称美国联邦航空局将放宽对波音飞机交付的限制",
           "url": "https://wallstreetcn.com/livenews/2980502",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美股盘初：道指涨0.4%，波音涨约4%，英特尔涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2980542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2025年09月25日（周四）美股热门股票行情一览（美股盘中）",
@@ -1781,7 +1915,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗此时宣布将获得红旗9有何意味",
@@ -1804,7 +1938,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1815,7 +1949,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1854,15 +1988,37 @@
           "time_info": "[21时32分 ~ 21时33分]"
         },
         {
+          "title": "伊朗：若“快速恢复制裁”机制被执行 将停止与国际原子能机构合作",
+          "url": "https://flash.jin10.com/detail/20250926221156429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列已摧毁了伊朗的核武器和弹道导弹计划。",
           "url": "https://flash.jin10.com/detail/20250926211104520800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "以色列总理称不会允许伊朗恢复核能力",
+          "url": "https://wallstreetcn.com/livenews/2980548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "驳斥美对伊支持“恐怖主义”指控 伊朗批评美国“虚伪荒谬”",
