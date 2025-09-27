@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-09-27T20:45:27.352414+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-09-27T21:26:51.965698+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 20时45分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 21时26分]"
         },
         {
           "title": "特朗普宣布新关税最高达100%，谁最受伤？",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时33分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[11时33分 ~ 21时26分]"
         },
         {
           "title": "特朗普宣布对进口建材、家具及药品实施高额关税，最高达 100%，对相关行业和美国民众生活有哪些影响？",
@@ -119,11 +119,27 @@
             9,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 20时45分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 21时26分]"
+        },
+        {
+          "title": "七年来首次政府关门真要来了？特朗普放狠话要关就关、全怪民主党，众院拟休会到下月",
+          "url": "https://wallstreetcn.com/articles/3756375",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 21时26分]"
         },
         {
           "title": "特朗普：美国或更换世界杯举办地",
@@ -140,20 +156,6 @@
           "time_info": "[11时00分 ~ 19时20分]"
         },
         {
-          "title": "七年来首次政府关门真要来了？特朗普放狠话要关就关、全怪民主党，众院拟休会到下月",
-          "url": "https://wallstreetcn.com/articles/3756375",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普：美国或更换世界杯举办地",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E%E5%9C%B0",
           "source": "百度热搜",
@@ -166,15 +168,15 @@
           "time_info": "[11时33分 ~ 16时36分]"
         },
         {
-          "title": "据韩联社报道，国家安全顾问称，韩国无法满足特朗普政府提出的“向美国提供3500亿美元现金投资”的要求。",
-          "url": "https://wallstreetcn.com/livenews/2980835",
-          "source": "华尔街见闻-快讯",
+          "title": "大豆收割季将至，美农疯狂@特朗普：“五级火警”，没时间了",
+          "url": "https://news.ifeng.com/c/8mzmvUEshKt",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时26分]"
         },
         {
           "title": "以美国安全为由，特朗普敦促微软解雇Lisa Monaco",
@@ -192,15 +194,42 @@
           "time_info": "[06时24分 ~ 11时33分]"
         },
         {
-          "title": "大豆收割季将至，美农疯狂@特朗普：“五级火警”，没时间了",
-          "url": "https://news.ifeng.com/c/8mzmvUEshKt",
-          "source": "凤凰网",
+          "title": "不是100%是15%：白宫称特朗普的药品关税不适用于欧日等贸易协议方",
+          "url": "https://wallstreetcn.com/articles/3756372",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时26分]"
+        },
+        {
+          "title": "据韩联社报道，国家安全顾问称，韩国无法满足特朗普政府提出的“向美国提供3500亿美元现金投资”的要求。",
+          "url": "https://wallstreetcn.com/livenews/2980835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时26分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-27）",
+          "url": "https://flash.jin10.com/detail/20250927181658187800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时26分]"
         },
         {
           "title": "特朗普对政府关门风险不以为然：要是不得不关，那就关吧",
@@ -226,30 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-27）",
-          "url": "https://flash.jin10.com/detail/20250927181658187800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时45分]"
-        },
-        {
-          "title": "不是100%是15%：白宫称特朗普的药品关税不适用于欧日等贸易协议方",
-          "url": "https://wallstreetcn.com/articles/3756372",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时45分]"
         },
         {
           "title": "知情人士：特朗普政府拟按芯片数量对外国电子设备征税",
@@ -639,6 +644,18 @@
           "time_info": "[04时29分 ~ 07时24分]"
         },
         {
+          "title": "伊朗召回驻英法德大使",
+          "url": "https://flash.jin10.com/detail/20250927194102096800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时26分]"
+        },
+        {
           "title": "联合国安理会表决未通过延长伊朗制裁豁免决议草案",
           "url": "https://wallstreetcn.com/livenews/2980669",
           "source": "华尔街见闻-快讯",
@@ -661,17 +678,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时33分]"
-        },
-        {
-          "title": "伊朗召回驻英法德大使",
-          "url": "https://flash.jin10.com/detail/20250927194102096800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "俄罗斯与伊朗签署250亿美元核电大单 将在伊建设4座核电机组",
@@ -699,7 +705,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "经济数据打压降息预期，美股三连跌，中概股逆市收涨，白银涨破45美元，加密货币重挫",
@@ -722,8 +728,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 20时45分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 21时26分]"
         },
         {
           "title": "市场最大“黑天鹅”：AI资本支出放缓，三大“巨雷”会是美股噩梦",
@@ -749,8 +755,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 20时45分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 21时26分]"
         },
         {
           "title": "通胀企稳符合预期，美股反弹，白银再创2011年来新高，全周原油大涨美元走强",
@@ -865,6 +871,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "摩根大通：美股年底冲击7000点前，面临五大短期下行风险",
+          "url": "https://wallstreetcn.com/articles/3756395",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -920,9 +937,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时26分]"
         }
       ]
     },
