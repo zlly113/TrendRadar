@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-27T11:00:25.895675+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2025-09-27T11:33:34.459462+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
@@ -66,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 11时33分]"
         },
         {
           "title": "涉及“出生公民权”，特朗普政府再向美最高法院提起上诉",
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时33分]"
         },
         {
           "title": "以美国安全为由，特朗普敦促微软解雇Lisa Monaco",
@@ -88,11 +88,12 @@
             3,
             11,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 11时00分]"
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 11时33分]"
         },
         {
           "title": "特朗普对政府关门风险不以为然：要是不得不关，那就关吧",
@@ -139,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时33分]"
         },
         {
           "title": "美国官员称，欧盟药品关税仍为15%，而非特朗普所说的100%",
@@ -191,6 +192,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：美国或更换世界杯举办地",
+          "url": "https://www.cls.cn/detail/2157904",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时33分]"
+        },
+        {
           "title": "知情官员称特朗普考虑对乌提供远程武器 但未承诺解禁",
           "url": "https://wallstreetcn.com/livenews/2980671",
           "source": "华尔街见闻-快讯",
@@ -220,20 +233,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
         },
         {
-          "title": "特朗普：美国或更换世界杯举办地",
-          "url": "https://www.cls.cn/detail/2157904",
+          "title": "特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家",
+          "url": "https://www.cls.cn/detail/2157912",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "11时33分"
         },
         {
           "title": "特朗普：加沙问题谈判已进行四天 地区各方均参与其中",
@@ -256,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普：美国或更换世界杯举办地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "美国总统特朗普：经济表现不错，价格下降。",
@@ -349,8 +373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时33分]"
         },
         {
           "title": "英国驻联合国特使：对伊朗联合国的制裁将于本周末重新实施。",
@@ -413,24 +437,25 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
+          "title": "曝伊朗与俄罗斯签署250亿美元协议",
+          "url": "https://www.toutiao.com/trending/7554418251632066602/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时33分]"
+        },
+        {
           "title": "俄罗斯与伊朗签署250亿美元核电大单 将在伊建设4座核电机组",
           "url": "https://www.cls.cn/detail/2157681",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "曝伊朗与俄罗斯签署250亿美元协议",
-          "url": "https://www.toutiao.com/trending/7554418251632066602/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
         },
@@ -496,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时00分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 11时33分]"
         },
         {
           "title": "金十图示：2025年09月26日（周五）美股热门股票行情一览（美股收盘）",
@@ -532,11 +557,26 @@
           "ranks": [
             2,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 11时33分]"
+        },
+        {
+          "title": "周五（9月26日），公用事业ETF收涨1.63%，领跑美股行业ETF，可选消费ETF、生物科技指数ETF、医疗业ETF也涨超1%，能源业ETF涨0.92%，科技行业ETF涨0.3%，网络股指数ETF涨0.29%，半导体ETF涨0.24%。 标普500指数的11个板块中，公用事业板块收涨1.59%，可选消费板块涨1.45%，信息技术/科技板块涨0.21%表现倒数第三。",
+          "url": "https://wallstreetcn.com/livenews/2980725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 11时33分]"
         },
         {
           "title": "据媒体报道，英国将为医药出口支付更多资金，希望能取悦美国总统特朗普。 葛兰素史克ADR美股盘后暂无波动。",
@@ -552,19 +592,6 @@
           "time_info": "[04时29分 ~ 06时24分]"
         },
         {
-          "title": "周五（9月26日），公用事业ETF收涨1.63%，领跑美股行业ETF，可选消费ETF、生物科技指数ETF、医疗业ETF也涨超1%，能源业ETF涨0.92%，科技行业ETF涨0.3%，网络股指数ETF涨0.29%，半导体ETF涨0.24%。 标普500指数的11个板块中，公用事业板块收涨1.59%，可选消费板块涨1.45%，信息技术/科技板块涨0.21%表现倒数第三。",
-          "url": "https://wallstreetcn.com/livenews/2980725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时00分]"
-        },
-        {
           "title": "美股三大股指集体收涨",
           "url": "https://flash.jin10.com/detail/20250927040022459800",
           "source": "金十数据",
@@ -577,6 +604,18 @@
           "time_info": "[04时29分 ~ 07时24分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 终结三日跌势 特斯拉涨4%",
+          "url": "https://www.cls.cn/detail/2157893",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时33分]"
+        },
+        {
           "title": "美股三大指数集体高开 英特尔涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -587,18 +626,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 终结三日跌势 特斯拉涨4%",
-          "url": "https://www.cls.cn/detail/2157893",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时00分]"
         },
         {
           "title": "通胀数据符合预期，美股反弹，白银再创2011年来新高，全周美元原油大涨",
@@ -623,11 +650,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 11时00分]"
+          "appearance_count": 7,
+          "time_info": "[06时23分 ~ 11时33分]"
+        },
+        {
+          "title": "OpenAI CEO：2030年前通用人工智能将来 未来AI接管人类40%工作",
+          "url": "https://flash.jin10.com/detail/20250927095904284800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时33分]"
         },
         {
           "title": "苹果开发类ChatGPT工具 押注明年3月破局",
@@ -642,24 +682,13 @@
           "time_info": "[02时34分 ~ 03时21分]"
         },
         {
-          "title": "OpenAI CEO：2030年前通用人工智能将来 未来AI接管人类40%工作",
-          "url": "https://flash.jin10.com/detail/20250927095904284800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
           "title": "特朗普或考虑对乌提供远程武器 苹果据悉开发类ChatGPT应用 | 环球市场",
           "url": "https://www.cls.cn/detail/2157899",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
         }
@@ -738,6 +767,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李开复：如果十年后回顾DeepSeek如何让中国未落后美国，答案一定是开源",
+          "url": "https://flash.jin10.com/detail/20250927112025339800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -766,11 +812,12 @@
           "ranks": [
             7,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 11时33分]"
         }
       ]
     }
