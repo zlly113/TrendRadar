@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-27T11:33:34.459462+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-09-27T12:29:50.235031+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "为给特朗普车队让道！继马克龙埃尔多安后，李在明纽约街头也被拦下",
@@ -63,11 +63,12 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 11时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 12时29分]"
         },
         {
           "title": "涉及“出生公民权”，特朗普政府再向美最高法院提起上诉",
@@ -77,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时29分]"
         },
         {
           "title": "以美国安全为由，特朗普敦促微软解雇Lisa Monaco",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普：美国或更换世界杯举办地",
+          "url": "https://news.ifeng.com/c/8mynmZ9aWQ6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时29分]"
         },
         {
           "title": "特朗普对政府关门风险不以为然：要是不得不关，那就关吧",
@@ -134,14 +146,16 @@
         },
         {
           "title": "特朗普：美国或更换世界杯举办地",
-          "url": "https://news.ifeng.com/c/8mynmZ9aWQ6",
-          "source": "凤凰网",
+          "url": "https://www.cls.cn/detail/2157904",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时33分]"
+          "time_info": "[11时00分 ~ 12时29分]"
         },
         {
           "title": "美国官员称，欧盟药品关税仍为15%，而非特朗普所说的100%",
@@ -154,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家",
+          "url": "https://www.cls.cn/detail/2157912",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时29分]"
         },
         {
           "title": "报道：特朗普政府拟按芯片数量对外国电子设备征税",
@@ -192,18 +218,6 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：美国或更换世界杯举办地",
-          "url": "https://www.cls.cn/detail/2157904",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时33分]"
-        },
-        {
           "title": "知情官员称特朗普考虑对乌提供远程武器 但未承诺解禁",
           "url": "https://wallstreetcn.com/livenews/2980671",
           "source": "华尔街见闻-快讯",
@@ -238,17 +252,6 @@
           "time_info": "11时00分"
         },
         {
-          "title": "特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家",
-          "url": "https://www.cls.cn/detail/2157912",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "特朗普：加沙问题谈判已进行四天 地区各方均参与其中",
           "url": "https://flash.jin10.com/detail/20250927081553847800",
           "source": "金十数据",
@@ -258,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普“关税大棒”砸向建材家具",
+          "url": "https://www.toutiao.com/trending/7554539433622507027/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国总统特朗普再次警告（孕妇）不要使用泰诺（Tylenol）。",
@@ -277,7 +291,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -373,8 +387,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时29分]"
         },
         {
           "title": "英国驻联合国特使：对伊朗联合国的制裁将于本周末重新实施。",
@@ -521,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2025年09月26日（周五）美股热门股票行情一览（美股收盘）",
@@ -579,6 +593,18 @@
           "time_info": "[07时24分 ~ 11时33分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 终结三日跌势 特斯拉涨4%",
+          "url": "https://www.cls.cn/detail/2157893",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时29分]"
+        },
+        {
           "title": "据媒体报道，英国将为医药出口支付更多资金，希望能取悦美国总统特朗普。 葛兰素史克ADR美股盘后暂无波动。",
           "url": "https://wallstreetcn.com/livenews/2980686",
           "source": "华尔街见闻-快讯",
@@ -602,18 +628,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 终结三日跌势 特斯拉涨4%",
-          "url": "https://www.cls.cn/detail/2157893",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时33分]"
         },
         {
           "title": "美股三大指数集体高开 英特尔涨超3%",
@@ -654,8 +668,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时23分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[06时23分 ~ 12时29分]"
         },
         {
           "title": "OpenAI CEO：2030年前通用人工智能将来 未来AI接管人类40%工作",
@@ -663,11 +677,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时29分]"
         },
         {
           "title": "苹果开发类ChatGPT工具 押注明年3月破局",
@@ -736,6 +751,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "李开复：如果十年后回顾DeepSeek如何让中国未落后美国，答案一定是开源",
+          "url": "https://flash.jin10.com/detail/20250927112025339800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时29分]"
+        },
+        {
+          "title": "李开复：如果十年后回顾DeepSeek如何让中国未落后美国，答案一定是开源",
+          "url": "https://wallstreetcn.com/livenews/2980763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -763,23 +807,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李开复：如果十年后回顾DeepSeek如何让中国未落后美国，答案一定是开源",
-          "url": "https://flash.jin10.com/detail/20250927112025339800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         }
       ]
     },
