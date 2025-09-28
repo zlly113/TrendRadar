@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-28T22:21:13.054100+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-09-28T23:23:23.749033+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "眼中钉被起诉，特朗普连发四帖“庆祝”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时16分 ~ 22时21分]"
+          "appearance_count": 19,
+          "time_info": "[11时16分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普：指示国防部保护移民及海关执法局设施免受“国内恐怖分子”侵害。",
@@ -169,6 +169,18 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
+          "url": "https://wallstreetcn.com/articles/3756420",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时19分 ~ 23时23分]"
+        },
+        {
           "title": "斯洛伐克总统拒绝特朗普停止进口俄罗斯石油的要求",
           "url": "https://flash.jin10.com/detail/20250927220848537800",
           "source": "金十数据",
@@ -207,16 +219,16 @@
           "time_info": "[06时24分 ~ 14时36分]"
         },
         {
-          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
-          "url": "https://wallstreetcn.com/articles/3756420",
-          "source": "华尔街见闻",
+          "title": "特朗普为何起诉政敌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%B5%B7%E8%AF%89%E6%94%BF%E6%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时19分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时23分]"
         },
         {
           "title": "特朗普：国会山骚乱中FBI秘密派遣274名特工混入人群",
@@ -251,26 +263,31 @@
           "time_info": "[10时01分 ~ 15时24分]"
         },
         {
-          "title": "特朗普为何起诉政敌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%B5%B7%E8%AF%89%E6%94%BF%E6%95%8C",
-          "source": "bilibili 热搜",
+          "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
+          "url": "https://www.cls.cn/detail/2158503",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[20时46分 ~ 23时23分]"
         },
         {
-          "title": "据约旦国家通讯社：约旦国王表示，特朗普加沙计划的许多细节“符合已达成的协议”。",
-          "url": "https://flash.jin10.com/detail/20250928221223483800",
-          "source": "金十数据",
+          "title": "特朗普起诉前FBI局长始末",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E5%89%8DFBI%E5%B1%80%E9%95%BF%E5%A7%8B%E6%9C%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            19,
+            21,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时46分 ~ 23时23分]"
         },
         {
           "title": "据韩联社报道，国家安全顾问称，韩国无法满足特朗普政府提出的“向美国提供3500亿美元现金投资”的要求。",
@@ -285,30 +302,26 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
-          "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
-          "url": "https://www.cls.cn/detail/2158503",
-          "source": "财联社热门",
+          "title": "“清洗”一轮又一轮，FBI为何总被特朗普“盯上”",
+          "url": "https://news.ifeng.com/c/8n1CTRiNEyE",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时46分 ~ 22时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
-          "title": "特朗普起诉前FBI局长始末",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E5%89%8DFBI%E5%B1%80%E9%95%BF%E5%A7%8B%E6%9C%AB",
-          "source": "bilibili 热搜",
+          "title": "据华盛顿邮报：美国总统特朗普将于周二出席与高级将领的会议。",
+          "url": "https://flash.jin10.com/detail/20250928223927349800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            21,
-            28
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时46分 ~ 22时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-28）",
@@ -342,11 +355,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时23分]"
+        },
+        {
+          "title": "据约旦国家通讯社：约旦国王表示，特朗普加沙计划的许多细节“符合已达成的协议”。",
+          "url": "https://flash.jin10.com/detail/20250928221223483800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时21分]"
+          "time_info": "[22时21分 ~ 23时23分]"
         },
         {
           "title": "政府关门在即 特朗普邀美国国会四大领袖紧急磋商",
@@ -476,6 +502,17 @@
           "time_info": "[22时20分 ~ 22时21分]"
         },
         {
+          "title": "胡锡进：如果特朗普有魄力，就该在台湾问题上做出正确的抉择",
+          "url": "https://news.ifeng.com/c/8n1QuAv9pUF",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "哥伦比亚总统纽约街头号召美军抗命特朗普，美国务院：撤他美签",
           "url": "https://m.thepaper.cn/newsDetail_forward_31695469",
           "source": "澎湃新闻",
@@ -534,7 +571,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗总统：制裁不会让天塌下来",
@@ -602,59 +639,27 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
+          "url": "https://wallstreetcn.com/livenews/2981035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗外交部：英法德美滥用争端解决机制非法且毫无根据伊朗外交部：英法德美滥用争端解决机制非法且毫无根据",
           "url": "https://wallstreetcn.com/livenews/2981031",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "伊朗议长说将对等严肃回应任何行动",
-          "url": "https://flash.jin10.com/detail/20250928220401079800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "欧盟称将立即恢复对伊朗核相关制裁",
-          "url": "https://flash.jin10.com/detail/20250928214449548800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "伊朗称英法德美滥用程序违反协议",
-          "url": "https://flash.jin10.com/detail/20250928214048047800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "欧盟：将立即恢复对伊朗核相关制裁",
-          "url": "https://wallstreetcn.com/livenews/2981026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
         },
         {
           "title": "以色列外交部：重新对伊朗实施联合国制裁是“重大进展”。国际社会“必须动用一切手段”，以阻止伊朗发展核武器。",
@@ -670,6 +675,54 @@
           "time_info": "[19时20分 ~ 21时27分]"
         },
         {
+          "title": "伊朗议长说将对等严肃回应任何行动",
+          "url": "https://flash.jin10.com/detail/20250928220401079800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
+          "title": "欧盟称将立即恢复对伊朗核相关制裁",
+          "url": "https://flash.jin10.com/detail/20250928214449548800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
+          "title": "伊朗称英法德美滥用程序违反协议",
+          "url": "https://flash.jin10.com/detail/20250928214048047800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
+          "title": "欧盟：将立即恢复对伊朗核相关制裁",
+          "url": "https://wallstreetcn.com/livenews/2981026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
           "title": "伊朗外交部长呼吁联合国秘书长阻止任何恢复联合国对伊朗制裁机制的企图。",
           "url": "https://flash.jin10.com/detail/20250928131157706800",
           "source": "金十数据",
@@ -681,6 +734,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 16时29分]"
+        },
+        {
+          "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
+          "url": "https://flash.jin10.com/detail/20250928222903912800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "伊朗议长：恢复对伊制裁非法 将对等严肃回应任何行动",
+          "url": "https://wallstreetcn.com/livenews/2981033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "制裁重启，伊朗军方：已准备好应对任何威胁",
+          "url": "https://wallstreetcn.com/livenews/2981032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "法国、英国和德国表示，联合国已对伊朗恢复实施制裁。",
