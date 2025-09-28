@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-28T07:21:43.465254+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-09-28T10:01:25.504686+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "大豆收割季将至，美农疯狂@特朗普：“五级火警”，没时间了",
@@ -30,17 +30,6 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
-          "title": "美国总统特朗普：指示国防部保护移民及海关执法局设施免受“国内恐怖分子”侵害。",
-          "url": "https://flash.jin10.com/detail/20250927222201309800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
           "title": "特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家",
           "url": "https://www.cls.cn/detail/2157912",
           "source": "财联社热门",
@@ -53,17 +42,30 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "美国总统特朗普：指示国防部保护移民及海关执法局设施免受“国内恐怖分子”侵害。",
+          "url": "https://flash.jin10.com/detail/20250927222201309800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时01分]"
+        },
+        {
           "title": "特朗普施压俄罗斯，油价一度升破70大关，势创以伊冲突以来最大单周涨幅",
           "url": "https://wallstreetcn.com/articles/3756381",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "特朗普“翻脸比翻书快”？据称正考虑对乌提供远程武器，但未明确承诺！",
@@ -74,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "微软切断以色列军方部分服务 特朗普要求解雇其全球事务主管",
@@ -86,8 +88,22 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
+        },
+        {
+          "title": "斯洛伐克总统与美国总统特朗普讨论俄罗斯石油供应问题。",
+          "url": "https://wallstreetcn.com/livenews/2980851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            19,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "美国总统特朗普：指示国防部“保护”波特兰。",
@@ -112,19 +128,6 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
-          "title": "斯洛伐克总统与美国总统特朗普讨论俄罗斯石油供应问题。",
-          "url": "https://wallstreetcn.com/livenews/2980851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普分享了“对如何应对俄罗斯行动的某种愿景”。",
           "url": "https://flash.jin10.com/detail/20250927210107023800",
           "source": "金十数据",
@@ -134,17 +137,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普：已指示美防长向波特兰派遣部队，应对“国内恐怖分子”",
-          "url": "https://wallstreetcn.com/livenews/2980885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "据韩联社报道，国家安全顾问称，韩国无法满足特朗普政府提出的“向美国提供3500亿美元现金投资”的要求。",
@@ -157,6 +149,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普：国会山骚乱中FBI秘密派遣274名特工混入人群",
+          "url": "https://news.ifeng.com/c/8n0IN5h328P",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普：已指示美防长向波特兰派遣部队，应对“国内恐怖分子”",
+          "url": "https://wallstreetcn.com/livenews/2980885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 10时01分]"
         },
         {
           "title": "不是100%是15%：白宫称特朗普的药品关税不适用于欧日等贸易协议方",
@@ -174,11 +189,12 @@
           "url": "https://wallstreetcn.com/livenews/2980886",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 10时01分]"
         },
         {
           "title": "韩国请求特朗普帮忙缓和半岛局势",
@@ -192,21 +208,65 @@
           "time_info": "[06时23分 ~ 06时24分]"
         },
         {
+          "title": "特朗普下令向波特兰派兵：必要时将动用全部武力",
+          "url": "https://www.cls.cn/detail/2158165",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普在社媒发卡通图片 威胁“解雇”鲍威尔",
+          "url": "https://flash.jin10.com/detail/20250928085504925800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普向波特兰派兵授权动用全部武力",
           "url": "https://www.toutiao.com/trending/7554166531345989674/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普罕见对内塔尼亚胡公开施压",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BD%95%E8%A7%81%E5%AF%B9%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%85%AC%E5%BC%80%E6%96%BD%E5%8E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "消息人士：特朗普将于周一会见四位国会领导人。",
+          "url": "https://flash.jin10.com/detail/20250928080713016800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统：制裁不会让天塌下来",
@@ -215,22 +275,24 @@
           "ranks": [
             4,
             5,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "伊朗拒绝浓缩铀换“制裁暂缓期”要求",
           "url": "https://news.ifeng.com/c/8mzu9Wy91Pz",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "伊朗拒绝浓缩铀换“制裁暂缓期”要求",
@@ -239,11 +301,12 @@
           "ranks": [
             9,
             10,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时01分]"
         },
         {
           "title": "伊朗称美国要求其交出铀库存以换取制裁宽松",
@@ -266,6 +329,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "法国、英国和德国表示，联合国已对伊朗恢复实施制裁。",
+          "url": "https://flash.jin10.com/detail/20250928080623077800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -273,6 +347,19 @@
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "摩根大通：美股年底冲击7000点前，面临五大短期下行风险",
+          "url": "https://wallstreetcn.com/articles/3756395",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
+        },
         {
           "title": "美国通胀符合预期，逢低买盘支撑美股反弹，白银站上46美元，以太坊涨3%",
           "url": "https://wallstreetcn.com/articles/3756334",
@@ -283,18 +370,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
-          "title": "摩根大通：美股年底冲击7000点前，面临五大短期下行风险",
-          "url": "https://wallstreetcn.com/articles/3756395",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
         }
       ]
     },
@@ -309,11 +384,29 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿联酋总统会见OpenAI首席执行官，商讨人工智能合作事宜",
+          "url": "https://wallstreetcn.com/livenews/2980887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     }
