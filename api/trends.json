@@ -1,306 +1,12 @@
 {
-  "generated_at": "2025-09-28T23:23:23.749033+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2025-09-29T00:27:57.583485+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "眼中钉被起诉，特朗普连发四帖“庆祝”",
-          "url": "https://news.ifeng.com/c/8n0kNFzCWod",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时16分 ~ 22时21分]"
-        },
-        {
-          "title": "特朗普：国会山骚乱中FBI秘密派遣274名特工混入人群",
-          "url": "https://news.ifeng.com/c/8n0IN5h328P",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时01分 ~ 22时21分]"
-        },
-        {
-          "title": "大豆收割季将至，美农疯狂@特朗普：“五级火警”，没时间了",
-          "url": "https://news.ifeng.com/c/8mzmvUEshKt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普下令向波特兰派兵：必要时将动用全部武力",
-          "url": "https://www.cls.cn/detail/2158165",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 19时20分]"
-        },
-        {
-          "title": "七年来首次政府关门真要来了？特朗普放狠话要关就关、全怪民主党，众院拟休会到下月",
-          "url": "https://wallstreetcn.com/articles/3756375",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家",
-          "url": "https://www.cls.cn/detail/2157912",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "周末加班发梗图，特朗普真想“开掉”美联储主席",
-          "url": "https://wallstreetcn.com/articles/3756401",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时16分 ~ 23时23分]"
-        },
-        {
-          "title": "美国总统特朗普：指示国防部保护移民及海关执法局设施免受“国内恐怖分子”侵害。",
-          "url": "https://flash.jin10.com/detail/20250927222201309800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "特朗普施压俄罗斯，油价一度升破70大关，势创以伊冲突以来最大单周涨幅",
-          "url": "https://wallstreetcn.com/articles/3756381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "特朗普“翻脸比翻书快”？据称正考虑对乌提供远程武器，但未明确承诺！",
-          "url": "https://www.cls.cn/detail/2157922",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "微软切断以色列军方部分服务 特朗普要求解雇其全球事务主管",
-          "url": "https://www.cls.cn/detail/2157975",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "斯洛伐克总统与美国总统特朗普讨论俄罗斯石油供应问题。",
-          "url": "https://wallstreetcn.com/livenews/2980851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "美国总统特朗普：指示国防部“保护”波特兰。",
-          "url": "https://flash.jin10.com/detail/20250927222135729800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
-          "url": "https://wallstreetcn.com/articles/3756420",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时19分 ~ 23时23分]"
-        },
-        {
-          "title": "斯洛伐克总统拒绝特朗普停止进口俄罗斯石油的要求",
-          "url": "https://flash.jin10.com/detail/20250927220848537800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国总统特朗普分享了“对如何应对俄罗斯行动的某种愿景”。",
-          "url": "https://flash.jin10.com/detail/20250927210107023800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普：已指示美防长向波特兰派遣部队，应对“国内恐怖分子”",
-          "url": "https://wallstreetcn.com/livenews/2980885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            21,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普为何起诉政敌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%B5%B7%E8%AF%89%E6%94%BF%E6%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普：国会山骚乱中FBI秘密派遣274名特工混入人群",
-          "url": "https://wallstreetcn.com/livenews/2980886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            22,
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普罕见对内塔尼亚胡公开施压",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BD%95%E8%A7%81%E5%AF%B9%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%85%AC%E5%BC%80%E6%96%BD%E5%8E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            19,
-            8,
-            9,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时24分]"
-        },
-        {
-          "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
-          "url": "https://www.cls.cn/detail/2158503",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时46分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普起诉前FBI局长始末",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E5%89%8DFBI%E5%B1%80%E9%95%BF%E5%A7%8B%E6%9C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时46分 ~ 23时23分]"
-        },
-        {
-          "title": "据韩联社报道，国家安全顾问称，韩国无法满足特朗普政府提出的“向美国提供3500亿美元现金投资”的要求。",
-          "url": "https://wallstreetcn.com/livenews/2980835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
         {
           "title": "“清洗”一轮又一轮，FBI为何总被特朗普“盯上”",
           "url": "https://news.ifeng.com/c/8n1CTRiNEyE",
@@ -308,198 +14,75 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普为何起诉政敌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%B5%B7%E8%AF%89%E6%94%BF%E6%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将于周二出席与高级将领的会议。",
           "url": "https://flash.jin10.com/detail/20250928223927349800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时27分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-09-28）",
-          "url": "https://flash.jin10.com/detail/20250928183115590800",
-          "source": "金十数据",
+          "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
+          "url": "https://www.cls.cn/detail/2158503",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            7,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时27分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "佩斯科夫：普京邀请特朗普访问莫斯科的提议依然有效",
-          "url": "https://flash.jin10.com/detail/20250928170834938800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时20分]"
-        },
-        {
-          "title": "美国总统特朗普：我们在中东拥有实现伟大的真正机会。",
-          "url": "https://flash.jin10.com/detail/20250928205241655800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 23时23分]"
-        },
-        {
-          "title": "据约旦国家通讯社：约旦国王表示，特朗普加沙计划的许多细节“符合已达成的协议”。",
-          "url": "https://flash.jin10.com/detail/20250928221223483800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "政府关门在即 特朗普邀美国国会四大领袖紧急磋商",
-          "url": "https://flash.jin10.com/detail/20250928104248833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时25分]"
-        },
-        {
-          "title": "不是100%是15%：白宫称特朗普的药品关税不适用于欧日等贸易协议方",
-          "url": "https://wallstreetcn.com/articles/3756372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普为何下令向波特兰派兵",
-          "url": "https://www.toutiao.com/trending/7554945986729086474/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普称将向波特兰派遣军队 美州长呼吁公众“不要上当”",
-          "url": "https://flash.jin10.com/detail/20250928163309286800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时24分]"
-        },
-        {
-          "title": "特朗普在社媒发卡通图片 威胁“解雇”鲍威尔",
-          "url": "https://flash.jin10.com/detail/20250928085504925800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 11时16分]"
-        },
-        {
-          "title": "佩斯科夫：普京邀请特朗普访问莫斯科的提议依然有效",
-          "url": "https://wallstreetcn.com/livenews/2980938",
+          "title": "特朗普决定出席美军全球高级将领集会，打乱“战争部长”赫格塞思的原有安排",
+          "url": "https://wallstreetcn.com/livenews/2981044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普为何死咬委内瑞拉不放",
-          "url": "https://www.toutiao.com/trending/7555070950698389028/",
-          "source": "今日头条",
+          "title": "周末加班发梗图，特朗普真想“开掉”美联储主席",
+          "url": "https://wallstreetcn.com/articles/3756401",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "为何特朗普执意在美国国内动用军队",
-          "url": "https://www.toutiao.com/trending/7555120637904162330/",
-          "source": "今日头条",
+          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
+          "url": "https://wallstreetcn.com/articles/3756420",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "韩国请求特朗普帮忙缓和半岛局势",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%AF%B7%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%AE%E5%BF%99%E7%BC%93%E5%92%8C%E5%8D%8A%E5%B2%9B%E5%B1%80%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
-        },
-        {
-          "title": "拉夫罗夫回应特朗普称俄是“纸老虎”",
-          "url": "https://www.toutiao.com/trending/7554966338603761702/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普提巴以停火方案释放何信号",
-          "url": "https://www.toutiao.com/trending/7555108055025716774/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "胡锡进：如果特朗普有魄力，就该在台湾问题上做出正确的抉择",
@@ -508,415 +91,147 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "哥伦比亚总统纽约街头号召美军抗命特朗普，美国务院：撤他美签",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31695469",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普向波特兰派兵授权动用全部武力",
-          "url": "https://www.toutiao.com/trending/7554166531345989674/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "消息人士：特朗普将于周一会见四位国会领导人。",
-          "url": "https://flash.jin10.com/detail/20250928080713016800",
+          "title": "据约旦国家通讯社：约旦国王表示，特朗普加沙计划的许多细节“符合已达成的协议”。",
+          "url": "https://flash.jin10.com/detail/20250928221223483800",
           "source": "金十数据",
           "ranks": [
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普称已下令向波特兰派遣部队",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%91%E6%B3%A2%E7%89%B9%E5%85%B0%E6%B4%BE%E9%81%A3%E9%83%A8%E9%98%9F",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：我们在中东拥有实现伟大的真正机会。",
+          "url": "https://flash.jin10.com/detail/20250928205241655800",
+          "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普发布“解雇鲍威尔”的漫画",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E2%80%9C%E8%A7%A3%E9%9B%87%E9%B2%8D%E5%A8%81%E5%B0%94%E2%80%9D%E7%9A%84%E6%BC%AB%E7%94%BB",
-          "source": "百度热搜",
+          "title": "特朗普起诉前FBI局长始末",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E5%89%8DFBI%E5%B1%80%E9%95%BF%E5%A7%8B%E6%9C%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 9,
       "titles": [
         {
-          "title": "伊朗总统：制裁不会让天塌下来",
-          "url": "https://wallstreetcn.com/livenews/2980869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            11,
-            19,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 13时25分]"
-        },
-        {
-          "title": "伊朗拒绝浓缩铀换“制裁暂缓期”要求",
-          "url": "https://news.ifeng.com/c/8mzu9Wy91Pz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗拒绝浓缩铀换“制裁暂缓期”要求",
-          "url": "https://wallstreetcn.com/livenews/2980856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗称美国要求其交出铀库存以换取制裁宽松",
-          "url": "https://flash.jin10.com/detail/20250927213736899800",
+          "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
+          "url": "https://flash.jin10.com/detail/20250928222903912800",
           "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗召回驻英法德大使",
-          "url": "https://flash.jin10.com/detail/20250927194102096800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
           "url": "https://wallstreetcn.com/livenews/2981035",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "伊朗外交部：英法德美滥用争端解决机制非法且毫无根据伊朗外交部：英法德美滥用争端解决机制非法且毫无根据",
-          "url": "https://wallstreetcn.com/livenews/2981031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "以色列外交部：重新对伊朗实施联合国制裁是“重大进展”。国际社会“必须动用一切手段”，以阻止伊朗发展核武器。",
-          "url": "https://flash.jin10.com/detail/20250928181026413800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时27分]"
+          "time_info": "00时27分"
         },
         {
           "title": "伊朗议长说将对等严肃回应任何行动",
           "url": "https://flash.jin10.com/detail/20250928220401079800",
           "source": "金十数据",
           "ranks": [
-            2,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "欧盟称将立即恢复对伊朗核相关制裁",
           "url": "https://flash.jin10.com/detail/20250928214449548800",
           "source": "金十数据",
           "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "伊朗称英法德美滥用程序违反协议",
-          "url": "https://flash.jin10.com/detail/20250928214048047800",
-          "source": "金十数据",
-          "ranks": [
-            4,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "欧盟：将立即恢复对伊朗核相关制裁",
-          "url": "https://wallstreetcn.com/livenews/2981026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "伊朗外交部长呼吁联合国秘书长阻止任何恢复联合国对伊朗制裁机制的企图。",
-          "url": "https://flash.jin10.com/detail/20250928131157706800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时29分]"
-        },
-        {
-          "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
-          "url": "https://flash.jin10.com/detail/20250928222903912800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时27分"
         },
         {
           "title": "伊朗议长：恢复对伊制裁非法 将对等严肃回应任何行动",
           "url": "https://wallstreetcn.com/livenews/2981033",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "00时27分"
+        },
+        {
+          "title": "伊朗称英法德美滥用程序违反协议",
+          "url": "https://flash.jin10.com/detail/20250928214048047800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "制裁重启，伊朗军方：已准备好应对任何威胁",
           "url": "https://wallstreetcn.com/livenews/2981032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "法国、英国和德国表示，联合国已对伊朗恢复实施制裁。",
-          "url": "https://flash.jin10.com/detail/20250928080623077800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
+          "time_info": "00时27分"
+        },
         {
-          "title": "阿联酋总统会见OpenAI首席执行官，商讨人工智能合作事宜",
-          "url": "https://wallstreetcn.com/livenews/2980887",
+          "title": "伊朗外交部：英法德美滥用争端解决机制非法且毫无根据伊朗外交部：英法德美滥用争端解决机制非法且毫无根据",
+          "url": "https://wallstreetcn.com/livenews/2981031",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            16,
-            18,
-            19,
-            21,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时23分]"
-        },
-        {
-          "title": "黄仁勋最新访谈：关于5万亿美元资本开支、千亿绑定OpenAI……",
-          "url": "https://www.cls.cn/detail/2158049",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 16时29分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "孙正义和“木头姐”都考虑入股，“稳定币老大”Tether估值直逼OpenAI",
-          "url": "https://wallstreetcn.com/articles/3756397",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩根大通：美股年底冲击7000点前，面临五大短期下行风险",
-          "url": "https://wallstreetcn.com/articles/3756395",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 16时29分]"
-        },
-        {
-          "title": "美国通胀符合预期，逢低买盘支撑美股反弹，白银站上46美元，以太坊涨3%",
-          "url": "https://wallstreetcn.com/articles/3756334",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "HLE“人类最后考试”首次突破60分！Eigen-1基于DeepSeek V3.1显著领先Grok4、GPT-5",
-          "url": "https://wallstreetcn.com/livenews/2980988",
+          "title": "欧盟：将立即恢复对伊朗核相关制裁",
+          "url": "https://wallstreetcn.com/livenews/2981026",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            19,
-            30
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科幻！谷歌放出Gemini Robotics-ER 1.5：机器人有了真正的思考力",
-          "url": "https://wallstreetcn.com/articles/3756388",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信建投：美债收益率反弹可能性不大",
-          "url": "https://flash.jin10.com/detail/20250928191254050800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     }
