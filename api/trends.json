@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-29T11:15:03.114616+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2025-09-29T12:33:38.827057+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“清洗”一轮又一轮，FBI为何总被特朗普“盯上”",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时33分]"
         },
         {
           "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
@@ -51,11 +52,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时33分]"
         },
         {
           "title": "周末加班发梗图，特朗普真想“开掉”美联储主席",
@@ -134,8 +136,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 11时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 12时33分]"
         },
         {
           "title": "据约旦国家通讯社：约旦国王表示，特朗普加沙计划的许多细节“符合已达成的协议”。",
@@ -173,6 +175,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普加大对俄施压？万斯证实：美国正考虑对乌提供“战斧”导弹",
+          "url": "https://www.cls.cn/detail/2158759",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 12时33分]"
         },
         {
           "title": "特朗普宣称中东和平协议“必将达成”",
@@ -213,18 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普加大对俄施压？万斯证实：美国正考虑对乌提供“战斧”导弹",
-          "url": "https://www.cls.cn/detail/2158759",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 11时15分]"
         },
         {
           "title": "评论员：特朗普决心向美军“开刀”",
@@ -277,15 +280,37 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "美国证交会主席阿特金斯表示，企业财报的发布频率应由市场决定。加快批准特朗普废除公司季度报告的提议。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2981242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "AXIOS网站记者透露称，美国与以色列已非常接近就特朗普结束加沙冲突的计划达成协议。",
           "url": "https://flash.jin10.com/detail/20250929103827413800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "据英国金融时报：美国证交会主席阿特金斯表示，正快速推进特朗普的提议，即赋予公司半年报告一次的选择权。",
+          "url": "https://flash.jin10.com/detail/20250929120718564800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "市场消息：美国总统特朗普将于美东时间周一上午10:15（北京时间22:15）签署行政命令，并计划于美东时间周一上午11:35（北京时间23:35）与以色列总理内塔尼亚胡会面。",
@@ -294,7 +319,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -313,7 +338,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "联合国恢复对伊朗制裁，会引发又一场战争吗？",
@@ -470,6 +495,17 @@
           "time_info": "[00时27分 ~ 05时22分]"
         },
         {
+          "title": "日本外相就联合国恢复对伊朗制裁发表谈话",
+          "url": "https://flash.jin10.com/detail/20250929122516223800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "伊朗议长说将对等严肃回应任何行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF%E8%AF%B4%E5%B0%86%E5%AF%B9%E7%AD%89%E4%B8%A5%E8%82%83%E5%9B%9E%E5%BA%94%E4%BB%BB%E4%BD%95%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -497,7 +533,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "亚洲市场盘初，美股三大股指期货微涨。现货黄金小幅低开。",
@@ -523,6 +559,17 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "还在担心美股泡沫？华尔街叫你思路打开：高估值或成“新常态”！",
+          "url": "https://www.cls.cn/detail/2158762",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "亚洲市场盘初，美股三大股指期货微涨。现货黄金小幅低开。美油、布油跌超1%。欧佩克+计划再度上调原油产量，特朗普称中东和平协议“必将达成”，伊拉克库尔德斯坦地区恢复经土耳其出口原油。",
           "url": "https://wallstreetcn.com/livenews/2981070",
           "source": "华尔街见闻-快讯",
@@ -532,6 +579,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI「GPT门」事件引爆！Plus、Pro账户统统降配，偷换模型全网实锤",
+          "url": "https://wallstreetcn.com/articles/3756415",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -546,9 +610,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度黄金期货价格创下每10克114,552卢比的历史新高。",
+          "url": "https://flash.jin10.com/detail/20250929113508272800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     }
