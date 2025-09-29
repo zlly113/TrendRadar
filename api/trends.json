@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-30T02:38:03.330505+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2025-09-30T03:22:22.956300+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 31,
       "titles": [
         {
           "title": "卡塔尔外交部：以色列总理内塔尼亚胡在与美国总统特朗普以及卡塔尔首相的电话通话中，就袭击多哈一事致歉。",
@@ -14,31 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
         {
-          "title": "白宫：该委员会将由美国总统特朗普担任主席，其他成员包括多位国家元首，具体人选将另行公布，其中包括前英国首相托尼·布莱尔。",
-          "url": "https://flash.jin10.com/detail/20250930021605886800",
+          "title": "市场消息：特朗普在白宫的讲话结束，没有回答任何问题。",
+          "url": "https://flash.jin10.com/detail/20250930031242301800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "白宫公布美国总统特朗普针对结束加沙冲突的全面计划。",
-          "url": "https://wallstreetcn.com/livenews/2981672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普又“侮辱了他”",
@@ -48,8 +37,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普和内塔尼亚胡在新闻发布会结束时握手。",
+          "url": "https://flash.jin10.com/detail/20250930031220645800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "打乱安排？特朗普决定出席",
@@ -59,8 +59,79 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
+        },
+        {
+          "title": "白宫：该委员会将由美国总统特朗普担任主席，其他成员包括多位国家元首，具体人选将另行公布，其中包括前英国首相托尼·布莱尔。",
+          "url": "https://flash.jin10.com/detail/20250930021605886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普：我正在等待文件签署。",
+          "url": "https://flash.jin10.com/detail/20250930031207640800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡已接受其加沙和平计划",
+          "url": "https://wallstreetcn.com/livenews/2981684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "认识一下特朗普的“影子首相”，重塑美国计划的总设计师！",
+          "url": "https://wallstreetcn.com/articles/3756467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普已授权乌对俄发动纵深攻击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E6%8E%88%E6%9D%83%E4%B9%8C%E5%AF%B9%E4%BF%84%E5%8F%91%E5%8A%A8%E7%BA%B5%E6%B7%B1%E6%94%BB%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            17,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普准备随时对委内瑞拉开战吗",
+          "url": "https://www.toutiao.com/trending/7555494231888891401/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         },
         {
           "title": "瑞士提出经过优化的黄金冶炼方案，希望换取特朗普降低关税",
@@ -88,41 +159,16 @@
           "time_info": "[00时27分 ~ 01时23分]"
         },
         {
-          "title": "认识一下特朗普的“影子首相”，重塑美国计划的总设计师！",
-          "url": "https://wallstreetcn.com/articles/3756467",
-          "source": "华尔街见闻",
+          "title": "白宫公布美国总统特朗普针对结束加沙冲突的全面计划。",
+          "url": "https://wallstreetcn.com/livenews/2981672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
-        },
-        {
-          "title": "特朗普已授权乌对俄发动纵深攻击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E6%8E%88%E6%9D%83%E4%B9%8C%E5%AF%B9%E4%BF%84%E5%8F%91%E5%8A%A8%E7%BA%B5%E6%B7%B1%E6%94%BB%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
-        },
-        {
-          "title": "特朗普准备随时对委内瑞拉开战吗",
-          "url": "https://www.toutiao.com/trending/7555494231888891401/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时22分]"
         },
         {
           "title": "瑞士拟投资美国黄金精炼业 以换取特朗普下调关税",
@@ -135,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时23分]"
+        },
+        {
+          "title": "Peabody赞赏美国总统特朗普政府对煤炭行业所做承诺。",
+          "url": "https://wallstreetcn.com/livenews/2981660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时22分]"
         },
         {
           "title": "PIMCO首席执行官：特朗普关税不确定性导致美国股市面临风险",
@@ -155,20 +213,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
         {
-          "title": "Peabody赞赏美国总统特朗普政府对煤炭行业所做承诺。",
-          "url": "https://wallstreetcn.com/livenews/2981660",
+          "title": "以色列谢克尔兑美元刷新日高，美国总统特朗普披露所谓的（二十点）和平方案。 特朗普声称，以色列将分阶段（从占领的哈马斯所在地区）撤军。 “和平委员会”将由特朗普自己主导，这可不是“我要求的”。 卡塔尔外交部称，以色列总理内塔尼亚胡就多哈袭击（造成当地民众丧亡）事件“道歉”。",
+          "url": "https://wallstreetcn.com/livenews/2981682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普宣布结束以哈冲突的20点计划 以方已表示接受计划",
+          "url": "https://flash.jin10.com/detail/20250930030717839800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国总统特朗普：有信心加沙地区很快将实现和平。",
@@ -180,6 +249,105 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国总统特朗普：建立和平并非易事。",
+          "url": "https://flash.jin10.com/detail/20250930025442295800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：提案极其公平。",
+          "url": "https://flash.jin10.com/detail/20250930025432340800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：阿拉伯和穆斯林伙伴已准备好为加沙人民挺身而出。",
+          "url": "https://flash.jin10.com/detail/20250930025413136800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：已就美国、以色列、卡塔尔之间启动三方安全机制达成一致，现在是哈马斯接受条件的时候了。",
+          "url": "https://flash.jin10.com/detail/20250930025355202800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：与卡塔尔首相进行了深入会谈。",
+          "url": "https://flash.jin10.com/detail/20250930025225700800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后会见美国国会两院两党领导人，就避免政府停摆问题进行紧急磋商。",
+          "url": "https://flash.jin10.com/detail/20250930025000002800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普谈亚伯拉罕协议：预计伊朗终将成为一员。",
+          "url": "https://flash.jin10.com/detail/20250930024614517800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：许多巴勒斯坦人希望和平生活，巴勒斯坦人与哈马斯共度了艰难岁月。",
+          "url": "https://flash.jin10.com/detail/20250930024343543800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：各国已愚蠢地承认了巴勒斯坦国。",
+          "url": "https://flash.jin10.com/detail/20250930024136489800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普称将对所有在美国境外制作的电影征收100%关税",
@@ -206,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         },
         {
           "title": "DeepSeek-V3.2-Exp官宣发布，API价格下调超50%",
@@ -217,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         },
         {
           "title": "DeepSeek又更新了",
@@ -226,11 +394,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         },
         {
           "title": "DeepSeek-V3.2-Exp模型正式发布",
@@ -240,8 +409,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         },
         {
           "title": "DeepSeek-V3.2-Exp 版本更新，有哪些信息值得关注？",
@@ -288,11 +457,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时22分]"
         }
       ]
     },
@@ -383,8 +553,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时22分]"
         }
       ]
     }
