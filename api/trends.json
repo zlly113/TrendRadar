@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-09-29T07:23:06.860569+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-09-29T09:57:08.063051+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "“清洗”一轮又一轮，FBI为何总被特朗普“盯上”",
           "url": "https://news.ifeng.com/c/8n1CTRiNEyE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时57分]"
         },
         {
           "title": "特朗普为何起诉政敌",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时57分]"
         },
         {
           "title": "九千亿“关税投资”摩擦升温 韩日均提及可能要与特朗普“再谈谈”",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时57分]"
         },
         {
           "title": "周末加班发梗图，特朗普真想“开掉”美联储主席",
@@ -49,17 +50,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
-          "url": "https://wallstreetcn.com/articles/3756420",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -77,6 +67,18 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "白宫紧急磋商：特朗普拟约见国会领导人，应对关门危机",
+          "url": "https://wallstreetcn.com/articles/3756420",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时57分]"
+        },
+        {
           "title": "特朗普起诉前FBI局长始末",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E5%89%8DFBI%E5%B1%80%E9%95%BF%E5%A7%8B%E6%9C%AB",
           "source": "bilibili 热搜",
@@ -86,11 +88,12 @@
             23,
             17,
             14,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时57分]"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将于周二出席与高级将领的会议。",
@@ -154,7 +157,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -225,6 +228,28 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
+          "title": "特朗普政府又被起诉了",
+          "url": "https://news.ifeng.com/c/8n2HYxpzBd4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "特朗普加大对俄施压？万斯证实：美国正考虑对乌提供“战斧”导弹",
+          "url": "https://www.cls.cn/detail/2158759",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "市场消息：美国俄勒冈州已提起诉讼，要求阻止特朗普派遣军队的部署行动。州政府指控此举借口牵强，并强调自6月以来，移民与海关执法局（ICE）相关的抗议活动规模有限且相对受控。",
           "url": "https://flash.jin10.com/detail/20250929053420192800",
           "source": "金十数据",
@@ -235,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "评论员：特朗普决心向美军“开刀”",
+          "url": "https://www.toutiao.com/trending/7554212610854354963/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
           "title": "为何特朗普执意在美国国内动用军队",
@@ -251,7 +287,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗军方：已准备好应对任何威胁",
@@ -344,6 +380,17 @@
           "time_info": "[00时27分 ~ 06时23分]"
         },
         {
+          "title": "联合国恢复对伊朗制裁，会引发又一场战争吗？",
+          "url": "https://news.ifeng.com/c/8n2EMXVV4A6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "联合国确认安理会涉伊朗制裁决议已重新生效",
           "url": "https://flash.jin10.com/detail/20250928222903912800",
           "source": "金十数据",
@@ -415,7 +462,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
@@ -455,7 +502,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
