@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-30T16:37:00.654265+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2025-09-30T17:28:20.614257+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普在白宫会见以总理",
@@ -15,11 +15,12 @@
             1,
             2,
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时28分]"
         },
         {
           "title": "特朗普又“侮辱了他”",
@@ -98,6 +99,17 @@
           "time_info": "[09时51分 ~ 12时30分]"
         },
         {
+          "title": "特朗普做东，内塔尼亚胡道歉",
+          "url": "https://news.ifeng.com/c/8n4UZ14f95i",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时28分]"
+        },
+        {
           "title": "内塔尼亚胡见特朗普疑遭冷落",
           "url": "https://www.toutiao.com/trending/7554967665635262491/",
           "source": "今日头条",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普做东，内塔尼亚胡道歉",
-          "url": "https://news.ifeng.com/c/8n4UZ14f95i",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "特朗普称以同意结束加沙冲突计划",
@@ -193,6 +194,18 @@
           "time_info": "03时22分"
         },
         {
+          "title": "谁是特朗普夫妇的“电梯杀手”？",
+          "url": "https://news.ifeng.com/c/8n4KSRTxdbT",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时28分]"
+        },
+        {
           "title": "美国官员：总统特朗普与国会山领导层正在开会。",
           "url": "https://wallstreetcn.com/livenews/2981701",
           "source": "华尔街见闻-快讯",
@@ -217,17 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时23分]"
-        },
-        {
-          "title": "谁是特朗普夫妇的“电梯杀手”？",
-          "url": "https://news.ifeng.com/c/8n4KSRTxdbT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 16时37分]"
         },
         {
           "title": "特朗普和内塔尼亚胡在新闻发布会结束时握手。",
@@ -328,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时23分]"
+        },
+        {
+          "title": "美总统特朗普下令10月14日起对进口木材与橱柜加征关税",
+          "url": "https://www.cls.cn/detail/2160162",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时28分]"
         },
         {
           "title": "特朗普称以总理已接受加沙和平计划",
@@ -475,17 +489,6 @@
           "time_info": "[04时25分 ~ 05时23分]"
         },
         {
-          "title": "美总统特朗普下令10月14日起对进口木材与橱柜加征关税",
-          "url": "https://www.cls.cn/detail/2160162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
           "title": "哈马斯官员：尚未收到特朗普提出的加沙和平计划",
           "url": "https://wallstreetcn.com/livenews/2981709",
           "source": "华尔街见闻-快讯",
@@ -582,6 +585,18 @@
           "time_info": "[13时26分 ~ 14时40分]"
         },
         {
+          "title": "特朗普新一轮关税来袭 影响将有多大",
+          "url": "https://www.toutiao.com/trending/7555753974343683630/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 17时28分]"
+        },
+        {
           "title": "美国人认为特朗普带领国家走错方向",
           "url": "https://www.toutiao.com/trending/7554849987079880730/",
           "source": "今日头条",
@@ -602,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "中方回应特朗普结束加沙战争计划",
+          "url": "https://www.toutiao.com/trending/7555560830050340391/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "法国总统马克龙：欢迎美国总统特朗普致力于结束加沙战争并确保所有被扣押人质获释。",
@@ -736,17 +762,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普新一轮关税来袭 影响将有多大",
-          "url": "https://www.toutiao.com/trending/7555753974343683630/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
           "title": "美国总统特朗普：与卡塔尔首相进行了深入会谈。",
           "url": "https://flash.jin10.com/detail/20250930025225700800",
           "source": "金十数据",
@@ -833,6 +848,182 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "DeepSeek大模型V3.2亮相！华为、寒武纪芯片同步适配开源，首次自研DSA注意力机制，API价格砍半",
+          "url": "https://wallstreetcn.com/articles/3756474",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 17时28分]"
+        },
+        {
+          "title": "DeepSeek-V3.2-Exp官宣发布，API价格下调超50%",
+          "url": "https://www.cls.cn/detail/2159813",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时51分]"
+        },
+        {
+          "title": "DeepSeek又更新了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%8F%88%E6%9B%B4%E6%96%B0%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3,
+            5,
+            14,
+            15,
+            17,
+            10,
+            12,
+            22,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 17时28分]"
+        },
+        {
+          "title": "DeepSeek更新有哪些突破",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5,
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时28分]"
+        },
+        {
+          "title": "华为昇腾、寒武纪、海光信息适配DeepSeek最新模型",
+          "url": "https://www.cls.cn/detail/2160149",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时28分]"
+        },
+        {
+          "title": "国产AI软硬协同加速：DeepSeek新模型上线 一众芯片厂商官宣Day 0适配",
+          "url": "https://www.cls.cn/detail/2160186",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 17时28分]"
+        },
+        {
+          "title": "DeepSeek-V3.2-Exp模型正式发布",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V3.2-Exp%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
+          "url": "https://wallstreetcn.com/articles/3756527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时28分]"
+        },
+        {
+          "title": "DeepSeek-V3.2-Exp发布并开源 国产芯片深度协同有望全面受益",
+          "url": "https://www.cls.cn/detail/2160095",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 16时37分]"
+        },
+        {
+          "title": "DeepSeek在下一代AI模型中首次引入“稀疏注意力”机制",
+          "url": "https://wallstreetcn.com/livenews/2981689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时23分]"
+        },
+        {
+          "title": "DeepSeek-V3.2-Exp 版本更新，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1956013610666005512",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时23分]"
+        },
+        {
+          "title": "DeepSeek新模型降价：优化推理效率，API价格降超50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31707423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 17时28分]"
+        },
+        {
+          "title": "国产AI的“伟大闭环”！DeepSeek“不起眼的一句话”可能改变整个GPU编程生态",
+          "url": "https://wallstreetcn.com/articles/3756531",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -965,7 +1156,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -976,7 +1167,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -990,167 +1181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "DeepSeek大模型V3.2亮相！华为、寒武纪芯片同步适配开源，首次自研DSA注意力机制，API价格砍半",
-          "url": "https://wallstreetcn.com/articles/3756474",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek-V3.2-Exp官宣发布，API价格下调超50%",
-          "url": "https://www.cls.cn/detail/2159813",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时51分]"
-        },
-        {
-          "title": "DeepSeek又更新了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%8F%88%E6%9B%B4%E6%96%B0%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3,
-            5,
-            14,
-            15,
-            17,
-            10,
-            12,
-            22,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek更新有哪些突破",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek-V3.2-Exp模型正式发布",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V3.2-Exp%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "华为昇腾、寒武纪、海光信息适配DeepSeek最新模型",
-          "url": "https://www.cls.cn/detail/2160149",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
-        },
-        {
-          "title": "国产AI软硬协同加速：DeepSeek新模型上线 一众芯片厂商官宣Day 0适配",
-          "url": "https://www.cls.cn/detail/2160186",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
-          "url": "https://wallstreetcn.com/articles/3756527",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek-V3.2-Exp发布并开源 国产芯片深度协同有望全面受益",
-          "url": "https://www.cls.cn/detail/2160095",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek在下一代AI模型中首次引入“稀疏注意力”机制",
-          "url": "https://wallstreetcn.com/livenews/2981689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时23分]"
-        },
-        {
-          "title": "DeepSeek-V3.2-Exp 版本更新，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1956013610666005512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时23分]"
-        },
-        {
-          "title": "DeepSeek新模型降价：优化推理效率，API价格降超50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31707423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     },
@@ -1305,8 +1335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时28分]"
         },
         {
           "title": "金价银价创新高",
@@ -1319,8 +1349,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 17时28分]"
         },
         {
           "title": "图解9月大事件：美联储降息25个基点 金价迭创历史新高",
@@ -1328,11 +1358,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 17时28分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约0.6%，与金价同创历史新高",
@@ -1391,7 +1422,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -1475,8 +1506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时28分]"
         },
         {
           "title": "美国政府关门在即，美股美债齐涨，黄金创历史新高，美油一度跌4%",
