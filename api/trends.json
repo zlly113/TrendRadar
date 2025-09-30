@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-30T14:40:23.183353+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-09-30T15:30:30.524025+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普又“侮辱了他”",
@@ -40,8 +40,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普在白宫会见以总理",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E4%BB%A5%E6%80%BB%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普“现挂”提议，内塔尼亚胡连连咳嗽",
+          "url": "https://news.ifeng.com/c/8n46pDlzJR6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时30分]"
         },
         {
           "title": "特朗普准备随时对委内瑞拉开战吗",
@@ -56,32 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普在白宫会见以总理",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E4%BB%A5%E6%80%BB%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普“现挂”提议，内塔尼亚胡连连咳嗽",
-          "url": "https://news.ifeng.com/c/8n46pDlzJR6",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时40分]"
         },
         {
           "title": "特朗普宣布以色列同意加沙“20点计划”，内容曝光",
@@ -134,6 +135,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普政府撤销前政府民用枪支出口限制",
+          "url": "https://flash.jin10.com/detail/20250930145811478800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "白宫：该委员会将由美国总统特朗普担任主席，其他成员包括多位国家元首，具体人选将另行公布，其中包括前英国首相托尼·布莱尔。",
           "url": "https://flash.jin10.com/detail/20250930021605886800",
           "source": "金十数据",
@@ -161,11 +173,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时30分]"
         },
         {
           "title": "美国官员：总统特朗普与国会山领导层正在开会。",
@@ -294,6 +307,17 @@
           "time_info": "[07时23分 ~ 11时04分]"
         },
         {
+          "title": "谁是特朗普夫妇的“电梯杀手”？",
+          "url": "https://news.ifeng.com/c/8n4KSRTxdbT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时30分]"
+        },
+        {
           "title": "英国首相斯塔默：美国提出的新倡议旨在彻底结束加沙的战争，我们对此深表欢迎，并对特朗普总统的领导力表示感谢。",
           "url": "https://flash.jin10.com/detail/20250930053520070800",
           "source": "金十数据",
@@ -364,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普说承认巴勒斯坦国是愚蠢行为",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD%E6%98%AF%E6%84%9A%E8%A0%A2%E8%A1%8C%E4%B8%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D28%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AF%25B4%25E6%2589%25BF%25E8%25AE%25A4%25E5%25B7%25B4%25E5%258B%2592%25E6%2596%25AF%25E5%259D%25A6%25E5%259B%25BD%25E6%2598%25AF%25E6%2584%259A%25E8%25A0%25A2%25E8%25A1%258C%25E4%25B8%25BA%2523%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26realpos%3D28%26dgr%3D0%26display_time%3D1759214285%26pre_seqid%3D17592142853050236579201",
+          "source": "微博",
+          "ranks": [
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时30分]"
         },
         {
           "title": "哈马斯官员：尚未收到特朗普提出的加沙和平计划",
@@ -533,17 +569,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "谁是特朗普夫妇的“电梯杀手”？",
-          "url": "https://news.ifeng.com/c/8n4KSRTxdbT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "法国总统马克龙：欢迎美国总统特朗普致力于结束加沙战争并确保所有被扣押人质获释。",
           "url": "https://flash.jin10.com/detail/20250930042030951800",
           "source": "金十数据",
@@ -621,6 +646,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欢迎特朗普的加沙计划。",
+          "url": "https://flash.jin10.com/detail/20250930143357932800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "美国总统特朗普：提案极其公平。",
           "url": "https://flash.jin10.com/detail/20250930025432340800",
           "source": "金十数据",
@@ -663,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普新一轮关税来袭 影响将有多大",
+          "url": "https://www.toutiao.com/trending/7555753974343683630/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "美国总统特朗普：与卡塔尔首相进行了深入会谈。",
@@ -720,17 +767,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普说承认巴勒斯坦国是愚蠢行为",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD%E6%98%AF%E6%84%9A%E8%A0%A2%E8%A1%8C%E4%B8%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D28%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AF%25B4%25E6%2589%25BF%25E8%25AE%25A4%25E5%25B7%25B4%25E5%258B%2592%25E6%2596%25AF%25E5%259D%25A6%25E5%259B%25BD%25E6%2598%25AF%25E6%2584%259A%25E8%25A0%25A2%25E8%25A1%258C%25E4%25B8%25BA%2523%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26realpos%3D28%26dgr%3D0%26display_time%3D1759214285%26pre_seqid%3D17592142853050236579201",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "美国总统特朗普：许多巴勒斯坦人希望和平生活，巴勒斯坦人与哈马斯共度了艰难岁月。",
           "url": "https://flash.jin10.com/detail/20250930024343543800",
           "source": "金十数据",
@@ -767,7 +803,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek大模型V3.2亮相！华为、寒武纪芯片同步适配开源，首次自研DSA注意力机制，API价格砍半",
@@ -777,8 +813,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 15时30分]"
         },
         {
           "title": "DeepSeek-V3.2-Exp官宣发布，API价格下调超50%",
@@ -805,11 +841,12 @@
             17,
             10,
             12,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 15时30分]"
         },
         {
           "title": "DeepSeek-V3.2-Exp模型正式发布",
@@ -829,24 +866,12 @@
           "ranks": [
             2,
             5,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时40分]"
-        },
-        {
-          "title": "华为昇腾、寒武纪、海光信息适配DeepSeek最新模型",
-          "url": "https://www.cls.cn/detail/2160149",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时30分]"
         },
         {
           "title": "国产AI软硬协同加速：DeepSeek新模型上线 一众芯片厂商官宣Day 0适配",
@@ -855,11 +880,38 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时30分]"
+        },
+        {
+          "title": "华为昇腾、寒武纪、海光信息适配DeepSeek最新模型",
+          "url": "https://www.cls.cn/detail/2160149",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时30分]"
+        },
+        {
+          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
+          "url": "https://wallstreetcn.com/articles/3756527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时30分]"
         },
         {
           "title": "DeepSeek在下一代AI模型中首次引入“稀疏注意力”机制",
@@ -885,15 +937,15 @@
           "time_info": "[00时27分 ~ 01时23分]"
         },
         {
-          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
-          "url": "https://wallstreetcn.com/articles/3756527",
-          "source": "华尔街见闻",
+          "title": "DeepSeek-V3.2-Exp发布并开源 国产芯片深度协同有望全面受益",
+          "url": "https://www.cls.cn/detail/2160095",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "15时30分"
         },
         {
           "title": "DeepSeek新模型降价：优化推理效率，API价格降超50%",
@@ -970,6 +1022,19 @@
           "time_info": "[01时23分 ~ 03时22分]"
         },
         {
+          "title": "无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！",
+          "url": "https://www.cls.cn/detail/2160132",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时30分]"
+        },
+        {
           "title": "OpenAI深耕电商版图：ChatGPT秒变购物+支付一体机",
           "url": "https://www.cls.cn/detail/2160043",
           "source": "财联社热门",
@@ -980,18 +1045,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时04分 ~ 14时40分]"
-        },
-        {
-          "title": "无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！",
-          "url": "https://www.cls.cn/detail/2160132",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时40分]"
         },
         {
           "title": "OpenAI新版Sora将要求版权所有者主动“退出” 以免版权内容被生成视频",
@@ -1179,20 +1232,8 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "金价银价创新高",
-          "url": "https://www.douyin.com/hot/2254132",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时40分]"
-        },
         {
           "title": "特朗普白宫谈判失败，美国政府距离关门“还有一天多”，金价突破3800美元",
           "url": "https://wallstreetcn.com/articles/3756515",
@@ -1200,11 +1241,25 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时30分]"
+        },
+        {
+          "title": "金价银价创新高",
+          "url": "https://www.douyin.com/hot/2254132",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时40分]"
+          "time_info": "[12时30分 ~ 15时30分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约0.6%，与金价同创历史新高",
@@ -1238,11 +1293,12 @@
           "ranks": [
             22,
             26,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时30分]"
         },
         {
           "title": "金十图示：2025年09月30日（周二）上海金早盘价为870.99元/克，较国际金价(882.01元/克)，低11.02元/克",
@@ -1254,6 +1310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "图解9月大事件：美联储降息25个基点 金价迭创历史新高",
+          "url": "https://www.cls.cn/detail/2160432",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "准新娘叹气金价再涨手镯就要变耳环",
@@ -1335,8 +1402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时30分]"
         },
         {
           "title": "美国政府关门在即，美股美债齐涨，黄金创历史新高，美油一度跌4%",
