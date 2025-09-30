@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-01T02:33:52.937401+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-01T03:22:11.832271+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普宣布以色列同意“20点计划”",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "特朗普：我不喜欢哪个将领，会当场解雇他",
@@ -28,8 +28,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普逼内塔尼亚胡道歉后，中东变天了？",
+          "url": "https://news.ifeng.com/c/8n4cuan5qBI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普在白宫会见以总理",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E4%BB%A5%E6%80%BB%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美国贸易代表格里尔：8月1日的关税税率标志着特朗普未来的关税结构。",
@@ -43,6 +67,20 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普关税子弹击中美国消费者钱包",
+          "url": "https://www.toutiao.com/trending/7555854523521043978/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            24,
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
           "title": "美国总统特朗普：下周将再次召开关于制药和药品定价的会议。",
           "url": "https://flash.jin10.com/detail/20251001005148930800",
           "source": "金十数据",
@@ -52,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普政府高级官员：处方药医疗补助返还机制将于2026年初启动。",
-          "url": "https://flash.jin10.com/detail/20251001022709169800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "市场消息：辉瑞从特朗普药品关税中获得三年宽限期。",
@@ -87,40 +114,29 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普逼内塔尼亚胡道歉后，中东变天了？",
-          "url": "https://news.ifeng.com/c/8n4cuan5qBI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普在白宫会见以总理",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E4%BB%A5%E6%80%BB%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
           "title": "民主党在美国众议院推动象征性的临时开支草案全体表决，但遭到特朗普阵营的阻挠",
           "url": "https://wallstreetcn.com/livenews/2982369",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普政府高级官员：处方药医疗补助返还机制将于2026年初启动。",
+          "url": "https://flash.jin10.com/detail/20251001022709169800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 03时22分]"
         },
         {
           "title": "特朗普与内塔尼亚胡会面会发生争吵吗",
@@ -136,29 +152,17 @@
           "time_info": "[00时31分 ~ 02时33分]"
         },
         {
-          "title": "特朗普关税子弹击中美国消费者钱包",
-          "url": "https://www.toutiao.com/trending/7555854523521043978/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
           "title": "美国总统特朗普：美国将派兵波特兰，那是一个战区。",
           "url": "https://wallstreetcn.com/livenews/2982365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时22分]"
         },
         {
           "title": "美国总统特朗普：另外一家医药公司也将在下周来和我谈判。",
@@ -166,11 +170,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时22分]"
         },
         {
           "title": "美国总统特朗普：辉瑞制药同意，按大幅折扣供应医药，这将有助于拉低医疗保险成本。 辉瑞将在美国投资700亿美元。 辉瑞是世界上最大、最伟大的公司之一。 正与其他医药公司谈判类似的协议。 美国消费者一直都在为研发成本提供补助。",
@@ -209,6 +214,18 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "特朗普政府高级官员：我们希望TRUMPRX.GOV能在2026年初上线。",
+          "url": "https://flash.jin10.com/detail/20251001021336328800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时22分]"
+        },
+        {
           "title": "瑞士央行行长Martin Schlegel：特朗普的美国关税威胁略微加重瑞士面临的那些风险。",
           "url": "https://wallstreetcn.com/livenews/2982356",
           "source": "华尔街见闻-快讯",
@@ -242,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国参议院少数派党鞭Dick Durbin：我将投票反对（总统特朗普所属）共和党的临时开支立法草案。 民主党参议院成员们的确在权宜性开支草案上的确团结一致。",
+          "url": "https://wallstreetcn.com/livenews/2982388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国总统特朗普：政府停摆并非不可避免，但很有可能会发生。",
@@ -330,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普政府高级官员：我们希望TRUMPRX.GOV能在2026年初上线。",
-          "url": "https://flash.jin10.com/detail/20251001021336328800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "美国总统特朗普：药品将可在美国政府网站上直接购买。",
@@ -543,8 +560,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "人类要小心了！OpenAI已全面评估AI对各行各业的工作替代",
@@ -554,8 +571,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "OpenAI发布社交APP，用于分享模型Sora 2生成的AI视频。 依托其AI视频生成器，新应用的用户可通过文本提示生成带音频的高清短视频。 用户可以上传自己的短片，并将其嵌入到Sora生成的虚拟世界中，只需描述所需的创意、风格和场景即可。 他们还可以与其他用户互动，观看并评论他人内容。 新版本Sora 2将采用类似TikTok、Instagram Reels和YouTube Shorts的滑动浏览导航方式，显示出OpenAI在硅谷AI视频赛道上的雄心。 OpenAI计划率先在美国和加拿大通过苹果App Store以邀请制推出该应用。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
+          "url": "https://wallstreetcn.com/livenews/2982367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时22分]"
+        },
+        {
+          "title": "OpenAI推出社交媒体应用 向TikTok、YouTube和Meta发起挑战",
+          "url": "https://flash.jin10.com/detail/20251001015051639800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时22分]"
         },
         {
           "title": "OpenAI发布社交APP，用于分享模型Sora生成的AI视频。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
@@ -567,28 +608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "OpenAI发布社交APP，用于分享模型Sora 2生成的AI视频。 依托其AI视频生成器，新应用的用户可通过文本提示生成带音频的高清短视频。 用户可以上传自己的短片，并将其嵌入到Sora生成的虚拟世界中，只需描述所需的创意、风格和场景即可。 他们还可以与其他用户互动，观看并评论他人内容。 新版本Sora 2将采用类似TikTok、Instagram Reels和YouTube Shorts的滑动浏览导航方式，显示出OpenAI在硅谷AI视频赛道上的雄心。 OpenAI计划率先在美国和加拿大通过苹果App Store以邀请制推出该应用。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
-          "url": "https://wallstreetcn.com/livenews/2982367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "OpenAI推出社交媒体应用 向TikTok、YouTube和Meta发起挑战",
-          "url": "https://flash.jin10.com/detail/20251001015051639800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         }
       ]
     },
@@ -597,26 +616,16 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251001005512916800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
           "title": "美国政府关门倒计时，美股三大股指集体走低，中概股多数上涨，黄金股普跌，CoreWeave涨约11%",
           "url": "https://wallstreetcn.com/articles/3756540",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美国政府关门危机逼近 美股期指下跌 | 今夜看点",
@@ -627,8 +636,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251001005512916800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美股费城银行指数指数跌超2%，标普500指数跌0.1%，道指跌超0.2%，纳指跌0.1%，罗素2000指数跌0.8%。 纳斯达克金龙中国指数跌超1%。",
@@ -660,18 +680,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
-          "url": "https://wallstreetcn.com/articles/3756527",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
           "title": "国产AI的“伟大闭环”！DeepSeek“不起眼的一句话”可能改变整个GPU编程生态",
           "url": "https://wallstreetcn.com/articles/3756531",
           "source": "华尔街见闻",
@@ -680,19 +688,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
+          "url": "https://wallstreetcn.com/articles/3756527",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "DeepSeek更新有哪些突破",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         }
       ]
     },
@@ -709,8 +731,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "政府停摆在即，美债价格有望连续第三个季度上涨",
@@ -736,22 +758,24 @@
           "url": "https://wallstreetcn.com/livenews/2982379",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时22分]"
         },
         {
           "title": "伊朗总统：美国无意通过谈判解决伊朗核问题",
           "url": "https://flash.jin10.com/detail/20251001021508157800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时22分]"
         }
       ]
     },
@@ -768,8 +792,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时22分]"
         }
       ]
     }
