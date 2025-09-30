@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-01T04:30:19.041059+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-10-01T05:23:14.291296+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普宣布以色列同意“20点计划”",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "特朗普：我不喜欢哪个将领，会当场解雇他",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "特朗普在白宫会见以总理",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "特朗普逼内塔尼亚胡道歉后，中东变天了？",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "特朗普关税子弹击中美国消费者钱包",
@@ -80,28 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：与哈佛大学达成协议。",
-          "url": "https://wallstreetcn.com/livenews/2982416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：签署关于儿科癌症研究的命令。",
-          "url": "https://wallstreetcn.com/livenews/2982415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
         },
         {
           "title": "美国总统特朗普：下周将再次召开关于制药和药品定价的会议。",
@@ -148,6 +126,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：与哈佛大学达成协议。",
+          "url": "https://wallstreetcn.com/livenews/2982416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
+          "title": "美国总统特朗普：签署关于儿科癌症研究的命令。",
+          "url": "https://wallstreetcn.com/livenews/2982415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
         },
         {
           "title": "特朗普政府高级官员：处方药医疗补助返还机制将于2026年初启动。",
@@ -285,6 +287,18 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "美国芝加哥联储主席Goolsbee：美国政府停摆/关门期间无法获取就业数据，那将让我痛苦不堪。 希望确保关税通胀不会长期存在。 在通胀上升期间按兵不动，其效果等同于降息。 多次靠前降息将让人感到不安。 企业高管们对（总统特朗普关税相关的）成本感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/2982398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
+        },
+        {
           "title": "辉瑞制药从美国总统特朗普医药关税中获得三年宽限期。 辉瑞（PFE）维持大约3.7%的涨幅。",
           "url": "https://wallstreetcn.com/livenews/2982354",
           "source": "华尔街见闻-快讯",
@@ -295,6 +309,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：预计美国总统特朗普将在亚洲之行签署贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251001044622204800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：若政府关门，将不得不（在政府部门）临时裁员。",
+          "url": "https://wallstreetcn.com/livenews/2982422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：接近敲定与哈佛大学的协议。 哈佛将开设职业学校，将支付大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2982421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "美国总统特朗普：政府停摆并非不可避免，但很有可能会发生。",
@@ -391,18 +438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：美国政府停摆/关门期间无法获取就业数据，那将让我痛苦不堪。 希望确保关税通胀不会长期存在。 在通胀上升期间按兵不动，其效果等同于降息。 多次靠前降息将让人感到不安。 企业高管们对（总统特朗普关税相关的）成本感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/2982398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         },
@@ -435,9 +471,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "美国总统特朗普：很快将前往芝加哥。",
+          "url": "https://flash.jin10.com/detail/20251001043220505800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "特朗普炫耀美国核武库 批评梅德韦杰夫",
@@ -462,6 +509,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普：政府停摆可以带来很多好处。政府停摆期间我们将裁掉大量员工。",
+          "url": "https://flash.jin10.com/detail/20251001042754242800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美国总统特朗普：礼来公司表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251001003748835800",
           "source": "金十数据",
@@ -473,6 +531,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普：接近与哈佛大学敲定协议。",
+          "url": "https://flash.jin10.com/detail/20251001042659993800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美国总统特朗普：（谈政府支出）和参议院少数党领袖舒默、众议院少数党领袖杰弗瑞斯进行了很好的讨论。",
           "url": "https://flash.jin10.com/detail/20251001003741096800",
           "source": "金十数据",
@@ -482,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：与哈佛达成协议，哈佛将支付5亿美元，哈佛将开设商学院，教授人工智能。",
+          "url": "https://flash.jin10.com/detail/20251001042536649800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "美国总统特朗普：药品降价将立即生效。",
@@ -608,7 +688,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国政府关门倒计时，美股三大股指集体走低，中概股多数上涨，黄金股普跌，CoreWeave涨约11%",
@@ -620,8 +700,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "美国政府关门危机逼近 美股期指下跌 | 今夜看点",
@@ -632,19 +712,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
-        },
-        {
-          "title": "周二（9月30日）美股尾盘，彭博电动汽车价格回报指数报3439.09点，9月份累计上涨12.18%，整体持续上行，三季度累计上涨39.45%。",
-          "url": "https://wallstreetcn.com/livenews/2982417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股盘中）",
@@ -656,6 +725,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国能源部长Chris Wright说，美国政府持股Lithium Americas，拥有后续的退出策略。美国将对公司持股5%，对（其在美国的）矿场持股5%。该公司纽交所股价收跌0.17%，美股盘后涨12.26%；加拿大多伦多股价收跌0.50%，盘后跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/2982426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国能源部负责人称美国政府将入股锂美公司（Lithium Americas），该公司股价美股盘后上涨10%。",
+          "url": "https://flash.jin10.com/detail/20251001045152924800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后持平。 美国贸易代表格里尔预计，总统特朗普亚洲之行将签署贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/2982425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "周二（9月30日）美股尾盘，彭博电动汽车价格回报指数报3439.09点，9月份累计上涨12.18%，整体持续上行，三季度累计上涨39.45%。",
+          "url": "https://wallstreetcn.com/livenews/2982417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
         },
         {
           "title": "美股费城银行指数指数跌超2%，标普500指数跌0.1%，道指跌超0.2%，纳指跌0.1%，罗素2000指数跌0.8%。 纳斯达克金龙中国指数跌超1%。",
@@ -679,6 +793,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "受业绩提振，耐克(NKE.N)美股盘后涨3.4%。",
+          "url": "https://flash.jin10.com/detail/20251001041821521800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251001041534786800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年09月30日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251001041531487800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -694,8 +841,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "人类要小心了！OpenAI已全面评估AI对各行各业的工作替代",
@@ -705,8 +852,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "OpenAI发布社交APP，用于分享模型Sora 2生成的AI视频。 依托其AI视频生成器，新应用的用户可通过文本提示生成带音频的高清短视频。 用户可以上传自己的短片，并将其嵌入到Sora生成的虚拟世界中，只需描述所需的创意、风格和场景即可。 他们还可以与其他用户互动，观看并评论他人内容。 新版本Sora 2将采用类似TikTok、Instagram Reels和YouTube Shorts的滑动浏览导航方式，显示出OpenAI在硅谷AI视频赛道上的雄心。 OpenAI计划率先在美国和加拿大通过苹果App Store以邀请制推出该应用。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
@@ -758,8 +905,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
@@ -771,8 +918,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "DeepSeek更新有哪些突破",
@@ -781,11 +928,12 @@
           "ranks": [
             10,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -802,8 +950,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "政府停摆在即，美债价格有望连续第三个季度上涨",
@@ -823,11 +971,12 @@
           "url": "https://wallstreetcn.com/livenews/2982400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
         }
       ]
     },
@@ -867,7 +1016,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -875,7 +1024,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌母公司Alphabet三季度累计上涨38%，创2005年以来最佳单季表现。",
@@ -884,9 +1033,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达三季度涨超18%，谷歌A创二十年来最佳季度表现，特斯拉同期涨40%",
+          "url": "https://wallstreetcn.com/livenews/2982413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -903,8 +1063,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -917,11 +1077,12 @@
           "url": "https://wallstreetcn.com/livenews/2982399",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时23分]"
         }
       ]
     }
