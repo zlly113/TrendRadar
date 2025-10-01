@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-01T07:23:39.490022+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-10-01T10:04:09.972079+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：我不喜欢哪个将领，会当场解雇他",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时04分]"
         },
         {
           "title": "特朗普宣布以色列同意“20点计划”",
@@ -87,17 +87,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普称将动用军队整顿旧金山、纽约等地",
-          "url": "https://wallstreetcn.com/livenews/2982452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美国总统特朗普：下周将再次召开关于制药和药品定价的会议。",
           "url": "https://flash.jin10.com/detail/20251001005148930800",
           "source": "金十数据",
@@ -107,17 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普重提“让加拿大成为第51州”",
-          "url": "https://wallstreetcn.com/livenews/2982451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "市场消息：辉瑞从特朗普药品关税中获得三年宽限期。",
@@ -195,6 +173,18 @@
           "time_info": "[01时22分 ~ 03时22分]"
         },
         {
+          "title": "特朗普称将动用军队整顿旧金山、纽约等地",
+          "url": "https://wallstreetcn.com/livenews/2982452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时04分]"
+        },
+        {
           "title": "特朗普政府高级官员：处方药医疗补助返还机制将于2026年初启动。",
           "url": "https://flash.jin10.com/detail/20251001022709169800",
           "source": "金十数据",
@@ -205,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普重提“让加拿大成为第51州”",
+          "url": "https://wallstreetcn.com/livenews/2982451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时04分]"
         },
         {
           "title": "特朗普与内塔尼亚胡会面会发生争吵吗",
@@ -272,6 +274,18 @@
           "time_info": "[01时22分 ~ 03时22分]"
         },
         {
+          "title": "特朗普：哈马斯需在3至4天内回应",
+          "url": "https://www.douyin.com/hot/2255210",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 10时04分]"
+        },
+        {
           "title": "美国贸易代表格里尔：预计美国总统特朗普将在亚洲之行签署贸易协议。",
           "url": "https://flash.jin10.com/detail/20251001044622204800",
           "source": "金十数据",
@@ -320,6 +334,39 @@
           "time_info": "[03时22分 ~ 04时30分]"
         },
         {
+          "title": "特朗普喊话将领：不喜欢我职级不保",
+          "url": "https://www.toutiao.com/trending/7555490735814872595/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "“最后时刻”近在眼前！特朗普警告：确实可能政府关门，那将有“不可逆转的”裁减",
+          "url": "https://wallstreetcn.com/articles/3756565",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "释新闻｜特朗普的“20点计划”，为何难以带来“中东永久和平”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31713149",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
           "title": "美国总统特朗普：辉瑞制药同意，按大幅折扣供应医药，这将有助于拉低医疗保险成本。 辉瑞将在美国投资700亿美元。 辉瑞是世界上最大、最伟大的公司之一。 正与其他医药公司谈判类似的协议。 美国消费者一直都在为研发成本提供补助。",
           "url": "https://wallstreetcn.com/livenews/2982342",
           "source": "华尔街见闻-快讯",
@@ -344,6 +391,17 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "特朗普重提“让加拿大成为第51州”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%E2%80%9C%E8%AE%A9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%88%90%E4%B8%BA%E7%AC%AC51%E5%B7%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
           "title": "特朗普威胁要对没达成协议的医药公司额外征收5%-8%的关税",
           "url": "https://wallstreetcn.com/livenews/2982358",
           "source": "华尔街见闻-快讯",
@@ -366,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时22分]"
+        },
+        {
+          "title": "牛弹琴：美军重大变动？特朗普放大招",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%BE%8E%E5%86%9B%E9%87%8D%E5%A4%A7%E5%8F%98%E5%8A%A8%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "瑞士央行行长Martin Schlegel：特朗普的美国关税威胁略微加重瑞士面临的那些风险。",
@@ -402,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普称将动用军队整顿纽约等地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8A%A8%E7%94%A8%E5%86%9B%E9%98%9F%E6%95%B4%E9%A1%BF%E7%BA%BD%E7%BA%A6%E7%AD%89%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "辉瑞制药从美国总统特朗普医药关税中获得三年宽限期。 辉瑞（PFE）维持大约3.7%的涨幅。",
@@ -480,17 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普：哈马斯需在3至4天内回应",
-          "url": "https://www.douyin.com/hot/2255210",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：（谈政府支出）我们可以削减福利。",
@@ -760,7 +829,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国政府关门倒计时，美股三大股指集体走低，中概股多数上涨，黄金股普跌，CoreWeave涨约11%",
@@ -793,11 +862,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 10时04分]"
         },
         {
           "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股盘中）",
@@ -809,6 +879,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "黄金ETF收涨超0.8%，和日元ETF领跑美股大类资产类ETF，大豆基金则跌1%",
+          "url": "https://wallstreetcn.com/livenews/2982445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 10时04分]"
         },
         {
           "title": "周二（9月30日）美股尾盘，彭博电动汽车价格回报指数报3439.09点，9月份累计上涨12.18%，整体持续上行，三季度累计上涨39.45%。",
@@ -824,18 +907,6 @@
           "time_info": "[04时30分 ~ 06时24分]"
         },
         {
-          "title": "黄金ETF收涨超0.8%，和日元ETF领跑美股大类资产类ETF，大豆基金则跌1%",
-          "url": "https://wallstreetcn.com/livenews/2982445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
           "title": "美国能源部长Chris Wright说，美国政府持股Lithium Americas，拥有后续的退出策略。美国将对公司持股5%，对（其在美国的）矿场持股5%。该公司纽交所股价收跌0.17%，美股盘后涨12.26%；加拿大多伦多股价收跌0.50%，盘后跌1.01%。",
           "url": "https://wallstreetcn.com/livenews/2982426",
           "source": "华尔街见闻-快讯",
@@ -849,6 +920,19 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
+          "title": "医疗业ETF收涨2.4%，和生物科技ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2982444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 10时04分]"
+        },
+        {
           "title": "在美上市韩国ETF美股盘后持平。 美国贸易代表格里尔预计，总统特朗普亚洲之行将签署贸易协议。",
           "url": "https://wallstreetcn.com/livenews/2982425",
           "source": "华尔街见闻-快讯",
@@ -860,18 +944,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "医疗业ETF收涨2.4%，和生物科技ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2982444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "美国能源部负责人称美国政府将入股锂美公司（Lithium Americas），该公司股价美股盘后上涨10%。",
@@ -896,6 +968,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 道指、英伟达双双收新高",
+          "url": "https://www.cls.cn/detail/2161248",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "锂美公司（Lithium Americas）美股盘后持续拉升，一度涨近40%。此前美国能源部长赖特表示，美国政府将入股该公司以推进内华达州项目。",
@@ -977,11 +1060,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时04分]"
         },
         {
           "title": "付鹏最新思考：OpenAI-甲骨文-英伟达千亿投资，AI 资本开支狂欢下，BTC的算力定价逻辑与风险隐忧【付鹏说文章】",
@@ -1043,11 +1127,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时04分]"
         },
         {
           "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
@@ -1056,11 +1141,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时04分]"
         },
         {
           "title": "DeepSeek更新有哪些突破",
