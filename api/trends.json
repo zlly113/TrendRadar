@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-02T00:33:41.574625+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-02T01:24:16.096980+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.toutiao.com/trending/7556246294247771691/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "全美高级将领大会细节：特朗普讲话70分钟，台下沉默70分钟",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "特朗普想复活战列舰：我讲究审美，现代军舰丑爆了",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "美国顶尖科研人才跑去欧洲，欧洲人乐了：多亏了特朗普",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "释新闻｜特朗普的“20点计划”，为何难以带来“中东永久和平”？",
@@ -70,52 +71,68 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "特朗普盯上锂矿巨头！美洲锂业盘后飙涨41% 美能源部长称政府将入股",
           "url": "https://www.cls.cn/detail/2161280",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普提名Travis Hill担任美国关键银行监管机构的主席",
-          "url": "https://wallstreetcn.com/livenews/2982648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "美军高级将领会议特朗普训话",
           "url": "https://www.douyin.com/hot/2255418",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普与赫格塞思为何推动美军改革",
+          "url": "https://www.toutiao.com/trending/7556217990149049910/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普提名Travis Hill担任美国关键银行监管机构的主席",
+          "url": "https://wallstreetcn.com/livenews/2982648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "美国交通部已经告知纽约市，特朗普政府已经将当地2nd Avenue Subway项目和Hudson Tunel项目列为行政审查对象。 交通部正判断其中是否存在任何违反宪法的问题。",
           "url": "https://wallstreetcn.com/livenews/2982631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "最高法院不允许美国总统特朗普立即罢免美联储理事库克，明年1月审理这宗解雇案",
@@ -127,56 +144,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普与赫格塞思为何推动美军改革",
-          "url": "https://www.toutiao.com/trending/7556217990149049910/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "微软将人工智能服务融入Office，以挑战ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/2982651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
         {
           "title": "OpenAI发布Sora 2.0及独立社交App：称视频生成进入“ChatGPT时刻”",
           "url": "https://wallstreetcn.com/articles/3756566",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "OpenAI发布Sora2",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83Sora2",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "微软将人工智能服务融入Office，以挑战ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/2982651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "微软将人工智能服务融入Office 以增加与ChatGPT的竞争优势",
+          "url": "https://flash.jin10.com/detail/20251002003037592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -192,19 +212,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指、英伟达双双收新高",
           "url": "https://www.cls.cn/detail/2161248",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "美股半导体股持续走强，美光科技涨超5％，续创历史新高，应用材料、Arm涨超3％，阿斯麦、台积电涨超2％，英伟达转涨。",
@@ -228,11 +249,12 @@
           "url": "https://wallstreetcn.com/livenews/2982654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "谷歌裁减云部门员工。",
@@ -259,8 +281,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "金价",
@@ -270,8 +292,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     },
@@ -284,11 +306,12 @@
           "url": "https://wallstreetcn.com/articles/3756580",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     }
