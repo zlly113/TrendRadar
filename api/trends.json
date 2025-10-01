@@ -1,225 +1,33 @@
 {
-  "generated_at": "2025-10-01T23:26:52.832471+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2025-10-02T00:33:41.574625+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "特朗普：我不喜欢哪个将领，会当场解雇他",
-          "url": "https://news.ifeng.com/c/8n4utHlf91O",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时04分]"
-        },
-        {
-          "title": "特朗普宣布以色列同意“20点计划”",
-          "url": "https://www.toutiao.com/trending/7555856101833444905/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            4,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美军有重大变动？特朗普果然出大招了",
-          "url": "https://news.ifeng.com/c/8n5hxBmM0KQ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 18时27分]"
-        },
         {
           "title": "“最后时刻”近在眼前！特朗普警告：确实可能政府关门，那将有“不可逆转的”裁减",
           "url": "https://wallstreetcn.com/articles/3756565",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时03分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
-          "title": "特朗普在白宫会见以总理",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E8%A7%81%E4%BB%A5%E6%80%BB%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7,
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "释新闻｜特朗普的“20点计划”，为何难以带来“中东永久和平”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31713149",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时03分 ~ 23时26分]"
-        },
-        {
-          "title": "特朗普逼内塔尼亚胡道歉后，中东变天了？",
-          "url": "https://news.ifeng.com/c/8n4cuan5qBI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：哈马斯需在3至4天内回应",
-          "url": "https://www.douyin.com/hot/2255210",
-          "source": "抖音",
-          "ranks": [
-            14,
-            10,
-            17,
-            19,
-            18,
-            20,
-            25,
-            23,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 22时28分]"
-        },
-        {
-          "title": "特朗普盯上锂矿巨头！美洲锂业盘后飙涨41% 美能源部长称政府将入股",
-          "url": "https://www.cls.cn/detail/2161280",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时26分 ~ 23时26分]"
-        },
-        {
-          "title": "美军高级将领会议特朗普训话",
-          "url": "https://www.douyin.com/hot/2255418",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            14,
-            13,
-            21,
-            20,
-            19,
-            17,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时46分 ~ 23时26分]"
-        },
-        {
-          "title": "特朗普称将动用军队整顿纽约等地",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8A%A8%E7%94%A8%E5%86%9B%E9%98%9F%E6%95%B4%E9%A1%BF%E7%BA%BD%E7%BA%A6%E7%AD%89%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普想复活战列舰：我讲究审美，现代军舰丑爆了",
-          "url": "https://news.ifeng.com/c/8n6BAu9yOS5",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 23时26分]"
-        },
-        {
-          "title": "特朗普关税子弹击中美国消费者钱包",
-          "url": "https://www.toutiao.com/trending/7555854523521043978/",
+          "title": "特朗普能从美政府停摆中获得好处吗",
+          "url": "https://www.toutiao.com/trending/7556246294247771691/",
           "source": "今日头条",
           "ranks": [
-            9,
-            24,
-            20,
-            10,
-            29,
-            30
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美国顶尖科研人才跑去欧洲，欧洲人乐了：多亏了特朗普",
-          "url": "https://news.ifeng.com/c/8n5vlNCFIe0",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 23时26分]"
-        },
-        {
-          "title": "牛弹琴：美军重大变动？特朗普放大招",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%BE%8E%E5%86%9B%E9%87%8D%E5%A4%A7%E5%8F%98%E5%8A%A8%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E5%A4%A7%E6%8B%9B",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17,
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 14时39分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "全美高级将领大会细节：特朗普讲话70分钟，台下沉默70分钟",
@@ -229,1872 +37,258 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
-          "title": "全美高级将领大会细节披露，特朗普讲话70分钟，台下沉默70分钟",
-          "url": "https://news.ifeng.com/c/8n67YRAZcl3",
+          "title": "特朗普想复活战列舰：我讲究审美，现代军舰丑爆了",
+          "url": "https://news.ifeng.com/c/8n6BAu9yOS5",
           "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时28分]"
-        },
-        {
-          "title": "美国贸易代表格里尔：8月1日的关税税率标志着特朗普未来的关税结构。",
-          "url": "https://flash.jin10.com/detail/20251001005613260800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "00时33分"
         },
         {
-          "title": "国会网站显示，特朗普提名希尔为联邦存款保险公司（FDIC）主席。",
-          "url": "https://flash.jin10.com/detail/20251001210626638800",
-          "source": "金十数据",
+          "title": "美国顶尖科研人才跑去欧洲，欧洲人乐了：多亏了特朗普",
+          "url": "https://news.ifeng.com/c/8n5vlNCFIe0",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "00时33分"
         },
         {
-          "title": "特朗普重提“让加拿大成为第51州”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%E2%80%9C%E8%AE%A9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%88%90%E4%B8%BA%E7%AC%AC51%E5%B7%9E%E2%80%9D",
-          "source": "百度热搜",
+          "title": "释新闻｜特朗普的“20点计划”，为何难以带来“中东永久和平”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31713149",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            19,
-            20,
-            17
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
-          "title": "特朗普宣布“20点计划” 中方表态",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E2%80%9C20%E7%82%B9%E8%AE%A1%E5%88%92%E2%80%9D+%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
+          "title": "特朗普盯上锂矿巨头！美洲锂业盘后飙涨41% 美能源部长称政府将入股",
+          "url": "https://www.cls.cn/detail/2161280",
+          "source": "财联社热门",
           "ranks": [
-            28,
-            20,
-            18,
-            21,
-            25
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普提名Travis Hill担任美国关键银行监管机构的主席",
+          "url": "https://wallstreetcn.com/livenews/2982648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "美军高级将领会议特朗普训话",
+          "url": "https://www.douyin.com/hot/2255418",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "美国交通部已经告知纽约市，特朗普政府已经将当地2nd Avenue Subway项目和Hudson Tunel项目列为行政审查对象。 交通部正判断其中是否存在任何违反宪法的问题。",
+          "url": "https://wallstreetcn.com/livenews/2982631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "最高法院不允许美国总统特朗普立即罢免美联储理事库克，明年1月审理这宗解雇案",
           "url": "https://wallstreetcn.com/livenews/2982627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美最高法院拒绝特朗普立即罢免美联储理事库克",
-          "url": "https://flash.jin10.com/detail/20251001224709530800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美国总统特朗普：下周将再次召开关于制药和药品定价的会议。",
-          "url": "https://flash.jin10.com/detail/20251001005148930800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "市场消息：辉瑞从特朗普药品关税中获得三年宽限期。",
-          "url": "https://flash.jin10.com/detail/20251001002342198800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "辉瑞(PFE.N)：也将参与特朗普Rx直销平台。",
-          "url": "https://flash.jin10.com/detail/20251001004918367800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普：现在的军舰丑爆了",
-          "url": "https://www.toutiao.com/trending/7556049708327157796/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            8,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 14时39分]"
-        },
-        {
-          "title": "中方回应特朗普结束加沙战争计划",
-          "url": "https://www.toutiao.com/trending/7555560830050340391/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：与哈佛大学达成协议。",
-          "url": "https://wallstreetcn.com/livenews/2982416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时30分 ~ 06时24分]"
-        },
-        {
-          "title": "美国总统特朗普：签署关于儿科癌症研究的命令。",
-          "url": "https://wallstreetcn.com/livenews/2982415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时30分 ~ 06时24分]"
-        },
-        {
-          "title": "民主党在美国众议院推动象征性的临时开支草案全体表决，但遭到特朗普阵营的阻挠",
-          "url": "https://wallstreetcn.com/livenews/2982369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时22分]"
-        },
-        {
-          "title": "学者：特朗普对美军大清洗",
-          "url": "https://www.toutiao.com/trending/7556176137928314431/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时35分]"
-        },
-        {
-          "title": "特朗普称将动用军队整顿旧金山、纽约等地",
-          "url": "https://wallstreetcn.com/livenews/2982452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 10时04分]"
-        },
-        {
-          "title": "特朗普政府高级官员：处方药医疗补助返还机制将于2026年初启动。",
-          "url": "https://flash.jin10.com/detail/20251001022709169800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普重提“让加拿大成为第51州”",
-          "url": "https://wallstreetcn.com/livenews/2982451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 10时04分]"
-        },
-        {
-          "title": "特朗普与内塔尼亚胡会面会发生争吵吗",
-          "url": "https://www.toutiao.com/trending/7555843976213827115/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普喊话将领：不喜欢我职级不保",
-          "url": "https://www.toutiao.com/trending/7555490735814872595/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 12时30分]"
-        },
-        {
-          "title": "特朗普将领大会训话最重要的是这一句",
-          "url": "https://www.toutiao.com/trending/7555490735814970899/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时26分]"
-        },
-        {
-          "title": "美国总统特朗普：若政府关门，将不得不（在政府部门）临时裁员。",
-          "url": "https://wallstreetcn.com/livenews/2982422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：接近敲定与哈佛大学的协议。 哈佛将开设职业学校，将支付大约5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2982421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：美国将派兵波特兰，那是一个战区。",
-          "url": "https://wallstreetcn.com/livenews/2982365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时22分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "特朗普与赫格塞思为何推动美军改革",
           "url": "https://www.toutiao.com/trending/7556217990149049910/",
           "source": "今日头条",
           "ranks": [
-            17,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 23时26分]"
-        },
-        {
-          "title": "美国总统特朗普：另外一家医药公司也将在下周来和我谈判。",
-          "url": "https://wallstreetcn.com/livenews/2982364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时22分]"
-        },
-        {
-          "title": "美国贸易代表格里尔：预计美国总统特朗普将在亚洲之行签署贸易协议。",
-          "url": "https://flash.jin10.com/detail/20251001044622204800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普：将与哈佛大学达成协议，该校将教授AI",
-          "url": "https://wallstreetcn.com/livenews/2982436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "据AXIOS网站：美国参议院民主党人于周二举行的党内闭门会议中相互鼓励，要求其在政府预算问题上共同对抗美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251001053702498800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美国参议院少数派党鞭Dick Durbin：我将投票反对（总统特朗普所属）共和党的临时开支立法草案。 民主党参议院成员们的确在权宜性开支草案上的确团结一致。",
-          "url": "https://wallstreetcn.com/livenews/2982388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时30分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国总统特朗普并未向俄罗斯海岸派遣潜艇。",
-          "url": "https://flash.jin10.com/detail/20251001135755146800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时26分]"
-        },
-        {
-          "title": "美国总统特朗普：辉瑞制药同意，按大幅折扣供应医药，这将有助于拉低医疗保险成本。 辉瑞将在美国投资700亿美元。 辉瑞是世界上最大、最伟大的公司之一。 正与其他医药公司谈判类似的协议。 美国消费者一直都在为研发成本提供补助。",
-          "url": "https://wallstreetcn.com/livenews/2982342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们可能会陷入政府关门。 政府停摆期间，我们可以采取那些无法挽回的行动。 与参议院民主党领导人Schumer和国会山Jeffries进行了不错的讨论。 是民主党在关闭政府。",
-          "url": "https://wallstreetcn.com/livenews/2982361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普威胁要对没达成协议的医药公司额外征收5%-8%的关税",
-          "url": "https://wallstreetcn.com/livenews/2982358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普政府高级官员：我们希望TRUMPRX.GOV能在2026年初上线。",
-          "url": "https://flash.jin10.com/detail/20251001021336328800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "瑞士央行行长Martin Schlegel：特朗普的美国关税威胁略微加重瑞士面临的那些风险。",
-          "url": "https://wallstreetcn.com/livenews/2982356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：美国政府停摆/关门期间无法获取就业数据，那将让我痛苦不堪。 希望确保关税通胀不会长期存在。 在通胀上升期间按兵不动，其效果等同于降息。 多次靠前降息将让人感到不安。 企业高管们对（总统特朗普关税相关的）成本感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/2982398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
-        },
-        {
-          "title": "美国总统特朗普：很快将前往芝加哥。",
-          "url": "https://flash.jin10.com/detail/20251001043220505800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "辉瑞制药从美国总统特朗普医药关税中获得三年宽限期。 辉瑞（PFE）维持大约3.7%的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2982354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "五角大楼花百万美元听特朗普“训话”",
-          "url": "https://www.toutiao.com/trending/7556045149789228598/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时30分]"
-        },
-        {
-          "title": "特朗普签署行政令提升美对卡塔尔安全承诺",
-          "url": "https://flash.jin10.com/detail/20251001205527305800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "美国总统特朗普：政府停摆并非不可避免，但很有可能会发生。",
-          "url": "https://flash.jin10.com/detail/20251001004502807800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：我们不希望政府关门。",
-          "url": "https://flash.jin10.com/detail/20251001004419553800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "阿根廷外交部：阿根廷总统米莱将于10月14日在白宫会见美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251001001400913800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国贸易代表格里尔：特朗普政府推出的药品关税旨在确保大多数创新药物在美国生产。",
-          "url": "https://flash.jin10.com/detail/20251001001339068800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "福特汽车CEO Jim Farley：美国总统特朗普废止前总统拜登电动汽车税收抵免政策之后，10月份的电动汽车需求/销量恐怕将被腰斩。 行业了解到，就当下的美国时局而言，混合动力等“半电动”汽车可能更容易让消费者接受。",
-          "url": "https://wallstreetcn.com/livenews/2982341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普发布行政命令，将对卡塔尔的袭击视为对美国的威胁。",
-          "url": "https://wallstreetcn.com/livenews/2982563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美国总统特朗普：药品定价将对中期选举产生巨大影响。",
-          "url": "https://flash.jin10.com/detail/20251001004154124800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普签署行政令提升美对卡塔尔安全承诺",
-          "url": "https://wallstreetcn.com/livenews/2982563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "特朗普能从美政府停摆中获得好处吗",
-          "url": "https://www.toutiao.com/trending/7556246294247771691/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美国总统特朗普：（谈政府支出）我们可以削减福利。",
-          "url": "https://flash.jin10.com/detail/20251001004123598800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：在政府停摆期间，我们能做一些不可逆转的事情。民主党人正在冒险。",
-          "url": "https://flash.jin10.com/detail/20251001004115322800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普讲70分钟 全美将领沉默70分钟",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B270%E5%88%86%E9%92%9F+%E5%85%A8%E7%BE%8E%E5%B0%86%E9%A2%86%E6%B2%89%E9%BB%9870%E5%88%86%E9%92%9F",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "据AXIOS网站：卡塔尔、埃及和土耳其敦促哈马斯接受特朗普的加沙计划。",
-          "url": "https://flash.jin10.com/detail/20251001032433519800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：药品将可在美国政府网站上直接购买。",
-          "url": "https://flash.jin10.com/detail/20251001000708066800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：如果没有达成协议，我们将对制药公司额外征收5%至8%的关税。",
-          "url": "https://flash.jin10.com/detail/20251001003946316800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "市场消息：法官阻止美国总统特朗普削减2.33亿美元反恐资金用于民主党领导的州。",
-          "url": "https://flash.jin10.com/detail/20251001032053656800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普炫耀美国核武库 批评梅德韦杰夫",
-          "url": "https://flash.jin10.com/detail/20251001000302006800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：（谈政府支出）我们可能会面临停摆。",
-          "url": "https://flash.jin10.com/detail/20251001003856327800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：政府停摆可以带来很多好处。政府停摆期间我们将裁掉大量员工。",
-          "url": "https://flash.jin10.com/detail/20251001042754242800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国总统特朗普：礼来公司表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20251001003748835800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：接近与哈佛大学敲定协议。",
-          "url": "https://flash.jin10.com/detail/20251001042659993800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国总统特朗普：（谈政府支出）和参议院少数党领袖舒默、众议院少数党领袖杰弗瑞斯进行了很好的讨论。",
-          "url": "https://flash.jin10.com/detail/20251001003741096800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：与哈佛达成协议，哈佛将支付5亿美元，哈佛将开设商学院，教授人工智能。",
-          "url": "https://flash.jin10.com/detail/20251001042536649800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普提名FDIC代理主席希尔任该机构负责人",
-          "url": "https://flash.jin10.com/detail/20251001215310647800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "特朗普再次威胁征收“电影关税”",
-          "url": "https://www.toutiao.com/trending/7555367692279021619/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美国总统特朗普：药品降价将立即生效。",
-          "url": "https://flash.jin10.com/detail/20251001003433556800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "市场消息：美国纽约州总检察长提起诉讼，以阻止特朗普政府扣留纽约大都会运输署（MTA）数千万美元的安保资金。",
-          "url": "https://flash.jin10.com/detail/20251001113130449800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
-          "title": "特朗普政府提高本周的4/8周期国债拍卖规模",
-          "url": "https://wallstreetcn.com/livenews/2982329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：正在调查其他国家的药品贸易行为。",
-          "url": "https://flash.jin10.com/detail/20250930235936019800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国贸易代表格里尔：我们相信最高法院将尊重特朗普在贸易逆差问题上的国家紧急状态决定。",
-          "url": "https://flash.jin10.com/detail/20251001003417338800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：正与其他大型制药公司合作，以达成类似协议。",
-          "url": "https://flash.jin10.com/detail/20250930235906025800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普签署行政命令，将对卡塔尔的袭击视为对美国的威胁。",
-          "url": "https://flash.jin10.com/detail/20251001195641922800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美国总统特朗普：辉瑞将向医疗补助计划提供所有处方药，价格按最惠国待遇标准。",
-          "url": "https://flash.jin10.com/detail/20250930235826483800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：如果他们不降价，我们将对他们征收等额关税。",
-          "url": "https://flash.jin10.com/detail/20251001003302162800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：（谈药品价格）未来一周还将有其他公司加入。",
-          "url": "https://flash.jin10.com/detail/20251001003240879800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美军会沦为“特朗普私兵”吗",
-          "url": "https://www.toutiao.com/trending/7556171401174978090/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "美国总统特朗普：（谈政府支出）我们将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20251001003041474800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普称考虑打击委内瑞拉陆路贩毒集团",
-          "url": "https://flash.jin10.com/detail/20251001101126593800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "美国总统特朗普：所有美国药品将以最惠国价格销售。（外媒更正：特朗普指的是辉瑞公司新推出的药品，而非所有辉瑞药品）",
-          "url": "https://flash.jin10.com/detail/20250930235614843800",
-          "source": "金十数据",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "据知情人士透露，美国总统特朗普女婿库什纳（Jared Kushner）从中撮合，为加州视频游戏制作商Redwood和沙特主权财富基金“搭桥牵线”，在数月的磋商中扮演中心角色。 库什纳在沙特的秘密对话为55亿美元收购艺电（EA）批评了道路。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2982321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "扛住政府关门压力，美股惊险收涨，标普9月表现十五年最佳，黄金创十四年最大月涨",
-          "url": "https://wallstreetcn.com/articles/3756540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时24分 ~ 23时26分]"
-        },
-        {
-          "title": "美国政府关门倒计时，美股三大股指集体走低，中概股多数上涨，黄金股普跌，CoreWeave涨约11%",
-          "url": "https://wallstreetcn.com/articles/3756540",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指、英伟达双双收新高",
-          "url": "https://www.cls.cn/detail/2161248",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时03分 ~ 23时26分]"
-        },
-        {
-          "title": "美国政府关门危机逼近 美股期指下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2161085",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "Reddit美股盘前一度下跌12%。",
-          "url": "https://wallstreetcn.com/livenews/2982572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时28分]"
-        },
-        {
-          "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251001005512916800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美股半导体股持续走强，美光科技涨超5％，续创历史新高，应用材料、Arm涨超3％，阿斯麦、台积电涨超2％，英伟达转涨。",
-          "url": "https://wallstreetcn.com/livenews/2982613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美股盘前，明星科技股多数走低，苹果跌近1%，英伟达、AMD均跌超1%；CoreWeave跌超2%，此前公司与Meta签署142亿美元算力供应协议；耐克季度营收超预期，盘前涨3%；Lithium Americas盘前大涨超32%，美国能源部长Chris Wright称，美国政府将收购Lithium Americas 5%的股权。",
-          "url": "https://wallstreetcn.com/livenews/2982531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "西方石油美股盘前涨超1%，报道称“伯克希尔正洽谈，100亿美元收购西方石油石化部门资产”。",
-          "url": "https://wallstreetcn.com/livenews/2982545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时35分]"
-        },
-        {
-          "title": "黄金ETF收涨超0.8%，和日元ETF领跑美股大类资产类ETF，大豆基金则跌1%",
-          "url": "https://wallstreetcn.com/livenews/2982445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 10时04分]"
-        },
-        {
-          "title": "周二（9月30日）美股尾盘，彭博电动汽车价格回报指数报3439.09点，9月份累计上涨12.18%，整体持续上行，三季度累计上涨39.45%。",
-          "url": "https://wallstreetcn.com/livenews/2982417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时30分 ~ 06时24分]"
-        },
-        {
-          "title": "美国能源部长Chris Wright说，美国政府持股Lithium Americas，拥有后续的退出策略。美国将对公司持股5%，对（其在美国的）矿场持股5%。该公司纽交所股价收跌0.17%，美股盘后涨12.26%；加拿大多伦多股价收跌0.50%，盘后跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/2982426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "医疗业ETF收涨2.4%，和生物科技ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2982444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 10时04分]"
-        },
-        {
-          "title": "在美上市韩国ETF美股盘后持平。 美国贸易代表格里尔预计，总统特朗普亚洲之行将签署贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/2982425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2982578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时28分]"
-        },
-        {
-          "title": "美国能源部负责人称美国政府将入股锂美公司（Lithium Americas），该公司股价美股盘后上涨10%。",
-          "url": "https://flash.jin10.com/detail/20251001045152924800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股盘前，明星科技股多数走低，苹果跌近1%，英伟达、AMD均跌超1%；CoreWeave跌超2%，此前公司与Meta签署142亿美元算力供应协议；耐克季度营收超预期，盘前涨3%；Lithium Americas盘前大涨超32%，美国能源部长Chris Wright称，美国政府将收购Lithium Americas 5%的股权。美股黄金股盘前上扬，金罗斯黄金涨1.4%，金田涨1.9%，盎格鲁黄金大幅上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/2982531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时22分]"
-        },
-        {
-          "title": "Lithium Americas Corp.（LAC）美股盘后涨26.44%、涨幅随后扩大至超过40%，多伦多股价则跌1.01%。 美能源部长称，特朗普政府将入股该公司，从而推进内华达州项目。",
-          "url": "https://wallstreetcn.com/livenews/2982435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美国政府关门扰乱联储降息前景，纽约期金升破3900再创新高，比特币涨近2%，美股期货、日欧股市下跌",
-          "url": "https://wallstreetcn.com/articles/3756580",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
-        },
-        {
-          "title": "锂美公司（Lithium Americas）美股盘后持续拉升，一度涨近40%。此前美国能源部长赖特表示，美国政府将入股该公司以推进内华达州项目。",
-          "url": "https://flash.jin10.com/detail/20251001053447985800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股费城银行指数指数跌超2%，标普500指数跌0.1%，道指跌超0.2%，纳指跌0.1%，罗素2000指数跌0.8%。 纳斯达克金龙中国指数跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2982344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-01）",
-          "url": "https://flash.jin10.com/detail/20251001204930974800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "美股三大股指小幅低开，道指开跌0.07%，标普500指数开跌0.43%，纳指跌0.6%。耐克涨超6%，季度营收超预期。蔚来涨超2%，公司9月交付量同比增长64%。Lithium Americas涨31%，美国政府将收购公司5%的股权。社交平台Reddit跌6.9%。公用事业公司AES股价开盘大涨16%，消息称贝莱德旗下GIP参与收购谈判。美股医药股走高，阿斯利康涨超6%，赛诺菲安万特、葛兰素史克涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/2982585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "辉瑞(PFE.N)美股涨约5%，礼来(LLY.N)涨约2.5%。",
-          "url": "https://flash.jin10.com/detail/20251001003837803800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "受业绩提振，耐克(NKE.N)美股盘后涨3.4%。",
-          "url": "https://flash.jin10.com/detail/20251001041821521800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年09月30日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251001041534786800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年09月30日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251001041531487800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "耐克(NKE.N)美股盘前涨超5%。",
-          "url": "https://flash.jin10.com/detail/20251001194231129800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美股医药股延续涨势，阿斯利康涨超6%，赛诺菲安万特、葛兰素史克涨近4%。",
-          "url": "https://flash.jin10.com/detail/20251001214605169800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "微软将人工智能服务融入Office，以挑战ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/2982651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
         {
           "title": "OpenAI发布Sora 2.0及独立社交App：称视频生成进入“ChatGPT时刻”",
           "url": "https://wallstreetcn.com/articles/3756566",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时46分 ~ 23时26分]"
-        },
-        {
-          "title": "人类要小心了！OpenAI已全面评估AI对各行各业的工作替代",
-          "url": "https://wallstreetcn.com/articles/3756519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时46分]"
-        },
-        {
-          "title": "付鹏最新思考：OpenAI-甲骨文-英伟达千亿投资，AI 资本开支狂欢下，BTC的算力定价逻辑与风险隐忧【付鹏说文章】",
-          "url": "https://wallstreetcn.com/premium/articles/3756494?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "OpenAI发布Sora2",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83Sora2",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            12,
-            9,
-            8,
-            11,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时46分 ~ 23时26分]"
-        },
-        {
-          "title": "SK电信与OpenAI签署谅解备忘录，将在韩国西南部建设Stargate Korea。",
-          "url": "https://flash.jin10.com/detail/20251001175147312800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "OpenAI与三星电子、SK海力士签署协议，由三星、SK海力士为Stargate数据中心供应芯片及相关设备供货。",
-          "url": "https://wallstreetcn.com/livenews/2982547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时35分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 Sora 2，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1956611485980681274",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
-        },
-        {
-          "title": "OpenAI发布社交APP，用于分享模型Sora 2生成的AI视频。 依托其AI视频生成器，新应用的用户可通过文本提示生成带音频的高清短视频。 用户可以上传自己的短片，并将其嵌入到Sora生成的虚拟世界中，只需描述所需的创意、风格和场景即可。 他们还可以与其他用户互动，观看并评论他人内容。 新版本Sora 2将采用类似TikTok、Instagram Reels和YouTube Shorts的滑动浏览导航方式，显示出OpenAI在硅谷AI视频赛道上的雄心。 OpenAI计划率先在美国和加拿大通过苹果App Store以邀请制推出该应用。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
-          "url": "https://wallstreetcn.com/livenews/2982367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "OpenAI推出社交媒体应用 向TikTok、YouTube和Meta发起挑战",
-          "url": "https://flash.jin10.com/detail/20251001015051639800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "OpenAI发布社交APP，用于分享模型Sora生成的AI视频。 该公司CEO Sam Altman称，ChatGPT专业版订阅用户可使用SORA 2专业版进行生成创作。",
-          "url": "https://wallstreetcn.com/livenews/2982367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "三星电子：三星SDS将与OpenAI就STARGATE人工智能(AI)数据中心的设计、建设及运营进行合作。",
-          "url": "https://flash.jin10.com/detail/20251001174715286800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "三星电子：将与OpenAI合作以迎合DRAM芯片需求激增。",
-          "url": "https://flash.jin10.com/detail/20251001174508984800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "三星电子：预计OpenAI的DRAM芯片需求将达到每月90万块晶圆。",
-          "url": "https://flash.jin10.com/detail/20251001174453321800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "韩国总统办公室：OpenAI将与三星合作建设JVS项目，SK海力士将在韩国建设两个数据中心，初期容量为20兆瓦。",
-          "url": "https://flash.jin10.com/detail/20251001184822961800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "苹果否认与OpenAI合作损害了马斯克的xAI",
-          "url": "https://flash.jin10.com/detail/20251001124312059800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "OpenAI首席执行官访问韩国，与SK三星等讨论AI合作",
-          "url": "https://flash.jin10.com/detail/20251001172838637800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "韩国总统办公室：OpenAI寻求在2029年订购90万片存储芯片。",
-          "url": "https://flash.jin10.com/detail/20251001183726451800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "根据英、法、德发布的联合声明，联合国 2015 年以前对伊朗的相关制裁已重新生效，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1955729799315166618",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            10,
-            8,
-            9,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 19时22分]"
-        },
-        {
-          "title": "美国财政部发布涉伊朗制裁措施。",
-          "url": "https://flash.jin10.com/detail/20251001220959161800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "伊朗为何放弃歼-10CE选择米格-29",
-          "url": "https://www.toutiao.com/trending/7556218438511775251/",
-          "source": "今日头条",
+          "title": "扛住政府关门压力，美股惊险收涨，标普9月表现十五年最佳，黄金创十四年最大月涨",
+          "url": "https://wallstreetcn.com/articles/3756540",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "00时33分"
         },
         {
-          "title": "伊朗总统：美国无意通过谈判解决伊朗核问题",
-          "url": "https://wallstreetcn.com/livenews/2982379",
+          "title": "美股收盘：三大指数集体上涨 道指、英伟达双双收新高",
+          "url": "https://www.cls.cn/detail/2161248",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "美股半导体股持续走强，美光科技涨超5％，续创历史新高，应用材料、Arm涨超3％，阿斯麦、台积电涨超2％，英伟达转涨。",
+          "url": "https://wallstreetcn.com/livenews/2982613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时30分]"
-        },
-        {
-          "title": "伊朗总统：美国无意通过谈判解决伊朗核问题",
-          "url": "https://flash.jin10.com/detail/20251001021508157800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时22分]"
-        },
-        {
-          "title": "美国财长贝森特：财政部正瞄准伊朗的武器采购。",
-          "url": "https://flash.jin10.com/detail/20251001223429576800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "伊朗称美国野心过大无法达成一致",
-          "url": "https://flash.jin10.com/detail/20251001104957187800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "市场消息：波音公司将获得一份价值高达1.23亿美元的合同，用于补充6月份投向伊朗核浓缩设施的14枚钻地炸弹。",
-          "url": "https://flash.jin10.com/detail/20251001032529576800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet三季度累计上涨38%，创2005年以来最佳单季表现。",
-          "url": "https://wallstreetcn.com/livenews/2982413",
+          "title": "谷歌母公司Alphabet旗下无人驾驶业务Waymo：美国纽约市将本公司自动驾驶许可（的有效性）延长至2025年年底。",
+          "url": "https://wallstreetcn.com/livenews/2982654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "谷歌欧洲，中东及非洲地区负责人：人工智能将导致部分岗位被取代。 欧洲的人工智能监管需要简化。",
-          "url": "https://wallstreetcn.com/livenews/2982554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时35分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达三季度涨超18%，谷歌A创二十年来最佳季度表现，特斯拉同期涨40%",
-          "url": "https://wallstreetcn.com/livenews/2982413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
+          "time_info": "00时33分"
         },
         {
           "title": "谷歌裁减云部门员工。",
           "url": "https://wallstreetcn.com/livenews/2982624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "谷歌裁减云部门员工 持续优化效率",
-          "url": "https://flash.jin10.com/detail/20251001223634525800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "谷歌欧洲，中东及非洲地区负责人：欧洲的AI监管急需简化。",
-          "url": "https://flash.jin10.com/detail/20251001185302570800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "谷歌欧洲，中东及非洲地区负责人：人工智能将导致部分岗位被取代。",
-          "url": "https://flash.jin10.com/detail/20251001185253485800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国产AI的“伟大闭环”！DeepSeek“不起眼的一句话”可能改变整个GPU编程生态",
-          "url": "https://wallstreetcn.com/articles/3756531",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 13时27分]"
-        },
-        {
-          "title": "DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配",
-          "url": "https://wallstreetcn.com/articles/3756527",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时04分]"
-        },
-        {
-          "title": "DeepSeek更新有哪些突破",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            15,
-            18,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普白宫谈判失败，美国政府距离关门“还有一天多”，金价突破3800美元",
-          "url": "https://wallstreetcn.com/articles/3756515",
-          "source": "华尔街见闻",
+          "title": "见证历史！金价，新纪录！商家：“不敢轻易增加库存！”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31715525",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2,
-            1
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D1%26band_rank%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26pos%3D0%26flag%3D2%26display_time%3D1759323140%26pre_seqid%3D17593231402040235282629",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26flag%3D2%26pos%3D21%26cate%3D5001%26realpos%3D21%26display_time%3D1759335778%26pre_seqid%3D17593357782200238716995",
           "source": "微博",
           "ranks": [
-            1,
-            22,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 23时26分]"
-        },
-        {
-          "title": "金价奔900元 黄金还能买吗",
-          "url": "https://www.toutiao.com/trending/7556214267381288502/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时28分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国政府关门在即，美股美债共涨，金银铜齐升，美油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3756460",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "政府停摆在即，美债价格有望连续第三个季度上涨",
-          "url": "https://wallstreetcn.com/livenews/2982349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时33分]"
-        },
-        {
-          "title": "周二（9月30日）纽约尾盘，美国10年期国债收益率涨0.77个基点，报4.1464%。 两年期美债收益率跌1.83个基点，报3.6022%。 2/10年期美债收益率利差涨2.602个基点，报+54.218个基点。",
-          "url": "https://wallstreetcn.com/livenews/2982400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数2025年已跌约11%",
-          "url": "https://wallstreetcn.com/livenews/2982399",
-          "source": "华尔街见闻-快讯",
+          "title": "政府关门施压，美股低开，医药股支持早盘转涨，ADP就业强化降息前景，美债跳涨",
+          "url": "https://wallstreetcn.com/articles/3756580",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            24
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时23分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     }
