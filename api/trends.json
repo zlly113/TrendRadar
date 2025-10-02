@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-03T00:31:30.924533+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-03T01:22:08.655530+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "埃及外交部长阿卜杜拉蒂：特朗普的加沙计划需要进一步讨论如何落实，尤其要关注治理与安全安排等问题。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "埃及外交部长阿卜杜拉蒂：如果哈马斯拒绝美国总统特朗普的计划，局势将非常困难，并可能升级。",
+          "url": "https://flash.jin10.com/detail/20251003010026695800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "埃及外交部长阿卜杜拉蒂：关于美国总统特朗普的加沙计划，还有很多漏洞需要填补。",
@@ -45,11 +56,45 @@
           "url": "https://www.toutiao.com/trending/7555850668134023211/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普：袭击卡塔尔就是在威胁美国",
+          "url": "https://www.toutiao.com/trending/7556236772603117622/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯完全准备好支持特朗普的加沙倡议。",
+          "url": "https://flash.jin10.com/detail/20251003005412221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "俄罗斯总统普京：我不知道美国总统特朗普说俄罗斯是纸老虎时是不是在讽刺。",
+          "url": "https://flash.jin10.com/detail/20251003003649610800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普有权在政府关门期间裁人和削减开支。 美国白宫管理和预算办公室(OMB)将确保政府优先事项获得资金。",
@@ -87,19 +132,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "存储巨头狂欢持续！与OpenAI达成合作后 三星、SK海力士股价飙升",
           "url": "https://www.cls.cn/detail/2161703",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -115,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "金价又刷新纪录",
@@ -126,8 +172,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -171,8 +217,25 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月02日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251003005029661800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时22分"
         }
       ]
     }
