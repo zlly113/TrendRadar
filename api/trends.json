@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-03T11:37:18.360621+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-10-03T12:30:35.952888+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,25 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时30分]"
+        },
+        {
+          "title": "牛弹琴：特朗普要砍下最狠一刀了",
+          "url": "https://www.toutiao.com/trending/7556136713014804530/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时49分 ~ 11时37分]"
+          "time_info": "[11时03分 ~ 12时30分]"
         },
         {
           "title": "普京回应特朗普“纸老虎”言论",
@@ -62,18 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 09时49分]"
-        },
-        {
-          "title": "牛弹琴：特朗普要砍下最狠一刀了",
-          "url": "https://www.toutiao.com/trending/7556136713014804530/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 11时37分]"
         },
         {
           "title": "埃及外交部长阿卜杜拉蒂：特朗普的加沙计划需要进一步讨论如何落实，尤其要关注治理与安全安排等问题。",
@@ -107,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普突然放话：考虑让战列舰回归",
+          "url": "https://news.ifeng.com/c/8n6jzF8AANE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时30分]"
         },
         {
           "title": "埃及外交部长阿卜杜拉蒂：支持美国总统特朗普结束加沙战争的计划与愿景，我们需向前迈进。",
@@ -197,17 +210,6 @@
           "time_info": "[05时22分 ~ 07时28分]"
         },
         {
-          "title": "特朗普突然放话：考虑让战列舰回归",
-          "url": "https://news.ifeng.com/c/8n6jzF8AANE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 11时37分]"
-        },
-        {
           "title": "报道：白宫最早将于周五公布美国联邦政府裁员计划，部分机构因DEI政策而被特朗普列为目标",
           "url": "https://wallstreetcn.com/livenews/2983075",
           "source": "华尔街见闻-快讯",
@@ -232,6 +234,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 11时37分]"
+        },
+        {
+          "title": "牛弹琴：特朗普要砍下最狠一刀了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E7%A0%8D%E4%B8%8B%E6%9C%80%E7%8B%A0%E4%B8%80%E5%88%80%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 12时30分]"
         },
         {
           "title": "普京回应特朗普称俄“纸老虎”言论",
@@ -297,16 +312,29 @@
           "time_info": "[04时32分 ~ 06时23分]"
         },
         {
-          "title": "牛弹琴：特朗普要砍下最狠一刀了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E7%A0%8D%E4%B8%8B%E6%9C%80%E7%8B%A0%E4%B8%80%E5%88%80%E4%BA%86",
-          "source": "百度热搜",
+          "title": "日本内阁官房长官林芳正：美国总统特朗普访日一事尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/2983141",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            18
+            11,
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时03分 ~ 11时37分]"
+          "time_info": "[11时04分 ~ 12时30分]"
+        },
+        {
+          "title": "普京回击特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时30分]"
         },
         {
           "title": "特朗普施压欧洲能源“脱俄” 基辅献策以美油经乌管线填补缺口",
@@ -344,18 +372,6 @@
           "time_info": "[06时23分 ~ 07时28分]"
         },
         {
-          "title": "日本内阁官房长官林芳正：美国总统特朗普访日一事尚未确定。",
-          "url": "https://wallstreetcn.com/livenews/2983141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时37分]"
-        },
-        {
           "title": "顶级外汇预测师：特朗普政府停摆加剧美元风险，美联储讲话变得至为关键",
           "url": "https://wallstreetcn.com/livenews/2983038",
           "source": "华尔街见闻-快讯",
@@ -366,17 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时22分]"
-        },
-        {
-          "title": "普京回击特朗普",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯完全准备好支持特朗普的加沙倡议。",
@@ -493,8 +498,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 11时37分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时30分]"
         },
         {
           "title": "特斯拉收跌5.1%，三季度车辆交付数据披露后（美股盘中）一度上涨2.5%。",
@@ -636,8 +641,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 11时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时30分]"
         },
         {
           "title": "“存储双雄”三星、SK海力士股价大涨，此前与OpenAI就“星际之门”达成初步供应协议",
@@ -678,11 +683,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时30分]"
         },
         {
           "title": "OpenAI：请求法院驳回马斯克的商业机密诉讼。",
@@ -732,8 +738,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 11时37分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时30分]"
         },
         {
           "title": "伊朗防长：伊朗军队时刻备战 应对一切威胁",
@@ -876,8 +882,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 12时30分]"
         },
         {
           "title": "报道称美国政府可能准备发布就业数据，美债收益率回落",
@@ -895,7 +901,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛解读“金价突破”：西方投资者大幅加仓，金价涨幅或超预期",
@@ -907,8 +913,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 11时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时30分]"
         },
         {
           "title": "金价又刷新纪录",
@@ -921,6 +927,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "黄金价格创下45年来最高预示着什么",
+          "url": "https://www.toutiao.com/trending/7556815451796295222/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     },
