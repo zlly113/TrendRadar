@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-03T12:30:35.952888+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-10-03T13:25:04.197586+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "刘和平：特朗普手把手打造“特家军”",
@@ -40,6 +40,20 @@
           "time_info": "[01时21分 ~ 07时28分]"
         },
         {
+          "title": "牛弹琴：特朗普要砍下最狠一刀了",
+          "url": "https://www.toutiao.com/trending/7556136713014804530/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 13时25分]"
+        },
+        {
           "title": "普京回击特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D1%26flag%3D1%26cate%3D5001%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D1%26q%3D%2523%25E6%2599%25AE%25E4%25BA%25AC%25E5%259B%259E%25E5%2587%25BB%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26pos%3D0%26display_time%3D1759455159%26pre_seqid%3D175945515951802374356106",
           "source": "微博",
@@ -54,19 +68,6 @@
           "time_info": "[09时49分 ~ 12时30分]"
         },
         {
-          "title": "牛弹琴：特朗普要砍下最狠一刀了",
-          "url": "https://www.toutiao.com/trending/7556136713014804530/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时30分]"
-        },
-        {
           "title": "普京回应特朗普“纸老虎”言论",
           "url": "https://news.ifeng.com/c/8n8i69SMJlh",
           "source": "凤凰网",
@@ -76,6 +77,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普突然放话：考虑让战列舰回归",
+          "url": "https://news.ifeng.com/c/8n6jzF8AANE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 13时25分]"
+        },
+        {
+          "title": "牛弹琴：特朗普要砍下最狠一刀了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E7%A0%8D%E4%B8%8B%E6%9C%80%E7%8B%A0%E4%B8%80%E5%88%80%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 13时25分]"
         },
         {
           "title": "埃及外交部长阿卜杜拉蒂：特朗普的加沙计划需要进一步讨论如何落实，尤其要关注治理与安全安排等问题。",
@@ -109,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普突然放话：考虑让战列舰回归",
-          "url": "https://news.ifeng.com/c/8n6jzF8AANE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 12时30分]"
         },
         {
           "title": "埃及外交部长阿卜杜拉蒂：支持美国总统特朗普结束加沙战争的计划与愿景，我们需向前迈进。",
@@ -210,6 +225,19 @@
           "time_info": "[05时22分 ~ 07时28分]"
         },
         {
+          "title": "普京回击特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时25分]"
+        },
+        {
           "title": "报道：白宫最早将于周五公布美国联邦政府裁员计划，部分机构因DEI政策而被特朗普列为目标",
           "url": "https://wallstreetcn.com/livenews/2983075",
           "source": "华尔街见闻-快讯",
@@ -236,17 +264,18 @@
           "time_info": "[09时49分 ~ 11时37分]"
         },
         {
-          "title": "牛弹琴：特朗普要砍下最狠一刀了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E7%A0%8D%E4%B8%8B%E6%9C%80%E7%8B%A0%E4%B8%80%E5%88%80%E4%BA%86",
-          "source": "百度热搜",
+          "title": "日本内阁官房长官林芳正：美国总统特朗普访日一事尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/2983141",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            18,
-            10
+            11,
+            13,
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时30分]"
+          "time_info": "[11时04分 ~ 13时25分]"
         },
         {
           "title": "普京回应特朗普称俄“纸老虎”言论",
@@ -312,31 +341,6 @@
           "time_info": "[04时32分 ~ 06时23分]"
         },
         {
-          "title": "日本内阁官房长官林芳正：美国总统特朗普访日一事尚未确定。",
-          "url": "https://wallstreetcn.com/livenews/2983141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时30分]"
-        },
-        {
-          "title": "普京回击特朗普",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时30分]"
-        },
-        {
           "title": "特朗普施压欧洲能源“脱俄” 基辅献策以美油经乌管线填补缺口",
           "url": "https://flash.jin10.com/detail/20251003053820184800",
           "source": "金十数据",
@@ -358,6 +362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "美国政府关门第二天，特朗普称考虑裁减“成千上万”联邦雇员",
+          "url": "https://wallstreetcn.com/articles/3756626",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "特朗普：若政府持续“停摆” 可能会裁员",
@@ -498,8 +513,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 13时25分]"
         },
         {
           "title": "特斯拉收跌5.1%，三季度车辆交付数据披露后（美股盘中）一度上涨2.5%。",
@@ -641,8 +656,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "“存储双雄”三星、SK海力士股价大涨，此前与OpenAI就“星际之门”达成初步供应协议",
@@ -684,11 +699,12 @@
           "ranks": [
             17,
             19,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时25分]"
         },
         {
           "title": "OpenAI：请求法院驳回马斯克的商业机密诉讼。",
@@ -716,7 +732,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "俄罗斯：不承认、不执行对伊朗制裁",
@@ -738,8 +754,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 13时25分]"
         },
         {
           "title": "伊朗防长：伊朗军队时刻备战 应对一切威胁",
@@ -790,6 +806,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时22分]"
+        },
+        {
+          "title": "伊朗总统：伊朗必须迁都",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%BF%85%E9%A1%BB%E8%BF%81%E9%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         }
       ]
     },
@@ -862,6 +889,18 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "报道称美国政府可能准备发布非农就业数据，美债收益率回落",
+          "url": "https://wallstreetcn.com/articles/3756622",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 13时25分]"
+        },
+        {
           "title": "周四（10月2日）纽约尾盘，美国10年期基准国债收益率跌1.74个基点，刷新日低至4.0807%，日内呈现出两波冲高回落行情，在美国政府停摆造成就业周报暂停发布之际，北京时间20:51涨至4.1251%刷新日高。 两年期美债收益率涨0.41个基点，报3.5388%，08:19跌至3.5265%刷新日低，20:00之前开始加速上涨，20:49刷新日高至3.5716%，经过短暂的高位震荡之后快速回落。",
           "url": "https://wallstreetcn.com/livenews/2983067",
           "source": "华尔街见闻-快讯",
@@ -873,17 +912,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时28分]"
-        },
-        {
-          "title": "报道称美国政府可能准备发布非农就业数据，美债收益率回落",
-          "url": "https://wallstreetcn.com/articles/3756622",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时30分]"
         },
         {
           "title": "报道称美国政府可能准备发布就业数据，美债收益率回落",
@@ -913,8 +941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "金价又刷新纪录",
@@ -933,11 +961,12 @@
           "url": "https://www.toutiao.com/trending/7556815451796295222/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时25分]"
         }
       ]
     },
