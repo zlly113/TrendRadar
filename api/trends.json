@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-04T16:29:44.932488+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2025-10-04T17:24:37.893718+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "美国大豆丰收中国不买，“特朗普考虑100亿美元援助”",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时24分]"
         },
         {
           "title": "哈马斯提交对特朗普“20点计划”的回应",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时24分]"
         },
         {
           "title": "特朗普对哈马斯发出最后通牒",
@@ -79,11 +79,12 @@
             21,
             24,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 17时24分]"
         },
         {
           "title": "特朗普再提“全民发钱”：考虑用关税收入来退税，大概1000-2000美元",
@@ -142,6 +143,20 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "特朗普信赖的美联储理事米兰：房租上涨或导致其改变通胀预期",
+          "url": "https://wallstreetcn.com/articles/3756652",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时24分]"
+        },
+        {
           "title": "美国总统特朗普：我相信他们（哈马斯）准备好实现一个持续的和平。 要求以色列停止轰炸。",
           "url": "https://wallstreetcn.com/livenews/2983406",
           "source": "华尔街见闻-快讯",
@@ -160,20 +175,6 @@
           "time_info": "[06时22分 ~ 15时22分]"
         },
         {
-          "title": "特朗普信赖的美联储理事米兰：房租上涨或导致其改变通胀预期",
-          "url": "https://wallstreetcn.com/articles/3756652",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时29分]"
-        },
-        {
           "title": "矿业公司NioCorp Developments盘后涨2.5%，UUUU涨1.09%，USAR涨1.17%，MP材料涨0.56%。 TECK涨1.27%，南方铜业公司涨1.33%，ERO跌1.82%，McEwn涨1.72%。 据路透报道，特朗普政府讨论对那些关键矿物公司持股。",
           "url": "https://wallstreetcn.com/livenews/2983419",
           "source": "华尔街见闻-快讯",
@@ -184,11 +185,12 @@
             15,
             18,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时24分]"
         },
         {
           "title": "特朗普称俄罗斯「像纸老虎」，普京回应「那北约又算什么？」，哪些信息值得关注？",
@@ -199,8 +201,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时24分]"
         },
         {
           "title": "美媒：财政部证实考虑发行“特朗普1美元硬币”，以纪念美国建国250周年",
@@ -212,11 +214,12 @@
             8,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 17时24分]"
         },
         {
           "title": "哈马斯已向调解方提交对特朗普“20点计划”回应 同意释放所有人质",
@@ -230,6 +233,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时28分 ~ 10时58分]"
+        },
+        {
+          "title": "中东重大转折点来了？哈马斯同意释放全部人质，特朗普要求以色列停止轰炸",
+          "url": "https://wallstreetcn.com/articles/3756665",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 17时24分]"
         },
         {
           "title": "特朗普：以色列须立即停止轰炸加沙",
@@ -257,20 +274,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时22分 ~ 11时31分]"
-        },
-        {
-          "title": "中东重大转折点来了？哈马斯同意释放全部人质，特朗普要求以色列停止轰炸",
-          "url": "https://wallstreetcn.com/articles/3756665",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 16时29分]"
         },
         {
           "title": "正当美国参议院想方设法化解特朗普的政府关门危机之际，众议院下周将继续休会。（Politico）",
@@ -388,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普还在世，想上1美元纪念币？美国教授：过不了法律这关",
+          "url": "https://news.ifeng.com/c/8nAxrZ4cxhM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 17时24分]"
         },
         {
           "title": "特朗普：以色列应立即停止轰炸加沙",
@@ -509,17 +523,6 @@
           "time_info": "[00时29分 ~ 02时36分]"
         },
         {
-          "title": "特朗普还在世，想上1美元纪念币？美国教授：过不了法律这关",
-          "url": "https://news.ifeng.com/c/8nAxrZ4cxhM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 16时29分]"
-        },
-        {
           "title": "哈马斯：同意根据特朗普的“20点计划”，释放所有活着的以色列人质",
           "url": "https://wallstreetcn.com/livenews/2983380",
           "source": "华尔街见闻-快讯",
@@ -559,6 +562,18 @@
           "time_info": "[01时23分 ~ 03时19分]"
         },
         {
+          "title": "巴勒斯坦伊斯兰圣战组织：哈马斯对特朗普加沙计划的回应体现了“抵抗立场”。",
+          "url": "https://flash.jin10.com/detail/20251004151202457800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时24分]"
+        },
+        {
           "title": "美国总统特朗普的10万美元H-1B签证费用面临新的官司。",
           "url": "https://wallstreetcn.com/livenews/2983374",
           "source": "华尔街见闻-快讯",
@@ -581,6 +596,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 10时58分]"
+        },
+        {
+          "title": "哈马斯回应特朗普和平计划 提三条件",
+          "url": "https://www.toutiao.com/trending/7557259569865428523/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时24分]"
         },
         {
           "title": "知情人士称，卡塔尔调解人已收到哈马斯对特朗普加沙计划的回应。",
@@ -641,15 +668,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "巴勒斯坦伊斯兰圣战组织：哈马斯对特朗普加沙计划的回应体现了“抵抗立场”。",
-          "url": "https://flash.jin10.com/detail/20251004151202457800",
-          "source": "金十数据",
+          "title": "特朗普训话翻车,四星上将愤然辞职",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345541&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%AD%E8%AF%9D%E7%BF%BB%E8%BD%A6%2C%E5%9B%9B%E6%98%9F%E4%B8%8A%E5%B0%86%E6%84%A4%E7%84%B6%E8%BE%9E%E8%81%8C",
+          "source": "贴吧",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普向哈马斯发出最后通牒",
@@ -663,6 +690,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "巴基斯坦欢迎哈马斯对特朗普协议的回应",
+          "url": "https://flash.jin10.com/detail/20251004162831116800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "评论员：特朗普是军事门外汉",
           "url": "https://www.toutiao.com/trending/7557195840008228391/",
           "source": "今日头条",
@@ -674,15 +712,15 @@
           "time_info": "13时24分"
         },
         {
-          "title": "哈马斯回应特朗普和平计划 提三条件",
-          "url": "https://www.toutiao.com/trending/7557259569865428523/",
-          "source": "今日头条",
+          "title": "以色列国防军：总参谋长指示“推进特朗普释放人质计划第一阶段的准备工作”。与此同时，部队的安全是首要任务，以及所有国防军的作战能力将集中调配至南方司令部，以确保部队的防护。",
+          "url": "https://flash.jin10.com/detail/20251004160147446800",
+          "source": "金十数据",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "17时24分"
         },
         {
           "title": "土耳其总统埃尔多安：与特朗普在白宫的会面加强了双方关系，采取措施促进合作十分重要，特别是在国防工业领域。",
@@ -727,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "普京为何不批特朗普批北约",
+          "url": "https://www.toutiao.com/trending/7557252763567001151/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国众议院议长约翰逊：在政府停摆结束前，无法延长奥巴马医改补贴。 特朗普可能有机会来撤销“浪费的项目”。",
@@ -874,11 +923,12 @@
           "url": "https://wallstreetcn.com/articles/3756668",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时24分]"
         },
         {
           "title": "金十图示：2025年10月03日（周五）美股热门股票行情一览（美股盘中）",
@@ -916,11 +966,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "伊朗总统：别无选择，必须迁都，已向哈梅内伊提议",
@@ -985,8 +1036,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 17时24分]"
         },
         {
           "title": "伊朗一直升机执行救援任务时发生事故 已致1人死亡",
@@ -1023,26 +1074,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时29分]"
-        },
-        {
-          "title": "OpenAI CEO奥特曼寻求利用Sora将AI视频生成商业化",
-          "url": "https://wallstreetcn.com/livenews/2983446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 16时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单",
@@ -1056,8 +1093,24 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 17时24分]"
+        },
+        {
+          "title": "OpenAI CEO奥特曼寻求利用Sora将AI视频生成商业化",
+          "url": "https://wallstreetcn.com/livenews/2983446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            6,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时58分 ~ 16时29分]"
+          "time_info": "[11时31分 ~ 17时24分]"
         },
         {
           "title": "仅限美加地区且邀请制，OpenAI的Sora APP上线两日ios下载16.4万次，位居APP排行榜第三",
@@ -1090,7 +1143,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际金价本周涨超3.5%，现货白银涨超4.2%",
@@ -1118,6 +1171,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "市场分析：金价上涨主因在于市场看多情绪形成的看多气氛驱动",
+          "url": "https://flash.jin10.com/detail/20251004161212185800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "市场普遍预期本年度美联储仍会降息，极大地推动了金价的持续上涨",
+          "url": "https://flash.jin10.com/detail/20251004161114915800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普2.0结束前金价有望到7000美元",
@@ -1149,11 +1224,12 @@
             22,
             25,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 17时24分]"
         },
         {
           "title": "报道称美国政府可能准备发布非农就业数据，美债收益率回落",
