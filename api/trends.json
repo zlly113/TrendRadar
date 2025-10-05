@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-05T18:25:04.863219+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-10-05T19:20:45.642200+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "中东重大转折点来了？哈马斯同意释放全部人质，特朗普要求以色列停止轰炸",
@@ -38,8 +38,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 19时20分]"
+        },
+        {
+          "title": "政府关门=DOGE 2.0！特朗普新一轮“公务员裁员”迫使美联储降息？",
+          "url": "https://wallstreetcn.com/articles/3756681",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 19时20分]"
         },
         {
           "title": "特朗普训话翻车,四星上将愤然辞职",
@@ -52,11 +66,12 @@
             12,
             13,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 19时20分]"
         },
         {
           "title": "特朗普：将主持“史上最大”海军庆典",
@@ -84,19 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 10时00分]"
-        },
-        {
-          "title": "政府关门=DOGE 2.0！特朗普新一轮“公务员裁员”迫使美联储降息？",
-          "url": "https://wallstreetcn.com/articles/3756681",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：我对以色列暂时停止轰炸表示赞赏。不会容忍哈马斯的拖延。",
@@ -151,11 +153,23 @@
             4,
             10,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 19时20分]"
+        },
+        {
+          "title": "市场消息：以色列媒体引述以色列总理内塔尼亚胡的话称，如果在特朗普设定的最后期限前不释放人质，以色列将在所有有关国家的全力支持下重返战斗。",
+          "url": "https://flash.jin10.com/detail/20251005183813808800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普授权向伊利诺伊州部署300名国民警卫队员，州长回应：侵略行为、令人愤慨！",
@@ -170,17 +184,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 16时29分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-05）",
-          "url": "https://flash.jin10.com/detail/20251005174939616800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "特朗普：以色列同意初步撤军路线，哈马斯确认后加沙将立即停火",
@@ -223,6 +226,19 @@
           "time_info": "[16时29分 ~ 18时25分]"
         },
         {
+          "title": "特朗普为何不断针对委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7557648376494296617/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普称以军暂停轰炸 实时画面显示加沙多地战火持续",
           "url": "https://flash.jin10.com/detail/20251005145455778800",
           "source": "金十数据",
@@ -248,6 +264,18 @@
           "time_info": "[16时29分 ~ 17时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-05）",
+          "url": "https://flash.jin10.com/detail/20251005174939616800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
           "title": "黎真主党领导人警告：特朗普“20点计划”充满危险，但是否接受取决于哈马斯",
           "url": "https://flash.jin10.com/detail/20251005105710719800",
           "source": "金十数据",
@@ -262,16 +290,16 @@
           "time_info": "[12时29分 ~ 15时22分]"
         },
         {
-          "title": "特朗普为何不断针对委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7557648376494296617/",
-          "source": "今日头条",
+          "title": "沙特“凶猛扩产”的背后：帮特朗普“压低油价”，也帮OPEC夺回份额",
+          "url": "https://wallstreetcn.com/articles/3756690",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            17
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "美联邦法官暂禁特朗普向波特兰部署国民警卫队",
@@ -322,15 +350,16 @@
           "time_info": "[11时13分 ~ 12时29分]"
         },
         {
-          "title": "沙特“凶猛扩产”的背后：帮特朗普“压低油价”，也帮OPEC夺回份额",
-          "url": "https://wallstreetcn.com/articles/3756690",
-          "source": "华尔街见闻",
+          "title": "美国经济承压 特朗普准备转移选民注意力：等到明年就会好",
+          "url": "https://flash.jin10.com/detail/20251005173141206800",
+          "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "特朗普：以色列同意初步撤军路线 哈马斯确认后加沙将立即停火",
@@ -357,15 +386,76 @@
           "time_info": "[10时00分 ~ 11时13分]"
         },
         {
-          "title": "美国经济承压 特朗普准备转移选民注意力：等到明年就会好",
-          "url": "https://flash.jin10.com/detail/20251005173141206800",
+          "title": "壳牌美国公司高管称，特朗普政府叫停已获全面许可的海上风能项目的决定对投资“极具破坏性”。",
+          "url": "https://flash.jin10.com/detail/20251005170514631800",
           "source": "金十数据",
           "ranks": [
-            8
+            19,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "一位接近美国财长贝森特的人士透露，在8月非农仅新增2.2万个工作岗位后，贝森特告诉特朗普，他相信一旦他的“大而美”税收和支出法的政策在明年全面实施，就业数字将开始上升。",
+          "url": "https://flash.jin10.com/detail/20251005170359740800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "美国总统特朗普的顾问不再纠缠于不稳定的经济数据，而是描绘了一个乐观的前景，坚称数据将在2026年第一季度开始改善。",
+          "url": "https://flash.jin10.com/detail/20251005170243240800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "壳牌(SHEL.N)表示，特朗普对风电项目的攻击损害了对美国的投资。",
+          "url": "https://flash.jin10.com/detail/20251005170212026800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "特朗普的顾问们正在建议特朗普改进经济信息，旨在缓解选民对就业增长疲软和通胀居高不下的担忧。他们的新口号是“等到明年”。",
+          "url": "https://flash.jin10.com/detail/20251005170150185800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "以色列国防部长卡茨：根据美国总统特朗普的倡议，我们可能很快就会听到所有人质，无论生死，都将返回家园。届时，哈马斯将被解除武装，加沙地带将实现非军事化，以色列国防军将留在控制区内保护社区，并应对任何威胁。",
+          "url": "https://flash.jin10.com/detail/20251005170017815800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "特朗普信赖的美联储理事米兰：房租上涨或导致其改变通胀预期",
@@ -379,70 +469,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "壳牌美国公司高管称，特朗普政府叫停已获全面许可的海上风能项目的决定对投资“极具破坏性”。",
-          "url": "https://flash.jin10.com/detail/20251005170514631800",
-          "source": "金十数据",
+          "title": "特朗普亚洲行程安排有哪些细节",
+          "url": "https://www.toutiao.com/trending/7557656215908519463/",
+          "source": "今日头条",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "一位接近美国财长贝森特的人士透露，在8月非农仅新增2.2万个工作岗位后，贝森特告诉特朗普，他相信一旦他的“大而美”税收和支出法的政策在明年全面实施，就业数字将开始上升。",
-          "url": "https://flash.jin10.com/detail/20251005170359740800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国总统特朗普的顾问不再纠缠于不稳定的经济数据，而是描绘了一个乐观的前景，坚称数据将在2026年第一季度开始改善。",
-          "url": "https://flash.jin10.com/detail/20251005170243240800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "壳牌(SHEL.N)表示，特朗普对风电项目的攻击损害了对美国的投资。",
-          "url": "https://flash.jin10.com/detail/20251005170212026800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普的顾问们正在建议特朗普改进经济信息，旨在缓解选民对就业增长疲软和通胀居高不下的担忧。他们的新口号是“等到明年”。",
-          "url": "https://flash.jin10.com/detail/20251005170150185800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "以色列国防部长卡茨：根据美国总统特朗普的倡议，我们可能很快就会听到所有人质，无论生死，都将返回家园。届时，哈马斯将被解除武装，加沙地带将实现非军事化，以色列国防军将留在控制区内保护社区，并应对任何威胁。",
-          "url": "https://flash.jin10.com/detail/20251005170017815800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "19时20分"
         }
       ]
     },
@@ -459,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 19时20分]"
         },
         {
           "title": "伊朗罕见公开地下导弹基地",
@@ -470,8 +505,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时20分]"
         },
         {
           "title": "伊朗总统称伊朗别无选择必须迁都，首都德黑兰存在哪些问题？可能迁到哪里？迁都后问题能解决吗？",
@@ -502,17 +537,6 @@
           "time_info": "[01时18分 ~ 07时23分]"
         },
         {
-          "title": "伊朗称与国际原子能机构达成的开罗协议“不再适用”",
-          "url": "https://wallstreetcn.com/livenews/2983505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：联合国安理会采取的行动使未来的谈判更加困难。",
           "url": "https://flash.jin10.com/detail/20251005162756840800",
           "source": "金十数据",
@@ -535,6 +559,42 @@
           "time_info": "17时23分"
         },
         {
+          "title": "伊朗称与国际原子能机构达成的开罗协议“不再适用”",
+          "url": "https://wallstreetcn.com/livenews/2983505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "伊朗称与国际原子能机构达成的开罗协议“不再适用”",
+          "url": "https://flash.jin10.com/detail/20251005172810919800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "伊朗议会批准货币改革 未来几年将货币面额去掉四个零",
+          "url": "https://flash.jin10.com/detail/20251005165738222800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：伊朗核计划的最终解决方案是外交谈判。",
           "url": "https://flash.jin10.com/detail/20251005162719720800",
           "source": "金十数据",
@@ -546,35 +606,13 @@
           "time_info": "17时23分"
         },
         {
-          "title": "伊朗称与国际原子能机构达成的开罗协议“不再适用”",
-          "url": "https://flash.jin10.com/detail/20251005172810919800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "伊朗议会批准货币改革 未来几年将货币面额去掉四个零",
-          "url": "https://flash.jin10.com/detail/20251005165738222800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "伊朗议会已批准一项货币改革计划，在未来几年内从本国货币中去掉四个零，以简化交易。",
           "url": "https://flash.jin10.com/detail/20251005165340173800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -593,8 +631,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 19时20分]"
         },
         {
           "title": "前瞻OpenAI开发者日：传说中的“消费级AI产品”是什么？",
@@ -605,11 +643,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 19时20分]"
         },
         {
           "title": "OpenAI CEO奥特曼寻求利用Sora将AI视频生成商业化",
@@ -629,11 +668,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时20分]"
         }
       ]
     },
@@ -699,8 +739,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时00分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 19时20分]"
         },
         {
           "title": "金价",
@@ -708,11 +748,12 @@
           "source": "微博",
           "ranks": [
             6,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 19时20分]"
         }
       ]
     }
