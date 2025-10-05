@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-05T15:22:57.830386+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2025-10-05T16:29:37.218410+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "中东重大转折点来了？哈马斯同意释放全部人质，特朗普要求以色列停止轰炸",
@@ -39,11 +39,12 @@
             8,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普：将主持“史上最大”海军庆典",
@@ -117,18 +118,6 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
-          "title": "白宫：特朗普决定向芝加哥部署国民警卫队",
-          "url": "https://wallstreetcn.com/livenews/2983490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
           "title": "美国或将发行印有特朗普头像的 1 美元硬币，初稿已曝光，如何看待？这在法律上有争议吗？",
           "url": "https://www.zhihu.com/question/1957750114341857257",
           "source": "知乎",
@@ -136,19 +125,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 16时29分]"
         },
         {
-          "title": "特朗普称以军暂停轰炸 实时画面显示加沙多地战火持续",
-          "url": "https://flash.jin10.com/detail/20251005145455778800",
+          "title": "白宫：特朗普决定向芝加哥部署国民警卫队",
+          "url": "https://wallstreetcn.com/livenews/2983490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时29分]"
+        },
+        {
+          "title": "以色列特拉维夫股市上涨2%，再创历史新高，市场对美国总统特朗普结束加沙战争、解救被扣人质的计划持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20251005161117619800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "16时29分"
         },
         {
           "title": "特朗普授权向伊利诺伊州部署300名国民警卫队员，州长回应：侵略行为、令人愤慨！",
@@ -157,11 +159,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时29分]"
         },
         {
           "title": "白宫：特朗普决定向芝加哥部署国民警卫队",
@@ -170,11 +173,37 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时29分]"
+        },
+        {
+          "title": "政府关门=DOGE 2.0！特朗普新一轮“公务员裁员”迫使美联储降息？",
+          "url": "https://wallstreetcn.com/articles/3756681",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "time_info": "[14时34分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普称以军暂停轰炸 实时画面显示加沙多地战火持续",
+          "url": "https://flash.jin10.com/detail/20251005145455778800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时29分]"
         },
         {
           "title": "黎真主党领导人警告：特朗普“20点计划”充满危险，但是否接受取决于哈马斯",
@@ -189,6 +218,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时29分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普：以色列同意初步撤军路线，哈马斯确认后加沙将立即停火",
+          "url": "https://wallstreetcn.com/articles/3756679",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时29分]"
         },
         {
           "title": "美联邦法官暂禁特朗普向波特兰部署国民警卫队",
@@ -239,30 +281,6 @@
           "time_info": "[11时13分 ~ 12时29分]"
         },
         {
-          "title": "政府关门=DOGE 2.0！特朗普新一轮“公务员裁员”迫使美联储降息？",
-          "url": "https://wallstreetcn.com/articles/3756681",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普：以色列同意初步撤军路线，哈马斯确认后加沙将立即停火",
-          "url": "https://wallstreetcn.com/articles/3756679",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普：以色列同意初步撤军路线 哈马斯确认后加沙将立即停火",
           "url": "https://flash.jin10.com/detail/20251005080520810800",
           "source": "金十数据",
@@ -296,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普若对委内瑞拉动武会有何影响",
+          "url": "https://www.toutiao.com/trending/7557635511406300681/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
@@ -312,8 +341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时29分]"
         },
         {
           "title": "伊朗总统称伊朗别无选择必须迁都，首都德黑兰存在哪些问题？可能迁到哪里？迁都后问题能解决吗？",
@@ -351,8 +380,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时29分]"
         }
       ]
     },
@@ -369,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时29分]"
         },
         {
           "title": "OpenAI CEO奥特曼寻求利用Sora将AI视频生成商业化",
@@ -391,11 +420,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时29分]"
         }
       ]
     },
@@ -438,11 +468,12 @@
             11,
             13,
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时29分]"
         }
       ]
     },
@@ -455,11 +486,12 @@
           "url": "https://www.cls.cn/detail/2162360",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 16时29分]"
         },
         {
           "title": "金价",
@@ -468,9 +500,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时29分]"
         }
       ]
     }
