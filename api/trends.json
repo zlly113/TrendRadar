@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-06T19:22:48.602988+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-10-06T20:58:24.097004+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普经济团队“口风转变”：等到明年吧！",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 20时58分]"
         },
         {
           "title": "沙特“凶猛扩产”的背后：帮特朗普“压低油价”，也帮OPEC夺回份额",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 20时58分]"
         },
         {
           "title": "美国或将发行印有特朗普头像的 1 美元硬币，初稿已曝光，如何看待？这在法律上有争议吗？",
@@ -104,11 +104,12 @@
             23,
             17,
             30,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 20时58分]"
         },
         {
           "title": "特朗普训话翻车,四星上将愤然辞职",
@@ -120,11 +121,12 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 19时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 20时58分]"
         },
         {
           "title": "特朗普顾问：若政府停摆谈判无进展，将开始裁员",
@@ -190,6 +192,17 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "哈佛教授：特朗普政府的十大外交政策错误",
+          "url": "https://news.ifeng.com/c/8nEFn7LAEw3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时58分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及普京延长核武器协议一年的提议时）这听起来是个好主意。",
           "url": "https://flash.jin10.com/detail/20251005231009671800",
           "source": "金十数据",
@@ -227,17 +240,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时23分]"
-        },
-        {
-          "title": "哈佛教授：特朗普政府的十大外交政策错误",
-          "url": "https://news.ifeng.com/c/8nEFn7LAEw3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "美国总统特朗普：希望修复《平价医疗法案》。",
@@ -457,6 +459,17 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "特朗普：没有比芝加哥更乱的城市",
+          "url": "https://www.toutiao.com/trending/7557710771543851018/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特朗普：加沙谈判非常成功 进展迅速",
           "url": "https://flash.jin10.com/detail/20251006061942798800",
           "source": "金十数据",
@@ -479,6 +492,28 @@
           "time_info": "11时08分"
         },
         {
+          "title": "特朗普重申股市触及纪录高点。",
+          "url": "https://wallstreetcn.com/livenews/2983689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "特朗普：假日季迎来好消息 股市不断创下历史新高",
+          "url": "https://flash.jin10.com/detail/20251006201907901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "市场消息：美国法官同时阻止特朗普政府向俄勒冈州派遣得克萨斯州或其他州的国民警卫队。",
           "url": "https://flash.jin10.com/detail/20251006111831228800",
           "source": "金十数据",
@@ -496,7 +531,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -581,7 +616,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 22,
       "titles": [
         {
           "title": "前瞻OpenAI开发者日：传说中的“消费级AI产品”是什么？",
@@ -646,13 +681,24 @@
           "time_info": "[00时27分 ~ 11时08分]"
         },
         {
+          "title": "AMD飙升35%！OpenAI与其签订高达6GW芯片协议，且通过期权有望持股10%",
+          "url": "https://wallstreetcn.com/articles/3756722",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "欧洲斯托克600科技类股指数最新上涨0.7%，此前AMD(AMD.O)与OpenAI达成协议。",
           "url": "https://flash.jin10.com/detail/20251006191055211800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -663,7 +709,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -672,22 +718,24 @@
           "url": "https://wallstreetcn.com/livenews/2983681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时58分]"
         },
         {
           "title": "AMD美股盘前涨超13%，公司与OpenAI达成价值数百亿美元的芯片交易",
           "url": "https://wallstreetcn.com/livenews/2983680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时58分]"
         },
         {
           "title": "本周重要事件与数据预告：中国M2+外储、诺贝尔奖、OpenAI开发者大会、美联储会议纪要",
@@ -701,15 +749,37 @@
           "time_info": "07时20分"
         },
         {
+          "title": "AMD(AMD.O)首席执行官：与OpenAI的交易并非排他性的，公司可以“满足所有客户的需求”。",
+          "url": "https://flash.jin10.com/detail/20251006202908421800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "OpenAI获得AMD(AMD.O)认股权证，允许其以每股1美分的价格收购这家晶片制造商最多10%的股份。",
           "url": "https://flash.jin10.com/detail/20251006185656810800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "AMD(AMD.O)首席执行官：公司拥有满足与OpenAI协议下需求的供应链能力。",
+          "url": "https://flash.jin10.com/detail/20251006202723705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "市场消息：OpenAI与AMD(AMD.O)签署价值数百亿美元的芯片交易，AMD(AMD.O)将在为期四年的协议中，向OpenAI提供数十万块人工智能芯片。",
@@ -718,9 +788,86 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "AMD CEO：与OpenAI的交易非排他性的，具备“服务所有客户”的供应能力。 将全力加速交付首批吉瓦级计算单元。 认股权证机制旨在确保与OpenAI交易中的激励相容。",
+          "url": "https://wallstreetcn.com/livenews/2983695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD美股盘前涨超35%，OpenAI与其签订高达6GW芯片协议，且通过期权有望持股10%。",
+          "url": "https://wallstreetcn.com/livenews/2983693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)首席执行官：根据与OpenAI的交易，预计每增加一吉瓦计算能力，将为AMD带来数十亿美元的收入。",
+          "url": "https://flash.jin10.com/detail/20251006202116484800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)首席执行官：根据与OpenAI的交易，OpenAI对AMD的股权持有还与AMD股价里程碑直接挂钩，最后一批股份的归属价格为每股600美元。",
+          "url": "https://flash.jin10.com/detail/20251006201726138800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)首席执行官：与OpenAI的交易将从首笔收入起立即提升调整后每股收益。",
+          "url": "https://flash.jin10.com/detail/20251006201535367800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前大涨34%，此前该公司与OpenAI签订芯片协议，且给予OpenAI持股多达10%的选择权。",
+          "url": "https://flash.jin10.com/detail/20251006201436606800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)首席执行官：与OpenAI的交易预计将显著促进收入增长和盈利。",
+          "url": "https://flash.jin10.com/detail/20251006201224690800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -795,23 +942,24 @@
         },
         {
           "title": "伊朗称暂无新一轮谈判计划 将和国际原子能机构保持对话",
+          "url": "https://wallstreetcn.com/livenews/2983674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗称暂无新一轮谈判计划 将和国际原子能机构保持对话",
           "url": "https://flash.jin10.com/detail/20251006180728406800",
           "source": "金十数据",
           "ranks": [
             1,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "伊朗称暂无新一轮谈判计划 将和国际原子能机构保持对话",
-          "url": "https://wallstreetcn.com/livenews/2983674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -862,6 +1010,124 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2983703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "吉利德科学美股盘前涨近5%，公司与与Lupin、Cipla和Laurus实验室达成和解协议，以解决Biktarvy专利诉讼。",
+          "url": "https://wallstreetcn.com/livenews/2983702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前下跌1.1%，博通(AVGO.O)下滑1.5%，英特尔(INTC.O)下滑1.7%。",
+          "url": "https://flash.jin10.com/detail/20251006190310058800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "美股盘前：黄金股、半导体股普涨",
+          "url": "https://wallstreetcn.com/livenews/2983641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时29分]"
+        },
+        {
+          "title": "美股盘前，矿业公司NioCorp Developments一度涨超23%，Energy Fuels涨约6%，USA Rare Earth涨超7%，MP Materials涨超2%。据路透报道，特朗普政府讨论对那些关键矿物公司持股。",
+          "url": "https://wallstreetcn.com/livenews/2983665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至超22%。",
+          "url": "https://flash.jin10.com/detail/20251006185727829800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "Comerica美股盘前涨超14%，Fifth Third跌1.5%，此前Fifth Third Bancorp同意以约109亿美元股票交易方式收购Comerica Inc.，这是今年最大的一宗美国银行业并购案。",
+          "url": "https://wallstreetcn.com/livenews/2983698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前大涨18%。",
+          "url": "https://flash.jin10.com/detail/20251006185448972800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至36%。",
+          "url": "https://flash.jin10.com/detail/20251006202205529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前上涨3.2%，此前摩根士丹利将其评级从“持股观望”上调至“增持”。",
+          "url": "https://flash.jin10.com/detail/20251006163521251800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
@@ -937,80 +1203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达(NVDA.O)美股盘前下跌1.1%，博通(AVGO.O)下滑1.5%，英特尔(INTC.O)下滑1.7%。",
-          "url": "https://flash.jin10.com/detail/20251006190310058800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "美股盘前：黄金股、半导体股普涨",
-          "url": "https://wallstreetcn.com/livenews/2983641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时29分]"
-        },
-        {
-          "title": "美股盘前，矿业公司NioCorp Developments一度涨超23%，Energy Fuels涨约6%，USA Rare Earth涨超7%，MP Materials涨超2%。据路透报道，特朗普政府讨论对那些关键矿物公司持股。",
-          "url": "https://wallstreetcn.com/livenews/2983665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘前涨幅扩大至超22%。",
-          "url": "https://flash.jin10.com/detail/20251006185727829800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘前大涨18%。",
-          "url": "https://flash.jin10.com/detail/20251006185448972800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "美光科技(MU.O)美股盘前上涨3.2%，此前摩根士丹利将其评级从“持股观望”上调至“增持”。",
-          "url": "https://flash.jin10.com/detail/20251006163521251800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         }
       ]
     },
