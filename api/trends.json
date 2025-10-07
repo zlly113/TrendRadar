@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-07T12:29:58.965877+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-10-07T13:25:43.802551+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "哈佛教授：特朗普政府的十大外交政策错误",
@@ -54,8 +54,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时25分]"
         },
         {
           "title": "特朗普训话翻车,四星上将愤然辞职",
@@ -66,8 +66,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时25分]"
         },
         {
           "title": "专家：特朗普想让美军介入国内事务",
@@ -100,6 +100,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时38分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
+          "url": "https://www.cls.cn/detail/2163032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
+        },
+        {
+          "title": "她让世界刮目相看，特朗普意见很大",
+          "url": "https://news.ifeng.com/c/8nFj49GiHFT",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时25分]"
         },
         {
           "title": "特朗普签署行政命令，进一步释放阿拉斯加在矿产和能源领域的经济潜力。",
@@ -210,19 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
-          "url": "https://www.cls.cn/detail/2163032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时29分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周四召开内阁会议。",
@@ -385,18 +398,6 @@
           "time_info": "[00时59分 ~ 02时38分]"
         },
         {
-          "title": "她让世界刮目相看，特朗普意见很大",
-          "url": "https://news.ifeng.com/c/8nFj49GiHFT",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时29分]"
-        },
-        {
           "title": "特朗普：波特兰发生“叛乱”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%A2%E7%89%B9%E5%85%B0%E5%8F%91%E7%94%9F%E2%80%9C%E5%8F%9B%E4%B9%B1%E2%80%9D",
           "source": "百度热搜",
@@ -479,6 +480,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
+        },
+        {
+          "title": "卢拉与特朗普通话：40%关税 给我撤了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E6%8B%89%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%EF%BC%9A40%25%E5%85%B3%E7%A8%8E+%E7%BB%99%E6%88%91%E6%92%A4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时25分]"
         },
         {
           "title": "特朗普：与约旦国王进行了通话。",
@@ -644,6 +657,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "消息人士：特朗普叫停与委内瑞拉外交接触，或为军事升级铺路",
+          "url": "https://news.ifeng.com/c/8nFFrPjUuEH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "据纽约时报：美国官员称，特朗普取消了与委内瑞拉达成外交协议的努力，为针对毒贩或马杜罗政府的潜在军事升级铺平了道路。",
           "url": "https://flash.jin10.com/detail/20251007061920000800",
           "source": "金十数据",
@@ -743,6 +767,17 @@
           "time_info": "01时00分"
         },
         {
+          "title": "特朗普表示愿就医保问题与民主党谈判",
+          "url": "https://www.toutiao.com/trending/7558329065116012095/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
           "url": "https://wallstreetcn.com/livenews/2983916",
           "source": "华尔街见闻-快讯",
@@ -809,24 +844,13 @@
           "time_info": "09时51分"
         },
         {
-          "title": "卢拉与特朗普通话：40%关税 给我撤了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E6%8B%89%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%EF%BC%9A40%25%E5%85%B3%E7%A8%8E+%E7%BB%99%E6%88%91%E6%92%A4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
           "title": "特朗普回应是否供乌战斧导弹",
           "url": "https://www.douyin.com/hot/2261750",
           "source": "抖音",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -840,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普祝贺高市早苗",
+          "url": "https://www.douyin.com/hot/2261856",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "特朗普：将适时前往巴西。",
@@ -955,7 +990,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "AMD股价飙升！OpenAI与其签订高达6GW芯片协议，且有望持股10%",
@@ -965,8 +1000,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时25分]"
         },
         {
           "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
@@ -979,8 +1014,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时25分]"
+        },
+        {
+          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
+          "url": "https://wallstreetcn.com/articles/3756717",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "OpenAI一举一动都能“呼风唤雨”，市场聚焦开发者大会",
@@ -993,8 +1039,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 13时25分]"
         },
         {
           "title": "OpenAI再联手芯片巨头：有望最高获AMD 10%股权，共同部署6GW算力",
@@ -1003,22 +1049,12 @@
           "ranks": [
             17,
             15,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时21分 ~ 12时29分]"
-        },
-        {
-          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
-          "url": "https://wallstreetcn.com/articles/3756717",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时29分]"
+          "appearance_count": 12,
+          "time_info": "[03时21分 ~ 13时25分]"
         },
         {
           "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
@@ -1029,8 +1065,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "旧金山软件公司Figma涨幅扩大至6.7%，OpenAI开发者日活动开幕。 该公司专注于开发基于浏览器的协作设计工具。",
@@ -1087,8 +1123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时25分]"
         },
         {
           "title": "OpenAI首席运营官：数千万用户正在为ChatGPT付费。",
@@ -1234,6 +1270,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
+          "url": "https://wallstreetcn.com/articles/3756740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美泰公司上涨1.5%，该公司与OpenAI就Sora 2人工智能视频模型达成合作。",
           "url": "https://wallstreetcn.com/livenews/2983815",
           "source": "华尔街见闻-快讯",
@@ -1367,11 +1414,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时25分]"
         },
         {
           "title": "美国宣布与Trilogy Metals合作，对其持股10%，并获得增持7.5%股权的选择权。 Trilogy Metals（TMQ）股价美股盘后涨147%，特朗普政府披露持股信息前、盘后涨幅一度超过171.90%报5.71美元。 值得一提的是，白宫新闻秘书曾在纽约中午（美股盘中）声称，媒体相关报道是错误的。",
@@ -1459,7 +1507,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价",
@@ -1467,11 +1515,12 @@
           "source": "微博",
           "ranks": [
             2,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时25分]"
         },
         {
           "title": "高盛上调2026年12月黄金价格预期至4900美元",
@@ -1563,9 +1612,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "高盛上调明年底金价目标价至4900美元",
+          "url": "https://www.toutiao.com/trending/7558309163277749799/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
@@ -1674,24 +1734,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "伊朗货币面值将“去掉四个零”",
+          "url": "https://www.toutiao.com/trending/7557245549808943143/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时25分]"
+        },
+        {
           "title": "伊朗就卫星导航问题作出了哪些反思",
           "url": "https://www.toutiao.com/trending/7558284287607311911/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "伊朗货币面值将“去掉四个零”",
-          "url": "https://www.toutiao.com/trending/7557245549808943143/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
