@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-08T06:25:25.739051+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-10-08T07:23:07.425475+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "卢拉与特朗普通电话：40%关税，给我撤了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国打美国？特朗普要把国内城市变成“训练场”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普：这就是叛乱",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国清洁能源股，此前报道称美国总统特朗普考虑取消清洁能源项目资金。",
@@ -75,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时20分]"
-        },
-        {
-          "title": "美国参议院John Hoeven：政府关门造成特朗普政府将近130亿美元农业救助计划的推进被放缓。",
-          "url": "https://wallstreetcn.com/livenews/2984220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：我们想在这里（美国）生产我们的汽车。美国人不想购买加拿大制造的汽车。我们会解决这个问题的。",
@@ -110,28 +100,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普当面暗示加拿大总理：美国将吞并加拿大",
-          "url": "https://flash.jin10.com/detail/20251008060649091800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普会见卡尼，再次暗示将吞并加拿大",
-          "url": "https://wallstreetcn.com/livenews/2984217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国总统特朗普：我们与加拿大存在天然的商业冲突。",
           "url": "https://flash.jin10.com/detail/20251008001154056800",
           "source": "金十数据",
@@ -152,6 +120,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "10月6日，美国现货比特币ETFs获得12.1亿美元资金流入，创特朗普在2024年11月初（再次）当选为美国总统以来最大单日资金流入。",
+          "url": "https://wallstreetcn.com/livenews/2984224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国参议院John Hoeven：政府关门造成特朗普政府将近130亿美元农业救助计划的推进被放缓。",
+          "url": "https://wallstreetcn.com/livenews/2984220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普当面暗示加拿大总理：美国将吞并加拿大",
+          "url": "https://flash.jin10.com/detail/20251008060649091800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "特朗普最新任命的美联储理事米兰认为，美联储的双重目标并不像同僚们认为的那样紧张",
@@ -188,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普会见卡尼，再次暗示将吞并加拿大",
+          "url": "https://wallstreetcn.com/livenews/2984217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：白宫预算管理办公室主任Vought在“准备裁撤”（公务员）。 预计将在4-5天之后讨论（联邦政府）裁员问题。",
@@ -263,6 +278,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时20分]"
+        },
+        {
+          "title": "加拿大总理卡尼：特朗普总统和我都知道，美加两国在某些领域可以竞争，而在某些领域，我们携手合作将变得更加强大。 我们专注于创造这些新机遇。",
+          "url": "https://flash.jin10.com/detail/20251008055648973800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "特朗普威胁不向联邦雇员补发政府停摆期间的薪水",
@@ -394,17 +421,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "加拿大总理卡尼：特朗普总统和我都知道，美加两国在某些领域可以竞争，而在某些领域，我们携手合作将变得更加强大。 我们专注于创造这些新机遇。",
-          "url": "https://flash.jin10.com/detail/20251008055648973800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国总统特朗普谈及美国墨西哥加拿大贸易协议（USMCA），声称：我们可以重新谈判USMCA，否则就谈判不同的协议。 我希望与加拿大达成最好的交易。 可能与各个国家单独达成协议更好。 与加拿大的协议将涵盖乳制品等所有产品。",
           "url": "https://wallstreetcn.com/livenews/2984120",
           "source": "华尔街见闻-快讯",
@@ -521,7 +537,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -594,120 +610,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
-          "url": "https://wallstreetcn.com/articles/3756740",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
-          "url": "https://wallstreetcn.com/articles/3756717",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1958800584279814300",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 06时25分]"
-        },
-        {
-          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
-          "url": "https://www.cls.cn/detail/2162934",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
-          "url": "https://wallstreetcn.com/articles/3756727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
-          "url": "https://www.zhihu.com/question/1958815458754004888",
-          "source": "知乎",
-          "ranks": [
-            4,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：OpenAI“点到哪家涨哪家” 标普纳指再创收盘新高",
-          "url": "https://www.cls.cn/detail/2163026",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
-        },
-        {
-          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
-          "url": "https://wallstreetcn.com/articles/3756728",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
-          "url": "https://www.cls.cn/detail/2163155",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -741,11 +645,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
         },
         {
           "title": "半导体ETF收跌超1.8%，和可选消费ETF领跌美股行业ETF",
@@ -753,11 +658,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时25分]"
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
+          "url": "https://wallstreetcn.com/articles/3756760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走高 AMD股价暴涨35% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2162946",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股收盘）",
@@ -791,6 +730,121 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
+          "url": "https://wallstreetcn.com/articles/3756740",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
+          "url": "https://wallstreetcn.com/articles/3756717",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
+          "url": "https://www.cls.cn/detail/2162934",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1958800584279814300",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：OpenAI“点到哪家涨哪家” 标普纳指再创收盘新高",
+          "url": "https://www.cls.cn/detail/2163026",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
+          "url": "https://www.zhihu.com/question/1958815458754004888",
+          "source": "知乎",
+          "ranks": [
+            4,
+            18,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
+          "url": "https://wallstreetcn.com/articles/3756727",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
+        },
+        {
+          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
+          "url": "https://www.cls.cn/detail/2163155",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
+          "url": "https://wallstreetcn.com/articles/3756728",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时22分]"
         }
       ]
     },
@@ -868,51 +922,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌称将欧泊（Opal）引入15个国家，并添加新功能，让人工智能迷你应用程序的开发更加便捷。",
-          "url": "https://wallstreetcn.com/livenews/2984152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时27分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉在廉价车型发布日收跌超4.4%，谷歌A跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/2984189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时25分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌AI Plus即将登陆另外36个国家。",
-          "url": "https://flash.jin10.com/detail/20251008030712931800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗发生武装冲突",
@@ -922,8 +933,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "伊朗革命卫队航空航天部队：受损设施已修复 战备能力全面恢复",
@@ -938,6 +949,17 @@
           "time_info": "[02时38分 ~ 03时20分]"
         },
         {
+          "title": "伊朗货币将抹掉4个0",
+          "url": "https://www.douyin.com/hot/2261573",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
           "title": "伊朗革命卫队航空航天部队：受损设施已修复，战备能力全面恢复",
           "url": "https://wallstreetcn.com/livenews/2984132",
           "source": "华尔街见闻-快讯",
@@ -947,6 +969,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜特斯拉在廉价车型发布日收跌超4.4%，谷歌A跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/2984189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时23分]"
+        },
+        {
+          "title": "谷歌称将欧泊（Opal）引入15个国家，并添加新功能，让人工智能迷你应用程序的开发更加便捷。",
+          "url": "https://wallstreetcn.com/livenews/2984152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌AI Plus即将登陆另外36个国家。",
+          "url": "https://flash.jin10.com/detail/20251008030712931800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
@@ -963,8 +1029,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "国际金价半年涨了1000美元",
