@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-08T00:32:48.251086+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-08T01:24:51.878841+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "特朗普最新任命的美联储理事米兰认为，美联储的双重目标并不像同僚们认为的那样紧张",
-          "url": "https://wallstreetcn.com/livenews/2984115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
         {
           "title": "卢拉与特朗普通电话：40%关税，给我撤了",
           "url": "https://news.ifeng.com/c/8nFaTJe1n5V",
@@ -26,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "美国打美国？特朗普要把国内城市变成“训练场”",
+          "url": "https://news.ifeng.com/c/8nGWXJQtiZp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普：这就是叛乱",
+          "url": "https://news.ifeng.com/c/8nG0WWiCKoB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：我们想在这里（美国）生产我们的汽车。美国人不想购买加拿大制造的汽车。我们会解决这个问题的。",
@@ -52,17 +63,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国打美国？特朗普要把国内城市变成“训练场”",
-          "url": "https://news.ifeng.com/c/8nGWXJQtiZp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "美国总统特朗普：我们与加拿大存在天然的商业冲突。",
           "url": "https://flash.jin10.com/detail/20251008001154056800",
           "source": "金十数据",
@@ -74,15 +74,16 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普：这就是叛乱",
-          "url": "https://news.ifeng.com/c/8nG0WWiCKoB",
-          "source": "凤凰网",
+          "title": "特朗普最新任命的美联储理事米兰认为，美联储的双重目标并不像同僚们认为的那样紧张",
+          "url": "https://wallstreetcn.com/livenews/2984115",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
@@ -92,19 +93,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：补发工资要“取决于我们谈论的是谁”。",
           "url": "https://wallstreetcn.com/livenews/2984114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
+          "url": "https://www.cls.cn/detail/2163141",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "通用汽车跌2.2%，福特汽车跌7%，特斯拉跌2.5%。 美元兑加元目前涨0.06%，暂报1.3951。 美国总统特朗普称，将与加拿大总理卡尼讨论贸易和加沙问题。 不想从国外进口钢材。 希望在美国生产汽车，希望加拿大发展良好。 美国人不想买在加拿大制造的汽车。 美国拥有庞大的汽车市场，“相当有优势”。",
@@ -118,6 +131,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：白宫预算管理办公室主任Vought在“准备裁撤”（公务员）。 预计将在4-5天之后讨论（联邦政府）裁员问题。",
+          "url": "https://wallstreetcn.com/livenews/2984122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "美国总统特朗普：将讨论降低对加拿大行业的关税。",
           "url": "https://flash.jin10.com/detail/20251008001012317800",
           "source": "金十数据",
@@ -129,15 +153,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
-          "url": "https://www.cls.cn/detail/2163141",
-          "source": "财联社热门",
+          "title": "美国总统特朗普谈及美国墨西哥加拿大贸易协议（USMCA），声称：我们可以重新谈判USMCA，否则就谈判不同的协议。 我希望与加拿大达成最好的交易。 可能与各个国家单独达成协议更好。 与加拿大的协议将涵盖乳制品等所有产品。",
+          "url": "https://wallstreetcn.com/livenews/2984120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时24分"
         },
         {
           "title": "美国总统特朗普：我们将与加拿大总理卡尼讨论加沙问题，另一支团队刚刚启程计划就加沙计划展开谈判。",
@@ -151,6 +175,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：我接到民主党人的电话，他们想见面。",
+          "url": "https://flash.jin10.com/detail/20251008004135302800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：很多工作岗位不会再回来了。预算平衡将更近一步。",
+          "url": "https://flash.jin10.com/detail/20251008003922708800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "美国总统特朗普：将与加拿大总理卡尼就贸易问题进行会谈。",
           "url": "https://flash.jin10.com/detail/20251008000801998800",
           "source": "金十数据",
@@ -160,6 +206,182 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们将在政府停摆期间永久裁掉一些岗位。将在四到五天内告诉你们将要裁掉的职位。",
+          "url": "https://flash.jin10.com/detail/20251008003911109800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：民主党在政府关门问题上“并没有损失”。",
+          "url": "https://wallstreetcn.com/livenews/2984116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：我认为加拿大方面会再次爱上我们。",
+          "url": "https://flash.jin10.com/detail/20251008003801471800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：由于政府停摆，我们将取消很多事项。",
+          "url": "https://flash.jin10.com/detail/20251008003738727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：与加拿大的贸易协议将是全面的。",
+          "url": "https://flash.jin10.com/detail/20251008003730392800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：民主党没有什么可失去的，他们没有领导人。舒默无力达成协议结束政府停摆。",
+          "url": "https://flash.jin10.com/detail/20251008003501957800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：（谈美墨加协议）希望与加拿大达成最佳协议。",
+          "url": "https://flash.jin10.com/detail/20251008003417311800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：一旦加沙协议达成，我们将尽一切努力确保各方遵守协议。",
+          "url": "https://flash.jin10.com/detail/20251008003312494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以重新谈判美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251008003151394800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普重申他对普京非常失望。",
+          "url": "https://flash.jin10.com/detail/20251008003137452800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "通用汽车跌2.2%，福特汽车跌7%，特斯拉跌2.5%。 美元兑加元目前涨0.06%，暂报1.3951。 美国总统特朗普称，将与加拿大总理卡尼讨论贸易和加沙问题。 不想从国外进口钢材。 希望在美国生产汽车，希望加拿大发展良好。 美国人不想买在加拿大制造的汽车。 美国拥有庞大的汽车市场，“相当有优势”。 美加两国之间将（互相）征收关税，美国将公平地、特别地针对加拿大。",
+          "url": "https://wallstreetcn.com/livenews/2984107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：非常接近达成中东协议。",
+          "url": "https://flash.jin10.com/detail/20251008002946357800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们将公平对待加拿大。",
+          "url": "https://flash.jin10.com/detail/20251008002654387800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：我认为加拿大会对关税问题感到非常高兴， 将对加拿大征收关税。",
+          "url": "https://flash.jin10.com/detail/20251008002544228800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：正为美国和加拿大打造金色穹顶进行密切合作。",
+          "url": "https://flash.jin10.com/detail/20251008002336715800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：加沙和平协议“真正有机会”达成。",
+          "url": "https://flash.jin10.com/detail/20251008002022421800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -175,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
@@ -186,8 +408,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
@@ -197,8 +419,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
@@ -208,8 +430,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
@@ -219,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美股收盘：OpenAI“点到哪家涨哪家” 标普纳指再创收盘新高",
@@ -230,8 +452,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
@@ -241,8 +463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
@@ -252,8 +474,64 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "资金流入太猛，高盛上调明年底金价目标价至4900美元",
+          "url": "https://wallstreetcn.com/articles/3756743",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "国际金价半年涨了1000美元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%8D%8A%E5%B9%B4%E6%B6%A8%E4%BA%861000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251008005636427800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十图示：2025年10月07日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251008005505079800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -266,11 +544,12 @@
           "url": "https://wallstreetcn.com/livenews/2984103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "恒天然：10月7日全球乳品贸易（GDT）拍卖价格指数下降1.6%，奶粉各合同期FAS拍卖均价3,921美元/吨。 批发奶粉价格指数下降2.3%，报3,696美元/吨。",
@@ -278,23 +557,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "资金流入太猛，高盛上调明年底金价目标价至4900美元",
-          "url": "https://wallstreetcn.com/articles/3756743",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -311,11 +573,12 @@
           "url": "https://wallstreetcn.com/livenews/2984104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     },
@@ -331,8 +594,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     }
