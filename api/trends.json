@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-07T18:28:35.880120+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2025-10-07T19:21:06.250424+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "哈佛教授：特朗普政府的十大外交政策错误",
@@ -33,6 +33,20 @@
           "time_info": "[11时03分 ~ 18时28分]"
         },
         {
+          "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
+          "url": "https://www.cls.cn/detail/2163032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 19时21分]"
+        },
+        {
           "title": "特朗普不满以总理对哈马斯消极反应",
           "url": "https://www.toutiao.com/trending/7557631454012850202/",
           "source": "今日头条",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 07时22分]"
-        },
-        {
-          "title": "【早报】特朗普：对进口中型和重型卡车征收25%关税；今年首个诺贝尔奖揭晓",
-          "url": "https://www.cls.cn/detail/2163032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时50分 ~ 18时28分]"
         },
         {
           "title": "停火谈判在即，特朗普：“20点计划”对以色列非常好",
@@ -93,8 +94,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时59分 ~ 18时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时59分 ~ 19时21分]"
         },
         {
           "title": "专家：特朗普想让美军介入国内事务",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时29分 ~ 17时27分]"
+        },
+        {
+          "title": "卢拉与特朗普通电话：40%关税，给我撤了",
+          "url": "https://news.ifeng.com/c/8nFaTJe1n5V",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时21分]"
         },
         {
           "title": "特朗普称美国本可轻松赢得越战",
@@ -198,6 +210,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普祝贺高市早苗",
+          "url": "https://www.douyin.com/hot/2261856",
+          "source": "抖音",
+          "ranks": [
+            25,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时21分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周四会见芬兰总统。",
@@ -264,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "卢拉与特朗普通电话：40%关税，给我撤了",
-          "url": "https://news.ifeng.com/c/8nFaTJe1n5V",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周四召开内阁会议。",
@@ -449,18 +463,6 @@
           "time_info": "[00时59分 ~ 02时38分]"
         },
         {
-          "title": "特朗普祝贺高市早苗",
-          "url": "https://www.douyin.com/hot/2261856",
-          "source": "抖音",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 18时28分]"
-        },
-        {
           "title": "特朗普生日这天，白宫要办UFC格斗赛",
           "url": "https://wallstreetcn.com/livenews/2983986",
           "source": "华尔街见闻-快讯",
@@ -496,6 +498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普：这就是叛乱",
+          "url": "https://news.ifeng.com/c/8nG0WWiCKoB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "美国伊利诺伊州起诉特朗普政府 以阻止其向芝加哥“派兵”",
@@ -716,7 +729,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -771,7 +784,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -796,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：以色列应该根据特朗普的加沙计划停火。",
+          "url": "https://flash.jin10.com/detail/20251007184004217800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普政府表示，针对小社区航空服务的政府补贴最早将于周日到期。",
@@ -875,6 +899,17 @@
           "time_info": "01时00分"
         },
         {
+          "title": "卡塔尔外交部发言人：目前特朗普计划中面临的障碍包括落实问题。",
+          "url": "https://flash.jin10.com/detail/20251007182541900800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "特朗普表示愿就医保问题与民主党谈判",
           "url": "https://www.toutiao.com/trending/7558329065116012095/",
           "source": "今日头条",
@@ -892,9 +927,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：特朗普加沙计划的许多细节仍需达成一致。",
+          "url": "https://flash.jin10.com/detail/20251007182452619800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
@@ -941,6 +987,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "卡塔尔外交部发言人：如果美国总统特朗普的计划落空，现在谈论任何替代方案还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251007182413758800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国白宫：我们对美国总统特朗普有权向波特兰派遣部队的法律权威充满信心。",
           "url": "https://flash.jin10.com/detail/20251007013244665800",
           "source": "金十数据",
@@ -950,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：我们致力于推进特朗普的计划，结束加沙战争。",
+          "url": "https://flash.jin10.com/detail/20251007182352477800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "特朗普将于美国东部时间上午11:45会见加拿大总理。",
@@ -972,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：有关特朗普计划的谈判今天在沙姆沙伊赫恢复。",
+          "url": "https://flash.jin10.com/detail/20251007182335295800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "白宫新闻秘书：美国总统特朗普将于周四主持内阁会议。 管理和预算办公室（OMB）继续与各大（政府）机构在裁员方面合作。 特朗普已经与参议院多数派（共和党）的领导人对话，并与众议院议长约翰逊对话。",
@@ -1002,7 +1081,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1046,7 +1125,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1130,8 +1209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时59分 ~ 18时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时59分 ~ 19时21分]"
         },
         {
           "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
@@ -1141,8 +1220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时50分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 19时21分]"
         },
         {
           "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
@@ -1153,22 +1232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时50分 ~ 18时28分]"
-        },
-        {
-          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
-          "url": "https://www.cls.cn/detail/2162934",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时59分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 19时21分]"
         },
         {
           "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
@@ -1181,8 +1246,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 19时21分]"
+        },
+        {
+          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
+          "url": "https://www.cls.cn/detail/2162934",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时59分 ~ 19时21分]"
         },
         {
           "title": "OpenAI一举一动都能“呼风唤雨”，市场聚焦开发者大会",
@@ -1210,8 +1290,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时03分 ~ 19时21分]"
         },
         {
           "title": "OpenAI再联手芯片巨头：有望最高获AMD 10%股权，共同部署6GW算力",
@@ -1226,8 +1306,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时21分 ~ 18时28分]"
+          "appearance_count": 21,
+          "time_info": "[03时21分 ~ 19时21分]"
         },
         {
           "title": "旧金山软件公司Figma涨幅扩大至6.7%，OpenAI开发者日活动开幕。 该公司专注于开发基于浏览器的协作设计工具。",
@@ -1276,6 +1356,18 @@
           "time_info": "[02时38分 ~ 03时22分]"
         },
         {
+          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
+          "url": "https://wallstreetcn.com/articles/3756728",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 19时21分]"
+        },
+        {
           "title": "OpenAI首席运营官：数千万用户正在为ChatGPT付费。",
           "url": "https://flash.jin10.com/detail/20251007024551369800",
           "source": "金十数据",
@@ -1298,18 +1390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
-          "url": "https://wallstreetcn.com/articles/3756728",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 18时28分]"
         },
         {
           "title": "OpenAI首席执行官奥尔特曼：人工智能有许多领域都还处于泡沫阶段，我认为这就是新技术革命的常态。",
@@ -1522,7 +1602,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指盘前集体走高 AMD股价暴涨35% | 今夜看点",
@@ -1534,8 +1614,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时03分 ~ 19时21分]"
         },
         {
           "title": "矿产勘探公司Trilogy Metals美股盘前一度暴涨近200%，此前美国宣布与Trilogy Metals合作，对其持股10%，并获得增持7.5%股权的选择权。",
@@ -1544,11 +1624,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2025年10月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -1597,6 +1678,19 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美股半导体股盘前多数上涨，AMD涨近2%，此前Jefferies将该股评级从持有上调至买入，目标价从170美元上调至300美元；美光科技涨近1%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2983992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
           "title": "美国宣布与Trilogy Metals合作，对其持股10%，并获得增持7.5%股权的选择权。 Trilogy Metals（TMQ）股价美股盘后涨147%，特朗普政府披露持股信息前、盘后涨幅一度超过171.90%报5.71美元。 值得一提的是，白宫新闻秘书曾在纽约中午（美股盘中）声称，媒体相关报道是错误的。",
           "url": "https://wallstreetcn.com/livenews/2983840",
           "source": "华尔街见闻-快讯",
@@ -1620,18 +1714,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
-          "title": "美股半导体股盘前多数上涨，AMD涨近2%，此前Jefferies将该股评级从持有上调至买入，目标价从170美元上调至300美元；美光科技涨近1%，台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2983992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "黄金ETF收涨将近1.9%，领跑美股大类资产类ETF，日元做多则跌1.9%",
@@ -1678,6 +1760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "IREN美股盘前一度涨超11%，此前报道称其获得了新的多年期人工智能云合同。",
+          "url": "https://wallstreetcn.com/livenews/2984016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "金十图示：2025年10月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -1733,6 +1826,18 @@
           "time_info": "[11时03分 ~ 15时24分]"
         },
         {
+          "title": "资金流入太猛，高盛上调明年底金价目标价至4900美元",
+          "url": "https://wallstreetcn.com/articles/3756743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 19时21分]"
+        },
+        {
           "title": "高盛上调2026年12月黄金价格预期至4900美元",
           "url": "https://flash.jin10.com/detail/20251007091119171800",
           "source": "金十数据",
@@ -1757,16 +1862,17 @@
           "time_info": "[09时50分 ~ 12时29分]"
         },
         {
-          "title": "资金流入太猛，高盛上调明年底金价目标价至4900美元",
-          "url": "https://wallstreetcn.com/articles/3756743",
-          "source": "华尔街见闻",
+          "title": "金价再创历史新高",
+          "url": "https://www.toutiao.com/trending/7558393289615871515/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7
+            19,
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时28分]"
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "高盛预计，由于新兴市场央行可能会继续将储备进行结构性多元化配置，增加黄金持有量，2025年和2026年央行的黄金购买量将平均达到80吨和70吨，将2026年12月黄金价格预测上调至每盎司4900美元（此前预测为4300美元）。",
@@ -1792,18 +1898,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时22分]"
-        },
-        {
-          "title": "金价再创历史新高",
-          "url": "https://www.toutiao.com/trending/7558393289615871515/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "金价续创历史新高 避险资金涌入抵御不确定性",
@@ -1909,11 +2003,24 @@
           "ranks": [
             6,
             9,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗货币将抹掉4个0",
+          "url": "https://www.douyin.com/hot/2261573",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 19时21分]"
         },
         {
           "title": "伊朗货币面值将“去掉四个零”",
@@ -1926,17 +2033,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 13时25分]"
-        },
-        {
-          "title": "伊朗货币将抹掉4个0",
-          "url": "https://www.douyin.com/hot/2261573",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：两名伊斯兰革命卫队安全人员在伊朗西部的一次袭击中遇害。",
