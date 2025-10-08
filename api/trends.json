@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-09T05:24:42.244189+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-10-09T06:42:34.542929+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "巨亏450亿美元，美国农民眼巴巴等待特朗普政府救济",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
         },
         {
           "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
@@ -27,30 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普：我们想让奥巴马医改变得更好。",
-          "url": "https://flash.jin10.com/detail/20251009045757056800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/2984596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
         },
         {
           "title": "特朗普：一些联邦工作人员将没有资格获得补发工资；大多数员工将能获得。",
@@ -59,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -70,18 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：大部分联邦政府工作人员将获得政府关门期间的工资补发。 某些联邦工人不会符合这样的资格。 将在政府结束停摆之后讨论平价医疗保险（ACA）的补贴问题。 我们希望改善奥巴马医改（ObamaCare），让它变得不再那么昂贵。",
-          "url": "https://wallstreetcn.com/livenews/2984593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -92,9 +59,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美媒：特朗普政府暂不加征仿制药关税",
+          "url": "https://flash.jin10.com/detail/20251009061848285800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普：我们想让奥巴马医改变得更好。",
+          "url": "https://flash.jin10.com/detail/20251009045757056800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/2984596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时42分]"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
@@ -109,17 +111,42 @@
           "time_info": "[02时42分 ~ 03时22分]"
         },
         {
+          "title": "美国总统特朗普：大部分联邦政府工作人员将获得政府关门期间的工资补发。 某些联邦工人不会符合这样的资格。 将在政府结束停摆之后讨论平价医疗保险（ACA）的补贴问题。 我们希望改善奥巴马医改（ObamaCare），让它变得不再那么昂贵。",
+          "url": "https://wallstreetcn.com/livenews/2984593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时42分]"
+        },
+        {
           "title": "诺奖得主猛批特朗普的科学政策",
           "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E7%8C%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%A7%91%E5%AD%A6%E6%94%BF%E7%AD%96",
           "source": "百度热搜",
           "ranks": [
             29,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 05时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 06时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我最有可能去埃及。",
+          "url": "https://wallstreetcn.com/livenews/2984590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时42分]"
         },
         {
           "title": "特朗普：加沙停火协议“非常接近达成”，本周末或去中东",
@@ -152,9 +179,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "亚太盘初，美国三大股指期货涨约0.1%。 据媒体报道，美国总统特朗普将仿制药排除在“重大”医药关税计划之外。 但美方针对外国仿制药的决定并非最终的，可能会发生变化。",
+          "url": "https://wallstreetcn.com/livenews/2984614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普：我会考虑前往加沙。",
@@ -163,20 +201,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
         {
-          "title": "美国总统特朗普：我最有可能去埃及。",
-          "url": "https://wallstreetcn.com/livenews/2984590",
+          "title": "美国总统特朗普考虑将多个资金项目的用途改作军费（军饷）。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/2984611",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时42分"
+        },
+        {
+          "title": "据华尔街日报：特朗普将仿制药排除在大型制药公司关税计划之外。",
+          "url": "https://flash.jin10.com/detail/20251009060553137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普考虑周五前往中东。",
+          "url": "https://wallstreetcn.com/livenews/2984608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普：可能在周日前往中东",
@@ -196,7 +256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -210,12 +270,218 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "消息人士称，以色列和哈马斯已就特朗普的加沙和平协议第一阶段达成协议，该协议将包括遣返部分人质和交换囚犯。",
+          "url": "https://flash.jin10.com/detail/20251009054252582800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "白宫：特朗普正考虑不久后前往中东。",
+          "url": "https://flash.jin10.com/detail/20251009054054005800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普在媒体发布会上与国务卿耳语 惹人联想到9·11事件",
+          "url": "https://flash.jin10.com/detail/20251009053904019800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "白宫：特朗普将于周五接受常规年度体检。",
+          "url": "https://flash.jin10.com/detail/20251009053855737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普：（被问及加沙协议还有什么可做的）要么完成协议，要么签署协议。",
+          "url": "https://flash.jin10.com/detail/20251009050656574800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普：国会可能会通过法案支付军费。",
+          "url": "https://flash.jin10.com/detail/20251009050208024800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普：我可能会在人质获释之前或之后前往中东。",
+          "url": "https://flash.jin10.com/detail/20251009050204848800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普：在政府停摆期间，军人可能仍会获得薪资。",
+          "url": "https://flash.jin10.com/detail/20251009050039991800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
+          "url": "https://www.cls.cn/detail/2163315",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
+        },
+        {
+          "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
+          "url": "https://wallstreetcn.com/articles/3756760",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251009003558504800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超2%，特斯拉反弹超1.5%",
+          "url": "https://wallstreetcn.com/livenews/2984580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "金十图示：2025年10月08日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251009003020372800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "黄金ETF收涨超1.6%，和纳指ETF、小盘股指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2984604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "半导体ETF收涨约2.7%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2984602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251009040701345800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "金十图示：2025年10月08日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251009040532487800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美股收盘：纳指涨超1%，AMD大涨11%",
+          "url": "https://flash.jin10.com/detail/20251009040139579800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据比利时通讯社报道，谷歌在比利时的新投资预计将为比利时创造300个就业岗位。",
@@ -301,6 +567,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "谷歌云赢得2028年洛杉矶奥运会合同。",
+          "url": "https://wallstreetcn.com/livenews/2984607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "谷歌连续收获诺贝尔奖",
           "url": "https://www.toutiao.com/trending/7558820144915418660/",
           "source": "今日头条",
@@ -310,102 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
-          "url": "https://www.cls.cn/detail/2163315",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
-          "url": "https://wallstreetcn.com/articles/3756760",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
-        },
-        {
-          "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251009003558504800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超2%，特斯拉反弹超1.5%",
-          "url": "https://wallstreetcn.com/livenews/2984580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "金十图示：2025年10月08日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251009003020372800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251009040701345800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "金十图示：2025年10月08日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251009040532487800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美股收盘：纳指涨超1%，AMD大涨11%",
-          "url": "https://flash.jin10.com/detail/20251009040139579800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         }
       ]
     },
@@ -457,7 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -475,39 +656,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "1万亿美元的大单，OpenAI的钱从哪来？",
-          "url": "https://wallstreetcn.com/articles/3756788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
-          "url": "https://www.cls.cn/detail/2163155",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "分析师：金价将挑战5000美元关口",
@@ -525,17 +675,29 @@
           "url": "https://wallstreetcn.com/livenews/2984591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时42分]"
+        },
+        {
+          "title": "金价再创历史新高，港股黄金股狂飙！节后A股有色板块会否接棒向上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31741276",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时42分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国10年期国债收益率保持微幅上涨状态，报4.1268%，日内迄今呈现出V形反转。 两年期美债收益率涨超2个基点，刷新日高、逼近3.59%。",
@@ -561,6 +723,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "数据堰塞湖高悬，美债恐在政府停摆结束后迎来巨震",
+          "url": "https://wallstreetcn.com/livenews/2984599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1万亿美元的大单，OpenAI的钱从哪来？",
+          "url": "https://wallstreetcn.com/articles/3756788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
+        },
+        {
+          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
+          "url": "https://www.cls.cn/detail/2163155",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
         }
       ]
     },
@@ -576,8 +780,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时42分]"
         }
       ]
     }
