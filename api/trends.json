@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-08T15:24:55.742115+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-10-08T16:33:58.825241+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "卢拉与特朗普通电话：40%关税，给我撤了",
@@ -30,6 +30,17 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "为得诺奖拼了？“特朗普要求主持，还不让中方在场”",
+          "url": "https://news.ifeng.com/c/8nGe2T7v2SQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普：这就是叛乱",
           "url": "https://news.ifeng.com/c/8nG0WWiCKoB",
           "source": "凤凰网",
@@ -50,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普会见卡尼，再次暗示将吞并加拿大",
@@ -60,17 +71,6 @@
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时24分]"
-        },
-        {
-          "title": "为得诺奖拼了？“特朗普要求主持，还不让中方在场”",
-          "url": "https://news.ifeng.com/c/8nGe2T7v2SQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -86,8 +86,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时33分]"
         },
         {
           "title": "买一个涨一个！特朗普政府直接入股引发华尔街投机新浪潮",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时33分]"
         },
         {
           "title": "美国清洁能源股，此前报道称美国总统特朗普考虑取消清洁能源项目资金。",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：在与美国总统特朗普会晤期间明确提出了F-35战机相关问题，土耳其被移出该计划没有任何正当理由。",
+          "url": "https://flash.jin10.com/detail/20251008160807716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "10月6日，美国现货比特币ETFs获得12.1亿美元资金流入，创特朗普在2024年11月初（再次）当选为美国总统以来最大单日资金流入。",
@@ -563,6 +574,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "土耳其总统埃尔多安：美国总统特朗普要求土耳其与哈马斯对话并说服他们，我们支持特朗普的和平努力。",
+          "url": "https://flash.jin10.com/detail/20251008160231824800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "多名前共和党州长警告特朗普动用国民警卫队或引发宪政危机",
           "url": "https://flash.jin10.com/detail/20251008101026692800",
           "source": "金十数据",
@@ -752,174 +774,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
-          "url": "https://wallstreetcn.com/articles/3756740",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 09时50分]"
-        },
-        {
-          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
-          "url": "https://wallstreetcn.com/articles/3756717",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1958800584279814300",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时38分 ~ 12时32分]"
-        },
-        {
-          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
-          "url": "https://www.cls.cn/detail/2162934",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
-        },
-        {
-          "title": "美股收盘：OpenAI“点到哪家涨哪家” 标普纳指再创收盘新高",
-          "url": "https://www.cls.cn/detail/2163026",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
-        },
-        {
-          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
-          "url": "https://www.cls.cn/detail/2163155",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时24分]"
-        },
-        {
-          "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
-          "url": "https://www.zhihu.com/question/1958815458754004888",
-          "source": "知乎",
-          "ranks": [
-            4,
-            18,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
-          "url": "https://wallstreetcn.com/articles/3756727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
-          "url": "https://wallstreetcn.com/articles/3756728",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "保险公司拒保AI全面风险 OpenAI考虑用融资应对数十亿美元诉讼",
-          "url": "https://flash.jin10.com/detail/20251008120648949800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
-        },
-        {
-          "title": "据英国金融时报：OpenAI和Anthropic正考虑利用投资者资金，以解决可能面临的数十亿美元诉讼索赔。OpenAI已与全球第二大保险经纪公司AON合作寻求帮助，为新兴人工智能风险获得了最高3亿美元的保险保障。",
-          "url": "https://flash.jin10.com/detail/20251008120220787800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
-        },
-        {
-          "title": "OpenAI瞄向加拿大 助力构建主权AI能力",
-          "url": "https://flash.jin10.com/detail/20251008094847503800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "据加拿大《环球邮报》：OpenAI在加拿大布局人工智能数据中心产能。",
-          "url": "https://flash.jin10.com/detail/20251008094726673800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
@@ -933,8 +789,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 15时24分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
@@ -948,8 +804,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时33分]"
         },
         {
           "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -1043,7 +899,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1059,6 +915,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美股盘前，黄金股普涨，科尔黛伦矿业涨超3%，泛美白银涨超2%，哈莫尼黄金涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/2984357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 金龙指数跌超2%",
           "url": "https://flash.jin10.com/detail/20251008040122565800",
           "source": "金十数据",
@@ -1068,6 +935,196 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美股中概股盘前涨跌互现，哔哩哔哩(BILI.O)涨2%，蔚来汽车(NIO.N)涨1%，贝壳(BEKE.N)涨0.9%，阿里巴巴(BABA.N)涨0.4%，京东(JD.O)、小鹏汽车(XPEV.N)、拼多多(PDD.O)持平，百度(BIDU.O)跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20251008160337656800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘前上涨近1%，此前发布平价版Model Y和Model 3。",
+          "url": "https://flash.jin10.com/detail/20251008160109886800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "“股权换采购”--AMD与OpenAI的协议是“半导体历史上罕见”的",
+          "url": "https://wallstreetcn.com/articles/3756740",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时50分]"
+        },
+        {
+          "title": "AMD携手OpenAI力撑芯片股，标普连涨七日，日法长债重挫，比特币黄金同创新高",
+          "url": "https://wallstreetcn.com/articles/3756717",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI DevDay 震撼发布 GPT-5 Pro 、 App SDK 等五件套，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1958800584279814300",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时38分 ~ 12时32分]"
+        },
+        {
+          "title": "与OpenAI达成巨额算力基建协议 AMD股价盘前暴涨超20%",
+          "url": "https://www.cls.cn/detail/2162934",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时33分]"
+        },
+        {
+          "title": "美股收盘：OpenAI“点到哪家涨哪家” 标普纳指再创收盘新高",
+          "url": "https://www.cls.cn/detail/2163026",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时33分]"
+        },
+        {
+          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
+          "url": "https://www.cls.cn/detail/2163155",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 16时33分]"
+        },
+        {
+          "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
+          "url": "https://www.zhihu.com/question/1958815458754004888",
+          "source": "知乎",
+          "ranks": [
+            4,
+            18,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI开发者大会：ChatGPT要做操作系统，开放第三方SDK，8分钟构建智能体",
+          "url": "https://wallstreetcn.com/articles/3756727",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
+        },
+        {
+          "title": "“点一个涨一个”！OpenAI已成美股头号“吹票大师”",
+          "url": "https://wallstreetcn.com/articles/3756728",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时22分]"
+        },
+        {
+          "title": "保险公司拒保AI全面风险 OpenAI考虑用融资应对数十亿美元诉讼",
+          "url": "https://flash.jin10.com/detail/20251008120648949800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时27分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI和Anthropic正考虑利用投资者资金，以解决可能面临的数十亿美元诉讼索赔。OpenAI已与全球第二大保险经纪公司AON合作寻求帮助，为新兴人工智能风险获得了最高3亿美元的保险保障。",
+          "url": "https://flash.jin10.com/detail/20251008120220787800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时27分]"
+        },
+        {
+          "title": "OpenAI瞄向加拿大 助力构建主权AI能力",
+          "url": "https://flash.jin10.com/detail/20251008094847503800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "据加拿大《环球邮报》：OpenAI在加拿大布局人工智能数据中心产能。",
+          "url": "https://flash.jin10.com/detail/20251008094726673800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     },
@@ -1157,7 +1214,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "资金流入太猛，高盛上调明年底金价目标价至4900美元",
@@ -1207,6 +1264,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "金价飙涨冲击印尼市场 业内继续看好年内上涨势头",
+          "url": "https://flash.jin10.com/detail/20251008160142354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "现货金价又创新高",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%87%91%E4%BB%B7%E5%8F%88%E5%88%9B%E6%96%B0%E9%AB%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26pos%3D24%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26band_rank%3D25%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%2588%25E5%2588%259B%25E6%2596%25B0%25E9%25AB%2598%2523%26cate%3D5001%26display_time%3D1759888129%26pre_seqid%3D17598881292560237092374",
           "source": "微博",
@@ -1233,8 +1301,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时33分]"
         },
         {
           "title": "伊朗货币将抹掉4个0",
@@ -1248,8 +1316,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗货币面值将「去掉四个零」，这一改革会对伊朗经济和民众生活带来哪些影响？",
@@ -1260,8 +1328,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时33分]"
         },
         {
           "title": "伊朗革命卫队航空航天部队：受损设施已修复 战备能力全面恢复",
@@ -1377,7 +1445,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
