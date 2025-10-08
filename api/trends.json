@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-09T03:22:55.893270+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-10-09T04:29:08.004611+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "据比利时通讯社报道，谷歌在比利时的新投资预计将为比利时创造300个就业岗位。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "谷歌公司针对新冠疫情期间出台的“在任何地方工作”增添限制条件。",
+          "url": "https://wallstreetcn.com/livenews/2984574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "谷歌将在比利时投资50亿欧元，预计将为比利时创造300个就业岗位。",
@@ -55,6 +66,28 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国司法部长邦迪：我们希望苹果和谷歌能撤下ICEBlock应用（用于追踪美国移民和海关执法局行踪）。",
+          "url": "https://flash.jin10.com/detail/20251009034813343800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌公司希望，有权将AI大模型Gemini AI APP与地图和YouTube捆绑。 该公司律师在搜索垄断官司的听证会上称，谷歌寻求掌握捆绑服务的能力。 美国联邦法官考虑在谷歌搜索官司中采取补救措施。",
+          "url": "https://wallstreetcn.com/livenews/2984572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "谷歌连续收获诺贝尔奖",
           "url": "https://www.toutiao.com/trending/7558820144915418660/",
           "source": "今日头条",
@@ -69,7 +102,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "巨亏450亿美元，美国农民眼巴巴等待特朗普政府救济",
@@ -79,8 +112,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
+          "url": "https://www.cls.cn/detail/2163141",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
@@ -93,18 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
-          "url": "https://www.cls.cn/detail/2163141",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "住房建筑商概念股下跌，美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte接二连三地在社交媒体发帖，讨论行业监管问题。 标普综合住房营建商指数跌1.8%，创8月中旬以来盘中新低。 Lennar一度跌2.6%，普得集团/帕尔迪（PHM）一度跌2.5%，房地美一度跌1.6%、房利美跌1%，Topbuild Corp.涨幅从3.3%扩大至8.3%。",
@@ -129,6 +162,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：加沙停火协议“非常接近达成”，本周末或去中东",
+          "url": "https://wallstreetcn.com/livenews/2984568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：可能在周日前往中东",
+          "url": "https://flash.jin10.com/detail/20251009033403141800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国官员称特朗普可能会前往中东",
+          "url": "https://flash.jin10.com/detail/20251009032524050800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -144,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
@@ -157,8 +223,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股盘中）",
@@ -186,18 +252,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周三（10月8日）纽约尾盘，彭博谷物分类指数涨0.49%，报28.9533点。 CBOT玉米期货涨0.54%，CBOT小麦期货涨0.15%。 CBOT大豆期货涨0.76%，报10.2975美元/蒲式耳，豆粕期货涨0.43%，豆油期货涨0.59%。",
           "url": "https://wallstreetcn.com/livenews/2984563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "美元指数DXY向上触及99，为8月初以来首次，日内涨0.42%。",
@@ -210,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "美元指数涨超0.3%，将近两个月以来首次突破99",
+          "url": "https://wallstreetcn.com/livenews/2984567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美联储会议纪要公布后，美元指数DXY走高5点至99.05。",
@@ -237,8 +315,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
@@ -249,8 +327,38 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率保持微幅上涨状态，报4.1268%，日内迄今呈现出V形反转。 两年期美债收益率涨超2个基点，刷新日高、逼近3.59%。",
+          "url": "https://wallstreetcn.com/livenews/2984546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点，在美联储会议纪要发布后刷新日高",
+          "url": "https://wallstreetcn.com/livenews/2984573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -272,24 +380,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国10年期国债收益率保持微幅上涨状态，报4.1268%，日内迄今呈现出V形反转。 两年期美债收益率涨超2个基点，刷新日高、逼近3.59%。",
-          "url": "https://wallstreetcn.com/livenews/2984546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
@@ -301,8 +391,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     }
