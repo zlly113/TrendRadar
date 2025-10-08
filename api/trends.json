@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-08T21:36:27.089784+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2025-10-08T22:26:58.932838+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "为得诺奖拼了？“特朗普要求主持，还不让中方在场”",
@@ -98,11 +98,12 @@
             12,
             11,
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 21时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 22时26分]"
         },
         {
           "title": "巨亏450亿美元，美国农民眼巴巴等待特朗普政府救济",
@@ -113,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时26分]"
         },
         {
           "title": "美国清洁能源股，此前报道称美国总统特朗普考虑取消清洁能源项目资金。",
@@ -728,6 +729,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "特朗普发帖：芝加哥市长和伊利诺伊州州长都该入狱",
+          "url": "https://wallstreetcn.com/livenews/2984464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普：民主党没有什么可失去的，他们没有领导人。舒默无力达成协议结束政府停摆。",
           "url": "https://flash.jin10.com/detail/20251008003501957800",
           "source": "金十数据",
@@ -866,7 +878,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -935,6 +947,319 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
+          "url": "https://wallstreetcn.com/articles/3756760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时22分 ~ 22时26分]"
+        },
+        {
+          "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
+          "url": "https://www.cls.cn/detail/2163315",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时26分]"
+        },
+        {
+          "title": "美股盘初：主要行业ETF涨跌不一，半导体ETF涨超1%，科技行业ETF涨超1%，能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2984478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251008214854510800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股白银矿商盘前上涨",
+          "url": "https://flash.jin10.com/detail/20251008182022005800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时20分]"
+        },
+        {
+          "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251008005636427800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时20分]"
+        },
+        {
+          "title": "金十图示：2025年10月07日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251008005505079800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时20分]"
+        },
+        {
+          "title": "小盘股指ETF和日元做多收跌超1%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2984199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "半导体ETF收跌超1.8%，和可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2984193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "阿里巴巴美股盘前拉升，现涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2984412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时55分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2984452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时26分]"
+        },
+        {
+          "title": "美股盘前，黄金股普涨，科尔黛伦矿业涨超3%，泛美白银涨超2%，哈莫尼黄金涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/2984357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时27分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走高 AMD股价暴涨35% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2162946",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251008040629584800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "AI盈利担忧致美股隔夜下跌 比特币随之下挫",
+          "url": "https://flash.jin10.com/detail/20251008151131146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十图示：2025年10月07日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251008040521778800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 金龙指数跌超2%",
+          "url": "https://flash.jin10.com/detail/20251008040122565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股白银矿商受益于白银价格的持续上涨，海克拉矿业涨3.5%，科艾尔矿业涨2.6%，Endeavour Silver上涨1.2%，Silvercorp Metal上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20251008213317387800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股中概股盘前涨跌互现，哔哩哔哩(BILI.O)涨2%，蔚来汽车(NIO.N)涨1%，贝壳(BEKE.N)涨0.9%，阿里巴巴(BABA.N)涨0.4%，京东(JD.O)、小鹏汽车(XPEV.N)、拼多多(PDD.O)持平，百度(BIDU.O)跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20251008160337656800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美股三大指数高开 黄金股走高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E9%BB%84%E9%87%91%E8%82%A1%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股三大股指高开 黄金股走高",
+          "url": "https://flash.jin10.com/detail/20251008213024416800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘前上涨近1%，此前发布平价版Model Y和Model 3。",
+          "url": "https://flash.jin10.com/detail/20251008160109886800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美股盘初：三大股指小幅上涨，黄金股普涨",
+          "url": "https://wallstreetcn.com/livenews/2984463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "Critical Metals美股盘前上涨15%，此前公司与Realloys Inc签署协议，将获得TanBreeze 15%的产量，为期10年。",
+          "url": "https://flash.jin10.com/detail/20251008205413141800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-08）",
+          "url": "https://flash.jin10.com/detail/20251008203355276800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1019,8 +1344,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 21时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 22时26分]"
         },
         {
           "title": "如何看待 AMD 与 OpenAI 达成 60 亿瓦订单战略协议？",
@@ -1188,252 +1513,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "达利欧：现在就像70年代，投资者应持有更多黄金，承认美股有些泡沫",
-          "url": "https://wallstreetcn.com/articles/3756760",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时22分 ~ 21时36分]"
-        },
-        {
-          "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
-          "url": "https://www.cls.cn/detail/2163315",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时36分]"
-        },
-        {
-          "title": "美股白银矿商盘前上涨",
-          "url": "https://flash.jin10.com/detail/20251008182022005800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时20分]"
-        },
-        {
-          "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251008005636427800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时20分]"
-        },
-        {
-          "title": "金十图示：2025年10月07日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251008005505079800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时20分]"
-        },
-        {
-          "title": "小盘股指ETF和日元做多收跌超1%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2984199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时22分 ~ 07时23分]"
-        },
-        {
-          "title": "半导体ETF收跌超1.8%，和可选消费ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2984193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时22分 ~ 07时23分]"
-        },
-        {
-          "title": "阿里巴巴美股盘前拉升，现涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2984412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时55分]"
-        },
-        {
-          "title": "美股盘前，黄金股普涨，科尔黛伦矿业涨超3%，泛美白银涨超2%，哈莫尼黄金涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/2984357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时27分]"
-        },
-        {
-          "title": "美股三大指数集体收跌 特斯拉跌超4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股三大期指盘前集体走高 AMD股价暴涨35% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2162946",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "金十图示：2025年10月07日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251008040629584800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "AI盈利担忧致美股隔夜下跌 比特币随之下挫",
-          "url": "https://flash.jin10.com/detail/20251008151131146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "金十图示：2025年10月07日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251008040521778800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2984452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 金龙指数跌超2%",
-          "url": "https://flash.jin10.com/detail/20251008040122565800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美股中概股盘前涨跌互现，哔哩哔哩(BILI.O)涨2%，蔚来汽车(NIO.N)涨1%，贝壳(BEKE.N)涨0.9%，阿里巴巴(BABA.N)涨0.4%，京东(JD.O)、小鹏汽车(XPEV.N)、拼多多(PDD.O)持平，百度(BIDU.O)跌0.5%。",
-          "url": "https://flash.jin10.com/detail/20251008160337656800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘前上涨近1%，此前发布平价版Model Y和Model 3。",
-          "url": "https://flash.jin10.com/detail/20251008160109886800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "Critical Metals美股盘前上涨15%，此前公司与Realloys Inc签署协议，将获得TanBreeze 15%的产量，为期10年。",
-          "url": "https://flash.jin10.com/detail/20251008205413141800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-08）",
-          "url": "https://flash.jin10.com/detail/20251008203355276800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 9,
       "titles": [
@@ -1461,8 +1540,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时38分 ~ 21时36分]"
+          "appearance_count": 11,
+          "time_info": "[14时38分 ~ 22时26分]"
         },
         {
           "title": "伊朗货币将抹掉4个0",
@@ -1479,6 +1558,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时22分 ~ 17时27分]"
+        },
+        {
+          "title": "伊朗废除女性强制佩戴头巾规定",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BC%8A%E6%9C%97%E5%BA%9F%E9%99%A4%E5%A5%B3%E6%80%A7%E5%BC%BA%E5%88%B6%E4%BD%A9%E6%88%B4%E5%A4%B4%E5%B7%BE%E8%A7%84%E5%AE%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26pos%3D9%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26c_type%3D31%26band_rank%3D9%26q%3D%2523%25E4%25BC%258A%25E6%259C%2597%25E5%25BA%259F%25E9%2599%25A4%25E5%25A5%25B3%25E6%2580%25A7%25E5%25BC%25BA%25E5%2588%25B6%25E4%25BD%25A9%25E6%2588%25B4%25E5%25A4%25B4%25E5%25B7%25BE%25E8%25A7%2584%25E5%25AE%259A%2523%26cate%3D5001%26display_time%3D1759930158%26pre_seqid%3D175993015868902370929134",
+          "source": "微博",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时26分]"
         },
         {
           "title": "伊朗否认与美特使接触 称美打击伊核设施是受以方误导",
@@ -1505,6 +1596,18 @@
           "time_info": "[02时38分 ~ 03时20分]"
         },
         {
+          "title": "以色列称挫败了向约旦河西岸走私伊朗武器的行为。",
+          "url": "https://flash.jin10.com/detail/20251008210055192800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时26分]"
+        },
+        {
           "title": "据当地媒体报道，伊朗召见欧盟驻德黑兰大使，理由是“波斯湾合作委员会和欧盟最近发表的联合声明中提出的干涉主义主张”。",
           "url": "https://flash.jin10.com/detail/20251008201933352800",
           "source": "金十数据",
@@ -1514,28 +1617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
-        },
-        {
-          "title": "伊朗废除女性强制佩戴头巾规定",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BC%8A%E6%9C%97%E5%BA%9F%E9%99%A4%E5%A5%B3%E6%80%A7%E5%BC%BA%E5%88%B6%E4%BD%A9%E6%88%B4%E5%A4%B4%E5%B7%BE%E8%A7%84%E5%AE%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26pos%3D9%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26c_type%3D31%26band_rank%3D9%26q%3D%2523%25E4%25BC%258A%25E6%259C%2597%25E5%25BA%259F%25E9%2599%25A4%25E5%25A5%25B3%25E6%2580%25A7%25E5%25BC%25BA%25E5%2588%25B6%25E4%25BD%25A9%25E6%2588%25B4%25E5%25A4%25B4%25E5%25B7%25BE%25E8%25A7%2584%25E5%25AE%259A%2523%26cate%3D5001%26display_time%3D1759930158%26pre_seqid%3D175993015868902370929134",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "以色列称挫败了向约旦河西岸走私伊朗武器的行为。",
-          "url": "https://flash.jin10.com/detail/20251008210055192800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "伊朗革命卫队航空航天部队：受损设施已修复，战备能力全面恢复",
@@ -1733,7 +1814,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜特斯拉在廉价车型发布日收跌超4.4%，谷歌A跌超1.8%",
@@ -1761,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌连续收获诺贝尔奖",
+          "url": "https://www.toutiao.com/trending/7558820144915418660/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "谷歌(GOOG.O)：谷歌AI Plus即将登陆另外36个国家。",
