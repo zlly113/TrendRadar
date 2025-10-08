@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-09T02:42:43.181904+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-10-09T03:22:55.893270+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时22分]"
         },
         {
           "title": "谷歌(GOOG.O)：扩大在中国的谷歌开发者计划访问权限。我们正将谷歌开发者计划的月度订阅选项扩展至印度和意大利。",
@@ -71,17 +72,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
-          "url": "https://flash.jin10.com/detail/20251009022725651800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
           "title": "巨亏450亿美元，美国农民眼巴巴等待特朗普政府救济",
           "url": "https://news.ifeng.com/c/8nHm24ESUNr",
           "source": "凤凰网",
@@ -89,8 +79,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
+          "url": "https://flash.jin10.com/detail/20251009022725651800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时22分]"
         },
         {
           "title": "特朗普：当前在俄勒冈州波特兰发生的是“叛乱”",
@@ -101,30 +103,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "住房建筑商概念股下跌，美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte接二连三地在社交媒体发帖，讨论行业监管问题。 标普综合住房营建商指数跌1.8%，创8月中旬以来盘中新低。 Lennar一度跌2.6%，普得集团/帕尔迪（PHM）一度跌2.5%，房地美一度跌1.6%、房利美跌1%，Topbuild Corp.涨幅从3.3%扩大至8.3%。",
           "url": "https://wallstreetcn.com/livenews/2984536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时22分]"
         },
         {
           "title": "诺奖得主猛批特朗普的科学政策",
           "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E7%8C%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%A7%91%E5%AD%A6%E6%94%BF%E7%AD%96",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时22分]"
         }
       ]
     },
@@ -140,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "美股收盘：AI叙事遭遇“火烧连营” 标普七日连涨戛然而止",
@@ -149,11 +153,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年10月08日（周三）美股热门股票行情一览（美股盘中）",
@@ -180,39 +185,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "1万亿美元的大单，OpenAI的钱从哪来？",
-          "url": "https://wallstreetcn.com/articles/3756788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
-        },
-        {
-          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
-          "url": "https://www.cls.cn/detail/2163155",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周三（10月8日）纽约尾盘，彭博谷物分类指数涨0.49%，报28.9533点。 CBOT玉米期货涨0.54%，CBOT小麦期货涨0.15%。 CBOT大豆期货涨0.76%，报10.2975美元/蒲式耳，豆粕期货涨0.43%，豆油期货涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/2984563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
         {
           "title": "美元指数DXY向上触及99，为8月初以来首次，日内涨0.42%。",
           "url": "https://flash.jin10.com/detail/20251008235515790800",
@@ -232,9 +218,39 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1万亿美元的大单，OpenAI的钱从哪来？",
+          "url": "https://wallstreetcn.com/articles/3756788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议",
+          "url": "https://www.cls.cn/detail/2163155",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     },
@@ -264,11 +280,12 @@
           "url": "https://wallstreetcn.com/livenews/2984546",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时22分]"
         }
       ]
     },
@@ -284,8 +301,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         }
       ]
     }
