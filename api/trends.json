@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-09T19:21:24.666695+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-10-09T20:53:26.038450+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "鲁比奥给特朗普递小纸条，内容曝光",
@@ -222,6 +222,31 @@
           "time_info": "[06时42分 ~ 07时24分]"
         },
         {
+          "title": "想享受开国元勋待遇！特朗普力推自己肖像登上250美元纸币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31745186",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时53分]"
+        },
+        {
+          "title": "诺贝尔和平奖揭晓在即，特朗普：他们会找个理由不颁给我",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31745159",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时53分]"
+        },
+        {
           "title": "诺奖得主猛批特朗普的科学政策",
           "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E7%8C%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%A7%91%E5%AD%A6%E6%94%BF%E7%AD%96",
           "source": "百度热搜",
@@ -234,30 +259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时42分 ~ 06时42分]"
-        },
-        {
-          "title": "想享受开国元勋待遇！特朗普力推自己肖像登上250美元纸币",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31745186",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时21分]"
-        },
-        {
-          "title": "诺贝尔和平奖揭晓在即，特朗普：他们会找个理由不颁给我",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31745159",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时21分]"
         },
         {
           "title": "特朗普团队向印度推销大豆",
@@ -580,6 +581,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美国总统特朗普：美国驻中东和平特使迈克·哈克比非常了不起！他非常努力，做了很多工作，为中东地区带来了和平。他迅速成为了一位伟人。谢谢你，迈克！",
+          "url": "https://flash.jin10.com/detail/20251009194557401800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "中方领导人是否会在APEC期间同特朗普会晤？外交部回应",
           "url": "https://wallstreetcn.com/livenews/2984922",
           "source": "华尔街见闻-快讯",
@@ -674,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -792,11 +804,12 @@
           "url": "https://wallstreetcn.com/livenews/2985051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时53分]"
         },
         {
           "title": "Akero Therapeutics美股盘前涨超18%，诺和诺德将收购该公司",
@@ -875,7 +888,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -908,7 +921,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -919,7 +932,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -981,6 +994,140 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "据比利时通讯社报道，谷歌在比利时的新投资预计将为比利时创造300个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20251009005006530800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "谷歌将在比利时投资50亿欧元，预计将为比利时创造300个就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/2984531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时22分]"
+        },
+        {
+          "title": "谷歌公司针对新冠疫情期间出台的“在任何地方工作”增添限制条件。",
+          "url": "https://wallstreetcn.com/livenews/2984574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "美国司法部长邦迪：我们希望苹果和谷歌能撤下ICEBlock应用（用于追踪美国移民和海关执法局行踪）。",
+          "url": "https://flash.jin10.com/detail/20251009034813343800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：扩大在中国的谷歌开发者计划访问权限。我们正将谷歌开发者计划的月度订阅选项扩展至印度和意大利。",
+          "url": "https://flash.jin10.com/detail/20251009000401461800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "谷歌公司希望，有权将AI大模型Gemini AI APP与地图和YouTube捆绑。 该公司律师在搜索垄断官司的听证会上称，谷歌寻求掌握捆绑服务的能力。 美国联邦法官考虑在谷歌搜索官司中采取补救措施。",
+          "url": "https://wallstreetcn.com/livenews/2984572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "谷歌云赢得2028年洛杉矶奥运会合同。",
+          "url": "https://wallstreetcn.com/livenews/2984607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时24分]"
+        },
+        {
+          "title": "据比利时通讯社报道，谷歌(GOOG.O)将在比利时投资50亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251009004844840800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "谷歌(GOOG.O)母公司Alphabet盘前上涨近 1%，此前推出了 Gemini Enterprise。",
+          "url": "https://flash.jin10.com/detail/20251009201049677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "谷歌云推出AI平台Gemini企业版。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2985077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "谷歌连续收获诺贝尔奖",
+          "url": "https://www.toutiao.com/trending/7558820144915418660/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 11,
       "titles": [
@@ -1007,8 +1154,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时42分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[06时42分 ~ 20时53分]"
         },
         {
           "title": "金价",
@@ -1115,118 +1262,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "据比利时通讯社报道，谷歌在比利时的新投资预计将为比利时创造300个就业岗位。",
-          "url": "https://flash.jin10.com/detail/20251009005006530800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "谷歌将在比利时投资50亿欧元，预计将为比利时创造300个就业岗位。",
-          "url": "https://wallstreetcn.com/livenews/2984531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
-        },
-        {
-          "title": "谷歌公司针对新冠疫情期间出台的“在任何地方工作”增添限制条件。",
-          "url": "https://wallstreetcn.com/livenews/2984574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "美国司法部长邦迪：我们希望苹果和谷歌能撤下ICEBlock应用（用于追踪美国移民和海关执法局行踪）。",
-          "url": "https://flash.jin10.com/detail/20251009034813343800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：扩大在中国的谷歌开发者计划访问权限。我们正将谷歌开发者计划的月度订阅选项扩展至印度和意大利。",
-          "url": "https://flash.jin10.com/detail/20251009000401461800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
-        },
-        {
-          "title": "谷歌公司希望，有权将AI大模型Gemini AI APP与地图和YouTube捆绑。 该公司律师在搜索垄断官司的听证会上称，谷歌寻求掌握捆绑服务的能力。 美国联邦法官考虑在谷歌搜索官司中采取补救措施。",
-          "url": "https://wallstreetcn.com/livenews/2984572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "谷歌云赢得2028年洛杉矶奥运会合同。",
-          "url": "https://wallstreetcn.com/livenews/2984607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时24分]"
-        },
-        {
-          "title": "据比利时通讯社报道，谷歌(GOOG.O)将在比利时投资50亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251009004844840800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "谷歌连续收获诺贝尔奖",
-          "url": "https://www.toutiao.com/trending/7558820144915418660/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
@@ -1256,8 +1291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时53分]"
         },
         {
           "title": "前方高能？OpenAI CEO扬言：除英伟达、AMD外，还有更多大交易！",
@@ -1318,8 +1353,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "OpenAI获得芯片，AMD获得了市场，最终投资者“买单”？",
@@ -1516,18 +1551,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "伊朗货币面值将「去掉四个零」，这一改革会对伊朗经济和民众生活带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1958529302795646155",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时52分]"
-        },
-        {
           "title": "伊朗一夜翻篇,头巾压迫宣告终结",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345608&amp;topic_name=%E4%BC%8A%E6%9C%97%E4%B8%80%E5%A4%9C%E7%BF%BB%E7%AF%87%2C%E5%A4%B4%E5%B7%BE%E5%8E%8B%E8%BF%AB%E5%AE%A3%E5%91%8A%E7%BB%88%E7%BB%93",
           "source": "贴吧",
@@ -1538,11 +1561,24 @@
             14,
             16,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时53分]"
+        },
+        {
+          "title": "伊朗货币面值将「去掉四个零」，这一改革会对伊朗经济和民众生活带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1958529302795646155",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
         }
       ]
     },
@@ -1557,7 +1593,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
