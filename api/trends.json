@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-11T03:20:36.531230+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-11T04:29:45.747540+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "2025年诺贝尔和平奖颁布，得奖的不是特朗普",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
+          "title": "中国祭出稀土新规，特朗普竟又“威胁”",
+          "url": "https://news.ifeng.com/c/8nL269ylgMm",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "据AXIOS：美国总统特朗普计划下周访埃及期间，就加沙问题召开领导人峰会。",
@@ -30,15 +41,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "中国祭出稀土新规，特朗普竟又“威胁”",
-          "url": "https://news.ifeng.com/c/8nL269ylgMm",
-          "source": "凤凰网",
+          "title": "达美航空和墨西哥航空就特朗普政府撤销合资企业的决定提起上诉。",
+          "url": "https://flash.jin10.com/detail/20251011033428982800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：虽然总统特朗普的政府关门了，感觉我们对经济形势的看法不错。",
@@ -53,6 +64,20 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
+          "title": "特朗普政府在全美机场播放责难视频",
+          "url": "https://www.toutiao.com/trending/7559533515365515291/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 04时29分]"
+        },
+        {
           "title": "美国总统特朗普将宣布与阿斯利康的交易，包括该公司在美国投资500亿美元的承诺。（MSNBC）",
           "url": "https://wallstreetcn.com/livenews/2985880",
           "source": "华尔街见闻-快讯",
@@ -60,19 +85,6 @@
             13,
             23,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普政府在全美机场播放责难视频",
-          "url": "https://www.toutiao.com/trending/7559533515365515291/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            15,
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -136,6 +148,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普政府取消了前总统拜登曾支持的内华达州大型太阳能项目",
+          "url": "https://wallstreetcn.com/livenews/2985922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美国总统特朗普：感谢俄罗斯总统普京。",
           "url": "https://wallstreetcn.com/livenews/2985848",
           "source": "华尔街见闻-快讯",
@@ -150,7 +173,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股跳水",
@@ -160,8 +183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "美股盘中崩跌，纳指跌超2%，芯片指数跌超4%，黄金拉升，铜油跳水",
@@ -177,6 +200,19 @@
           "time_info": "[00时31分 ~ 03时20分]"
         },
         {
+          "title": "美股",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D9%26band_rank%3D8%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E7%25BE%258E%25E8%2582%25A1%26c_type%3D31%26display_time%3D1760113492%26pre_seqid%3D17601134920640374134591",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
           "title": "美股直线跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
@@ -184,20 +220,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
-          "title": "美股",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D9%26band_rank%3D8%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E7%25BE%258E%25E8%2582%25A1%26c_type%3D31%26display_time%3D1760113492%26pre_seqid%3D17601134920640374134591",
-          "source": "微博",
+          "title": "美股盘中崩跌，纳指跌超3%，芯片指数跌超5%，黄金拉升，铜油跳水",
+          "url": "https://wallstreetcn.com/articles/3756939",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美股跳水",
@@ -207,8 +242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 04时29分]"
         },
         {
           "title": "美股继续下跌，纳斯达克综合指数跌超2%；纳斯达克100指数跌幅一度达2.4%，创4月30日以来最大跌幅。",
@@ -264,6 +299,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20251011033626583800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至2%，科技板块跌2.91%，可选消费板块跌2.86%，能源板块跌2.06%，电信板块跌1.76%。 道指跌624点跌幅1.35%，纳指跌626点跌幅2.72%，半导体指数跌4.8%。 纽元/美元日内跌幅达0.5%，报0.5716。",
+          "url": "https://wallstreetcn.com/livenews/2985893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时20分]"
+        },
+        {
+          "title": "美元指数跌约0.6%，本周累计涨幅收窄至不足1.3%",
+          "url": "https://wallstreetcn.com/livenews/2985918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "纽约金日内涨幅达1.5%，报4032.5美元/盎司。 恐慌指数VIX波动率日内涨幅达27.0%，报20.87。 WTI原油期货跌3.6%。",
+          "url": "https://wallstreetcn.com/livenews/2985851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     },
@@ -328,37 +414,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数跌幅扩大至2%，科技板块跌2.91%，可选消费板块跌2.86%，能源板块跌2.06%，电信板块跌1.76%。 道指跌624点跌幅1.35%，纳指跌626点跌幅2.72%，半导体指数跌4.8%。 纽元/美元日内跌幅达0.5%，报0.5716。",
-          "url": "https://wallstreetcn.com/livenews/2985893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
-        },
-        {
-          "title": "纽约金日内涨幅达1.5%，报4032.5美元/盎司。 恐慌指数VIX波动率日内涨幅达27.0%，报20.87。 WTI原油期货跌3.6%。",
-          "url": "https://wallstreetcn.com/livenews/2985851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元反弹至两个月新高，美股、黄金、美债齐跌，白银突破历史新高后暴跌",
@@ -369,8 +426,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
+          "title": "周五（10月10日）纽约尾盘，美国10年期国债收益率跌9.09个基点，报4.0475%，本周累计下跌7.17个基点。 两年期美债收益率跌7.45个基点，报3.5181%，本周累跌5.77个基点——周五北京时间23:00前后跳水幅度突出。 2/10年期美债收益率利差跌1.633个基点，报+52.731个基点，本周累跌1.601个基点。",
+          "url": "https://wallstreetcn.com/livenews/2985920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
