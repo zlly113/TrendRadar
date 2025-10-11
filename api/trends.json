@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-11T07:23:26.040593+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-10-11T09:49:58.781323+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股跳水",
@@ -86,9 +86,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
+        },
+        {
+          "title": "【早报】美股“黑色星期五”来袭，大型科技股普跌；高通，被立案调查",
+          "url": "https://www.cls.cn/detail/2166149",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时49分"
+        },
+        {
+          "title": "美股遭遇「黑色星期五」，纳指暴跌 3.56%，如何看待 10 月 10 日美股走势？",
+          "url": "https://www.zhihu.com/question/1960156890869798671",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美股遭遇“黑色星期五”",
@@ -97,9 +119,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股跳水",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "铿腾电子（CDNS）美股盘后跌3.67%，新思科技（SNPS）跌超2%。",
@@ -171,6 +204,18 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
+          "title": "美股暴跌 遭遇“黑色星期五”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
+        },
+        {
           "title": "中概股ETF CQQQ美股盘后跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/2985948",
           "source": "华尔街见闻-快讯",
@@ -195,15 +240,15 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "美股暴跌 遭遇“黑色星期五”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美股暴跌遭遇“黑色星期五”",
+          "url": "https://www.douyin.com/hot/2265795",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时49分"
         },
         {
           "title": "半导体ETF收跌超5.7%，领跌美股行业ETF",
@@ -212,9 +257,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股暴跌遭遇“黑色星期五”",
+          "url": "https://www.toutiao.com/trending/7559731598242057778/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "美股急跌 下周A股行情悬了吗",
+          "url": "https://www.toutiao.com/trending/7559737301933231679/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "加密货币市场美股盘后蒸发超60亿美元",
@@ -226,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美股遭遇“黑色星期五”发生了什么",
+          "url": "https://www.toutiao.com/trending/7559726104899223602/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美股继续下跌，纳斯达克综合指数跌超2%；纳斯达克100指数跌幅一度达2.4%，创4月30日以来最大跌幅。",
@@ -245,9 +323,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "半导体ETF收跌超5.7%，领跌美股行业ETF，英伟达收跌约4.9%跌幅相对偏小",
+          "url": "https://wallstreetcn.com/livenews/2985986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美股芯片股受挫，费城半导体指数下跌4.2%，AMD(AMD.O)跌超7%，英伟达(NVDA.O)跌2.6%。",
@@ -297,7 +386,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "2025年诺贝尔和平奖颁布，得奖的不是特朗普",
@@ -349,6 +438,17 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
+          "title": "特朗普宣布将访问开罗和耶路撒冷 庆祝停火及人质释放协议",
+          "url": "https://flash.jin10.com/detail/20251011093641721800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普计划下周访埃及期间，就加沙问题召开领导人峰会。",
           "url": "https://flash.jin10.com/detail/20251011004739756800",
           "source": "金十数据",
@@ -360,15 +460,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "被特朗普提议“踢出”北约，西班牙政府保持“绝对冷静”",
-          "url": "https://wallstreetcn.com/livenews/2985992",
-          "source": "华尔街见闻-快讯",
+          "title": "美国现代史上首次！白宫\"管家\"宣布特朗普政府开始永久性裁员",
+          "url": "https://wallstreetcn.com/articles/3756973",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时49分"
         },
         {
           "title": "美国总统特朗普：将前往以色列。 还将前往埃及。",
@@ -376,11 +476,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时49分]"
         },
         {
           "title": "美国总统特朗普：医药关税是迫使阿斯利康来到美国的重要原因。",
@@ -393,6 +494,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "被特朗普提议“踢出”北约，西班牙政府保持“绝对冷静”",
+          "url": "https://wallstreetcn.com/livenews/2985992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
         },
         {
           "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：虽然总统特朗普的政府关门了，感觉我们对经济形势的看法不错。",
@@ -456,6 +569,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "美国总统特朗普谈及联邦政府裁员，称：未来几天将公布数据。",
+          "url": "https://wallstreetcn.com/livenews/2985981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
+        },
+        {
           "title": "特朗普政府取消了前总统拜登曾支持的内华达州大型太阳能项目",
           "url": "https://wallstreetcn.com/livenews/2985922",
           "source": "华尔街见闻-快讯",
@@ -478,6 +603,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普又抱怨诺奖：奥巴马啥没做就得奖，他除了毁国毫无作为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31750436",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
         },
         {
           "title": "周五（10月10日），“特朗普关税输家”指数跌4.67%，报99.02点，本周累计下跌8.24%。",
@@ -515,6 +652,17 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
+          "title": "诺贝尔和平奖得主发帖称把荣誉献给特朗普，特朗普转发",
+          "url": "https://news.ifeng.com/c/8nMHpxROitr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "据华尔街日报：丹麦官员表示，丹麦将斥资85亿美元采购新舰艇和飞机，旨在表明丹麦认真对待格陵兰岛的安全问题，阻止特朗普威胁接管格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20251011004152665800",
           "source": "金十数据",
@@ -537,26 +685,37 @@
           "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普谈及联邦政府裁员，称：未来几天将公布数据。",
-          "url": "https://wallstreetcn.com/livenews/2985981",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普的医生：特朗普接受了预防性健康检查和疫苗接种，包括新冠疫苗加强针接种，以做好即将到来的国际旅行的准备。",
+          "url": "https://flash.jin10.com/detail/20251011090202758800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时49分"
         },
         {
-          "title": "特朗普又抱怨诺奖：奥巴马啥没做就得奖，他除了毁国毫无作为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31750436",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普的医生：特朗普仍保持“极佳健康状况”。",
+          "url": "https://flash.jin10.com/detail/20251011084915700800",
+          "source": "金十数据",
           "ranks": [
-            20
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时49分"
+        },
+        {
+          "title": "美国多名内阁部长猛夸特朗普",
+          "url": "https://www.toutiao.com/trending/7559048062258872362/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国总统特朗普：感谢俄罗斯总统普京。",
@@ -605,20 +764,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
         },
         {
           "title": "布油基金收跌约3.8%，和新兴市场ETF领跌美股大类资产类ETF，黄金和长端美债ETF至多涨约1.6%",
           "url": "https://wallstreetcn.com/livenews/2985991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时49分]"
         },
         {
           "title": "周五（10月10日）纽约尾盘，美国10年期国债收益率跌9.09个基点，报4.0475%，本周累计下跌7.17个基点。 两年期美债收益率跌7.45个基点，报3.5181%，本周累跌5.77个基点——周五北京时间23:00前后跳水幅度突出。 2/10年期美债收益率利差跌1.633个基点，报+52.731个基点，本周累跌1.601个基点。",
@@ -688,6 +848,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
+          "url": "https://flash.jin10.com/detail/20251011005206284800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
+          "url": "https://wallstreetcn.com/livenews/2985883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26pos%3D6%26c_type%3D31%26realpos%3D6%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26display_time%3D1760147242%26pre_seqid%3D17601472426950377575519",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -714,36 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
-          "url": "https://flash.jin10.com/detail/20251011005206284800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
-          "url": "https://wallstreetcn.com/livenews/2985883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时20分]"
         }
       ]
     },
