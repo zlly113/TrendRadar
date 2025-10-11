@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-11T15:22:39.403992+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-10-11T16:30:36.687759+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "2025年诺贝尔和平奖颁布，得奖的不是特朗普",
@@ -26,8 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时30分]"
+        },
+        {
+          "title": "释新闻｜加沙停火协议是如何达成的？特朗普的“非传统策略”有效？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31752399",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 16时30分]"
         },
         {
           "title": "中国祭出稀土新规，特朗普竟又“威胁”",
@@ -41,19 +54,6 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
-          "title": "释新闻｜加沙停火协议是如何达成的？特朗普的“非传统策略”有效？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31752399",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时22分]"
-        },
-        {
           "title": "媒体：特朗普威胁对华加征100%新关税",
           "url": "https://www.toutiao.com/trending/7559639310039957550/",
           "source": "今日头条",
@@ -62,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时00分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 16时30分]"
         },
         {
           "title": "特朗普政府在全美机场播放责难视频",
@@ -98,11 +98,24 @@
           "ranks": [
             10,
             2,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普发文感谢普京",
+          "url": "https://www.toutiao.com/trending/7559142149669998099/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
         },
         {
           "title": "达美航空和墨西哥航空就特朗普政府撤销合资企业的决定提起上诉。",
@@ -128,6 +141,28 @@
           "time_info": "09时49分"
         },
         {
+          "title": "特朗普关税威胁冲击市场信心",
+          "url": "https://www.douyin.com/hot/2265997",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
+          "url": "https://news.ifeng.com/c/8nMVSUorsOg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普计划下周访埃及期间，就加沙问题召开领导人峰会。",
           "url": "https://flash.jin10.com/detail/20251011004739756800",
           "source": "金十数据",
@@ -140,36 +175,30 @@
         },
         {
           "title": "特朗普发文感谢普京",
-          "url": "https://www.toutiao.com/trending/7559142149669998099/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%99%AE%E4%BA%AC",
+          "source": "百度热搜",
           "ranks": [
+            27,
+            15,
+            13,
             5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "如何看特朗普最新关税恐吓",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "特朗普关税威胁冲击市场信心",
-          "url": "https://www.douyin.com/hot/2265997",
-          "source": "抖音",
-          "ranks": [
-            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时30分]"
+        },
+        {
+          "title": "美政府继续“停摆” 特朗普称裁员将“以民主党人为主”",
+          "url": "https://flash.jin10.com/detail/20251011140508951800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普：将前往以色列。 还将前往埃及。",
@@ -196,18 +225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 15时22分]"
-        },
-        {
-          "title": "美政府继续“停摆” 特朗普称裁员将“以民主党人为主”",
-          "url": "https://flash.jin10.com/detail/20251011140508951800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：医药关税是迫使阿斯利康来到美国的重要原因。",
@@ -259,6 +276,30 @@
           "time_info": "[11时34分 ~ 14时34分]"
         },
         {
+          "title": "为何特朗普威胁对华加征100%关税",
+          "url": "https://www.toutiao.com/trending/7559810642455039524/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
+        },
+        {
+          "title": "如何看特朗普最新关税恐吓",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
+        },
+        {
           "title": "特朗普“关税大棒”奏效：已与阿斯利康达成协议，降低美国药价！",
           "url": "https://www.cls.cn/detail/2166164",
           "source": "财联社热门",
@@ -294,19 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普发文感谢普京",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%99%AE%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普将宣布与阿斯利康的交易，包括该公司在美国投资500亿美元的承诺。（MSNBC）",
@@ -441,6 +469,18 @@
           "time_info": "[00时32分 ~ 01时22分]"
         },
         {
+          "title": "特朗普威胁对华加税100%意欲何为",
+          "url": "https://www.toutiao.com/trending/7559778445308202539/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时30分]"
+        },
+        {
           "title": "特朗普宣布与英国最大药企达成协议",
           "url": "https://www.toutiao.com/trending/7559435282311888946/",
           "source": "今日头条",
@@ -462,6 +502,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "普京回应特朗普未获诺贝尔和平奖",
+          "url": "https://news.ifeng.com/c/8nMg8kevz3a",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "拒绝以妥协换取联邦资金 麻省理工与特朗普政府“硬刚”",
+          "url": "https://wallstreetcn.com/livenews/2986088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
+          "url": "https://news.ifeng.com/c/8nMmbo0COyZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "据华尔街日报：丹麦官员表示，丹麦将斥资85亿美元采购新舰艇和飞机，旨在表明丹麦认真对待格陵兰岛的安全问题，阻止特朗普威胁接管格陵兰岛。",
@@ -497,6 +570,28 @@
           "time_info": "09时49分"
         },
         {
+          "title": "特朗普体检结果",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%93%E6%A3%80%E7%BB%93%E6%9E%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BD%2593%25E6%25A3%2580%25E7%25BB%2593%25E6%259E%259C%2523%26realpos%3D11%26cate%3D5001%26pos%3D12%26dgr%3D0%26band_rank%3D11%26stream_entry_id%3D31%26display_time%3D1760171303%26pre_seqid%3D176017130342503735358148",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "特朗普亲信称中国扼住稀土命脉",
+          "url": "https://www.douyin.com/hot/2265982",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "美国总统特朗普的医生：特朗普仍保持“极佳健康状况”。",
           "url": "https://flash.jin10.com/detail/20251011084915700800",
           "source": "金十数据",
@@ -506,17 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "为何特朗普威胁对华加征100%关税",
-          "url": "https://www.toutiao.com/trending/7559810642455039524/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国多名内阁部长猛夸特朗普",
@@ -530,17 +614,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "特朗普威胁对华加税100%意欲何为",
-          "url": "https://www.toutiao.com/trending/7559778445308202539/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "美国总统特朗普：感谢俄罗斯总统普京。",
           "url": "https://wallstreetcn.com/livenews/2985848",
           "source": "华尔街见闻-快讯",
@@ -550,12 +623,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普为什么突然放狠话对华加税",
+          "url": "https://www.toutiao.com/trending/7559831251771723327/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股跳水",
@@ -577,8 +661,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时30分]"
         },
         {
           "title": "【早报】美股“黑色星期五”来袭，大型科技股普跌；高通，被立案调查",
@@ -588,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "美股跳水",
@@ -598,11 +682,12 @@
           "ranks": [
             4,
             1,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "美股",
@@ -628,8 +713,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "美股盘中崩跌，纳指跌超2%，芯片指数跌超4%，黄金拉升，铜油跳水",
@@ -656,17 +741,6 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
-          "title": "美股跳水",
-          "url": "https://www.toutiao.com/trending/7558959517799546899/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 07时23分]"
-        },
-        {
           "title": "美股暴跌 遭遇“黑色星期五”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
           "source": "百度热搜",
@@ -676,11 +750,23 @@
             9,
             15,
             21,
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时30分]"
+        },
+        {
+          "title": "美股跳水",
+          "url": "https://www.toutiao.com/trending/7558959517799546899/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
+          "time_info": "[01时22分 ~ 07时23分]"
         },
         {
           "title": "美股暴跌遭遇“黑色星期五”",
@@ -693,8 +779,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "美股盘中崩跌，纳指跌超3%，芯片指数跌超5%，黄金拉升，铜油跳水",
@@ -713,11 +799,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时30分]"
         },
         {
           "title": "特朗普对华关税恐吓把美股吓出心脏病了",
@@ -729,8 +816,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
+          "url": "https://news.ifeng.com/c/8nMSoze2N8i",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美股遭遇“黑色星期五”",
@@ -903,7 +1001,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -991,6 +1089,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3756939",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时30分]"
+        },
+        {
           "title": "美元反弹至两个月新高，美股、黄金、美债齐跌，白银突破历史新高后暴跌",
           "url": "https://wallstreetcn.com/articles/3756850",
           "source": "华尔街见闻",
@@ -1001,17 +1110,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "美股盘中崩跌，纳指跌超3%，芯片指数跌超5%，美债黄金拉升，铜油跳水",
