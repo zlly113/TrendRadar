@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T09:56:25.632491+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-10-12T11:08:54.876838+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
@@ -26,11 +26,12 @@
             3,
             2,
             4,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "普京回应特朗普未获诺贝尔和平奖",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -163,6 +164,17 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "特朗普又要干一件大事",
+          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
+        },
+        {
           "title": "特朗普亲信称中国扼住稀土命脉",
           "url": "https://www.douyin.com/hot/2265982",
           "source": "抖音",
@@ -176,15 +188,15 @@
           "time_info": "[03时18分 ~ 07时21分]"
         },
         {
-          "title": "特朗普又要干一件大事",
-          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
-          "source": "凤凰网",
+          "title": "商务部回应特朗普威胁加关税100%",
+          "url": "https://www.toutiao.com/trending/7560150398208790066/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时08分"
         },
         {
           "title": "美国现代史上首次！白宫\"管家\"宣布特朗普政府开始永久性裁员",
@@ -204,7 +216,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -215,7 +227,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -242,11 +254,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "美股大跌背后原因是什么",
@@ -268,11 +281,36 @@
           "url": "https://www.toutiao.com/trending/7560106683574259251/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
+        },
+        {
+          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
+          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
+        },
+        {
+          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
+          "url": "https://www.cls.cn/detail/2166644",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         },
         {
           "title": "美股跳水",
@@ -284,67 +322,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "伊朗外长：怀疑美国是否能兑现承诺",
+          "url": "https://flash.jin10.com/detail/20251012103106047800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗外长说他怀疑美国是否能兑现承诺",
+          "url": "https://wallstreetcn.com/livenews/2986227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
         {
           "title": "伊朗军官：是否封锁霍尔木兹海峡取决于外部对伊施压程度",
           "url": "https://wallstreetcn.com/livenews/2986202",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         },
         {
           "title": "伊朗军官：是否封锁霍尔木兹海峡取决于外部对伊施压程度",
           "url": "https://flash.jin10.com/detail/20251012080751834800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话 探讨深化地区合作",
           "url": "https://flash.jin10.com/detail/20251012080711070800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         },
         {
           "title": "伊朗外长：俄方已转达以色列“无意再战”信息",
@@ -353,7 +394,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -380,11 +421,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26c_type%3D31%26cate%3D5001%26pos%3D20%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%259B%259E%25E8%25B0%2583%25E4%25B8%2580%25E5%25BA%25A6%25E8%25B7%258C%25E7%25A0%25B44000%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26flag%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26display_time%3D1760233615%26pre_seqid%3D17602336157660375712643",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         }
       ]
     },
@@ -426,11 +468,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时08分]"
         }
       ]
     }
