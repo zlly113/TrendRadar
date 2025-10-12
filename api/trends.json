@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T06:11:15.318142+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-10-13T07:12:11.111720+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -17,11 +17,12 @@
             17,
             4,
             6,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
@@ -33,8 +34,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
@@ -44,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "特朗普正满世界为美国寻找重稀土矿",
@@ -71,8 +72,23 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "美国网友热议特朗普行为",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20,
+            18,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -88,20 +104,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 06时11分]"
-        },
-        {
-          "title": "美国网友热议特朗普行为",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -133,6 +135,17 @@
           "time_info": "[00时13分 ~ 05时13分]"
         },
         {
+          "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
+          "url": "https://flash.jin10.com/detail/20251013063304905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
           "url": "https://flash.jin10.com/detail/20251012201701028800",
           "source": "金十数据",
@@ -161,22 +174,59 @@
           "url": "https://flash.jin10.com/detail/20251013052757698800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "特朗普：我可能会告诉普京，如果这场冲突得不到解决，我将（向乌克兰）提供战斧导弹。",
           "url": "https://flash.jin10.com/detail/20251013052609941800",
           "source": "金十数据",
           "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
+          "url": "https://flash.jin10.com/detail/20251013052511393800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：我们希望能够向乌克兰提供更多武器。",
+          "url": "https://flash.jin10.com/detail/20251013052507044800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
+          "url": "https://flash.jin10.com/detail/20251013063154478800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "向美寻求“战斧”导弹 泽连斯基：仍在等待特朗普最终决定",
@@ -188,28 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
-          "url": "https://flash.jin10.com/detail/20251013052511393800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "特朗普：我们希望能够向乌克兰提供更多武器。",
-          "url": "https://flash.jin10.com/detail/20251013052507044800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
@@ -229,7 +257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -240,7 +268,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -251,7 +279,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -262,7 +290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -273,7 +301,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -284,7 +312,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -295,9 +323,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
+          "url": "https://wallstreetcn.com/livenews/2986350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普：卡塔尔应受到赞誉。",
@@ -306,7 +345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -317,7 +356,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -328,7 +367,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -339,7 +378,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -350,7 +389,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -361,7 +400,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -372,7 +411,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -383,9 +422,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "向美寻求“战斧”导弹 泽连斯基：仍在等待特朗普最终决定",
+          "url": "https://wallstreetcn.com/livenews/2986347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国白宫：美国总统特朗普正前往以色列和埃及，签署结束加沙战争的和平协议。",
@@ -394,7 +444,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -402,7 +452,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "以色列“无意再战”，伊朗：不信",
@@ -412,8 +462,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/2986357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
+          "url": "https://wallstreetcn.com/livenews/2986344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗过去一直、未来也将是本地区和平的重要力量。与以色列的种族灭绝政权不同，伊朗并不追求“永恒的战争”。",
@@ -422,7 +494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -433,7 +505,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -444,7 +516,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -463,19 +535,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
           "url": "https://wallstreetcn.com/livenews/2986340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         }
       ]
     },
@@ -491,11 +564,12 @@
             19,
             17,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时09分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[03时09分 ~ 07时12分]"
         }
       ]
     }
