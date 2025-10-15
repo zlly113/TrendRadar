@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T10:22:32.173104+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2025-10-15T11:33:45.150089+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             9,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时33分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -54,11 +55,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时33分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -331,6 +333,17 @@
           "time_info": "[06时14分 ~ 07时11分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时33分]"
+        },
+        {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
           "url": "https://wallstreetcn.com/livenews/2987645",
           "source": "华尔街见闻-快讯",
@@ -344,15 +357,16 @@
           "time_info": "[01时11分 ~ 03时10分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时33分]"
         },
         {
           "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
@@ -377,18 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时22分]"
         },
         {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
@@ -837,11 +839,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时33分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -850,11 +853,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 11时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -1010,7 +1014,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1055,7 +1059,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -1085,6 +1089,18 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
+          "title": "金价又创新高 何时会下跌",
+          "url": "https://www.toutiao.com/trending/7561245865755561535/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 11时33分]"
+        },
+        {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
           "url": "https://flash.jin10.com/detail/20251015051028696800",
           "source": "金十数据",
@@ -1107,21 +1123,21 @@
           "time_info": "02时26分"
         },
         {
-          "title": "金价又创新高 何时会下跌",
-          "url": "https://www.toutiao.com/trending/7561245865755561535/",
-          "source": "今日头条",
+          "title": "金价走高什么信号",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E8%B5%B0%E9%AB%98%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E8%25B5%25B0%25E9%25AB%2598%25E4%25BB%2580%25E4%25B9%2588%25E4%25BF%25A1%25E5%258F%25B7%2523%26dgr%3D0%26pos%3D30%26realpos%3D29%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D29%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1760499078%26pre_seqid%3D17604990780840055075",
+          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -1135,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251015111345243800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1154,11 +1181,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时33分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1197,7 +1236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -1271,11 +1310,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时33分]"
         }
       ]
     }
