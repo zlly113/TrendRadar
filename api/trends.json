@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T15:14:30.158368+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-10-15T16:18:33.207806+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 15时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时53分 ~ 16时18分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -63,18 +76,6 @@
           "time_info": "[00时14分 ~ 12时14分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时14分]"
-        },
-        {
           "title": "特朗普：我对“两国方案”还没有表态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
@@ -100,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时53分 ~ 16时18分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -113,6 +114,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
+        },
+        {
+          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
+          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时18分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -171,17 +195,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时25分 ~ 05时12分]"
-        },
-        {
-          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
-          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -272,15 +285,15 @@
           "time_info": "02时26分"
         },
         {
-          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
-          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
-          "source": "凤凰网",
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：今天将支持阿根廷总统米莱。",
@@ -405,6 +418,19 @@
           "time_info": "[01时11分 ~ 03时10分]"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时18分]"
+        },
+        {
           "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
           "url": "https://wallstreetcn.com/livenews/2987697",
           "source": "华尔街见闻-快讯",
@@ -439,18 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时14分]"
         },
         {
           "title": "美法官再次裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -544,6 +558,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
+          "url": "https://www.cls.cn/detail/2170153",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：我非常想访问阿根廷。",
           "url": "https://flash.jin10.com/detail/20251015024234971800",
           "source": "金十数据",
@@ -553,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "特朗普表态后阿根廷股指下跌超4%",
+          "url": "https://www.toutiao.com/trending/7560868096903348263/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：我不会向纽约汇很多钱。",
@@ -594,7 +630,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -632,6 +668,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "外交部回应“特朗普威胁报复中方”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -663,6 +710,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普政府拟禁止中国航司在执飞往返美国航班时飞越俄罗斯领空，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2988043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "特朗普呼吁赦免内塔尼亚胡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：袭击中，船上六名男性毒品恐怖分子被击毙。",
@@ -707,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "【特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应】10月15日，外交部发言人林剑主持例行记者会。日本共同社记者提问，据报道，美国总统特朗普指责中方故意停止进口美国大豆，并表示作为报复措施，将停止从中国进口食用油。请问中方对此有何评论？林剑表示，中方在处理中美经贸问题上的立场是一贯的、明确的，贸易战、关税战没有赢家，不符合任何一方利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "当被问及哈马斯是否遵守协议时，特朗普表示：我们会查明真相。",
@@ -877,7 +957,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -930,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 11时33分]"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -992,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
+        },
+        {
+          "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2988053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "受消息面影响，美股三大股指短线小幅下挫。",
@@ -1244,7 +1346,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1344,6 +1446,28 @@
           "time_info": "[10时22分 ~ 11时33分]"
         },
         {
+          "title": "金十图示：2025年10月15日（周三）上海金午盘价为957.71元/克，较国际金价(963.72元/克)，低6.01元/克",
+          "url": "https://flash.jin10.com/detail/20251015155305453800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "机构：贸易僵局、降息预期升温推动避险需求 金价站上4200美元",
+          "url": "https://flash.jin10.com/detail/20251015154450181800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
           "url": "https://flash.jin10.com/detail/20251015051028696800",
           "source": "金十数据",
@@ -1380,7 +1504,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "两年期美债收益率跌2.7个基点，鲍威尔在10月货币政策会议前暗示还有一次降息机会",
@@ -1405,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "凯投宏观：短期内美债收益率不太可能进一步大幅下跌",
+          "url": "https://flash.jin10.com/detail/20251015153054466800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
@@ -1445,7 +1580,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
