@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T08:53:21.202849+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2025-10-15T10:22:32.173104+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时22分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -57,8 +57,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时22分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -69,11 +69,12 @@
             27,
             24,
             16,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时25分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[02时25分 ~ 10时22分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -343,6 +344,17 @@
           "time_info": "[01时11分 ~ 03时10分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时22分]"
+        },
+        {
           "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
           "url": "https://wallstreetcn.com/livenews/2987697",
           "source": "华尔街见闻-快讯",
@@ -365,6 +377,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时22分]"
         },
         {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
@@ -413,17 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将于周五来访。",
@@ -479,17 +492,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "美国总统特朗普：我不会向纽约汇很多钱。",
@@ -652,7 +654,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -838,8 +840,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时22分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -847,11 +849,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -883,11 +886,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 08时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 10时22分]"
         },
         {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
@@ -1006,7 +1010,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1040,9 +1044,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）上海金早盘价为953.95元/克，较国际金价(958.5元/克)，低4.55元/克",
+          "url": "https://flash.jin10.com/detail/20251015101749363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -1090,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "金价又创新高 何时会下跌",
+          "url": "https://www.toutiao.com/trending/7561245865755561535/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     },
@@ -1127,11 +1153,12 @@
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时22分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1148,7 +1175,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两年期美债收益率跌2.7个基点，鲍威尔在10月货币政策会议前暗示还有一次降息机会",
@@ -1162,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时14分]"
+        },
+        {
+          "title": "路透调查：长期美债收益率料居高不下，因通胀与债务压力削弱降息预期",
+          "url": "https://flash.jin10.com/detail/20251015094554661800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
@@ -1232,11 +1270,12 @@
           "url": "https://www.zhihu.com/question/1961010617587561780",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时22分]"
         }
       ]
     }
