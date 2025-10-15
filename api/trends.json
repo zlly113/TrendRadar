@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:14:36.084297+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-10-15T14:19:48.435491+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -79,6 +79,18 @@
           "time_info": "[02时25分 ~ 10时22分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 14时19分]"
+        },
+        {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
           "url": "https://news.ifeng.com/c/8nSZnW70ZhT",
           "source": "凤凰网",
@@ -88,6 +100,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时11分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 14时19分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -181,17 +206,6 @@
           "time_info": "[00时14分 ~ 03时10分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时14分]"
-        },
-        {
           "title": "美国总统特朗普：我们在南美洲取得了巨大进展。",
           "url": "https://flash.jin10.com/detail/20251015021413077800",
           "source": "金十数据",
@@ -267,18 +281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时14分]"
         },
         {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
@@ -585,6 +587,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -844,6 +857,21 @@
           "time_info": "[00时14分 ~ 06时14分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 14时19分]"
+        },
+        {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -868,21 +896,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 11时33分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 13时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -1061,11 +1074,12 @@
             11,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 14时19分]"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -1112,8 +1126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 14时19分]"
         },
         {
           "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
@@ -1122,7 +1136,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1133,7 +1147,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1144,7 +1158,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1155,7 +1169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1166,7 +1180,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1177,7 +1191,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1264,11 +1278,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时19分]"
         },
         {
           "title": "金价银价跳水",
@@ -1429,11 +1444,12 @@
             9,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 14时19分]"
         }
       ]
     }
