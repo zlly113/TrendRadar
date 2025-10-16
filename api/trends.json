@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T06:12:04.283046+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-10-17T07:17:22.931323+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时17分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时17分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 07时17分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -94,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -338,6 +338,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "联合声明：美国与巴西同意共同努力，尽早安排美国总统特朗普与巴西总统卢拉的会晤。",
+          "url": "https://flash.jin10.com/detail/20251017070457920800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
           "url": "https://flash.jin10.com/detail/20251017022352802800",
           "source": "金十数据",
@@ -355,7 +366,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -377,9 +388,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普推进降低药品价格的努力，最新举措意在支持体外受精",
+          "url": "https://wallstreetcn.com/livenews/2989235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "克里姆林宫官员：俄罗斯总统普京告诉美国总统特朗普，\"战斧\"导弹不会改变战场局势，但会损害美俄关系及和平进程。",
@@ -402,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
+          "url": "https://www.cls.cn/detail/2172088",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美国总统特朗普：作为交易一部分的试管婴儿药物将上线“特朗普药房”。",
@@ -542,7 +575,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -564,7 +597,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -575,7 +608,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -586,7 +619,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -622,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普称将与普京在布达佩斯会面",
+          "url": "https://www.toutiao.com/trending/7561955734129217050/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "俄罗斯股市在普京与特朗普通话后上涨。",
@@ -682,7 +726,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -691,11 +735,34 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时17分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时17分 ~ 07时17分]"
+        },
+        {
+          "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -819,7 +886,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -863,7 +930,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -882,7 +949,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
@@ -891,7 +958,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -943,6 +1010,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "担忧美国地区银行潜在风险 金价有望创5年来最大单周涨幅",
+          "url": "https://flash.jin10.com/detail/20251017065150740800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -978,11 +1067,12 @@
           "url": "https://wallstreetcn.com/livenews/2989216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时17分]"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
@@ -1047,7 +1137,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
