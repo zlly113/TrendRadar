@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T20:21:56.131325+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-10-17T21:25:06.490743+08:00",
+  "total_titles_processed": 2026,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,18 @@
           "time_info": "[07时17分 ~ 15时14分]"
         },
         {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 21时25分]"
+        },
+        {
           "title": "普京特朗普通话细节",
           "url": "https://www.douyin.com/hot/2272619",
           "source": "抖音",
@@ -79,11 +91,12 @@
             1,
             10,
             20,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时18分 ~ 20时21分]"
+          "appearance_count": 12,
+          "time_info": "[14时18分 ~ 21时25分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -136,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时18分 ~ 20时21分]"
+          "appearance_count": 12,
+          "time_info": "[14时18分 ~ 21时25分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -149,8 +162,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时20分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[10时20分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时25分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -162,23 +186,12 @@
             14,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 20时21分]"
-        },
-        {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 20时21分]"
+          "appearance_count": 16,
+          "time_info": "[11时30分 ~ 21时25分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -220,15 +233,16 @@
           "time_info": "[08时51分 ~ 14时19分]"
         },
         {
-          "title": "特朗普：美国也需要，不能把家底掏空",
-          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
-          "source": "凤凰网",
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
           "ranks": [
-            1
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时21分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 21时25分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -263,18 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 13时12分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时21分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -739,7 +741,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1146,7 +1148,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1308,7 +1310,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -1335,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时17分 ~ 11时30分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
@@ -1404,6 +1417,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 10时20分]"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
@@ -1530,6 +1554,17 @@
           "time_info": "15时14分"
         },
         {
+          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2989757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251017013537198800",
           "source": "金十数据",
@@ -1558,7 +1593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1602,7 +1637,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
@@ -1610,7 +1645,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -1643,9 +1678,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 21时25分]"
+        },
+        {
+          "title": "金价涨了 金条能变现吗",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E4%BA%86+%E9%87%91%E6%9D%A1%E8%83%BD%E5%8F%98%E7%8E%B0%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
@@ -1657,6 +1703,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时25分]"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1696,15 +1754,16 @@
           "time_info": "[08时51分 ~ 11时30分]"
         },
         {
-          "title": "金价暴涨有新人用“金包银”省5万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
-          "source": "百度热搜",
+          "title": "国内金价突破千元大关 机构密集预警",
+          "url": "https://www.toutiao.com/trending/7562135310537068041/",
+          "source": "今日头条",
           "ranks": [
-            17
+            6,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时21分]"
+          "time_info": "[20时21分 ~ 21时25分]"
         },
         {
           "title": "是什么一直支持黄金价格一路飙升",
@@ -1744,6 +1803,17 @@
           "time_info": "[10时20分 ~ 11时30分]"
         },
         {
+          "title": "金价暴涨时 4万5黄金订单蒸发",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
           "title": "金价突破历史高位至4380美元后回落",
           "url": "https://www.toutiao.com/trending/7562020092754529818/",
           "source": "今日头条",
@@ -1764,17 +1834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
-        },
-        {
-          "title": "国内金价突破千元大关 机构密集预警",
-          "url": "https://www.toutiao.com/trending/7562135310537068041/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         },
         {
           "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
@@ -1868,7 +1927,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1878,8 +1937,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时20分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[10时20分 ~ 21时25分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1918,6 +1977,17 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
           "title": "两年期美债收益率跌约8个基点，逼近3.41%",
           "url": "https://wallstreetcn.com/livenews/2989128",
           "source": "华尔街见闻-快讯",
@@ -1935,7 +2005,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -2123,7 +2193,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
