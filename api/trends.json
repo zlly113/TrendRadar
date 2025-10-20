@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:16:55.781409+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-10-20T17:14:53.213406+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 17时14分]"
         },
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -120,11 +120,12 @@
             15,
             16,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 17时14分]"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -137,6 +138,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时55分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            13,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时30分 ~ 17时14分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -217,20 +233,6 @@
           "time_info": "[00时13分 ~ 06时13分]"
         },
         {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 16时16分]"
-        },
-        {
           "title": "全美700万人涌上街头抗议特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -301,6 +303,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普：不想伤害中国，愿意降低关税水平",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -474,17 +487,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "特朗普：不想伤害中国，愿意降低关税水平",
-          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
           "url": "https://flash.jin10.com/detail/20251019223745676800",
           "source": "金十数据",
@@ -597,6 +599,17 @@
           "time_info": "[10时30分 ~ 14时18分]"
         },
         {
+          "title": "特朗普口风180度转变为哪般",
+          "url": "https://www.toutiao.com/trending/7563213572126281255/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国总统特朗普：印度总理莫迪曾告诉我，他不会参与俄罗斯的石油交易。",
           "url": "https://flash.jin10.com/detail/20251020082147601800",
           "source": "金十数据",
@@ -652,8 +665,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时14分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时14分]"
         },
         {
           "title": "“特朗普全程在骂人”，上周五与泽连斯基再现“白宫争执”",
@@ -680,17 +705,6 @@
           "time_info": "[14时18分 ~ 15时13分]"
         },
         {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时16分]"
-        },
-        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://flash.jin10.com/detail/20251020043953182800",
           "source": "金十数据",
@@ -713,6 +727,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普政府为何悄悄放松关税政策",
+          "url": "https://www.toutiao.com/trending/7563192486479269386/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "特朗普称努力让美国变得伟大",
@@ -815,17 +841,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "特朗普政府为何悄悄放松关税政策",
-          "url": "https://www.toutiao.com/trending/7563192486479269386/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
           "url": "https://flash.jin10.com/detail/20251020054917939800",
           "source": "金十数据",
@@ -881,6 +896,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "曝特朗普与泽连斯基再度激烈争吵",
+          "url": "https://www.douyin.com/hot/2276127",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国副总统万斯：美国总统特朗普尚未决定向乌克兰提供战斧导弹。",
           "url": "https://flash.jin10.com/detail/20251020070637540800",
           "source": "金十数据",
@@ -909,7 +935,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -939,7 +965,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
@@ -950,11 +976,12 @@
             19,
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 17时14分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -1048,6 +1075,114 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        },
+        {
+          "title": "伊朗革命卫队称将深化与胡塞武装合作",
+          "url": "https://flash.jin10.com/detail/20251020162039179800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "伊朗革命卫队称将深化与胡塞武装合作",
+          "url": "https://wallstreetcn.com/livenews/2990546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 13时13分]"
+        },
+        {
+          "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2990523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时14分]"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20251020060149187800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "亚马逊美股盘前转跌，现跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
+          "url": "https://flash.jin10.com/detail/20251020160340646800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "美股加密货币相关股票盘前上涨，Riot Blockchain(RIOT.O)盘前涨3.7%，Mara Holdings上涨4.9%，BITFARMS上涨11.6%，Strategy(MSTR.O)上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251020162813944800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "美股经纪商Robinhood：亚马逊云计算服务（AWS）正遭遇服务中断，这已影响到Robinhood的服务。我们已注意到该问题。",
+          "url": "https://flash.jin10.com/detail/20251020162541007800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
@@ -1095,7 +1230,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1113,54 +1248,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 13时13分]"
-        },
-        {
-          "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/2990523",
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
-          "url": "https://flash.jin10.com/detail/20251020060149187800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
-          "url": "https://flash.jin10.com/detail/20251020160340646800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "17时14分"
         }
       ]
     },
@@ -1173,11 +1273,12 @@
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时14分]"
         }
       ]
     },
