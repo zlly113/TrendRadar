@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T04:15:41.169775+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-10-22T05:12:55.475855+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -52,20 +52,6 @@
           "time_info": "[00时17分 ~ 03时11分]"
         },
         {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
           "title": "特朗普暗示将承诺反对台独",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26cate%3D5001%26flag%3D1%26pos%3D11%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
           "source": "微博",
@@ -73,11 +59,27 @@
             10,
             27,
             25,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            12,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -89,8 +91,75 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
+          "url": "https://flash.jin10.com/detail/20251022050509311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "美国总统特朗普：印度将不会大量购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251022050255539800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普政府将发放在美国政府关门期间被冻结的农业救济。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2991427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：不想与俄罗斯进行一场无意义的会晤。",
+          "url": "https://flash.jin10.com/detail/20251022045908339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
@@ -102,29 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
@@ -225,6 +271,28 @@
           "time_info": "[03时11分 ~ 04时15分]"
         },
         {
+          "title": "美国总统特朗普：尚未就俄罗斯和乌克兰问题做出决定，我们尚未决定是否与普京会面。",
+          "url": "https://flash.jin10.com/detail/20251022045847997800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普赞赏IBM，称其CEO已经完成一个不错的工作。",
+          "url": "https://wallstreetcn.com/livenews/2991424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
           "url": "https://flash.jin10.com/detail/20251022025236255800",
           "source": "金十数据",
@@ -236,6 +304,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国总统特朗普：印度做的非常好。",
+          "url": "https://flash.jin10.com/detail/20251022045824079800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：卫生部长致力于解决自闭症Autism问题。 美国医药价格将下降。 某些（医药）公司接近与美国政府达成关于降低药品价格的协议。",
+          "url": "https://wallstreetcn.com/livenews/2991423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
           "url": "https://flash.jin10.com/detail/20251022005531621800",
           "source": "金十数据",
@@ -245,6 +335,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普指示农业部拨款30亿美元 解决农户资金需求",
+          "url": "https://flash.jin10.com/detail/20251022045820804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：（美联储政策）利率太高。",
+          "url": "https://wallstreetcn.com/livenews/2991422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "在美上市印度ETF盘后跌0.18%。 美国总统特朗普称，刚刚与印度总理莫迪通电话，讨论了贸易问题。 印度做得非常不错。 莫迪未来不会从俄罗斯购买太多的石油。",
+          "url": "https://wallstreetcn.com/livenews/2991421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -280,6 +403,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
+          "url": "https://flash.jin10.com/detail/20251022044715336800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：刚接到来自中东的电话，只要我们愿意，我们可以在两分钟内解决哈马斯问题，如果哈马斯不遵守协议，他们将很快被解决。",
+          "url": "https://flash.jin10.com/detail/20251022044317156800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "WTI原油期货维持0.4%的涨幅。 一位白宫官员表示，美国总统特朗普近期没有与俄罗斯总统普京会晤的计划，相比前不久两国暗示第二次峰会即将举行的说法，这一最新表态明显更为谨慎。",
           "url": "https://wallstreetcn.com/livenews/2991373",
           "source": "华尔街见闻-快讯",
@@ -302,6 +447,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国总统特朗普：美联储主席鲍威尔即将离任，美联储里有个死硬派，利率太高了。",
+          "url": "https://flash.jin10.com/detail/20251022044252344800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
+          "url": "https://flash.jin10.com/detail/20251022043743953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "油价走高，特朗普政府将回填战略石油储备，报道称俄罗斯实际已拒绝特朗普关于俄乌战争的和平提案",
           "url": "https://wallstreetcn.com/livenews/2991351",
           "source": "华尔街见闻-快讯",
@@ -319,9 +486,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：今天与印度总理莫迪通了话。",
+          "url": "https://flash.jin10.com/detail/20251022043713277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国总统特朗普向司法部（DOJ）索要2.3亿美元，因为后者调查他。（纽约时报）",
@@ -330,7 +508,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -352,7 +530,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -426,7 +604,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -436,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -446,7 +624,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -457,7 +635,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -468,7 +646,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -490,9 +668,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
@@ -504,6 +693,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
@@ -541,8 +752,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -552,8 +763,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "金价",
@@ -561,11 +772,12 @@
           "source": "微博",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -615,8 +827,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
+          "url": "https://wallstreetcn.com/livenews/2991396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -637,18 +861,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
-          "url": "https://wallstreetcn.com/livenews/2991396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -659,7 +872,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         }
@@ -677,8 +890,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -688,8 +901,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -699,11 +912,12 @@
             10,
             12,
             4,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -717,8 +931,59 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251022010530861800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
+          "url": "https://wallstreetcn.com/livenews/2991386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -774,46 +1039,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
-          "url": "https://flash.jin10.com/detail/20251022010530861800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
-          "url": "https://wallstreetcn.com/livenews/2991386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/2991403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -850,11 +1075,12 @@
           "url": "https://wallstreetcn.com/livenews/2991401",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
         }
       ]
     }
