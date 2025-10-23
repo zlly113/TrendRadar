@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T01:11:25.848244+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-10-24T02:18:40.423441+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
+          "url": "https://flash.jin10.com/detail/20251024015419318800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国白宫：特朗普认为俄罗斯在推动和平方面行动不足。",
+          "url": "https://flash.jin10.com/detail/20251024015326589800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
@@ -36,42 +58,44 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
         {
-          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
-          "url": "https://wallstreetcn.com/livenews/2992702",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫：特朗普表示不希望哥伦比亚局势降温。",
+          "url": "https://flash.jin10.com/detail/20251024015301323800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992701",
+          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普下周二将会见日本首相高市早苗。",
+          "url": "https://wallstreetcn.com/livenews/2992715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "time_info": "02时18分"
         },
         {
           "title": "特朗普访日行程公布",
@@ -81,8 +105,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
+          "url": "https://wallstreetcn.com/livenews/2992702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时18分]"
+        },
+        {
+          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时18分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -93,20 +153,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
-          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
-          "source": "澎湃新闻",
+          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992695",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时18分]"
         },
         {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
@@ -121,15 +181,37 @@
           "time_info": "[00时16分 ~ 01时11分]"
         },
         {
-          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992695",
+          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
+          "url": "https://wallstreetcn.com/livenews/2992710",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国白宫：（关于对币安赵长鹏的赦免）特朗普正在行使宪法赋予的宽恕权力。该赦免已由白宫法律顾问审查。",
+          "url": "https://flash.jin10.com/detail/20251024014417750800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
+          "url": "https://wallstreetcn.com/livenews/2992708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "俄罗斯总统普京：与美国总统特朗普讨论了俄罗斯石油供应形势对全球油价的影响，包括对美国的影响。",
@@ -143,13 +225,35 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国白宫：特朗普将与马来西亚总统举行双边会谈。",
+          "url": "https://flash.jin10.com/detail/20251024013631095800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国白宫：特朗普将于下周二与日本新任首相会面，将于周三与韩国领导人会面。",
+          "url": "https://flash.jin10.com/detail/20251024013514701800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
           "title": "特朗普为何要斥巨资改造白宫",
           "url": "https://www.toutiao.com/trending/7564377047804415526/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -160,7 +264,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -174,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：我们周六不会增派部队进入旧金山。",
+          "url": "https://flash.jin10.com/detail/20251024010701813800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美国白宫：特朗普已赦免币安创始人赵长鹏",
@@ -193,9 +308,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗计划于10月25日左右与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20251024010541582800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "俄罗斯总统普京：（谈及与美国总统特朗普的会晤）峰会需要做好准备。",
@@ -223,7 +349,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -234,8 +360,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -244,7 +370,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -256,8 +382,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -266,9 +392,70 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251024014719432800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251024013951334800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
+          "url": "https://wallstreetcn.com/livenews/2992672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "OpenAI收购苹果前员工创立的AI初创公司",
+          "url": "https://flash.jin10.com/detail/20251024011125273800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "OpenAI：已收购软件应用公司（Software Applications Incorporated）。",
+          "url": "https://flash.jin10.com/detail/20251024010353934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
@@ -282,11 +469,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            17
+            17,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -296,8 +484,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -307,8 +495,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     },
@@ -334,26 +522,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
-          "url": "https://wallstreetcn.com/livenews/2992672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时11分"
         }
       ]
     }
