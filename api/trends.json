@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T03:11:58.826430+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2025-10-24T04:13:02.949989+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -36,11 +36,51 @@
           "ranks": [
             14,
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -52,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "WTI原油期货涨5.44%，北京时间03:47暂报61.68美元。 布伦特原油期货涨5.19%，暂报65.84美元。 媒体援引一名美国官员和飞行轨迹追踪数据报道称，美国空军多架B-1轰炸机出现在委内瑞拉周边空域。 10月22日，美国总统特朗普声称，美军进入委内瑞拉陆地需要国会山授权。",
+          "url": "https://wallstreetcn.com/livenews/2992743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国白宫：特朗普认为俄罗斯在推动和平方面行动不足。",
@@ -87,41 +138,15 @@
           "time_info": "02时18分"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：接到英伟达CEO黄仁勋关于旧金山的电话。",
+          "url": "https://flash.jin10.com/detail/20251024033944635800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
-        },
-        {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
@@ -155,11 +180,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时13分]"
+        },
+        {
+          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
+          "url": "https://wallstreetcn.com/livenews/2992710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时13分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -175,16 +214,17 @@
           "time_info": "[01时11分 ~ 03时11分]"
         },
         {
-          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
-          "url": "https://wallstreetcn.com/livenews/2992710",
+          "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
+          "url": "https://wallstreetcn.com/livenews/2992708",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            14
+            10,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时13分]"
         },
         {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
@@ -199,16 +239,27 @@
           "time_info": "[00时16分 ~ 01时11分]"
         },
         {
-          "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
-          "url": "https://wallstreetcn.com/livenews/2992708",
-          "source": "华尔街见闻-快讯",
+          "title": "哥伦比亚总统佩特罗：美国总统特朗普不太可能对石油征收关税，哥伦比亚可以缓解对其他出口的影响。",
+          "url": "https://flash.jin10.com/detail/20251024021527247800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            16
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
+          "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "白宫：特朗普与普京会晤并非完全不可能",
+          "url": "https://flash.jin10.com/detail/20251024032713443800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国白宫：（关于对币安赵长鹏的赦免）特朗普正在行使宪法赋予的宽恕权力。该赦免已由白宫法律顾问审查。",
@@ -220,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普称将取消向旧金山派出国民警卫队",
+          "url": "https://wallstreetcn.com/livenews/2992733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "俄罗斯总统普京：与美国总统特朗普讨论了俄罗斯石油供应形势对全球油价的影响，包括对美国的影响。",
@@ -244,17 +306,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "哥伦比亚总统佩特罗：美国总统特朗普不太可能对石油征收关税，哥伦比亚可以缓解对其他出口的影响。",
-          "url": "https://flash.jin10.com/detail/20251024021527247800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "美国白宫：特朗普将于下周二与日本新任首相会面，将于周三与韩国领导人会面。",
           "url": "https://flash.jin10.com/detail/20251024013514701800",
           "source": "金十数据",
@@ -272,7 +323,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -294,7 +345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -316,7 +367,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -393,7 +444,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -415,7 +466,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -426,7 +477,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
@@ -445,8 +496,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -458,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -558,8 +609,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -569,8 +620,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -581,8 +632,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时13分]"
         }
       ]
     },
@@ -611,6 +662,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超4个基点",
+          "url": "https://wallstreetcn.com/livenews/2992739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（10月23日）纽约尾盘，ICE美元指数涨0.04%，报98.937点，日内交投区间为99.138-98.916点。 彭博美元指数涨0.01%，报1212.72点，日内交投区间为1214.59-1212.15点。",
+          "url": "https://wallstreetcn.com/livenews/2992738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     }
