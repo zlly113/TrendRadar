@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:15:48.108553+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-10-27T16:18:09.063367+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -134,6 +134,18 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 16时18分]"
+        },
+        {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
           "url": "https://wallstreetcn.com/livenews/2993966",
           "source": "华尔街见闻-快讯",
@@ -219,18 +231,6 @@
           "time_info": "[14时21分 ~ 15时15分]"
         },
         {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时15分]"
-        },
-        {
           "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
           "url": "https://flash.jin10.com/detail/20251027120958748800",
           "source": "金十数据",
@@ -253,6 +253,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时15分]"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 16时18分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -328,16 +340,15 @@
           "time_info": "[14时21分 ~ 15时15分]"
         },
         {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
+          "title": "评论员：特朗普没想到莫迪不给面子",
+          "url": "https://www.toutiao.com/trending/7565757039905885723/",
+          "source": "今日头条",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时15分]"
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
@@ -381,7 +392,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -403,7 +414,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -461,6 +472,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普结束马来西亚之行，将前往日本。",
@@ -535,7 +568,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -546,7 +579,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -557,7 +590,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -568,7 +601,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -601,7 +634,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -634,7 +667,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -703,12 +736,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -763,17 +807,29 @@
           "source": "今日头条",
           "ranks": [
             29,
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 16时18分]"
+        },
+        {
+          "title": "金价下跌是机会还是风险",
+          "url": "https://www.toutiao.com/trending/7565790096994078214/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时15分]"
+          "time_info": "[16时17分 ~ 16时18分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -786,8 +842,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 16时18分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -824,6 +880,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
@@ -833,6 +900,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -851,23 +946,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         }
       ]
     }
