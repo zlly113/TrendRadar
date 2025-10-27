@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T12:24:10.023866+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-10-27T13:15:19.648607+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -98,6 +98,17 @@
           "time_info": "[01时10分 ~ 06时11分]"
         },
         {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 13时15分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -121,28 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 12时24分]"
-        },
-        {
-          "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
-          "url": "https://flash.jin10.com/detail/20251027122011399800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -180,17 +169,6 @@
           "time_info": "11时49分"
         },
         {
-          "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
-          "url": "https://flash.jin10.com/detail/20251027120958748800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
           "title": "东盟峰会特朗普又来当主角",
           "url": "https://www.toutiao.com/trending/7565671278867123758/",
           "source": "今日头条",
@@ -215,6 +193,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
+          "url": "https://flash.jin10.com/detail/20251027122011399800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时15分]"
+        },
+        {
+          "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
+          "url": "https://flash.jin10.com/detail/20251027120958748800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时15分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -337,7 +339,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -348,7 +350,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -359,7 +361,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -370,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -392,7 +394,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
@@ -412,8 +414,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 13时15分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
