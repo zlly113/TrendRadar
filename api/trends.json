@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T12:19:17.559697+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-10-29T13:19:21.227458+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 94,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时19分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时19分]"
         },
         {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
@@ -96,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时19分]"
         },
         {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
@@ -120,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
-          "url": "https://wallstreetcn.com/livenews/2995590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -194,7 +183,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -210,6 +199,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国总统特朗普：将所有制药企业带回美国。",
+          "url": "https://flash.jin10.com/detail/20251029125230949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国总统特朗普：（关于第三个总统任期）据我所知，我想我是不被允许参选的。",
           "url": "https://flash.jin10.com/detail/20251029095928228800",
           "source": "金十数据",
@@ -221,6 +221,28 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普：我们将与印度达成一项伟大的贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251029125151888800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国总统特朗普：我们拥有史上最强的经济，而能源价格也大幅下降，一切都在下降，牛肉价格有点高，我们也会让它降下来。",
           "url": "https://flash.jin10.com/detail/20251029095829732800",
           "source": "金十数据",
@@ -230,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们正携手解决前所未有的挑战，塑造一个自由开放的印太地区，为所有人打造一个有尊严、有安全、有繁荣、有自豪的未来。",
+          "url": "https://flash.jin10.com/detail/20251029125009672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -255,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
+          "url": "https://wallstreetcn.com/livenews/2995590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时19分]"
         },
         {
           "title": "CME活牛期货跌超0.4%，饲牛期货跌3.4%，美国总统特朗普要求美国市场降低牛肉价格。",
@@ -299,11 +344,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 13时19分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时19分]"
+          "time_info": "[11时45分 ~ 13时19分]"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -327,17 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 11时45分]"
-        },
-        {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时19分]"
         },
         {
           "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
@@ -418,9 +465,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
+          "url": "https://flash.jin10.com/detail/20251029124807266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -462,9 +520,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "美国总统特朗普：我非常钦佩印度总理莫迪。",
+          "url": "https://flash.jin10.com/detail/20251029124606831800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
@@ -487,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：如果你在美国建厂，关税为零。",
+          "url": "https://flash.jin10.com/detail/20251029124346508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
@@ -522,6 +602,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国总统特朗普：我们希望中东能够实现永久和平。",
+          "url": "https://flash.jin10.com/detail/20251029124250216800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
           "url": "https://wallstreetcn.com/livenews/2995230",
           "source": "华尔街见闻-快讯",
@@ -550,7 +641,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -566,6 +657,28 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普：与韩国的协议很快就会最终敲定。",
+          "url": "https://flash.jin10.com/detail/20251029123731778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "美国总统特朗普：一系列新投资的重要因素是贸易政策。",
+          "url": "https://flash.jin10.com/detail/20251029123612436800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国总统特朗普：哈马斯是中东协议的一小部分。如果哈马斯不收敛，他们将被消灭。",
           "url": "https://flash.jin10.com/detail/20251029094924538800",
           "source": "金十数据",
@@ -577,6 +690,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普：经济安全就是国家安全。",
+          "url": "https://flash.jin10.com/detail/20251029123440083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "丰田高管：我们在特朗普第一任期期间的投资约为100亿美元。（本次）我们并未提及同样的金额，但表示希望投资和创造就业的意愿没有改变。",
           "url": "https://flash.jin10.com/detail/20251029094900785800",
           "source": "金十数据",
@@ -586,6 +710,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普：简化新能源和采矿项目的审批流程。",
+          "url": "https://flash.jin10.com/detail/20251029123125103800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在改革钢铁生产并提高产量。",
+          "url": "https://flash.jin10.com/detail/20251029122942604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
@@ -605,9 +751,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "美国总统特朗普：韩国正在购买大量我们的武器。",
+          "url": "https://flash.jin10.com/detail/20251029122713757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
+          "url": "https://flash.jin10.com/detail/20251029122632354800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -632,6 +800,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国总统特朗普：当美国繁荣时，我们的联盟和印太地区也将繁荣。",
+          "url": "https://flash.jin10.com/detail/20251029122319085800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
+          "url": "https://flash.jin10.com/detail/20251029122248320800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国参议院多数派领导人John Thune：如果政府停摆事件结束，总统特朗普愿意下周会见民主党。",
           "url": "https://wallstreetcn.com/livenews/2995309",
           "source": "华尔街见闻-快讯",
@@ -641,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国总统特朗普：期望美国在芯片产业中占据重要地位。",
+          "url": "https://flash.jin10.com/detail/20251029122241983800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
@@ -665,6 +866,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "美国总统特朗普：我们是韩国的真诚伙伴。",
+          "url": "https://flash.jin10.com/detail/20251029122213781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
           "url": "https://wallstreetcn.com/livenews/2995213",
           "source": "华尔街见闻-快讯",
@@ -687,6 +899,28 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普：半导体制造业正迅速回流美国。",
+          "url": "https://flash.jin10.com/detail/20251029122205634800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26pos%3D25%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "特朗普再批美联储主席鲍威尔",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
           "source": "百度热搜",
@@ -696,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：不会让美联储加息。",
+          "url": "https://flash.jin10.com/detail/20251029122156402800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
@@ -709,6 +954,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251029122125147800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”重心何在",
           "url": "https://www.toutiao.com/trending/7566416366190759443/",
           "source": "今日头条",
@@ -720,6 +987,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "美国总统特朗普：预计下季度GDP增长4%。",
+          "url": "https://flash.jin10.com/detail/20251029122115641800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
           "url": "https://wallstreetcn.com/livenews/2995537",
           "source": "华尔街见闻-快讯",
@@ -729,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "美国总统特朗普：到我第二个任期结束时，可能将有21万亿-22万亿美元的投资流入美国。",
+          "url": "https://flash.jin10.com/detail/20251029122108424800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美媒：特朗普在解决自己制造的危机",
@@ -751,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们已确保超过18万亿美元的新投资承诺。",
+          "url": "https://flash.jin10.com/detail/20251029122054233800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
@@ -804,8 +1104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时12分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 13时19分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1011,11 +1311,12 @@
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 13时19分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -1136,11 +1437,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时19分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
