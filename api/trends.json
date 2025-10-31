@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:25:46.570832+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2025-10-31T22:12:48.118301+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 22时12分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -132,8 +132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时54分 ~ 21时25分]"
+          "appearance_count": 17,
+          "time_info": "[08时54分 ~ 22时12分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -147,8 +147,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 22时12分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -356,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时12分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -727,6 +727,17 @@
           "time_info": "19时11分"
         },
         {
+          "title": "土耳其外交部长：与美国总统特朗普在纽约会晤讨论加沙问题的各国外交部长将于下周一召开会议，商讨加沙停火事宜。",
+          "url": "https://flash.jin10.com/detail/20251031214220761800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "据《国会山报》：当地时间周四晚些时候，特朗普再次抨击平价医疗法案(ACA)，要求民主党人在联邦资金陷入僵局的情况下，采取行动应对即将出现的费率大幅上涨问题。",
           "url": "https://flash.jin10.com/detail/20251031105843628800",
           "source": "金十数据",
@@ -774,7 +785,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -785,8 +796,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时11分 ~ 21时25分]"
+          "appearance_count": 18,
+          "time_info": "[07时11分 ~ 22时12分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -872,6 +883,18 @@
           "time_info": "[20时23分 ~ 21时25分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时12分]"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
           "url": "https://flash.jin10.com/detail/20251031043456886800",
           "source": "金十数据",
@@ -882,6 +905,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌",
@@ -908,24 +943,13 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
           "url": "https://wallstreetcn.com/livenews/2997746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -952,17 +976,6 @@
           "time_info": "19时11分"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -972,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -996,6 +1020,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
           "url": "https://wallstreetcn.com/livenews/2997557",
           "source": "华尔街见闻-快讯",
@@ -1018,13 +1053,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
           "url": "https://flash.jin10.com/detail/20251031205708619800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1212,7 +1258,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -1228,6 +1274,17 @@
           "time_info": "[00时16分 ~ 08时54分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 22时12分]"
+        },
+        {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
           "url": "https://wallstreetcn.com/livenews/2997111",
           "source": "华尔街见闻-快讯",
@@ -1237,17 +1294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时25分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1260,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时11分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -1349,8 +1406,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 21时25分]"
+          "appearance_count": 15,
+          "time_info": "[11时41分 ~ 22时12分]"
         }
       ]
     },
@@ -1365,7 +1422,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
