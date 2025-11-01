@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T16:15:48.467376+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-11-01T17:14:09.648633+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 16时15分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 17时14分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 17时14分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -92,11 +92,12 @@
             15,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 17时14分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -106,8 +107,31 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时14分]"
+        },
+        {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 17时14分]"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时15分]"
+          "time_info": "[13时13分 ~ 17时14分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -125,17 +149,6 @@
           "time_info": "[03时11分 ~ 07时14分]"
         },
         {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时15分]"
-        },
-        {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
           "url": "https://flash.jin10.com/detail/20251101000138098800",
           "source": "金十数据",
@@ -145,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "日本首相高市早苗：通过特朗普的访日行程，我们重申了强大的美日同盟。",
+          "url": "https://flash.jin10.com/detail/20251101164227451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
@@ -167,6 +191,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://flash.jin10.com/detail/20251101135652852800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 17时14分]"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://wallstreetcn.com/livenews/2997972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
@@ -216,17 +268,6 @@
           "time_info": "[05时11分 ~ 08时57分]"
         },
         {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
           "url": "https://news.ifeng.com/c/8nujw83bPTx",
           "source": "凤凰网",
@@ -236,32 +277,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时13分 ~ 08时57分]"
-        },
-        {
-          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://flash.jin10.com/detail/20251101135652852800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 16时15分]"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://wallstreetcn.com/livenews/2997972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -348,6 +363,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时15分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时14分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时14分]"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
@@ -459,17 +496,6 @@
           "time_info": "[01时12分 ~ 02时18分]"
         },
         {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
           "url": "https://flash.jin10.com/detail/20251031235806226800",
           "source": "金十数据",
@@ -490,17 +516,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "美国总统特朗普：（被问及核试验）我们将进行一些试验。",
@@ -671,8 +686,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 17时14分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -686,8 +701,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 17时14分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -921,6 +936,36 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
+          "url": "https://wallstreetcn.com/livenews/2997882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时11分]"
+        },
+        {
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -947,6 +992,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗一超轻型飞机发生事故",
+          "url": "https://flash.jin10.com/detail/20251101163710550800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20251101154233808800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时14分]"
         }
       ]
     },
@@ -981,47 +1055,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
-          "url": "https://wallstreetcn.com/livenews/2997882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6,
-            18,
-            23
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
-          "url": "https://flash.jin10.com/detail/20251101154233808800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时14分]"
         }
       ]
     }
