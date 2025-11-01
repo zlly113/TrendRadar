@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T08:57:11.028914+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-11-01T10:28:55.273881+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时28分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -58,6 +58,18 @@
           "time_info": "[00时14分 ~ 08时57分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
           "title": "美参议院通过终止特朗普关税决议",
           "url": "https://www.toutiao.com/trending/7567152652803706377/",
           "source": "今日头条",
@@ -71,17 +83,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 07时14分]"
-        },
-        {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -115,6 +116,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 10时28分]"
         },
         {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
@@ -249,18 +263,6 @@
           "time_info": "[03时11分 ~ 04时15分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 08时57分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
           "url": "https://flash.jin10.com/detail/20251101031047264800",
           "source": "金十数据",
@@ -278,11 +280,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时28分]"
         },
         {
           "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
@@ -290,11 +293,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时28分]"
+        },
+        {
+          "title": "美参议院否决特朗普关税政策意味啥",
+          "url": "https://www.toutiao.com/trending/7567416043790929444/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时28分]"
         },
         {
           "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
@@ -307,17 +335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "美参议院否决特朗普关税政策意味啥",
-          "url": "https://www.toutiao.com/trending/7567416043790929444/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
@@ -342,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "美国参议院否决特朗普关税说明什么",
@@ -442,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "美国总统特朗普：不会与加拿大重新谈判。",
@@ -565,11 +582,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时28分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -606,8 +624,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 08时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 10时28分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -621,6 +639,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时15分 ~ 08时57分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 10时28分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
@@ -648,18 +679,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时11分 ~ 08时57分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 08时57分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -721,11 +740,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时11分 ~ 08时57分]"
+          "appearance_count": 6,
+          "time_info": "[06时11分 ~ 10时28分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
