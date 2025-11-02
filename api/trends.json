@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T08:57:59.694229+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-11-02T10:33:52.339559+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -26,11 +26,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -85,11 +86,12 @@
           "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 10时33分]"
         },
         {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
@@ -98,9 +100,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 10时33分]"
         }
       ]
     },
@@ -117,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -130,20 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时14分 ~ 08时57分]"
-        },
-        {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 08时57分]"
+          "appearance_count": 9,
+          "time_info": "[02时14分 ~ 10时33分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -160,6 +150,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时10分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时11分 ~ 10时33分]"
         }
       ]
     },
@@ -202,17 +205,18 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 10时33分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -224,6 +228,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 04时12分]"
+        },
+        {
+          "title": "黄金税收公告发布是否会影响金价",
+          "url": "https://www.toutiao.com/trending/7567904081340010011/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
@@ -240,8 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 10时33分]"
         }
       ]
     },
