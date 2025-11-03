@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T07:12:17.785103+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-03T08:57:27.247437+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3758488",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -47,11 +48,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -139,6 +141,28 @@
           "time_info": "[00时12分 ~ 07时12分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://wallstreetcn.com/livenews/2998242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -177,12 +201,122 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "如何看特朗普说台海政策是秘密",
+          "url": "https://www.toutiao.com/trending/7568264436717194788/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20251103082638885800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://wallstreetcn.com/livenews/2998231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://flash.jin10.com/detail/20251103082523215800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美国总统特朗普：我将在堪萨斯城对阵布法罗的NFL（美国职业橄榄球大联盟）比赛结束后接受《60分钟》的采访。",
+          "url": "https://flash.jin10.com/detail/20251103080418904800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
+          "url": "https://wallstreetcn.com/livenews/2998222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/2998220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普：下周关税案是美国历史上最重要的案件之一，不会出席相关辩论",
+          "url": "https://flash.jin10.com/detail/20251103080043797800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗总统称将重建核设施",
@@ -218,12 +352,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 02时15分]"
+        },
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -236,6 +381,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 02时15分]"
+        },
+        {
+          "title": "奥尔特曼称OpenAI年收入远超130亿美元",
+          "url": "https://flash.jin10.com/detail/20251103081100518800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
