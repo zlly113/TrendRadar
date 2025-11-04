@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T08:54:40.137719+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2025-11-04T10:26:44.348227+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时26分]"
+        },
+        {
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时26分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -78,19 +92,6 @@
             12,
             13,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时54分]"
-        },
-        {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            12
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -173,6 +174,18 @@
           "time_info": "[03时10分 ~ 05时13分]"
         },
         {
+          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
+          "url": "https://www.cls.cn/detail/2190068",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时26分]"
+        },
+        {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
           "url": "https://wallstreetcn.com/livenews/2998654",
           "source": "华尔街见闻-快讯",
@@ -245,24 +258,13 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
-          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
-          "url": "https://www.cls.cn/detail/2190068",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
           "title": "文件显示，美国总统特朗普政府要求美国法院驳回达美航空和墨西哥航空推迟终止合资企业的请求。",
           "url": "https://flash.jin10.com/detail/20251104082642622800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -339,7 +341,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -349,6 +351,17 @@
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时26分]"
+        },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
           "url": "https://wallstreetcn.com/articles/3758543",
@@ -361,15 +374,17 @@
           "time_info": "07时29分"
         },
         {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时26分]"
         },
         {
           "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
@@ -406,18 +421,6 @@
           "time_info": "[06时12分 ~ 07时29分]"
         },
         {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 08时54分]"
-        },
-        {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
           "url": "https://wallstreetcn.com/livenews/2998745",
           "source": "华尔街见闻-快讯",
@@ -428,6 +431,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时12分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时26分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -476,17 +491,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251104050600699800",
           "source": "金十数据",
@@ -526,7 +530,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -608,7 +612,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
@@ -617,11 +621,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时54分]"
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 10时26分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
@@ -630,16 +635,38 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2025年11月04日（周二）上海金早盘价为912.99元/克，较国际金价(912.03元/克)，高0.96元/克",
+          "url": "https://flash.jin10.com/detail/20251104101835132800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
         {
           "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
           "url": "https://wallstreetcn.com/livenews/2998697",
@@ -700,6 +727,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时26分]"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
           "url": "https://wallstreetcn.com/livenews/2998742",
           "source": "华尔街见闻-快讯",
@@ -710,17 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时12分]"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
         }
       ]
     },
@@ -767,8 +795,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时26分]"
         }
       ]
     }
