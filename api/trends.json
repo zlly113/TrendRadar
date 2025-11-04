@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T03:10:33.483135+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2025-11-05T04:14:50.878397+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,52 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
-          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
-          "url": "https://flash.jin10.com/detail/20251105024520582800",
-          "source": "金十数据",
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
           "ranks": [
-            1
+            13,
+            20,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "白宫：特朗普正在密切关注尼日利亚。",
-          "url": "https://flash.jin10.com/detail/20251105024507839800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
-          "url": "https://flash.jin10.com/detail/20251105024210324800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
-          "url": "https://wallstreetcn.com/livenews/2999357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
@@ -76,6 +45,30 @@
           "time_info": "[01时12分 ~ 03时10分]"
         },
         {
+          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
+          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "白宫：特朗普正在密切关注尼日利亚。",
+          "url": "https://flash.jin10.com/detail/20251105024507839800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
           "url": "https://wallstreetcn.com/livenews/2999304",
           "source": "华尔街见闻-快讯",
@@ -86,6 +79,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
+          "url": "https://wallstreetcn.com/livenews/2999344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
         },
         {
           "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
@@ -112,6 +118,18 @@
           "time_info": "[00时15分 ~ 01时12分]"
         },
         {
+          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
+          "url": "https://flash.jin10.com/detail/20251105024210324800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
           "url": "https://wallstreetcn.com/livenews/2999301",
           "source": "华尔街见闻-快讯",
@@ -124,29 +142,16 @@
           "time_info": "[00时15分 ~ 01时12分]"
         },
         {
-          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
-          "url": "https://wallstreetcn.com/livenews/2999344",
+          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
+          "url": "https://wallstreetcn.com/livenews/2999357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -195,6 +200,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时18分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
+          "url": "https://flash.jin10.com/detail/20251105032507471800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
+          "url": "https://flash.jin10.com/detail/20251105030659180800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
+          "url": "https://flash.jin10.com/detail/20251105024546546800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -266,8 +315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -275,11 +324,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -374,6 +424,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "民生宏观：美元指数再破100 但升值周期未至",
+          "url": "https://flash.jin10.com/detail/20251105033633355800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -385,25 +463,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2999277",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时14分"
         }
       ]
     }
