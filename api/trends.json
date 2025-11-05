@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-05T15:14:08.646442+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-05T16:17:22.164525+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 16时17分]"
+        },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
           "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
@@ -19,18 +31,6 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 15时14分]"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -273,6 +273,18 @@
           "time_info": "[00时15分 ~ 08时55分]"
         },
         {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时17分]"
+        },
+        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
@@ -357,17 +369,6 @@
           "time_info": "[01时12分 ~ 02时18分]"
         },
         {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        },
-        {
           "title": "被问及是否计划袭击委内瑞拉，特朗普嘲讽记者：就算有，我能告诉你？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31879523",
           "source": "澎湃新闻",
@@ -389,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时18分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
@@ -419,7 +431,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -537,7 +549,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -547,8 +559,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -581,11 +593,26 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 16时17分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时29分 ~ 15时14分]"
+          "time_info": "[11时51分 ~ 16时17分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -601,19 +628,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 11时51分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 15时14分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -742,6 +756,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
           "url": "https://flash.jin10.com/detail/20251105061222244800",
           "source": "金十数据",
@@ -792,7 +817,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -932,7 +957,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -964,8 +989,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -1032,7 +1057,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -1089,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -1178,7 +1214,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
