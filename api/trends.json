@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T04:14:48.246808+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-11-06T05:13:27.126658+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -37,19 +37,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
-          "title": "特朗普提议美国会参议院结束“冗长辩论”遭共和党人拒绝",
-          "url": "https://flash.jin10.com/detail/20251106034031154800",
-          "source": "金十数据",
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
+          "source": "今日头条",
           "ranks": [
-            1
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 05时13分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -63,27 +64,26 @@
           "time_info": "00时16分"
         },
         {
-          "title": "纽约新市长为何成特朗普的“噩梦”",
-          "url": "https://www.toutiao.com/trending/7569209850954026547/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 04时14分]"
-        },
-        {
-          "title": "美国总统特朗普：可能与俄罗斯等国制定去核化计划。",
-          "url": "https://flash.jin10.com/detail/20251106033540610800",
+          "title": "美最高法院关税案辩论进展：特朗普胜诉概率降低",
+          "url": "https://flash.jin10.com/detail/20251106043537001800",
           "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时13分"
+        },
+        {
+          "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
+          "url": "https://wallstreetcn.com/livenews/3000091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
@@ -104,11 +104,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普提议美国会参议院结束“冗长辩论”遭共和党人拒绝",
+          "url": "https://flash.jin10.com/detail/20251106034031154800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
+          "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "美国总统特朗普：可能与俄罗斯等国制定去核化计划。",
+          "url": "https://flash.jin10.com/detail/20251106033540610800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时13分]"
         },
         {
           "title": "美国最高法院对特朗普关税官司听证会的要点总结",
@@ -116,11 +141,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
+        },
+        {
+          "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
+          "url": "https://flash.jin10.com/detail/20251106031759230800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
+          "time_info": "[04时14分 ~ 05时13分]"
         },
         {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
@@ -159,15 +197,15 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
-          "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
-          "url": "https://flash.jin10.com/detail/20251106031759230800",
-          "source": "金十数据",
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时13分"
         },
         {
           "title": "白宫新闻发言人莱维特：特朗普下午1点（北京时间02:00）的重要演讲将围绕经济展开。",
@@ -192,6 +230,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "摩根大通CEO戴蒙：美联储将继续保持独立，但特朗普总统会畅所欲言。",
+          "url": "https://flash.jin10.com/detail/20251106043243122800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106020733024800",
           "source": "金十数据",
@@ -209,7 +258,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -220,7 +269,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -231,7 +280,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -253,7 +302,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -264,7 +313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -330,6 +379,30 @@
           "time_info": "01时13分"
         },
         {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
           "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
           "url": "https://flash.jin10.com/detail/20251106010654630800",
           "source": "金十数据",
@@ -366,28 +439,6 @@
           "time_info": "[02时17分 ~ 03时12分]"
         },
         {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20251106031453898800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -412,6 +463,102 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
+          "url": "https://wallstreetcn.com/livenews/3000096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106033256495800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1969338787738906634",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "OpenAI CFO：市场过于关注AI领域可能出现的泡沫",
+          "url": "https://flash.jin10.com/detail/20251106042109787800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "OpenAI尚未为上市做准备",
+          "url": "https://flash.jin10.com/detail/20251106040810943800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
+          "url": "https://flash.jin10.com/detail/20251106035846813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
@@ -424,8 +571,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -433,11 +580,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 05时13分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -481,11 +629,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时13分]"
         },
         {
           "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
@@ -501,47 +650,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
-          "url": "https://wallstreetcn.com/livenews/3000080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
-          "url": "https://flash.jin10.com/detail/20251106033256495800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1969338787738906634",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -552,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -568,6 +678,17 @@
           "time_info": "[02时17分 ~ 03时12分]"
         },
         {
+          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
+          "url": "https://wallstreetcn.com/livenews/3000088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
           "url": "https://wallstreetcn.com/livenews/2999987",
           "source": "华尔街见闻-快讯",
@@ -577,6 +698,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
+        },
+        {
+          "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非制造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
+          "url": "https://wallstreetcn.com/livenews/3000081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -595,24 +746,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3000064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
         }
       ]
     }
