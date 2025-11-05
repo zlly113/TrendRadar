@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:23:25.368374+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2025-11-05T21:27:56.090362+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 21时27分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -44,6 +44,19 @@
           "time_info": "[08时54分 ~ 20时23分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 21时27分]"
+        },
+        {
           "title": "佩洛西：特朗普是地表最坏的家伙",
           "url": "https://www.toutiao.com/trending/7567917613335494699/",
           "source": "今日头条",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 20时23分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -296,6 +297,19 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "奥巴马为何高调对特朗普发难",
+          "url": "https://www.toutiao.com/trending/7569156347464257074/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时27分]"
+        },
+        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -318,18 +332,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时13分 ~ 16时17分]"
-        },
-        {
-          "title": "奥巴马为何高调对特朗普发难",
-          "url": "https://www.toutiao.com/trending/7569156347464257074/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时23分]"
         },
         {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
@@ -596,7 +598,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -606,8 +608,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 21时27分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -684,7 +686,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -868,9 +870,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
@@ -882,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2999898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -915,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
@@ -1361,8 +1396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时27分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
