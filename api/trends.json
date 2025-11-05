@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T12:22:15.841194+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-11-05T13:15:32.912227+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时15分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -47,17 +47,6 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
-          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
-          "url": "https://news.ifeng.com/c/8o11vuaIumr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时51分]"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -67,8 +56,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 11时51分]"
         },
         {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
+          "url": "https://flash.jin10.com/detail/20251105123816370800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
@@ -479,6 +490,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "特朗普对华“示好”是认清现实了吗",
+          "url": "https://www.toutiao.com/trending/7569074435831909938/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "特朗普：未打算向乌提供战斧导弹",
           "url": "https://www.toutiao.com/trending/7568511347109969961/",
           "source": "今日头条",
@@ -515,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -527,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 13时15分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -554,8 +576,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时15分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -567,6 +589,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 13时15分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -591,18 +625,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时12分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 12时22分]"
         },
         {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
@@ -649,6 +671,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
+          "url": "https://flash.jin10.com/detail/20251105113353093800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时15分]"
         },
         {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
@@ -728,17 +762,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
-          "url": "https://flash.jin10.com/detail/20251105113353093800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
           "url": "https://wallstreetcn.com/livenews/2999272",
           "source": "华尔街见闻-快讯",
@@ -809,8 +832,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 13时15分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -1012,8 +1035,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时15分]"
         },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
