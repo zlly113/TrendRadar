@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T16:17:22.164525+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2025-11-05T17:14:36.117425+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 17时14分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 17时14分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -285,6 +296,17 @@
           "time_info": "[15时13分 ~ 16时17分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时14分]"
+        },
+        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
@@ -390,17 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时18分]"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
@@ -549,7 +560,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -559,8 +570,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 17时14分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -608,11 +619,12 @@
             9,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 17时14分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -688,6 +700,18 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时14分]"
+        },
+        {
           "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/2999413",
           "source": "华尔街见闻-快讯",
@@ -734,6 +758,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
           "url": "https://flash.jin10.com/detail/20251105111647625800",
           "source": "金十数据",
@@ -754,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美股散户“黑色星期二”有多惨",
-          "url": "https://www.toutiao.com/trending/7569095245124603438/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -1120,17 +1144,18 @@
           "url": "https://www.douyin.com/hot/2295060",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时14分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数4日上涨",
@@ -1179,6 +1204,17 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
+          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
+          "url": "https://www.cls.cn/detail/2191412",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2999277",
           "source": "华尔街见闻-快讯",
@@ -1188,6 +1224,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗外交部长阿拉奇表示，两名法国公民因“伊斯兰宽恕精神”获释，目前仍在伊朗境内。",
+          "url": "https://flash.jin10.com/detail/20251105164316116800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "如何看待伊朗提出美伊合作三个条件",
+          "url": "https://www.toutiao.com/trending/7569022185453407750/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
@@ -1217,35 +1293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
-          "url": "https://flash.jin10.com/detail/20251105032950258800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "如何看待伊朗提出美伊合作三个条件",
-          "url": "https://www.toutiao.com/trending/7569022185453407750/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
         }
       ]
     }
