@@ -1,44 +1,47 @@
 {
-  "generated_at": "2025-11-06T07:13:37.720244+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2025-11-06T08:55:28.421903+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 48,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
           "url": "https://www.cls.cn/detail/2192187",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -54,6 +57,17 @@
           "time_info": "[01时13分 ~ 06时11分]"
         },
         {
+          "title": "涉及特朗普，BBC被曝严重造假！",
+          "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
           "url": "https://wallstreetcn.com/livenews/3000013",
           "source": "华尔街见闻-快讯",
@@ -65,15 +79,48 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
+          "url": "https://news.ifeng.com/c/8o2w70KHTf3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
+          "url": "https://news.ifeng.com/c/8o36aXsrNEC",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "特朗普再次对尼日利亚发出威胁",
           "url": "https://flash.jin10.com/detail/20251106061021528800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "特朗普：已指示国防部对核武器进行测试",
@@ -82,7 +129,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -161,6 +208,17 @@
           "time_info": "[05时13分 ~ 06时11分]"
         },
         {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 08时55分]"
+        },
+        {
           "title": "美国最高法院对特朗普关税官司听证会的要点总结",
           "url": "https://wallstreetcn.com/livenews/3000063",
           "source": "华尔街见闻-快讯",
@@ -172,17 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时13分]"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时13分]"
         },
         {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
@@ -233,13 +280,35 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
           "url": "https://flash.jin10.com/detail/20251106054434301800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -297,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国白宫：特朗普将于周四上午11点（北京时间周周五零点）发表声明。",
+          "url": "https://flash.jin10.com/detail/20251106080755974800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔是傻瓜。",
@@ -365,6 +445,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "特朗普表示关税案件进展顺利",
+          "url": "https://flash.jin10.com/detail/20251106075051703800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
           "url": "https://wallstreetcn.com/livenews/2999989",
           "source": "华尔街见闻-快讯",
@@ -409,6 +500,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国总统特朗普：我听说今天最高法院的审判进行得很顺利。",
+          "url": "https://flash.jin10.com/detail/20251106073030897800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -418,6 +520,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普：（谈最高法院关税听证会）如果我们输掉那起案件，将是一场灾难。",
+          "url": "https://flash.jin10.com/detail/20251106073002297800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国总统特朗普：（谈政府停摆）我们应该共同致力于医疗保健事业。",
+          "url": "https://flash.jin10.com/detail/20251106072743188800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "民主党呼吁特朗普会谈结束政府停摆",
+          "url": "https://www.toutiao.com/trending/7569362062070825002/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -444,11 +579,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 08时55分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -457,9 +593,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时55分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -580,17 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -836,7 +973,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -849,6 +986,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 06时11分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -883,6 +1031,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3000006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时13分]"
+        },
+        {
+          "title": "中信证券：金价仍将上行",
+          "url": "https://flash.jin10.com/detail/20251106081622630800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "中信证券：展望明年，预计金价主线仍是上行",
+          "url": "https://wallstreetcn.com/livenews/3000181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -925,24 +1124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3000006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
         }
       ]
     }
