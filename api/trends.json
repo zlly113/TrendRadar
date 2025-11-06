@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T06:12:05.419568+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-11-07T07:11:51.420729+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
+          "url": "https://wallstreetcn.com/livenews/3000794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -361,13 +372,24 @@
           "time_info": "02时19分"
         },
         {
+          "title": "市场消息：特朗普政府正准备就法官要求在周五前全额支付 补充营养协助计划（SNAP）食品福利的命令提出上诉。",
+          "url": "https://flash.jin10.com/detail/20251107062803766800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "美国财长贝森特：特朗普已明确表示，战争必须立即结束。只要普京继续进行毫无意义的杀戮，石油交易商贡渥集团将永远无法获得经营和获利的许可。",
           "url": "https://flash.jin10.com/detail/20251107045656671800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -378,7 +400,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -441,7 +463,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -452,8 +474,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -462,7 +484,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -471,11 +493,12 @@
           "url": "https://www.cls.cn/detail/2193592",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
@@ -484,9 +507,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251107062851327800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3000778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股收盘）",
@@ -495,7 +540,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -517,7 +562,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -539,7 +584,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -550,7 +595,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -586,12 +631,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20251107055709083800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -605,8 +672,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2193628",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -671,76 +749,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            15,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 06时12分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            28,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时12分]"
-        },
-        {
-          "title": "金价“冲高回落”，投资者关注美联储利率前景",
-          "url": "https://wallstreetcn.com/livenews/3000762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -751,8 +761,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -766,6 +776,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -806,6 +827,75 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            15,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时11分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            28,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "金价“冲高回落”，投资者关注美联储利率前景",
+          "url": "https://wallstreetcn.com/livenews/3000762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -823,6 +913,17 @@
           "time_info": "[02时19分 ~ 04时24分]"
         },
         {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
           "url": "https://wallstreetcn.com/livenews/3000717",
           "source": "华尔街见闻-快讯",
@@ -833,17 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时12分]"
-        },
-        {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
         }
       ]
     },
@@ -858,7 +948,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
