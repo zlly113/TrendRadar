@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:18:36.678052+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2025-11-07T17:14:50.110795+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时14分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -54,18 +66,6 @@
           "time_info": "[00时16分 ~ 08时53分]"
         },
         {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时18分]"
-        },
-        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -88,11 +88,23 @@
             10,
             16,
             23,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 17时14分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时14分]"
         },
         {
           "title": "男子在特朗普身边晕倒 发布会中断",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时26分 ~ 14时19分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时18分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -176,17 +177,6 @@
           "time_info": "10时27分"
         },
         {
-          "title": "特朗普官宣降价减肥药企高管当场晕倒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26flag%3D1%26band_rank%3D4%26dgr%3D0%26lcate%3D5001%26display_time%3D1762503503%26pre_seqid%3D176250350337101608035112&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20251107083221263800",
           "source": "金十数据",
@@ -223,6 +213,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普官宣降价减肥药企高管当场晕倒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26flag%3D1%26band_rank%3D4%26dgr%3D0%26lcate%3D5001%26display_time%3D1762503503%26pre_seqid%3D176250350337101608035112&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时14分]"
         },
         {
           "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
@@ -285,6 +287,17 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时14分]"
+        },
+        {
           "title": "特朗普痛骂佩洛西是“邪恶女人”",
           "url": "https://www.toutiao.com/trending/7569040586016620587/",
           "source": "今日头条",
@@ -310,17 +323,6 @@
           "time_info": "[11时39分 ~ 12时15分]"
         },
         {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时18分]"
-        },
-        {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
           "url": "https://wallstreetcn.com/livenews/3000650",
           "source": "华尔街见闻-快讯",
@@ -343,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普就美高院激辩关税表态",
+          "url": "https://www.toutiao.com/trending/7569800305303359018/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
@@ -581,17 +595,6 @@
           "time_info": "10时27分"
         },
         {
-          "title": "特朗普就美高院激辩关税表态",
-          "url": "https://www.toutiao.com/trending/7569800305303359018/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -691,6 +694,17 @@
           "time_info": "15时12分"
         },
         {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国财长贝森特：特朗普已明确表示，战争必须立即结束。只要普京继续进行毫无意义的杀戮，石油交易商贡渥集团将永远无法获得经营和获利的许可。",
           "url": "https://flash.jin10.com/detail/20251107045656671800",
           "source": "金十数据",
@@ -708,7 +722,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -779,6 +793,17 @@
           "time_info": "11时39分"
         },
         {
+          "title": "特朗普为何否认美军要袭击委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7569866217960246838/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
           "url": "https://flash.jin10.com/detail/20251107144300306800",
           "source": "金十数据",
@@ -804,7 +829,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -842,8 +867,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时53分 ~ 17时14分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107170234164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -867,6 +903,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
@@ -1052,6 +1099,34 @@
           "time_info": "[07时11分 ~ 15时12分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时14分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时14分]"
+        },
+        {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
           "url": "https://www.cls.cn/detail/2193555",
           "source": "财联社热门",
@@ -1066,33 +1141,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时16分 ~ 14时19分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时18分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时18分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -1181,8 +1229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时53分 ~ 17时14分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1270,77 +1318,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时11分 ~ 16时18分]"
-        },
-        {
-          "title": "如何评价 gemini-3-pro-preview-11-2025？",
-          "url": "https://www.zhihu.com/question/1969709439335530787",
-          "source": "知乎",
-          "ranks": [
-            5,
-            14,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 13时13分]"
-        },
-        {
-          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
-          "url": "https://wallstreetcn.com/livenews/3000693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 04时24分]"
-        },
-        {
-          "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
-          "url": "https://wallstreetcn.com/livenews/3000717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时12分]"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
@@ -1353,8 +1332,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 16时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -1407,6 +1386,86 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "分析师：未来几周金价预计将维持高位 但风险偏向下行",
+          "url": "https://flash.jin10.com/detail/20251107164821756800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[06时11分 ~ 17时14分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            5,
+            14,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+          "url": "https://wallstreetcn.com/livenews/3000693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时24分]"
+        },
+        {
+          "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
+          "url": "https://wallstreetcn.com/livenews/3000717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时12分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
