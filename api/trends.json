@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T14:16:21.351270+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-08T15:12:25.290303+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时49分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时49分 ~ 15时12分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -77,11 +77,27 @@
             20,
             18,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时49分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时49分 ~ 15时12分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
@@ -93,20 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时16分]"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -135,6 +137,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时31分 ~ 14时16分]"
+        },
+        {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -247,20 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时16分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -458,6 +461,28 @@
           "time_info": "[07时11分 ~ 08时49分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "美国总统特朗普：匈牙利总理欧尔班在移民问题上没有犯错。",
           "url": "https://flash.jin10.com/detail/20251108014816104800",
           "source": "金十数据",
@@ -591,11 +616,12 @@
           "ranks": [
             13,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时11分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 15时12分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -617,11 +643,12 @@
             12,
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 15时12分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -805,8 +832,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 15时12分]"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
@@ -932,11 +959,12 @@
           "ranks": [
             4,
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时12分]"
         }
       ]
     },
