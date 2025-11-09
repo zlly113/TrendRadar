@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T16:16:15.002754+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2025-11-09T17:12:42.136525+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -75,6 +75,20 @@
           "time_info": "[00时14分 ~ 08时57分]"
         },
         {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时12分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -87,30 +101,17 @@
           "time_info": "[00时14分 ~ 08时57分]"
         },
         {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 16时16分]"
-        },
-        {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.toutiao.com/trending/7569666407429324863/",
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 17时12分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -120,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时12分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -137,6 +138,20 @@
           "time_info": "[13时12分 ~ 16时16分]"
         },
         {
+          "title": "拜登狠批特朗普",
+          "url": "https://flash.jin10.com/detail/20251109135556039800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
@@ -148,17 +163,15 @@
           "time_info": "[00时14分 ~ 04时12分]"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://flash.jin10.com/detail/20251109135556039800",
-          "source": "金十数据",
+          "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
+          "url": "https://wallstreetcn.com/livenews/3001663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            14
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 16时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "俄外长：不清楚特朗普的“恢复核试验”是啥意思",
@@ -185,29 +198,31 @@
           "time_info": "[07时10分 ~ 10时30分]"
         },
         {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
           "url": "https://flash.jin10.com/detail/20251109125212911800",
           "source": "金十数据",
           "ranks": [
             9,
             12,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 16时16分]"
-        },
-        {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 17时12分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -303,11 +318,12 @@
             6,
             10,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 17时12分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -319,11 +335,12 @@
             7,
             11,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 17时12分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -352,6 +369,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
