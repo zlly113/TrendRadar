@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T04:14:55.063569+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-11-11T05:12:23.145437+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -28,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -38,11 +38,12 @@
           "ranks": [
             22,
             18,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美国总统特朗普谈及国会山正在讨论的拨款草案，宣称：“可以这么说（我会支持）”。",
+          "url": "https://wallstreetcn.com/livenews/3002325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -78,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：我认为我们与印度接近达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3002324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -139,6 +162,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：（就特朗普提议的50年期抵押贷款）我支持特朗普的想法。白宫将召开一系列会议。",
+          "url": "https://flash.jin10.com/detail/20251111042013971800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
           "url": "https://wallstreetcn.com/livenews/3002232",
           "source": "华尔街见闻-快讯",
@@ -148,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
+          "url": "https://wallstreetcn.com/livenews/3002316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
@@ -273,8 +318,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -288,8 +333,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -339,8 +384,20 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 05时12分]"
+        },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
           "url": "https://wallstreetcn.com/livenews/3002234",
@@ -352,18 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 04时14分]"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -382,11 +427,23 @@
           "url": "https://wallstreetcn.com/livenews/3002303",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
+          "url": "https://flash.jin10.com/detail/20251111034728559800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时12分"
         }
       ]
     },
@@ -431,8 +488,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
@@ -479,6 +536,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "近30年全球央行黄金持有首次超美债",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（11月10日）纽约尾盘，ICE美元指数跌0.01%，报99.591点，日内交投区间为99.742-99.455点。 彭博美元指数跌0.06%，报1218.67点，日内交投区间为1221.03-1217.94点。",
+          "url": "https://wallstreetcn.com/livenews/3002313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     }
