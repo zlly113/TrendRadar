@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T18:14:55.413804+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-11-10T19:12:17.661133+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -125,6 +125,21 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "bilibili 热搜",
@@ -160,20 +175,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时44分 ~ 14时19分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 18时14分]"
         },
         {
           "title": "特朗普被严重警告",
@@ -236,17 +237,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 11时47分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
-          "url": "https://flash.jin10.com/detail/20251110180323905800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "美国参议院共和党披露一份立法草案，其中包括在（总统特朗普的）政府关门期间要求向退伍军人事务部（DVA）和军事建设项目提供资金支持。",
@@ -359,6 +349,18 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110180323905800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
           "url": "https://wallstreetcn.com/livenews/3001731",
           "source": "华尔街见闻-快讯",
@@ -423,6 +425,18 @@
           "time_info": "[16时19分 ~ 17时15分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
+          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "因剪辑拼接与1月6日国会山暴乱相关的特朗普视频，英国BBC高管辞职",
           "url": "https://wallstreetcn.com/livenews/3001718",
           "source": "华尔街见闻-快讯",
@@ -458,15 +472,15 @@
           "time_info": "14时19分"
         },
         {
-          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
-          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "title": "据纽约时报：叙利亚领导人艾哈迈德·沙拉将于周一在华盛顿会见特朗普。叙利亚领导人预计将签署一项协议，与其他88个国家一起加入全球联盟，打击在叙利亚仍然活跃的极端组织“伊斯兰国”。",
+          "url": "https://flash.jin10.com/detail/20251110182328854800",
           "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
@@ -478,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -567,8 +592,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 19时12分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -585,6 +610,30 @@
           "time_info": "[12时20分 ~ 16时20分]"
         },
         {
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
@@ -595,28 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时14分]"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -662,6 +689,17 @@
           "time_info": "[11时47分 ~ 12时20分]"
         },
         {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
           "url": "https://flash.jin10.com/detail/20251110164825040800",
           "source": "金十数据",
@@ -671,23 +709,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
-        },
-        {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
@@ -701,6 +728,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "瑞银：预测美联储降息将使十年期美债收益率跌至3.50%",
+          "url": "https://flash.jin10.com/detail/20251110182455008800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "因美国政府停摆有望结束 英国国债收益率随美债走高",
           "url": "https://flash.jin10.com/detail/20251110165833127800",
           "source": "金十数据",
@@ -710,6 +748,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     },
