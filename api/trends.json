@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T11:42:32.912736+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2025-11-11T12:17:08.918098+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 12时17分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时14分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时17分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -406,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普：如果最高法院裁定关税无效，我会想办法的。",
@@ -642,7 +642,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -654,8 +654,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 11时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时17分]"
+        },
+        {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 12时17分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -674,15 +685,17 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
           "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 12时17分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -694,19 +707,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时42分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -755,6 +755,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 12时17分]"
+        },
+        {
           "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
           "url": "https://wallstreetcn.com/livenews/3002339",
           "source": "华尔街见闻-快讯",
@@ -779,16 +791,15 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
           "ranks": [
-            12,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时42分]"
+          "time_info": "[12时16分 ~ 12时17分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股收盘）",
@@ -898,7 +909,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -947,6 +958,18 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
+          "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
+          "url": "https://flash.jin10.com/detail/20251111110107281800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
+        },
+        {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
           "url": "https://wallstreetcn.com/livenews/3002303",
           "source": "华尔街见闻-快讯",
@@ -957,17 +980,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
-          "url": "https://flash.jin10.com/detail/20251111110107281800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
@@ -1065,11 +1077,12 @@
           "url": "https://wallstreetcn.com/livenews/3002470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
         }
       ]
     },
