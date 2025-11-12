@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T16:17:25.217127+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2025-11-12T17:14:55.863236+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 16时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 17时14分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -200,6 +200,19 @@
           "time_info": "[10时27分 ~ 12时16分]"
         },
         {
+          "title": "邵永灵：特朗普“打脸”高市早苗",
+          "url": "https://www.toutiao.com/trending/7571706495159520811/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时14分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
           "url": "https://wallstreetcn.com/livenews/3003110",
           "source": "华尔街见闻-快讯",
@@ -258,18 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时11分]"
-        },
-        {
-          "title": "邵永灵：特朗普“打脸”高市早苗",
-          "url": "https://www.toutiao.com/trending/7571706495159520811/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 16时17分]"
         },
         {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
@@ -410,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
@@ -612,142 +624,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 16时17分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 15时13分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://flash.jin10.com/detail/20251112020238925800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时10分]"
-        },
-        {
-          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
-          "url": "https://wallstreetcn.com/livenews/3002981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时11分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://wallstreetcn.com/livenews/3002934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时13分]"
-        },
-        {
-          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
-          "url": "https://wallstreetcn.com/livenews/3003282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
-          "url": "https://flash.jin10.com/detail/20251112060435250800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
-          "url": "https://flash.jin10.com/detail/20251112154841373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
-          "url": "https://flash.jin10.com/detail/20251112054804540800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
-          "url": "https://flash.jin10.com/detail/20251112144050948800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "鸿海：我们当然会与OpenAI合作。",
-          "url": "https://flash.jin10.com/detail/20251112154635082800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -761,6 +639,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时11分 ~ 15时13分]"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -880,6 +769,141 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 17时14分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 15时13分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时10分]"
+        },
+        {
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时14分]"
+        },
+        {
+          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
+          "url": "https://wallstreetcn.com/livenews/3002981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时13分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
+          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
+          "url": "https://flash.jin10.com/detail/20251112154841373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
+          "url": "https://flash.jin10.com/detail/20251112054804540800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "鸿海：我们当然会与OpenAI合作。",
+          "url": "https://flash.jin10.com/detail/20251112154635082800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 9,
       "titles": [
@@ -989,7 +1013,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价",
@@ -1052,11 +1076,127 @@
           "time_info": "00时15分"
         },
         {
+          "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20251112161245995800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "金价回升 市场进一步看涨5000美元",
           "url": "https://www.toutiao.com/trending/7571451271312313910/",
           "source": "今日头条",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D9%26lcate%3D5001%26c_type%3D31%26realpos%3D9%26cate%3D5001%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26dgr%3D0%26stream_entry_id%3D31%26pos%3D10%26filter_type%3Drealtimehot%26display_time%3D1762928210%26pre_seqid%3D176292821055702532609&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9,
+            8,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 16时17分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://wallstreetcn.com/livenews/3003176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时14分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时54分 ~ 17时14分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美债期货上涨，美元走软，美国就业前景低迷",
+          "url": "https://wallstreetcn.com/livenews/3002855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1114,89 +1254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D9%26lcate%3D5001%26c_type%3D31%26realpos%3D9%26cate%3D5001%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26dgr%3D0%26stream_entry_id%3D31%26pos%3D10%26filter_type%3Drealtimehot%26display_time%3D1762928210%26pre_seqid%3D176292821055702532609&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            8,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 16时17分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://wallstreetcn.com/livenews/3003176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时19分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时54分 ~ 16时17分]"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美债期货上涨，美元走软，美国就业前景低迷",
-          "url": "https://wallstreetcn.com/livenews/3002855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
         }
       ]
     },
