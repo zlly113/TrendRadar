@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:14:55.863236+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-11-12T18:14:22.168017+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时14分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普：我们将降低一些咖啡关税。",
@@ -283,6 +294,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -411,17 +434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
@@ -645,11 +657,12 @@
           "url": "https://wallstreetcn.com/livenews/3003320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -782,8 +795,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时14分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1013,7 +1026,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价",
@@ -1076,13 +1089,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "受美瑞贸易协议希望和黄金价格提振 瑞士法郎上涨",
+          "url": "https://flash.jin10.com/detail/20251112172706490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
           "url": "https://flash.jin10.com/detail/20251112161245995800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -1131,25 +1155,27 @@
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 17时14分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.toutiao.com/trending/7571465266493702187/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 18时14分]"
         }
       ]
     },
@@ -1166,8 +1192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 17时14分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
@@ -1176,7 +1202,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
