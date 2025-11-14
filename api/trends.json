@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T22:12:24.201463+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2025-11-14T23:13:04.946204+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -25,11 +25,12 @@
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时41分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[11时41分 ~ 23时13分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -338,6 +339,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
           "url": "https://flash.jin10.com/detail/20251114081415527800",
           "source": "金十数据",
@@ -358,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "据华尔街日报：白宫官员表示，美国总统特朗普明年将出席达沃斯论坛。",
+          "url": "https://flash.jin10.com/detail/20251114222729730800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
@@ -451,7 +474,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -482,26 +505,16 @@
           "time_info": "[01时12分 ~ 07时11分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3004914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2201293",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时13分]"
         },
         {
           "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
@@ -551,6 +564,43 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时13分]"
+        },
+        {
+          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
+          "url": "https://wallstreetcn.com/articles/3759375",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时13分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时13分]"
+        },
+        {
           "title": "美股全线下挫 特斯拉跌超6%",
           "url": "https://www.toutiao.com/trending/7571618548569735174/",
           "source": "今日头条",
@@ -575,18 +625,6 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时12分]"
-        },
-        {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
           "url": "https://wallstreetcn.com/livenews/3004393",
           "source": "华尔街见闻-快讯",
@@ -599,16 +637,15 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
+          "title": "美股为何大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时12分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "黄金矿业股美股盘前下跌。金罗斯黄金(KGC.N)跌4.6%，金田(GFI.N)跌3.8%，哈莫尼黄金(HMY.N)跌4.2%。",
@@ -617,7 +654,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -631,6 +668,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251114223638273800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3004929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3004928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -664,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251114223026249800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美股创一个月最大单日跌幅",
@@ -768,19 +849,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
-          "url": "https://wallstreetcn.com/livenews/3004912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
         {
           "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
           "url": "https://wallstreetcn.com/livenews/3004398",
@@ -794,6 +864,18 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
+          "url": "https://wallstreetcn.com/livenews/3004912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时13分]"
+        },
+        {
           "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
           "url": "https://flash.jin10.com/detail/20251114140157691800",
           "source": "金十数据",
@@ -804,6 +886,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 15时12分]"
+        },
+        {
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
+          "url": "https://wallstreetcn.com/articles/3759409",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
@@ -869,7 +962,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         }
@@ -966,7 +1059,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美元指数跌破99，日内跌0.19%。 美元兑日元下跌0.5%至153.78。",
@@ -1001,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "瑞士政府宣布，美国同意将关税税率降至15%。 北京时间22:11，瑞士股指跌幅收窄至1.1%，中盘股指数跌幅收窄至不足1.6%。 美元兑瑞郎跌幅收窄至0.34%，重返0.79瑞郎上方。",
+          "url": "https://wallstreetcn.com/livenews/3004922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美元指数DXY跌破99，日内跌0.19%。",
@@ -1053,17 +1157,6 @@
           "time_info": "17时13分"
         },
         {
-          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3004910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
           "url": "https://wallstreetcn.com/livenews/3004760",
           "source": "华尔街见闻-快讯",
@@ -1074,6 +1167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 18时15分]"
+        },
+        {
+          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3004910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时13分]"
         },
         {
           "title": "报道：伊朗武装部队在阿曼湾扣押一艘油轮",
@@ -1121,9 +1226,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时13分]"
         }
       ]
     },
@@ -1136,11 +1241,12 @@
           "url": "https://wallstreetcn.com/articles/3759354",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时13分]"
         },
         {
           "title": "中长期美债收益率涨超4个基点，投资者对美联储12月降息前景生疑",
