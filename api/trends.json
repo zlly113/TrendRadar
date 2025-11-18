@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T03:10:35.396232+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-11-19T04:14:27.644815+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 04时14分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -31,6 +31,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "特朗普政府：正采取行动来瓦解美国教育部。",
+          "url": "https://wallstreetcn.com/livenews/3006702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国总统特朗普：已与沙特达成防务协议。",
           "url": "https://flash.jin10.com/detail/20251119014840132800",
           "source": "金十数据",
@@ -42,27 +53,29 @@
           "time_info": "02时18分"
         },
         {
-          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
-          "url": "https://wallstreetcn.com/livenews/3006688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3006680",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
+          "url": "https://wallstreetcn.com/livenews/3006688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
@@ -70,11 +83,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
+          "url": "https://flash.jin10.com/detail/20251119022122408800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20251119021212716800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
@@ -89,6 +151,30 @@
           "time_info": "[01时13分 ~ 02时18分]"
         },
         {
+          "title": "美国总统特朗普：我对普京感到有点惊讶。",
+          "url": "https://flash.jin10.com/detail/20251119020840985800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
+          "url": "https://flash.jin10.com/detail/20251119020557608800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "美国总统特朗普：关于亚伯拉罕协议的会谈很顺利。",
           "url": "https://flash.jin10.com/detail/20251119014812879800",
           "source": "金十数据",
@@ -100,37 +186,26 @@
           "time_info": "02时18分"
         },
         {
-          "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
-          "url": "https://flash.jin10.com/detail/20251119022122408800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
         {
-          "title": "特朗普：我想我已经知道我的美联储主席人选了",
-          "url": "https://wallstreetcn.com/livenews/3006686",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
+          "url": "https://flash.jin10.com/detail/20251119031700998800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
           "title": "美国总统特朗普：以色列和沙特都应获得最先进的F-35型战机。",
@@ -144,17 +219,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
-          "url": "https://wallstreetcn.com/livenews/3006685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
           "url": "https://flash.jin10.com/detail/20251119014714386800",
           "source": "金十数据",
@@ -164,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普推进教育部解散计划 将多个办公室转移至其他机构",
+          "url": "https://flash.jin10.com/detail/20251119025758341800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国总统特朗普：沙特的F-35战机与以色列的相似。",
@@ -177,17 +252,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普结束在白宫的讲话。",
-          "url": "https://flash.jin10.com/detail/20251119021212716800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美国总统特朗普：叙利亚已取得巨大进展。",
           "url": "https://flash.jin10.com/detail/20251119014545087800",
           "source": "金十数据",
@@ -199,15 +263,15 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：我对普京感到有点惊讶。",
-          "url": "https://flash.jin10.com/detail/20251119020840985800",
-          "source": "金十数据",
+          "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
+          "url": "https://wallstreetcn.com/livenews/3006687",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
           "title": "美国总统特朗普：王储要求解除对叙利亚的制裁。",
@@ -221,24 +285,13 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
-          "url": "https://flash.jin10.com/detail/20251119020557608800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "美国总统特朗普：应吊销美国广播公司的执照。",
           "url": "https://flash.jin10.com/detail/20251119020544165800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -249,7 +302,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -271,7 +324,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -293,7 +346,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -348,7 +401,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -381,7 +434,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -403,7 +456,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
@@ -422,8 +475,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 04时14分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -434,8 +487,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -443,11 +496,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -497,7 +551,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -507,8 +561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -518,8 +572,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -529,8 +583,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -554,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股盘中）",
@@ -580,8 +645,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -603,7 +668,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
