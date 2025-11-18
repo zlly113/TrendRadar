@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-19T02:18:01.713959+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-19T03:10:35.396232+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 36,
       "titles": [
         {
-          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3006680",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：台湾生产了几乎100%的芯片",
+          "url": "https://www.toutiao.com/trending/7573879516414623771/",
+          "source": "今日头条",
           "ranks": [
-            1
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 03时10分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -25,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -36,20 +37,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
         {
-          "title": "特朗普：台湾生产了几乎100%的芯片",
-          "url": "https://www.toutiao.com/trending/7573879516414623771/",
-          "source": "今日头条",
+          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
+          "url": "https://wallstreetcn.com/livenews/3006688",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3006680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
+          "url": "https://wallstreetcn.com/livenews/3006675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
@@ -70,20 +95,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
         {
-          "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
-          "url": "https://wallstreetcn.com/livenews/3006675",
+          "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
+          "url": "https://flash.jin10.com/detail/20251119022122408800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
+          "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
+        },
+        {
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：以色列和沙特都应获得最先进的F-35型战机。",
@@ -92,9 +139,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -103,7 +161,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -114,9 +172,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20251119021212716800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：叙利亚已取得巨大进展。",
@@ -125,9 +194,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我对普京感到有点惊讶。",
+          "url": "https://flash.jin10.com/detail/20251119020840985800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：王储要求解除对叙利亚的制裁。",
@@ -136,9 +216,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
+          "url": "https://flash.jin10.com/detail/20251119020557608800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普：应吊销美国广播公司的执照。",
+          "url": "https://flash.jin10.com/detail/20251119020544165800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
+          "url": "https://flash.jin10.com/detail/20251119020428074800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：对沙特的芯片出口数量将达到一定水平。",
@@ -147,9 +260,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：愿意与马杜罗对话。",
+          "url": "https://flash.jin10.com/detail/20251119020345451800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：我与家族企业毫无关系。",
@@ -158,9 +282,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普暗示美联储主席人选已定 抱怨解雇鲍威尔遭人阻拦",
+          "url": "https://flash.jin10.com/detail/20251119020232871800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "哥伦比亚回应特朗普：哥已捣毁上万个毒品加工厂",
@@ -169,7 +304,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -180,7 +315,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -202,9 +337,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：可以看到与沙特阿拉伯达成民用核协议。",
+          "url": "https://flash.jin10.com/detail/20251119015618344800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美国总统特朗普：沙特至少将6000亿美元投资于美国，用于工厂、公司以及华尔街的资金投入。",
@@ -213,7 +359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -224,9 +370,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251119015405489800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "安理会为何通过特朗普加沙方案",
@@ -238,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美国总统特朗普：沙特将购买F-35战机。",
+          "url": "https://flash.jin10.com/detail/20251119015008336800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -250,33 +418,36 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 03时10分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
           "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
           "url": "https://wallstreetcn.com/livenews/3006669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -336,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -347,8 +518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -358,8 +529,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -391,7 +562,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -399,7 +570,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -409,8 +580,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -418,11 +589,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "黄金价格下跌 国内投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7574003822264061446/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -454,7 +637,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
