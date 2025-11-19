@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T16:17:07.432871+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-11-19T17:13:53.981229+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时27分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 17时13分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -39,11 +39,12 @@
             13,
             10,
             8,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 17时13分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -77,11 +78,12 @@
           "ranks": [
             27,
             23,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 17时13分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -156,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -232,6 +234,17 @@
           "time_info": "[02时18分 ~ 04时14分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时13分]"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -277,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时14分]"
-        },
-        {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -413,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -542,7 +555,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -723,6 +736,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普为何在爱泼斯坦案上罕见低头",
+          "url": "https://www.toutiao.com/trending/7574277845409598995/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "安理会为何通过特朗普加沙方案",
           "url": "https://www.toutiao.com/trending/7574044960240963135/",
           "source": "今日头条",
@@ -732,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美国总统特朗普：沙特将购买F-35战机。",
@@ -748,7 +783,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -882,6 +917,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
@@ -1008,8 +1054,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时27分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 17时13分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1034,11 +1080,12 @@
             13,
             6,
             7,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时27分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 17时13分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1049,8 +1096,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 17时13分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1061,8 +1108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 17时13分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1109,11 +1156,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时13分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
