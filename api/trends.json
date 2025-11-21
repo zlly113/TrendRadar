@@ -1,12 +1,37 @@
 {
-  "generated_at": "2025-11-21T13:12:58.252906+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-11-21T14:19:00.350931+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 14时19分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 14时19分]"
+        },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
           "url": "https://wallstreetcn.com/articles/3759743",
@@ -63,18 +88,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时12分]"
-        },
-        {
           "title": "白宫：美国总统特朗普签署命令，从而修改针对巴西政府的关税范围。",
           "url": "https://wallstreetcn.com/livenews/3008195",
           "source": "华尔街见闻-快讯",
@@ -84,19 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时12分]"
         },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -207,6 +207,28 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普：鲍威尔精神有点问题",
+          "url": "https://www.toutiao.com/trending/7574674547224510470/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
           "title": "特朗普：民主党的麻烦比共和党大得多",
           "url": "https://www.toutiao.com/trending/7574043619188277254/",
           "source": "今日头条",
@@ -268,7 +290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -419,7 +441,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -444,8 +466,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 14时19分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -455,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时12分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 14时19分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -468,19 +490,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时12分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 14时19分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
           "url": "https://www.cls.cn/detail/2206908",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时19分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -492,8 +515,34 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 14时19分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时12分]"
+          "time_info": "[12时15分 ~ 14时19分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时19分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -524,22 +573,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时12分]"
         },
         {
           "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
@@ -554,18 +590,6 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时12分]"
-        },
-        {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
@@ -576,6 +600,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时19分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
@@ -600,6 +636,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -759,17 +806,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
           "title": "AMD美股盘初一度涨约4%，沙特AI公司Humain宣布将与AMD、思科系统公司成立合资企业，计划于2030年前在沙特阿拉伯建设并运营高达1吉瓦（GW）的AI基础设施。",
           "url": "https://wallstreetcn.com/livenews/3008041",
           "source": "华尔街见闻-快讯",
@@ -809,7 +845,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
@@ -863,11 +899,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时19分]"
         },
         {
           "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
@@ -959,6 +996,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
+          "url": "https://flash.jin10.com/detail/20251121134910969800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI合作的一个关键原因是他们是最大的生成式AI用户且拥有丰富的经验，但他们也看到了当前数据中心架构的局限性。",
+          "url": "https://flash.jin10.com/detail/20251121134120644800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
+          "url": "https://flash.jin10.com/detail/20251121110659900800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
+          "url": "https://flash.jin10.com/detail/20251121133919252800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
+          "url": "https://wallstreetcn.com/livenews/3008088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "美国计算机软件公司Intuit CEO：客户数据隐私与安全原则在与ChatGPT集成后“保持不变”；公司计划利用客户数据训练自己的大型语言模型。",
+          "url": "https://flash.jin10.com/detail/20251121055554104800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -1055,61 +1177,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
-          "url": "https://flash.jin10.com/detail/20251121110659900800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时15分]"
-        },
-        {
-          "title": "OpenAI正式推出ChatGPT群聊功能",
-          "url": "https://wallstreetcn.com/livenews/3008363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时15分]"
-        },
-        {
-          "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
-          "url": "https://wallstreetcn.com/livenews/3008088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国计算机软件公司Intuit CEO：客户数据隐私与安全原则在与ChatGPT集成后“保持不变”；公司计划利用客户数据训练自己的大型语言模型。",
-          "url": "https://flash.jin10.com/detail/20251121055554104800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 14时19分]"
+        },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -1122,17 +1203,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 03时10分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时53分 ~ 13时12分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
