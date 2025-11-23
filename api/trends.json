@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T12:26:43.532245+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-11-23T13:12:03.234950+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -19,20 +19,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 12时26分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -50,6 +36,21 @@
           "time_info": "[00时12分 ~ 12时26分]"
         },
         {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 13时12分]"
+        },
+        {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
@@ -57,11 +58,12 @@
             11,
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -71,11 +73,12 @@
             14,
             16,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -107,11 +110,63 @@
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时12分]"
+        },
+        {
+          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
+          "url": "https://flash.jin10.com/detail/20251123123342966800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "13时12分"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时12分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时12分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 13时12分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -127,31 +182,6 @@
           "time_info": "[09时00分 ~ 11时55分]"
         },
         {
-          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
-          "url": "https://flash.jin10.com/detail/20251123100826752800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时26分]"
-        },
-        {
-          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 12时26分]"
-        },
-        {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
           "url": "https://wallstreetcn.com/articles/3759903",
           "source": "华尔街见闻",
@@ -161,18 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 02时15分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时26分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -202,8 +220,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -232,8 +250,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时15分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[02时15分 ~ 13时12分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -246,11 +264,12 @@
             22,
             16,
             17,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[01时09分 ~ 13时12分]"
         }
       ]
     },
@@ -264,11 +283,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
