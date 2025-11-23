@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T17:11:58.114188+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2025-11-23T18:11:41.396317+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             17,
             18,
             19,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 17时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 18时11分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -63,11 +64,28 @@
             19,
             20,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 17时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 18时11分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时58分 ~ 18时11分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -109,22 +127,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 09时00分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 17时11分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -211,23 +213,35 @@
           "time_info": "[00时12分 ~ 02时15分]"
         },
         {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 18时11分]"
+        },
+        {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时11分]"
+        },
+        {
           "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
           "url": "https://www.toutiao.com/trending/7575790761845722667/",
           "source": "今日头条",
           "ranks": [
             10,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时11分]"
-        },
-        {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -243,23 +257,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时09分]"
-        },
-        {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -323,8 +326,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时09分 ~ 17时11分]"
+          "appearance_count": 18,
+          "time_info": "[01时09分 ~ 18时11分]"
+        },
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     },
@@ -342,8 +356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 17时11分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 18时11分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
