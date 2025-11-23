@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T18:11:41.396317+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-23T19:09:42.449362+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -81,11 +81,12 @@
             15,
             14,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 18时11分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 19时09分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -189,6 +190,17 @@
           "time_info": "[10时58分 ~ 15时11分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
+          "url": "https://flash.jin10.com/detail/20251123182429322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
           "url": "https://flash.jin10.com/detail/20251123082037157800",
           "source": "金十数据",
@@ -202,17 +214,6 @@
           "time_info": "[09时00分 ~ 11时55分]"
         },
         {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
-          "url": "https://wallstreetcn.com/articles/3759903",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
-        },
-        {
           "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
           "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
           "source": "凤凰网",
@@ -220,8 +221,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时09分]"
         },
         {
           "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
@@ -232,8 +233,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时11分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
+          "url": "https://wallstreetcn.com/articles/3759903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
         },
         {
           "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
@@ -257,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时09分]"
+        },
+        {
+          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
@@ -334,11 +357,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时09分]"
         }
       ]
     },
@@ -356,8 +380,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 18时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时12分 ~ 19时09分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
