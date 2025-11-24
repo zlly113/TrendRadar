@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:13:37.041043+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-24T16:18:18.302981+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 16时18分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -175,6 +175,17 @@
           "time_info": "[05时11分 ~ 07时11分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时18分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
           "url": "https://flash.jin10.com/detail/20251124040847744800",
           "source": "金十数据",
@@ -225,17 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 02时16分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
         },
         {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
@@ -329,7 +329,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -347,11 +347,12 @@
             13,
             6,
             9,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时12分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时12分 ~ 16时18分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -389,13 +390,24 @@
           "time_info": "08时57分"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
           "url": "https://flash.jin10.com/detail/20251124150257144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -414,8 +426,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时18分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -449,6 +461,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
+          "url": "https://flash.jin10.com/detail/20251124110330638800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时27分]"
+        },
+        {
+          "title": "Reliance分析师：未来三至五周，金价将呈现持平至负面基调",
+          "url": "https://flash.jin10.com/detail/20251124154725600800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
+          "url": "https://flash.jin10.com/detail/20251124150234455800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -492,35 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
-          "url": "https://flash.jin10.com/detail/20251124110330638800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时27分]"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
-          "url": "https://flash.jin10.com/detail/20251124150234455800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         }
       ]
     }
