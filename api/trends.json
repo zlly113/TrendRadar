@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T06:11:58.563182+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-11-28T07:11:24.663906+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -43,19 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
-          "url": "https://flash.jin10.com/detail/20251128052114993800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -70,6 +59,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时09分 ~ 06时11分]"
+        },
+        {
+          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
+          "url": "https://flash.jin10.com/detail/20251128052114993800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -133,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
@@ -143,7 +144,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -158,22 +159,24 @@
           "url": "https://flash.jin10.com/detail/20251128052349567800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
           "url": "https://wallstreetcn.com/livenews/3011666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
@@ -241,6 +244,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -254,8 +285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -267,23 +298,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     },
