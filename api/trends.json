@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-11-29T02:16:27.588340+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-11-29T03:09:41.761007+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251129013457427800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251129013346097800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
           "url": "https://wallstreetcn.com/articles/3760251",
@@ -38,8 +16,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
+        },
+        {
+          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3012371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
+          "url": "https://wallstreetcn.com/livenews/3012370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013457427800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时09分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -54,16 +79,16 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013346097800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时09分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -74,8 +99,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 03时09分]"
+        },
+        {
+          "title": "美股三大股指收涨 英特尔涨超10%",
+          "url": "https://flash.jin10.com/detail/20251129020833506800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -92,7 +128,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -103,8 +139,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
+        },
+        {
+          "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
+          "url": "https://flash.jin10.com/detail/20251129024908174800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -114,8 +161,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -126,19 +173,70 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.douyin.com/hot/2319972",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外长与卡拉斯强调伊朗与欧洲各方继续保持联系和磋商，就地区和国际形势交换意见的重要性。",
+          "url": "https://flash.jin10.com/detail/20251129021355141800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯讨论了伊朗与欧盟的关系、地区和国际形势。",
+          "url": "https://flash.jin10.com/detail/20251129021305292800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯通话。",
+          "url": "https://flash.jin10.com/detail/20251129020024829800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
@@ -155,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时09分]"
         }
       ]
     },
