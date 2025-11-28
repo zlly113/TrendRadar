@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T07:11:24.663906+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2025-11-28T08:52:07.593626+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -16,11 +16,12 @@
             9,
             14,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 08时52分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -40,11 +41,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 08时52分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -85,6 +87,28 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
+          "url": "https://news.ifeng.com/c/8odIMcYqHFR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.toutiao.com/trending/7577565560364338698/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
           "url": "https://wallstreetcn.com/livenews/3011582",
           "source": "华尔街见闻-快讯",
@@ -97,6 +121,50 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
+          "title": "特朗普称将对委内瑞拉展开陆地行动",
+          "url": "https://flash.jin10.com/detail/20251128082054241800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国总统特朗普：正在解决F-35战机的维护问题。",
+          "url": "https://flash.jin10.com/detail/20251128080533252800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国总统特朗普：下令增购了更多B—2轰炸机。",
+          "url": "https://flash.jin10.com/detail/20251128080000347800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥会接受\"墨西哥湾\"更名一事。",
+          "url": "https://flash.jin10.com/detail/20251128075708561800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "特朗普所有刑事指控已终结",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
           "source": "百度热搜",
@@ -106,6 +174,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：得益于关税收入，美国将在未来几年“大幅削减甚至可能完全取消”所得税。",
+          "url": "https://wallstreetcn.com/livenews/3011707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国总统特朗普：股市将继续创新高。",
+          "url": "https://wallstreetcn.com/livenews/3011706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 08时52分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时52分]"
         }
       ]
     },
@@ -131,11 +262,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 08时52分]"
         },
         {
           "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
@@ -244,34 +376,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -285,8 +389,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 08时52分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -303,8 +407,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
           "url": "https://wallstreetcn.com/livenews/3011578",
