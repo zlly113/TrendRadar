@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T05:10:44.068099+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2025-11-29T06:11:30.929050+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -42,19 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时10分]"
-        },
-        {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
@@ -63,11 +52,26 @@
           "ranks": [
             4,
             10,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
+        },
+        {
+          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
+          "url": "https://wallstreetcn.com/livenews/3012370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
@@ -94,19 +98,6 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
-          "url": "https://wallstreetcn.com/livenews/3012370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
-        },
-        {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251129013346097800",
           "source": "金十数据",
@@ -119,6 +110,18 @@
           "time_info": "[02时16分 ~ 03时09分]"
         },
         {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时11分]"
+        },
+        {
           "title": "美股三大股指收涨 英特尔涨超10%",
           "url": "https://flash.jin10.com/detail/20251129020833506800",
           "source": "金十数据",
@@ -128,8 +131,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -140,8 +143,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -152,8 +155,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -170,7 +173,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -181,8 +184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -192,8 +195,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
@@ -204,8 +207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -216,8 +219,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
@@ -228,8 +231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -238,9 +241,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时11分]"
+        },
+        {
+          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
+          "url": "https://wallstreetcn.com/livenews/3012397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "06时11分"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -249,11 +263,12 @@
           "ranks": [
             19,
             21,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 06时11分]"
         },
         {
           "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
@@ -265,8 +280,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -274,11 +289,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -302,8 +318,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 06时11分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
@@ -314,8 +330,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         }
       ]
     },
@@ -329,11 +345,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时11分]"
         },
         {
           "title": "伊朗外长与卡拉斯强调伊朗与欧洲各方继续保持联系和磋商，就地区和国际形势交换意见的重要性。",
@@ -345,8 +362,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         },
         {
           "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯讨论了伊朗与欧盟的关系、地区和国际形势。",
@@ -358,8 +375,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         },
         {
           "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯通话。",
@@ -371,8 +388,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
         }
       ]
     },
@@ -389,8 +406,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     },
@@ -420,11 +437,12 @@
           "url": "https://wallstreetcn.com/livenews/3012384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时11分]"
         }
       ]
     },
@@ -437,11 +455,12 @@
           "url": "https://wallstreetcn.com/livenews/3012383",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时11分]"
         }
       ]
     }
