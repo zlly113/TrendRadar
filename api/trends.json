@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T05:11:05.320105+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-12-02T06:11:13.235275+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -44,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -54,11 +54,12 @@
           "ranks": [
             2,
             8,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
@@ -242,6 +243,17 @@
           "time_info": "[01时15分 ~ 02时19分]"
         },
         {
+          "title": "美媒：民调显示特朗普正面临麻烦",
+          "url": "https://www.toutiao.com/trending/7577944008061108270/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251202011542425800",
           "source": "金十数据",
@@ -270,7 +282,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -300,7 +312,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -312,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -323,30 +335,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
+        },
+        {
+          "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3013222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251202050542973800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
-          "url": "https://flash.jin10.com/detail/20251202050101474800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -373,6 +386,40 @@
           "time_info": "[02时19分 ~ 03时15分]"
         },
         {
+          "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
+          "url": "https://flash.jin10.com/detail/20251202050101474800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
+          "url": "https://wallstreetcn.com/livenews/3013216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050552225800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "行业ETF美股盘初普跌，全球航空业ETF跌1.25%，全球科技股指数ETF跌1.02%，科技行业ETF跌1%，能源业ETF则涨0.64%。",
           "url": "https://wallstreetcn.com/livenews/3013112",
           "source": "华尔街见闻-快讯",
@@ -382,6 +429,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
+        },
+        {
+          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
+          "url": "https://wallstreetcn.com/livenews/3013202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3013217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
+          "url": "https://flash.jin10.com/detail/20251202040715444800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
+          "url": "https://flash.jin10.com/detail/20251202040501133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -400,8 +510,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -412,8 +522,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -424,8 +534,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -437,59 +547,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时11分]"
-        },
-        {
-          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
-          "url": "https://wallstreetcn.com/livenews/3013202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
-          "url": "https://flash.jin10.com/detail/20251202040715444800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
-          "url": "https://flash.jin10.com/detail/20251202040501133800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
         }
       ]
     },
@@ -504,11 +563,12 @@
           "ranks": [
             4,
             10,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
@@ -525,6 +585,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（12月1日）纽约尾盘，ICE美元指数跌0.05%，报99.402点，日内交投区间为99.009-99.513点，北京时间14:00以来呈现出V形走势，21:05刷新日低。 彭博美元指数大致持平，报1217.91点，日内交投区间为1213.89-1218.72点。",
+          "url": "https://wallstreetcn.com/livenews/3013204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美元指数1日下跌",
+          "url": "https://flash.jin10.com/detail/20251202051345483800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -533,28 +622,12 @@
           "url": "https://wallstreetcn.com/livenews/3013206",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（12月1日）纽约尾盘，ICE美元指数跌0.05%，报99.402点，日内交投区间为99.009-99.513点，北京时间14:00以来呈现出V形走势，21:05刷新日低。 彭博美元指数大致持平，报1217.91点，日内交投区间为1213.89-1218.72点。",
-          "url": "https://wallstreetcn.com/livenews/3013204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
         }
       ]
     }
