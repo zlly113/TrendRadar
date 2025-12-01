@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T15:17:01.042715+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-12-01T16:19:43.305423+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时19分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时19分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 15时17分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -101,6 +101,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 16时19分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 04时13分]"
-        },
-        {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 15时17分]"
         },
         {
           "title": "美国总统特朗普：美国中东问题特使威特科夫将于下周（北京时间本周）某个时候与俄罗斯总统普京会面。",
@@ -418,7 +419,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -451,8 +452,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时19分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -478,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 15时17分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -534,7 +546,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
