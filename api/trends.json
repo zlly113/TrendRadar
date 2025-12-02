@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T07:11:59.122483+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-12-02T08:55:27.072871+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -42,11 +42,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时55分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -266,6 +267,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
           "url": "https://flash.jin10.com/detail/20251201235456072800",
           "source": "金十数据",
@@ -308,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国参议院商务委员会将于12月8日就特朗普提名的美国航空航天局（NASA）局长人选进行投票。",
+          "url": "https://flash.jin10.com/detail/20251202075843909800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -325,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时55分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -344,11 +367,12 @@
           "url": "https://www.cls.cn/detail/2216490",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时55分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -429,7 +453,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -440,7 +464,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -451,7 +475,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -480,8 +504,99 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时55分]"
+        },
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 06时11分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时55分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -492,8 +607,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时55分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -526,7 +641,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -551,69 +666,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 06时11分]"
         },
         {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
+          "title": "百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品",
+          "url": "https://www.cls.cn/detail/2216460",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8
+            13
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -640,6 +709,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "中信证券推演：将OpenAI陷入经营危机、AI产业投资节奏放缓视为基准情形",
+          "url": "https://flash.jin10.com/detail/20251202081057394800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -669,6 +749,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
