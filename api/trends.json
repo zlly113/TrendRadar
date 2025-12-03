@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T21:31:21.003955+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2025-12-03T22:13:46.316007+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -32,6 +32,17 @@
           "time_info": "[00时16分 ~ 08时55分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -41,19 +52,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时54分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[08时54分 ~ 22时13分]"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 22时13分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -65,6 +77,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时31分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 22时13分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -81,29 +107,20 @@
           "time_info": "[10时31分 ~ 16时17分]"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 21时31分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
+            14,
+            10,
             1,
-            8
+            2,
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时17分 ~ 21时31分]"
+          "time_info": "[17时16分 ~ 22时13分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -136,21 +153,6 @@
           "time_info": "[07时11分 ~ 14时19分]"
         },
         {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            1,
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时31分]"
-        },
-        {
           "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
           "url": "https://www.cls.cn/detail/2218308",
           "source": "财联社热门",
@@ -161,8 +163,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时31分]"
+          "appearance_count": 8,
+          "time_info": "[17时16分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -220,6 +222,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（12月2日，特朗普介绍哈塞特是“潜在美联储主席”当天）担保隔夜融资利率（SOFR）报4.01%，之前一天报4.12%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3014498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
           "url": "https://flash.jin10.com/detail/20251203160052958800",
           "source": "金十数据",
@@ -229,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        },
-        {
-          "title": "特朗普政府考虑明年对机器人实施行政令。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3014468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -276,6 +278,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "特朗普开会被拍到多次闭眼",
@@ -428,6 +443,18 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "特朗普政府考虑明年对机器人实施行政令。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3014468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时13分]"
+        },
+        {
           "title": "美国国务卿鲁比奥在内阁会议上讲话时，特朗普在一旁打瞌睡。",
           "url": "https://flash.jin10.com/detail/20251203031102667800",
           "source": "金十数据",
@@ -438,19 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时31分]"
         },
         {
           "title": "外交部回应特朗普签法律加深美台联系",
@@ -743,6 +757,17 @@
           "time_info": "[11时46分 ~ 12时21分]"
         },
         {
+          "title": "俄罗斯总统助理乌沙科夫：（谈与特朗普代表的会谈）会谈非常积极。",
+          "url": "https://flash.jin10.com/detail/20251203213652084800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
           "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
@@ -829,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "外交部回应特朗普签署涉台法案，敦促美方「慎之又慎处理台湾问题，停止美台官方往来」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1979582977764783855",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "美特使与特朗普女婿漫步莫斯科红场",
@@ -1112,7 +1148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1175,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1186,8 +1222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时54分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[08时54分 ~ 22时13分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1239,6 +1275,28 @@
           "time_info": "[00时16分 ~ 06时11分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203214621066800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3014495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
           "url": "https://wallstreetcn.com/livenews/3013921",
           "source": "华尔街见闻-快讯",
@@ -1287,13 +1345,24 @@
           "time_info": "[02时41分 ~ 03时13分]"
         },
         {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "市场静待美国数据，美股期货上扬，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1359,7 +1428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1403,7 +1472,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
@@ -1411,7 +1480,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -1422,8 +1491,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时54分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[08时54分 ~ 22时13分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -1453,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3014500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
@@ -1654,7 +1734,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -1727,6 +1807,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国11月ADP就业人数公布后，美元指数短线小幅走低，现货黄金短线拉升约10美元",
+          "url": "https://wallstreetcn.com/livenews/3014475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美元指数2日下跌",
           "url": "https://flash.jin10.com/detail/20251203044855190800",
           "source": "金十数据",
@@ -1741,7 +1832,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -1799,6 +1890,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -1855,8 +1957,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 21时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 22时13分]"
         },
         {
           "title": "黄金价格走高 等待美联储政策指引",
