@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T17:17:02.583630+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-12-03T18:14:55.519950+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -92,8 +92,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -140,18 +176,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
           "url": "https://flash.jin10.com/detail/20251203160052958800",
           "source": "金十数据",
@@ -174,16 +198,15 @@
           "time_info": "16时17分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
+          "title": "乌克兰总统泽连斯基：乌梅罗夫将在美国与美国总统特朗普的代表会面。",
+          "url": "https://flash.jin10.com/detail/20251203175705904800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -351,15 +374,28 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
           "ranks": [
-            6
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时17分]"
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
@@ -375,6 +411,18 @@
           "time_info": "[02时41分 ~ 04时14分]"
         },
         {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普宣布拜登时期文件全部作废",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -386,6 +434,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -472,17 +542,6 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
-          "title": "外交部回应特朗普签法律加深美台联系",
-          "url": "https://www.toutiao.com/trending/7579439474674483219/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
           "url": "https://flash.jin10.com/detail/20251203013412119800",
           "source": "金十数据",
@@ -531,17 +590,6 @@
           "time_info": "[01时17分 ~ 02时41分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "美国总统特朗普：美联储主席应该降息。",
           "url": "https://flash.jin10.com/detail/20251203005837291800",
           "source": "金十数据",
@@ -576,17 +624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：国民警卫队将在几周内前往新奥尔良。",
@@ -673,28 +710,6 @@
           "time_info": "[11时46分 ~ 12时21分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
-          "title": "特朗普开会被拍到多次闭眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
           "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
@@ -770,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "民主党州拒交数据 特朗普政府威胁停SNAP经费",
+          "url": "https://flash.jin10.com/detail/20251203174227734800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美特使与特朗普女婿漫步莫斯科红场",
@@ -1047,6 +1073,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "克里姆林宫：对美国总统特朗普寻求解决问题的政治意愿及他所作的努力表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251203173619981800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "与特朗普家族有关联的比特币矿商American Bitcoin开盘下跌30%。",
           "url": "https://wallstreetcn.com/livenews/3013793",
           "source": "华尔街见闻-快讯",
@@ -1083,8 +1120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1286,8 +1323,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1315,8 +1352,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 18时14分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -1611,17 +1648,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "黄金价格走高 等待美联储政策指引",
-          "url": "https://flash.jin10.com/detail/20251203095707024800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
           "url": "https://wallstreetcn.com/articles/3760553",
           "source": "华尔街见闻",
@@ -1631,8 +1657,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 18时14分]"
+        },
+        {
+          "title": "黄金价格走高 等待美联储政策指引",
+          "url": "https://flash.jin10.com/detail/20251203095707024800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
