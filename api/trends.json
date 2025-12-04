@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:48:09.139790+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-04T12:22:43.770997+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 11时48分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 12时22分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -38,11 +38,12 @@
             16,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 11时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 12时22分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -53,8 +54,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时15分 ~ 11时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时15分 ~ 12时22分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -163,6 +164,18 @@
           "time_info": "[01时16分 ~ 03时12分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 12时22分]"
+        },
+        {
           "title": "特朗普提议大幅削减燃油经济性要求",
           "url": "https://flash.jin10.com/detail/20251204033431474800",
           "source": "金十数据",
@@ -223,18 +236,6 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 11时48分]"
-        },
-        {
           "title": "特朗普盟友：约翰逊正在失去对众议院共和党人的控制",
           "url": "https://flash.jin10.com/detail/20251204012332724800",
           "source": "金十数据",
@@ -246,6 +247,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -353,17 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 06时13分]"
-        },
-        {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "特朗普采取进一步行动，拟撤销新英格兰风电场项目",
@@ -570,6 +572,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "美国财长贝森特：乐观认为最高法院将维持特朗普关税的合法性",
           "url": "https://flash.jin10.com/detail/20251203231524536800",
           "source": "金十数据",
@@ -609,7 +622,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -689,8 +702,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 11时48分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -703,8 +716,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时10分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 12时22分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -983,7 +996,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -1007,8 +1020,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时22分]"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
