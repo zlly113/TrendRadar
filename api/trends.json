@@ -1,22 +1,35 @@
 {
-  "generated_at": "2025-12-04T07:10:32.596533+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2025-12-04T08:55:12.105931+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
           "url": "https://news.ifeng.com/c/8omiCWLXNQt",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
+          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -27,19 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时10分]"
-        },
-        {
-          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 12,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "time_info": "[01时15分 ~ 08时55分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -52,6 +54,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -400,13 +413,35 @@
           "time_info": "[06时13分 ~ 07时10分]"
         },
         {
+          "title": "内塔尼亚胡为赦免请特朗普“帮帮忙”",
+          "url": "https://www.toutiao.com/trending/7579542336116657700/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
+          "url": "https://wallstreetcn.com/livenews/3014715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
           "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -417,9 +452,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
+          "url": "https://flash.jin10.com/detail/20251204081122646800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "周三（12月3日），彭博电动汽车价格回报指数跌0.47%，报3387.48点。 北京时间10:00前后显著下挫，全天绝大部分时间低位震荡，美国总统特朗普宣布汽车燃油效率“新政”之际并无显著波动。",
@@ -439,9 +485,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "马杜罗证实近日曾与特朗普通话",
+          "url": "https://flash.jin10.com/detail/20251204080457938800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国财政部经济顾问拉沃尼亚：我们需要美联储的帮助，但经济终将复苏。特朗普在美联储官员任命时间上一直吊着我们的胃口。",
@@ -535,7 +592,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -572,8 +629,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 08时55分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -637,6 +694,18 @@
           "time_info": "[06时13分 ~ 07时10分]"
         },
         {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 08时55分]"
+        },
+        {
           "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251204013118092800",
           "source": "金十数据",
@@ -648,6 +717,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
@@ -721,17 +801,6 @@
           "time_info": "06时13分"
         },
         {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -771,7 +840,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -842,6 +911,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -885,26 +983,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2
+            10
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
