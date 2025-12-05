@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:14:51.521498+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-12-05T16:17:40.082912+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -496,7 +496,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -548,8 +548,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时00分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[09时00分 ~ 16时17分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -563,8 +563,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -650,6 +650,18 @@
           "time_info": "[11时46分 ~ 13时13分]"
         },
         {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 16时17分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
           "url": "https://flash.jin10.com/detail/20251205025109547800",
           "source": "金十数据",
@@ -660,18 +672,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时14分]"
         }
       ]
     },
@@ -690,11 +690,12 @@
             9,
             12,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
