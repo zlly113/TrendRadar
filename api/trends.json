@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:18:18.115918+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-08T16:19:41.176141+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -105,6 +105,19 @@
           "time_info": "08时55分"
         },
         {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 16时19分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
           "url": "https://flash.jin10.com/detail/20251208081657474800",
           "source": "金十数据",
@@ -125,18 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 15时18分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -270,6 +271,28 @@
           "time_info": "[11时51分 ~ 12时26分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国国会国防授权法案规模达9010亿美元创纪录，超过特朗普要求",
           "url": "https://flash.jin10.com/detail/20251208112550638800",
           "source": "金十数据",
@@ -279,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "特朗普要求高市早苗不要挑衅中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "当被问及是否会重启与加拿大的贸易谈判时，美国总统特朗普表示：“我们会解决这个问题。”",
@@ -317,7 +351,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -326,11 +360,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -354,12 +389,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时11分]"
+        },
+        {
+          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
+          "url": "https://www.cls.cn/detail/2222180",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美军通过“逆向工程”仿造出“伊朗自杀式无人机”",
@@ -380,9 +426,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
+          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "伊朗：美国是以色列犯罪行为的帮凶",
