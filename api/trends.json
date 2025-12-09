@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T15:16:06.270020+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-12-09T16:18:20.177500+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 16时18分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
+          "url": "https://flash.jin10.com/detail/20251209154928270800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -232,6 +244,18 @@
           "time_info": "[05时11分 ~ 06时12分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时18分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -341,17 +365,6 @@
           "time_info": "[01时14分 ~ 02时19分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
-        },
-        {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
           "url": "https://flash.jin10.com/detail/20251209042439691800",
           "source": "金十数据",
@@ -435,6 +448,17 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
+          "url": "https://flash.jin10.com/detail/20251209154623905800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -444,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
+          "url": "https://flash.jin10.com/detail/20251209154605581800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -879,7 +914,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -922,6 +957,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[08时54分 ~ 15时16分]"
+        },
+        {
+          "title": "欧盟将调查谷歌是否违反竞争法",
+          "url": "https://wallstreetcn.com/livenews/3017511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -1098,11 +1144,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 16时18分]"
         }
       ]
     },
@@ -1141,7 +1188,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
@@ -1160,8 +1207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -1200,7 +1247,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
