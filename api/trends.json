@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:52:37.994535+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-12-10T12:26:17.510782+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时16分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -41,11 +52,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 11时52分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 12时26分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时52分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -197,6 +198,17 @@
           "time_info": "[01时13分 ~ 03时10分]"
         },
         {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
           "url": "https://flash.jin10.com/detail/20251210083007668800",
           "source": "金十数据",
@@ -288,6 +300,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时12分 ~ 08时57分]"
+        },
+        {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 12时26分]"
         },
         {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
@@ -420,7 +444,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -522,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "美国企业界对特朗普执政表现评价不高",
-          "url": "https://www.toutiao.com/trending/7581666417361092614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         }
       ]
     },
@@ -540,6 +553,20 @@
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 12时26分]"
+        },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
           "url": "https://wallstreetcn.com/articles/3760999",
@@ -564,20 +591,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时16分 ~ 08时57分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 11时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -837,8 +850,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -886,11 +899,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -988,11 +1002,12 @@
           "url": "https://flash.jin10.com/detail/20251210111107526800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时26分]"
         }
       ]
     }
