@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T08:57:01.030050+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-10T10:48:15.909085+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 08时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 10时48分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -104,6 +104,17 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 10时48分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -118,26 +129,27 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普：北约叫我爸爸",
+          "url": "https://www.toutiao.com/trending/7581363071462408202/",
+          "source": "今日头条",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -146,7 +158,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -168,7 +180,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -191,7 +203,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -353,7 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -378,6 +390,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "选民质疑声不断 特朗普就关税政策辩称“聪明的人能懂”",
+          "url": "https://flash.jin10.com/detail/20251210095640613800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "美国总统特朗普：明天我将就泰国、柬埔寨事宜拨打电话。",
+          "url": "https://flash.jin10.com/detail/20251210094525762800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
@@ -515,11 +549,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 08时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 10时48分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -779,8 +814,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 10时48分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -823,6 +858,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 10时48分]"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
@@ -833,17 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时13分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
