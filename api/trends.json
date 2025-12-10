@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:26:17.510782+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-10T13:14:50.012596+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 12时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 13时14分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -198,17 +198,6 @@
           "time_info": "[01时13分 ~ 03时10分]"
         },
         {
-          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
-          "url": "https://flash.jin10.com/detail/20251210121528240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
           "url": "https://flash.jin10.com/detail/20251210083007668800",
           "source": "金十数据",
@@ -277,6 +266,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -392,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "美国贸易办公室（USTR）代表格里尔在参议院听证会谈及墨西哥和加拿大对USMCA问题的反应，表示：加拿大并没有在那些（美国总统特朗普）重视的领域遵守承诺。 正与墨西哥密切合作，他们是“讲求实际的”。 预计2026年1月份，美墨加将为了修订USMCA而坐下来（讨论）。",
@@ -546,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -564,8 +587,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 12时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 13时14分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -850,8 +873,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -903,8 +926,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
