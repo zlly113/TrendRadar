@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:18:17.147686+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2025-12-11T16:19:00.082478+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -29,8 +29,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -45,18 +60,15 @@
           "time_info": "[00时18分 ~ 08时57分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            9,
-            8,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -162,6 +174,18 @@
           "time_info": "[08时56分 ~ 10时50分]"
         },
         {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时18分]"
+        },
+        {
           "title": "“特朗普黄金卡”开始接受申请",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
           "source": "百度热搜",
@@ -207,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "美威胁国际刑事法院：不要调查特朗普",
-          "url": "https://www.toutiao.com/trending/7582367829178269750/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -574,8 +587,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -929,7 +942,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -951,7 +964,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -981,7 +994,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -1005,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "市场认为鲍威尔更关注劳动力市场疲软 欧元区国债收益率随美债走低",
+          "url": "https://flash.jin10.com/detail/20251211154449329800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
