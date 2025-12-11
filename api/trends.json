@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:33:32.385386+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2025-12-11T22:16:14.554426+08:00",
+  "total_titles_processed": 2148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -99,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -148,6 +148,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "印度总理莫迪：与美国总统特朗普通话，讨论双边关系进展。",
+          "url": "https://flash.jin10.com/detail/20251211220429597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -157,6 +168,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -231,17 +255,15 @@
           "time_info": "[08时56分 ~ 10时50分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18,
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时33分]"
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -288,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -699,8 +732,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时56分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 22时16分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -733,7 +766,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1245,6 +1278,67 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "迪士尼：将成为OpenAI的客户，利用其API构建产品、工具和体验服务，包括用于Disney+的项目，并为员工部署ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251211220301017800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "华特迪士尼公司与OpenAI达成具有里程碑意义的协议，迪士尼将对OpenAI进行10亿美元股权投资。",
+          "url": "https://flash.jin10.com/detail/20251211220041315800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -1282,34 +1376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
-          "url": "https://flash.jin10.com/detail/20251211064706062800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
-          "url": "https://flash.jin10.com/detail/20251211040355307800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
         }
       ]
     },
@@ -1352,7 +1418,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         }
