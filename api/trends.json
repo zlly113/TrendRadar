@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:17:46.684312+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2025-12-16T16:19:00.329015+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -43,6 +43,20 @@
           "time_info": "[10时50分 ~ 15时17分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 16时19分]"
+        },
+        {
           "title": "日媒爆特朗普警告高市早苗别添乱",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -60,18 +74,18 @@
           "time_info": "[00时18分 ~ 08时57分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6,
-            5,
-            4
+            15,
+            13,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 16时19分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -87,6 +101,21 @@
           "time_info": "[10时50分 ~ 15时17分]"
         },
         {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            20,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 16时19分]"
+        },
+        {
           "title": "曝特朗普曾警告高市早苗别来添乱",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
           "source": "百度热搜",
@@ -100,34 +129,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 05时12分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 15时17分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -451,6 +452,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
           "url": "https://wallstreetcn.com/livenews/3021099",
           "source": "华尔街见闻-快讯",
@@ -501,7 +513,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -876,6 +888,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时19分]"
+        },
+        {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3021118",
           "source": "华尔街见闻-快讯",
@@ -887,17 +910,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时24分]"
-        },
-        {
-          "title": "“俄版谷歌”，正帮中国商人大赚",
-          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时17分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -952,6 +964,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10年期美债价格冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3021163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
+          "url": "https://flash.jin10.com/detail/20251216154958479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -994,24 +1035,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 12时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债价格冲高回落",
-          "url": "https://wallstreetcn.com/livenews/3021163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
         }
       ]
     }
