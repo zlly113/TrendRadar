@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-17T05:13:15.707224+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2025-12-17T06:13:14.313047+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983941746871264912",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
           "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
@@ -15,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
@@ -26,22 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983941746871264912",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -55,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -68,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -212,6 +213,18 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "美国多州起诉特朗普政府冻结电动汽车充电桩资金",
+          "url": "https://wallstreetcn.com/livenews/3021887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：与美国白宫和美联储保持距离具有重要意义。 美国总统（特朗普）脑子中对下一任美联储主席有不错的人选。 我自己不会对下一任美联储主席的人选发表看法。",
           "url": "https://wallstreetcn.com/livenews/3021809",
           "source": "华尔街见闻-快讯",
@@ -248,15 +261,15 @@
           "time_info": "[00时17分 ~ 01时17分]"
         },
         {
-          "title": "美国多州起诉特朗普政府冻结电动汽车充电桩资金",
-          "url": "https://wallstreetcn.com/livenews/3021887",
+          "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
+          "url": "https://wallstreetcn.com/livenews/3021908",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时13分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -287,7 +300,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -325,95 +338,32 @@
           "time_info": "01时17分"
         },
         {
+          "title": "特朗普政府扩大对外国公民入境美国的限制",
+          "url": "https://wallstreetcn.com/livenews/3021885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "报道：特朗普政府考虑启动301调查，打击报复欧盟数字税",
           "url": "https://wallstreetcn.com/livenews/3021897",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
-          "url": "https://flash.jin10.com/detail/20251217021028425800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
-          "url": "https://flash.jin10.com/detail/20251217010715480800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
-          "url": "https://flash.jin10.com/detail/20251217041047149800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
-          "url": "https://wallstreetcn.com/livenews/3021861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时13分]"
-        },
-        {
-          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
-          "url": "https://flash.jin10.com/detail/20251217015359218800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
-          "url": "https://flash.jin10.com/detail/20251217013746986800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -424,8 +374,63 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
+          "url": "https://wallstreetcn.com/livenews/3021915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3021906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251217050556170800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251217050538465800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
+          "url": "https://flash.jin10.com/detail/20251217050135170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -459,6 +464,110 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
+          "url": "https://flash.jin10.com/detail/20251217010715480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
+          "url": "https://wallstreetcn.com/livenews/3021861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时13分]"
+        },
+        {
+          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
+          "url": "https://flash.jin10.com/detail/20251217041047149800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
+          "url": "https://flash.jin10.com/detail/20251217015359218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
+          "url": "https://flash.jin10.com/detail/20251217013746986800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
+          "url": "https://wallstreetcn.com/livenews/3021888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20251217051541000800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -508,19 +617,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
-          "url": "https://wallstreetcn.com/livenews/3021888",
+          "title": "美债收益率在非农日至少跌超2个基点，数据发布后一度冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3021898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时13分"
         }
       ]
     }
