@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:16:14.149124+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-12-16T14:20:24.027252+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时20分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -94,11 +94,25 @@
           "source": "凤凰网",
           "ranks": [
             5,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时20分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时20分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -113,16 +127,17 @@
           "time_info": "[12时28分 ~ 13时16分]"
         },
         {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            13
+            22,
+            25,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时16分]"
+          "time_info": "[11时54分 ~ 14时20分]"
         },
         {
           "title": "特朗普起诉BBC 索赔50亿美元",
@@ -145,18 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -595,6 +598,18 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 14时20分]"
+        },
+        {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
@@ -606,18 +621,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 13时16分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -760,7 +763,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -846,7 +849,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -871,6 +874,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时24分]"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
