@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:28:58.326918+08:00",
-  "total_titles_processed": 2016,
+  "generated_at": "2025-12-17T22:14:17.978676+08:00",
+  "total_titles_processed": 2100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -71,6 +71,20 @@
           "time_info": "[00时17分 ~ 08时53分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 22时14分]"
+        },
+        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -116,20 +130,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时49分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 21时28分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -568,6 +568,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "据ABC新闻：美国总统特朗普预计最快于今日签署大麻相关行政命令。",
+          "url": "https://flash.jin10.com/detail/20251217213540631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -744,6 +755,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "美联储理事沃勒：将向美国总统特朗普强调美联储独立性的重要性。美联储仍对美国公众负责。",
+          "url": "https://flash.jin10.com/detail/20251217212751799800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策（关税和移民）会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -791,7 +813,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -834,11 +856,12 @@
           "url": "https://wallstreetcn.com/livenews/3022443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -875,6 +898,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "甲骨文美股盘前股价下跌2%，有报道称公司100亿美元密歇根数据中心项目陷入困境，因与Blue Owl的融资谈判陷入僵局。",
+          "url": "https://wallstreetcn.com/livenews/3022447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
@@ -968,7 +1002,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -1062,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 11时49分]"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
