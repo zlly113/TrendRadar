@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-18T04:14:52.130652+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-12-18T05:12:51.724721+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
-          "url": "https://flash.jin10.com/detail/20251218004201233800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "特朗普考虑向国防企业施压，要求其削减回购",
-          "url": "https://wallstreetcn.com/livenews/3022585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
           "url": "https://wallstreetcn.com/articles/3761525",
@@ -38,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -52,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -63,8 +41,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
+        },
+        {
+          "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
+          "url": "https://flash.jin10.com/detail/20251218043431580800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
+          "url": "https://wallstreetcn.com/livenews/3022602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
+          "url": "https://flash.jin10.com/detail/20251218004201233800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
@@ -80,6 +91,18 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
+          "title": "特朗普考虑向国防企业施压，要求其削减回购",
+          "url": "https://wallstreetcn.com/livenews/3022585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
           "url": "https://wallstreetcn.com/livenews/3022522",
           "source": "华尔街见闻-快讯",
@@ -91,6 +114,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时19分]"
+        },
+        {
+          "title": "特朗普政府计划拆解主要气候研究中心",
+          "url": "https://wallstreetcn.com/livenews/3022577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -115,17 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普政府计划拆解主要气候研究中心",
-          "url": "https://wallstreetcn.com/livenews/3022577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -305,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时12分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
@@ -367,11 +391,12 @@
             24,
             25,
             19,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
@@ -383,6 +408,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
+          "url": "https://wallstreetcn.com/livenews/3022598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
+          "url": "https://wallstreetcn.com/livenews/3022596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     }
