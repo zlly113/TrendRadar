@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T08:53:40.498493+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-12-18T10:45:48.453295+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -16,11 +16,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 10时45分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -90,6 +91,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普：美联储新主席将会认同大幅降息",
+          "url": "https://flash.jin10.com/detail/20251218104117576800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -138,6 +150,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时19分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时45分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -211,17 +235,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
           "url": "https://flash.jin10.com/detail/20251218003458997800",
           "source": "金十数据",
@@ -231,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "分析师：规模相对较小，特朗普的“战士红利”不太可能具有宏观意义",
+          "url": "https://flash.jin10.com/detail/20251218103148746800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
@@ -250,9 +274,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "特朗普宣布为100万美国军人提供1776美元/人“战士红利”",
+          "url": "https://flash.jin10.com/detail/20251218102827985800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：将很快宣布下一任美联储主席。新任美联储主席将会主张大幅降低利率。明年将宣布住房改革大动作。",
+          "url": "https://wallstreetcn.com/livenews/3022761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在整个国情咨文演讲中一次也没有提到委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20251218102631068800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
@@ -261,7 +318,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -272,9 +329,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "支持率下滑之际，特朗普罕见发表夜间讲话，夸耀自己的成就",
+          "url": "https://flash.jin10.com/detail/20251218102441353800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格下调将于1月开始。",
+          "url": "https://wallstreetcn.com/livenews/3022758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
@@ -288,15 +367,92 @@
           "time_info": "01时17分"
         },
         {
+          "title": "金十提示：美国总统特朗普结束国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20251218102057491800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
+          "url": "https://wallstreetcn.com/livenews/3022755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "据Politico：英国广播公司（BBC）已收到特朗普发起的诽谤诉讼传票。",
           "url": "https://flash.jin10.com/detail/20251218075203711800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "美国总统特朗普：我们已做好迎接经济繁荣的准备。",
+          "url": "https://flash.jin10.com/detail/20251218101927099800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们的边境安全无虞。",
+          "url": "https://flash.jin10.com/detail/20251218101905345800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：新任美联储主席将会主张大幅降低利率。",
+          "url": "https://flash.jin10.com/detail/20251218101808794800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：新年伊始，我将宣布住房改革计划。",
+          "url": "https://flash.jin10.com/detail/20251218101722958800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美国总统特朗普：将很快宣布下一任美联储主席。",
+          "url": "https://flash.jin10.com/detail/20251218101701351800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -310,6 +466,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
           "url": "https://flash.jin10.com/detail/20251218000548868800",
           "source": "金十数据",
@@ -319,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美国总统特朗普：我已经为美国争取到创纪录的18万亿美元投资——这意味着就业岗位、工资上涨、经济增长、工厂开工，以及更强大的国家安全。",
+          "url": "https://flash.jin10.com/detail/20251218101612778800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
@@ -343,6 +521,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国总统特朗普：145万美国军人将获得一次性1776美元的“战士红利”。",
+          "url": "https://flash.jin10.com/detail/20251218101258552800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
           "url": "https://flash.jin10.com/detail/20251218012702878800",
           "source": "金十数据",
@@ -354,15 +543,37 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国总统特朗普：宣布将在圣诞节前向超过100万名服役人员发放特别红利。",
+          "url": "https://flash.jin10.com/detail/20251218101215599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "特朗普：我为以色列做了太多",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9A%E4%BA%86%E5%A4%AA%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "美国总统特朗普：我们接受了世界上最糟糕的边界，但我们很快将其变成了我国历史上最强大的边界。换句话说，在短短几个月的时间里，我们从最坏变成了最好。",
+          "url": "https://flash.jin10.com/detail/20251218101146479800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美国财长贝森特：20个州正考虑进一步为统特朗普账户注资。",
@@ -385,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有世界上最强大的军队。",
+          "url": "https://flash.jin10.com/detail/20251218100737532800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美国财长贝森特：桥水基金创始人瑞·达利欧加入助力特朗普账户的行动。",
@@ -426,6 +648,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 10时45分]"
+        },
+        {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
@@ -438,28 +672,17 @@
           "time_info": "[01时17分 ~ 05时12分]"
         },
         {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时12分 ~ 08时53分]"
-        },
-        {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
           "url": "https://www.cls.cn/detail/2232828",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 10时45分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -468,7 +691,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -611,7 +834,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -673,6 +896,17 @@
           "time_info": "[01时17分 ~ 02时19分]"
         },
         {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
           "url": "https://flash.jin10.com/detail/20251218000152068800",
           "source": "金十数据",
@@ -718,7 +952,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -740,7 +974,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         }
@@ -748,7 +982,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗海滩暴雨后变血红色",
@@ -760,11 +994,12 @@
             19,
             10,
             17,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 10时45分]"
         },
         {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
@@ -776,6 +1011,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "俄伊外长会晤 伊朗强调和平利用核能权利",
+          "url": "https://wallstreetcn.com/livenews/3022728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
+          "url": "https://wallstreetcn.com/livenews/3022596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
+          "title": "现货黄金短线小幅走高7美元，现报4334美元/盎司；美元指数DXY现报98.39。",
+          "url": "https://flash.jin10.com/detail/20251218102220011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -790,24 +1065,6 @@
           "ranks": [
             4,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
-          "url": "https://wallstreetcn.com/livenews/3022596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
