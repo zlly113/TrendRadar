@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T17:16:15.369314+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-12-19T18:13:44.331746+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 18时13分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -69,48 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13,
-            14,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时18分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 18时13分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -124,8 +85,50 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 18时13分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 18时13分]"
+        },
+        {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            14,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[02时18分 ~ 18时13分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -133,11 +136,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时13分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -150,8 +154,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 17时16分]"
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -602,6 +606,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
           "url": "https://flash.jin10.com/detail/20251219031631118800",
           "source": "金十数据",
@@ -707,7 +722,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -905,8 +920,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 18时13分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -927,7 +942,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -1058,7 +1073,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -1647,7 +1662,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
