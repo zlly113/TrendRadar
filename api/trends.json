@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T16:17:56.754423+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-12-19T17:16:15.369314+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 17时16分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -69,8 +69,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 17时16分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 17时16分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -94,22 +105,12 @@
             13,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时18分 ~ 16时17分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 16时17分]"
+          "appearance_count": 20,
+          "time_info": "[02时18分 ~ 17时16分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -119,33 +120,38 @@
             10,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 17时16分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
           "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时16分]"
         },
         {
-          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
-          "url": "https://wallstreetcn.com/livenews/3023763",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            11,
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 17时16分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -204,6 +210,18 @@
           "time_info": "[03时13分 ~ 04时13分]"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时16分]"
+        },
+        {
           "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
           "url": "https://flash.jin10.com/detail/20251219055432229800",
           "source": "金十数据",
@@ -251,19 +269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时49分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时17分]"
         },
         {
           "title": "特朗普18分钟全国电视讲话说了什么",
@@ -493,7 +498,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -696,6 +701,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "据日本产经新闻：日本政府正计划在新年或三月安排日本首相高市早苗访美并与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251219164128031800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "白宫称，特朗普已签署国防授权法案。",
           "url": "https://wallstreetcn.com/livenews/3023394",
           "source": "华尔街见闻-快讯",
@@ -853,7 +869,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -880,6 +896,19 @@
           "time_info": "[07时13分 ~ 13时15分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 17时16分]"
+        },
+        {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -892,17 +921,15 @@
           "time_info": "[02时18分 ~ 06时12分]"
         },
         {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
+          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3023800",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 16时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "联邦快递第二财季营收235亿美元，分析师预期228亿美元。 第二财季Federal Express营收204.3亿美元，分析师预期197.2亿美元。 第二财季FedEx Freight营收21.4亿美元，分析师预期21.4亿美元。 第二财季调整后运营利润率6.9%，分析师预期6.07%。 预计全年资本开支45亿美元，符合分析师预期，公司原本预计45亿美元。 联邦快递（FDX）美股盘后涨3%。",
@@ -1023,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时13分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前上涨5.6%。",
+          "url": "https://flash.jin10.com/detail/20251219170527123800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
@@ -1351,7 +1389,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1395,6 +1433,19 @@
           "time_info": "02时19分"
         },
         {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时16分]"
+        },
+        {
           "title": "大摩为谷歌相关项目发行更多垃圾债",
           "url": "https://wallstreetcn.com/livenews/3023298",
           "source": "华尔街见闻-快讯",
@@ -1405,18 +1456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时13分]"
-        },
-        {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时17分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
@@ -1599,8 +1638,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
+          "url": "https://flash.jin10.com/detail/20251219170952082800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
         {
           "title": "美国签发与伊朗相关的通用许可证。",
           "url": "https://wallstreetcn.com/livenews/3023236",
