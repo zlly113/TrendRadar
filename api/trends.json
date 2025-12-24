@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:17:28.842554+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-12-24T16:18:10.902880+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,18 @@
           "time_info": "[00时15分 ~ 13时18分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
+        },
+        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -62,11 +74,12 @@
             30,
             12,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -79,11 +92,12 @@
             19,
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -115,16 +129,17 @@
           "time_info": "[08时56分 ~ 15时17分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时17分]"
+          "time_info": "[11时54分 ~ 16时18分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -171,18 +186,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 15时17分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -469,7 +472,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -761,7 +764,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -855,37 +858,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时17分]"
-        },
-        {
-          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3025757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗在安理会感谢中国",
@@ -900,6 +874,17 @@
           "time_info": "[08时56分 ~ 11时54分]"
         },
         {
+          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
+          "url": "https://www.toutiao.com/trending/7587300342778301988/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
           "title": "联合国安理会将于十分钟后就伊朗核计划举行会议；美国12月谘商会消费者信心指数及里奇蒙德联储制造业指数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251223225000001800",
           "source": "金十数据",
@@ -909,6 +894,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3025757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
         }
       ]
     },
