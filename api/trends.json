@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:17:01.980765+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2025-12-24T18:14:12.301371+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时54分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 18时14分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -50,6 +50,19 @@
           "time_info": "[08时56分 ~ 15时17分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 18时14分]"
+        },
+        {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
           "url": "https://news.ifeng.com/c/8pJycIBu5di",
           "source": "凤凰网",
@@ -59,18 +72,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时15分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 17时17分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -108,11 +109,12 @@
             20,
             21,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 17时17分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时14分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -175,6 +177,17 @@
           "time_info": "[04时13分 ~ 13时18分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
           "title": "“特朗普级”新型战列舰命名打破惯例",
           "url": "https://www.toutiao.com/trending/7586975150495501874/",
           "source": "今日头条",
@@ -188,17 +201,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -559,7 +561,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -585,6 +587,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -746,17 +759,6 @@
           "time_info": "[00时15分 ~ 08时56分]"
         },
         {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -770,6 +772,30 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
           "title": "金价癫了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -780,17 +806,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 10时48分]"
-        },
-        {
-          "title": "金价银价铜价均创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
@@ -894,7 +909,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
@@ -902,11 +917,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
@@ -919,6 +935,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 11时54分]"
+        },
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "联合国安理会将于十分钟后就伊朗核计划举行会议；美国12月谘商会消费者信心指数及里奇蒙德联储制造业指数将于十分钟后公布。",
@@ -945,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 17时17分]"
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 18时14分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -959,6 +986,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
