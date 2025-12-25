@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-25T07:12:26.461216+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-12-25T08:56:37.785741+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
         {
           "title": "美股行业ETF普遍收涨",
           "url": "https://wallstreetcn.com/livenews/3026322",
@@ -63,6 +74,18 @@
           "time_info": "[02时18分 ~ 05时11分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时56分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
           "url": "https://wallstreetcn.com/livenews/3026315",
           "source": "华尔街见闻-快讯",
@@ -86,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -127,7 +139,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -160,23 +172,24 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时12分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 08时56分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
@@ -276,8 +289,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以色列防长称正密切关注伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3026401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
           "url": "https://wallstreetcn.com/livenews/3026285",
@@ -368,6 +392,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2239423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "金价又创历史新高",
+          "url": "https://www.douyin.com/hot/2346801",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -407,11 +459,12 @@
           "url": "https://wallstreetcn.com/livenews/3026375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时56分]"
         }
       ]
     },
