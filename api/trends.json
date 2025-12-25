@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T06:12:15.692335+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-26T07:12:16.198929+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -31,6 +31,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时18分 ~ 06时12分]"
+        },
+        {
+          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
+          "url": "https://flash.jin10.com/detail/20251226070310001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
+          "url": "https://flash.jin10.com/detail/20251226070308886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -54,11 +76,12 @@
           "ranks": [
             5,
             10,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 07时12分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -73,6 +96,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 04时14分]"
+        },
+        {
+          "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
+          "url": "https://flash.jin10.com/detail/20251226065412046800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
@@ -87,11 +121,12 @@
           "ranks": [
             2,
             9,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时12分]"
         },
         {
           "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
@@ -101,11 +136,12 @@
             1,
             6,
             11,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时12分]"
         },
         {
           "title": "以军称在黎巴嫩打死一名伊朗“圣城旅”关键武装人员",
@@ -146,11 +182,12 @@
             11,
             12,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -180,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
@@ -197,8 +234,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
@@ -215,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
