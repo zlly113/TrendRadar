@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T14:19:35.144219+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-12-26T15:15:50.951712+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时15分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时15分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -156,15 +156,48 @@
           "time_info": "07时12分"
         },
         {
+          "title": "泽连斯基：已同意在近期与特朗普会面。 很多事情可以在年底前决定。",
+          "url": "https://wallstreetcn.com/livenews/3027103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
+          "url": "https://wallstreetcn.com/articles/3762069",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
           "url": "https://flash.jin10.com/detail/20251226130524809800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基表示，他与美国总统特朗普已同意在不久的将来会面。",
+          "url": "https://flash.jin10.com/detail/20251226144841803800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
@@ -181,7 +214,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -205,11 +238,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时15分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -221,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
+          "url": "https://flash.jin10.com/detail/20251226150518760800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -278,11 +323,12 @@
           "url": "https://www.cls.cn/detail/2240558",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时15分]"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -402,8 +448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 15时15分]"
         }
       ]
     },
@@ -421,6 +467,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 07时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向上触及98，日内涨0.04%。",
+          "url": "https://flash.jin10.com/detail/20251226143852951800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     }
