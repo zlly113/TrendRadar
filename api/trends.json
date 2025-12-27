@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T20:22:19.106019+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-12-27T21:23:43.770266+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -13,17 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时13分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -38,8 +27,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时15分 ~ 20时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时15分 ~ 21时23分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时13分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -61,6 +61,18 @@
           "time_info": "[11时51分 ~ 19时10分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时12分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
@@ -74,18 +86,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时18分 ~ 19时10分]"
-        },
-        {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时12分 ~ 20时22分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -179,6 +179,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
           "url": "https://flash.jin10.com/detail/20251227143953526800",
           "source": "金十数据",
@@ -225,11 +236,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时23分]"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -280,6 +292,18 @@
           "time_info": "[00时14分 ~ 01时11分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时23分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
           "url": "https://flash.jin10.com/detail/20251227180421799800",
           "source": "金十数据",
@@ -304,6 +328,18 @@
           "time_info": "[06时12分 ~ 07时13分]"
         },
         {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
           "url": "https://news.ifeng.com/c/8pQ6l11ek21",
           "source": "凤凰网",
@@ -315,17 +351,6 @@
           "time_info": "10时46分"
         },
         {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
           "url": "https://flash.jin10.com/detail/20251227085451542800",
           "source": "金十数据",
@@ -335,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
-        },
-        {
-          "title": "特朗普为何又索要盟友的领土",
-          "url": "https://www.toutiao.com/trending/7588483119292878372/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
         },
         {
           "title": "特朗普觊觎委内瑞拉石油被指帝国主义",
@@ -376,7 +390,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -405,8 +419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时55分 ~ 20时22分]"
+          "appearance_count": 17,
+          "time_info": "[08时55分 ~ 21时23分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -633,7 +647,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         }
@@ -641,7 +655,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
@@ -655,6 +669,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时24分 ~ 14时19分]"
+        },
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
