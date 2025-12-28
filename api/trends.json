@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T17:13:01.209718+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2025-12-28T18:12:57.247958+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -33,6 +33,19 @@
           "time_info": "[00时14分 ~ 09时04分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 18时12分]"
+        },
+        {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
           "url": "https://flash.jin10.com/detail/20251227214522049800",
           "source": "金十数据",
@@ -57,16 +70,17 @@
           "time_info": "[00时14分 ~ 09时04分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            8,
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 17时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时12分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -82,18 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 17时13分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -157,6 +159,17 @@
           "time_info": "[02时16分 ~ 02时17分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "特朗普为美国带来了什么改变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
           "source": "bilibili 热搜",
@@ -213,11 +226,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 18时12分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -302,11 +316,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时13分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时12分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
