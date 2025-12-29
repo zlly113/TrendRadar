@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:25:26.566277+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-12-29T21:32:08.402001+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时32分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
@@ -249,19 +262,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时25分]"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -1041,8 +1041,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
           "url": "https://flash.jin10.com/detail/20251228222030090800",
@@ -1086,7 +1097,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1156,22 +1167,24 @@
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时32分]"
         }
       ]
     },
