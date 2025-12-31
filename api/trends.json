@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T14:20:33.942795+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-31T15:17:43.845103+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -83,6 +83,21 @@
           "time_info": "[04时14分 ~ 08时59分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            13,
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 15时17分]"
+        },
+        {
           "title": "特朗普为何称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589509514882891795/",
           "source": "今日头条",
@@ -93,20 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 11时56分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            13,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 14时20分]"
         },
         {
           "title": "泽连斯基：与特朗普讨论了将美军部署在乌克兰的问题",
@@ -180,6 +181,17 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时17分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -203,26 +215,26 @@
           "time_info": "00时15分"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
           "url": "https://flash.jin10.com/detail/20251231131511777800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -318,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时17分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -791,11 +803,12 @@
           "ranks": [
             19,
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时17分]"
         }
       ]
     }
