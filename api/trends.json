@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:14:27.065661+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-01-02T05:12:24.726303+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
-          "url": "https://flash.jin10.com/detail/20260102032453188800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -40,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时12分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -50,11 +39,24 @@
           "ranks": [
             4,
             9,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
+          "url": "https://flash.jin10.com/detail/20260102032453188800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -74,11 +76,12 @@
           "url": "https://flash.jin10.com/detail/20260102030004557800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -105,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -118,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 05时12分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -161,8 +164,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -172,11 +175,12 @@
             20,
             17,
             16,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -187,8 +191,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         }
       ]
     },
@@ -196,6 +200,21 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
+        },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
@@ -209,21 +228,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 03时10分]"
-        },
-        {
-          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -253,8 +257,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时12分]"
         }
       ]
     }
