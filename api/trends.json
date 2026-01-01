@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:18:11.868734+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:10:43.905750+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260102011611465800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -35,11 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -79,19 +81,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
           "url": "https://wallstreetcn.com/livenews/3029648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -132,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -144,8 +147,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -154,11 +157,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         }
       ]
     },
@@ -173,11 +177,12 @@
           "ranks": [
             5,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时10分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -186,11 +191,12 @@
           "ranks": [
             6,
             15,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时10分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -199,11 +205,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时10分]"
         }
       ]
     },
@@ -219,8 +226,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 03时10分]"
         }
       ]
     }
