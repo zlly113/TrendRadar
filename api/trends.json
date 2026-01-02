@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:20:51.386453+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-01-02T15:18:06.244873+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -114,6 +114,28 @@
           "time_info": "[00时16分 ~ 02时18分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普承认手上瘀伤是服用药物造成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -147,11 +169,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -244,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 15时18分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -257,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 15时18分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -270,8 +293,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 15时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -281,11 +304,12 @@
             12,
             9,
             11,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 15时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -380,8 +404,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 15时18分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -432,11 +456,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时20分]"
+          "time_info": "[15时17分 ~ 15时18分]"
         }
       ]
     },
