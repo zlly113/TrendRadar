@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:18:06.244873+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-01-02T16:18:22.916624+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -121,8 +121,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时18分]"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
+          "url": "https://flash.jin10.com/detail/20260102155924046800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
@@ -156,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普的关税大棒挥不下去了吗",
+          "url": "https://www.toutiao.com/trending/7590646791305956874/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -173,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 16时18分]"
         },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -267,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 15时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -280,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 16时18分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -293,8 +315,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -305,11 +327,12 @@
             9,
             11,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -392,7 +415,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -404,8 +427,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 15时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -431,6 +454,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时18分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
