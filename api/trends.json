@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T17:13:12.845599+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-03T18:12:53.834950+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 55,
       "titles": [
         {
           "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
@@ -73,11 +73,12 @@
             13,
             11,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 18时12分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -110,40 +111,6 @@
           "time_info": "[00时14分 ~ 08时54分]"
         },
         {
-          "title": "特朗普下令打击委内瑞拉境内目标",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://www.douyin.com/hot/2356137",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7591020324596564014/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
           "url": "https://wallstreetcn.com/livenews/3029929",
           "source": "华尔街见闻-快讯",
@@ -162,6 +129,65 @@
           "time_info": "[05时10分 ~ 13时14分]"
         },
         {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591020324596564014/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时12分]"
+        },
+        {
+          "title": "美方证实：是特朗普下的命令",
+          "url": "https://news.ifeng.com/c/8pcChxGY8j9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
+          "title": "美媒：特朗普几天前就已批准美军在委内瑞拉实施地面打击行动",
+          "url": "https://news.ifeng.com/c/8pcEQ5y0CPJ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普下令打击委内瑞拉境内目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356137",
+          "source": "抖音",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
           "url": "https://flash.jin10.com/detail/20260103035911381800",
           "source": "金十数据",
@@ -176,37 +202,43 @@
           "time_info": "[05时10分 ~ 11时51分]"
         },
         {
-          "title": "特朗普下令打击委内瑞拉，首都加拉加斯上空传出多声巨响，哪些信息值得关注？后续可能如何发展？",
-          "url": "https://www.zhihu.com/question/1990788352941769437",
-          "source": "知乎",
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            18,
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 18时12分]"
         },
         {
-          "title": "美方证实：是特朗普下的命令",
-          "url": "https://news.ifeng.com/c/8pcChxGY8j9",
-          "source": "凤凰网",
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 18时12分]"
         },
         {
-          "title": "美媒：特朗普几天前就已批准美军在委内瑞拉实施地面打击行动",
-          "url": "https://news.ifeng.com/c/8pcEQ5y0CPJ",
-          "source": "凤凰网",
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            4,
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 18时12分]"
         },
         {
           "title": "与高市通话后特朗普转头就见驻华大使",
@@ -222,18 +254,6 @@
           "time_info": "[12时24分 ~ 15时13分]"
         },
         {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 17时13分]"
-        },
-        {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
           "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
           "source": "凤凰网",
@@ -245,53 +265,51 @@
           "time_info": "[10时45分 ~ 10时46分]"
         },
         {
-          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
-          "url": "https://wallstreetcn.com/livenews/3029985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普绕过国会袭击委内瑞拉 美军可能对委内瑞拉发起第二轮攻击",
-          "url": "https://wallstreetcn.com/livenews/3029989",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称已抓获委内瑞拉总统马杜罗及其夫人",
+          "url": "https://news.ifeng.com/c/8pcGzzRDcLj",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时12分"
         },
         {
-          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
-          "source": "澎湃新闻",
+          "title": "特朗普下令打击委内瑞拉，首都加拉加斯上空传出多声巨响，哪些信息值得关注？后续可能如何发展？",
+          "url": "https://www.zhihu.com/question/1990788352941769437",
+          "source": "知乎",
           "ranks": [
-            18,
-            16,
-            13
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
-          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
-          "source": "澎湃新闻",
+          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
+          "url": "https://wallstreetcn.com/livenews/3029985",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18,
-            17
+            4,
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时12分]"
+        },
+        {
+          "title": "持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会",
+          "url": "https://wallstreetcn.com/articles/3762477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "据CBS记者：特朗普政府官员已获悉今晨委内瑞拉首都加拉加斯上空发生爆炸和出现飞机的报告。",
@@ -303,6 +321,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "特朗普绕过国会袭击委内瑞拉 美军可能对委内瑞拉发起第二轮攻击",
+          "url": "https://wallstreetcn.com/livenews/3029989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时12分]"
         },
         {
           "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
@@ -340,6 +370,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普绕过国会袭击委内瑞拉，美军或发起第二轮攻击",
+          "url": "https://news.ifeng.com/c/8pcFEStwSqq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -392,38 +458,16 @@
           "time_info": "[02时18分 ~ 05时10分]"
         },
         {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
-          "source": "百度热搜",
+          "title": "特朗普绕过国会袭击委内瑞拉，或对委发起第二轮攻击",
+          "url": "https://flash.jin10.com/detail/20260103165004263800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普绕过国会袭击委内瑞拉，美军或发起第二轮攻击",
-          "url": "https://news.ifeng.com/c/8pcFEStwSqq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
-        },
-        {
-          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
-          "url": "https://wallstreetcn.com/livenews/3029983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时13分]"
+          "time_info": "[17时13分 ~ 18时12分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -472,15 +516,59 @@
           "time_info": "[06时12分 ~ 06时13分]"
         },
         {
-          "title": "特朗普绕过国会袭击委内瑞拉，或对委发起第二轮攻击",
-          "url": "https://flash.jin10.com/detail/20260103165004263800",
-          "source": "金十数据",
+          "title": "特朗普称已抓获委内瑞拉总统",
+          "url": "https://www.toutiao.com/trending/7591064400518319643/",
+          "source": "今日头条",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普：已抓获委总统夫妇并带离",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%B9%B6%E5%B8%A6%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普称已抓获委内瑞拉总统",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普称已抓获委内瑞拉总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普：马杜罗及其妻子已被抓获",
+          "url": "https://www.douyin.com/hot/2356212",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美媒：特朗普目前正在海湖庄园，此前曾听取国家安全简报",
@@ -489,9 +577,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "特朗普将在海湖庄园举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3029995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普称抓获委内瑞拉总统马杜罗及其夫人并带离委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3029993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美官员称特朗普下令对委内瑞拉境内目标实施打击",
+          "url": "https://www.cls.cn/detail/2246625",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美媒：美官员证实特朗普下令打击委内瑞拉境内目标",
@@ -511,9 +632,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "特朗普：马杜罗及其妻子已被抓获并带离该国",
+          "url": "https://flash.jin10.com/detail/20260103172411146800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美媒称特朗普下令打击委内瑞拉，马杜罗宣布国家紧急状态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32306913",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
@@ -551,8 +694,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时54分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[08时54分 ~ 18时12分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -579,8 +722,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[02时18分 ~ 17时13分]"
+          "appearance_count": 23,
+          "time_info": "[02时18分 ~ 18时12分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -611,8 +754,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 18时12分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -658,8 +801,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -781,6 +924,17 @@
           "time_info": "[08时54分 ~ 12时24分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -791,17 +945,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时12分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "半导体ETF美股盘初涨近4%，半导体设备股上涨，引领芯片股走高",
@@ -886,7 +1029,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗最近有点悬",
@@ -908,11 +1051,12 @@
             16,
             13,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 18时12分]"
         },
         {
           "title": "伊朗骚乱",
@@ -944,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时14分 ~ 11时51分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊在回应美国总统时表示，伊朗“不会向敌人屈服”。",
+          "url": "https://flash.jin10.com/detail/20260103180956212800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "纪念苏莱马尼遭美暗杀6周年，伊朗总统谴责美以国家恐怖主义",
@@ -1010,6 +1165,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时24分]"
+        },
+        {
+          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
+          "url": "https://www.zhihu.com/question/1990341451373122440",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "外媒：伊朗谴责美国对委内瑞拉的“军事袭击”",
+          "url": "https://flash.jin10.com/detail/20260103171929884800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗谴责美国对委内瑞拉发动的军事袭击，称其“公然侵犯委内瑞拉的国家主权和领土完整”。",
+          "url": "https://flash.jin10.com/detail/20260103170549204800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -1151,11 +1339,12 @@
             23,
             12,
             15,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
