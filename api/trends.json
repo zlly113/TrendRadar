@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T19:13:02.805624+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-01-07T20:25:36.795162+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时56分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时56分 ~ 20时25分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -150,6 +150,29 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -161,29 +184,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时14分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时13分]"
-        },
-        {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时13分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -257,6 +257,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普重申对国防承包商的批评。",
           "url": "https://flash.jin10.com/detail/20260107000144682800",
           "source": "金十数据",
@@ -277,6 +288,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时25分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -353,19 +377,6 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时13分]"
-        },
-        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -382,11 +393,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时25分]"
         },
         {
           "title": "美参院民主党领袖批特朗普对委行动",
@@ -751,6 +763,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
           "url": "https://flash.jin10.com/detail/20260107032038128800",
           "source": "金十数据",
@@ -922,7 +945,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -947,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普质疑丹麦维护格陵兰安全能力",
+          "url": "https://www.toutiao.com/trending/7592453163072900662/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特朗普称妻子讨厌他跳舞：不像个总统",
@@ -1359,7 +1393,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1377,8 +1411,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 20时25分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1411,7 +1445,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1425,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://wallstreetcn.com/livenews/3032445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "伊朗非政府人权组织称，镇压伊朗抗议活动至少造成27人死亡。",
@@ -1449,15 +1494,37 @@
           "time_info": "01时17分"
         },
         {
+          "title": "币值崩溃触发大规模动荡 伊朗总统呼吁克制以平息民愤",
+          "url": "https://flash.jin10.com/detail/20260107194431948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "伊朗央行负责外汇事务的副行长Alireza Gachpazzadeh辞职。（伊朗媒体Fars News）",
           "url": "https://wallstreetcn.com/livenews/3032395",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "伊朗陆军总司令：不会对敌人的威胁置之不理",
+          "url": "https://flash.jin10.com/detail/20260107194113986800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "伊朗外交部长称正在寻求扩大与黎巴嫩的关系。",
@@ -1480,6 +1547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "伊朗陆军总司令：不会对敌人的威胁置之不理",
+          "url": "https://wallstreetcn.com/livenews/3032430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "以色列会否对伊朗发动军事打击",
@@ -1507,7 +1585,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1546,6 +1624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时40分]"
+        },
+        {
+          "title": "分析师：金价下跌，有必要重新评估委内瑞拉局势",
+          "url": "https://flash.jin10.com/detail/20260107195750548800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1628,7 +1717,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债收益率普遍涨超1个基点",
@@ -1651,6 +1740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "关键数据发布在即 美债收益率震荡走低",
+          "url": "https://flash.jin10.com/detail/20260107193704628800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美债收益率曲线持续走陡 滞胀担忧推动长端利率走高",
