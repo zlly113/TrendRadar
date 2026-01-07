@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-07T14:20:32.071641+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-01-07T15:19:15.378737+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时19分]"
+        },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 08时58分]"
-        },
-        {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -55,6 +55,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 08时58分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时19分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -101,6 +113,18 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
           "url": "https://www.cls.cn/detail/2249902",
           "source": "财联社热门",
@@ -115,28 +139,39 @@
           "time_info": "[08时58分 ~ 14时20分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            6,
             7,
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "time_info": "[11时59分 ~ 15时19分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            4,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 15时19分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -163,17 +198,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -183,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 14时20分]"
         },
         {
           "title": "特朗普称若输中期选举或被弹劾",
@@ -240,18 +253,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时20分]"
         },
         {
           "title": "美国总统特朗普的特使Witkoff：在乌克兰安全担保框架方面取得进展。 美方将在今明两天继续与乌克兰磋商。",
@@ -468,6 +469,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
+          "url": "https://flash.jin10.com/detail/20260107145900151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "特朗普：若输中期选举 我可能被弹劾",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E8%BE%93%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE+%E6%88%91%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%BC%B9%E5%8A%BE",
           "source": "百度热搜",
@@ -496,7 +508,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -521,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美参院民主党领袖批评：涉对委行动，特朗普政府“一问四不知”",
+          "url": "https://wallstreetcn.com/livenews/3032192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "特朗普称必须赢得中期选举",
@@ -661,7 +684,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -738,7 +761,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -973,6 +996,20 @@
           "time_info": "[07时12分 ~ 14时20分]"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时19分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2249754",
           "source": "财联社热门",
@@ -985,19 +1022,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 08时58分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 14时20分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -1173,11 +1197,12 @@
             14,
             13,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 14时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时19分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1262,7 +1287,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1278,6 +1303,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
+          "url": "https://flash.jin10.com/detail/20260107150245540800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
@@ -1368,6 +1404,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3031877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
+          "url": "https://flash.jin10.com/detail/20260107144926716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1400,23 +1464,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 05时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3031877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
         }
       ]
     }
