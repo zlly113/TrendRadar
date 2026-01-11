@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T18:12:54.495997+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-01-11T19:10:51.477258+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[04时13分 ~ 18时12分]"
+          "appearance_count": 19,
+          "time_info": "[04时13分 ~ 19时10分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -77,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 19时10分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -112,6 +113,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时42分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 19时10分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -149,22 +166,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时13分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 18时12分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -310,15 +311,15 @@
           "time_info": "15时15分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
-          "url": "https://flash.jin10.com/detail/20260111175613540800",
+          "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
+          "url": "https://flash.jin10.com/detail/20260111185036309800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时10分"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -342,6 +343,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
+          "url": "https://flash.jin10.com/detail/20260111163438424800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时10分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -370,16 +384,16 @@
           "time_info": "[11时42分 ~ 13时19分]"
         },
         {
-          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
-          "url": "https://flash.jin10.com/detail/20260111163438424800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
+          "url": "https://flash.jin10.com/detail/20260111175613540800",
           "source": "金十数据",
           "ranks": [
-            4,
-            13
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时12分]"
+          "time_info": "[18时12分 ~ 19时10分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -418,6 +432,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时10分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -480,15 +506,16 @@
           "time_info": "[17时14分 ~ 18时12分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
+          "url": "https://wallstreetcn.com/livenews/3034676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时12分]"
+          "time_info": "[18时12分 ~ 19时10分]"
         },
         {
           "title": "特朗普称没必要抓普京",
@@ -558,17 +585,6 @@
           "time_info": "16时16分"
         },
         {
-          "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
-          "url": "https://wallstreetcn.com/livenews/3034676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/livenews/3034596",
           "source": "华尔街见闻-快讯",
@@ -583,7 +599,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
@@ -660,6 +676,17 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
+          "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时10分]"
+        },
+        {
           "title": "以色列消息人士：以色列总理内塔尼亚胡与美国国务卿鲁比奥在周六的电话中讨论了美国干预伊朗的可能性。三位出席以色列安全会议的消息人士表示，以色列正对美国可能干预伊朗的可能性保持高度警戒。",
           "url": "https://flash.jin10.com/detail/20260111140007452800",
           "source": "金十数据",
@@ -691,17 +718,6 @@
           "time_info": "[11时42分 ~ 16时16分]"
         },
         {
-          "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
-          "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时12分]"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -727,16 +743,28 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
+          "title": "伊朗持续大规模抗议背后",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BB%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
           "url": "https://wallstreetcn.com/livenews/3034682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时10分]"
         },
         {
           "title": "据伊朗国家媒体报道，伊朗警察局长表示，与暴乱分子的对抗力度已加大。",
@@ -817,6 +845,30 @@
           "time_info": "[11时42分 ~ 14时19分]"
         },
         {
+          "title": "伊朗警告若遭攻击必将还击",
+          "url": "https://www.douyin.com/hot/2364390",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
+        },
+        {
+          "title": "伊朗警告美方：若遭攻击必将还击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E6%96%B9%EF%BC%9A%E8%8B%A5%E9%81%AD%E6%94%BB%E5%87%BB%E5%BF%85%E5%B0%86%E8%BF%98%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
+        },
+        {
           "title": "消息人士称以军目前没有对伊朗的进攻意图",
           "url": "https://flash.jin10.com/detail/20260111081558961800",
           "source": "金十数据",
@@ -844,28 +896,17 @@
           "time_info": "[16时16分 ~ 18时12分]"
         },
         {
-          "title": "伊朗警告若遭攻击必将还击",
-          "url": "https://www.douyin.com/hot/2364390",
-          "source": "抖音",
+          "title": "伊朗逮捕一名为以色列摩萨德工作的外国公民",
+          "url": "https://flash.jin10.com/detail/20260111155734826800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12,
+            21,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
-        },
-        {
-          "title": "伊朗警告美方：若遭攻击必将还击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E6%96%B9%EF%BC%9A%E8%8B%A5%E9%81%AD%E6%94%BB%E5%87%BB%E5%BF%85%E5%B0%86%E8%BF%98%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "time_info": "[17时14分 ~ 19时10分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -891,6 +932,30 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
+          "title": "伊朗警察总长：骚乱主要参与者已被捕",
+          "url": "https://www.toutiao.com/trending/7594029269672529418/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
+          "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
+          "url": "https://flash.jin10.com/detail/20260111170725547800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
           "title": "伊朗警告美以：若遭攻击必将还击",
           "url": "https://wallstreetcn.com/livenews/3034650",
           "source": "华尔街见闻-快讯",
@@ -901,18 +966,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时16分 ~ 17时14分]"
-        },
-        {
-          "title": "伊朗逮捕一名为以色列摩萨德工作的外国公民",
-          "url": "https://flash.jin10.com/detail/20260111155734826800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时12分]"
         },
         {
           "title": "佩泽希齐扬：伊朗人民将坚定支持国家",
@@ -926,26 +979,26 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
-          "title": "伊朗警察总长：骚乱主要参与者已被捕",
-          "url": "https://www.toutiao.com/trending/7594029269672529418/",
-          "source": "今日头条",
+          "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32361627",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时10分"
         },
         {
-          "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
-          "url": "https://flash.jin10.com/detail/20260111170725547800",
-          "source": "金十数据",
+          "title": "伊朗警方：8名安全人员在骚乱中殉职",
+          "url": "https://wallstreetcn.com/livenews/3034693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时10分"
         },
         {
           "title": "伊朗全国局势平稳未发生动荡",
@@ -1000,8 +1053,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 18时12分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 19时10分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -1096,7 +1149,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
