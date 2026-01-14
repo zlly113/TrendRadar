@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:01:21.296643+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-14T11:05:13.266213+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         },
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -64,6 +64,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时05分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -268,15 +280,15 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "美国总统特朗普声称：如果我（已经）得到美联储的帮助，住房成本会更容易控制。 那“混蛋很”（Jerk）快就会走。",
@@ -362,6 +374,17 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "国台办回应特朗普涉台言论",
+          "url": "https://news.ifeng.com/c/8pu4igIyY9D",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
+        },
+        {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
           "url": "https://wallstreetcn.com/livenews/3036292",
           "source": "华尔街见闻-快讯",
@@ -408,6 +431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面",
@@ -496,7 +530,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -617,7 +651,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -749,7 +783,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1013,7 +1047,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1043,7 +1077,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1053,8 +1087,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1084,8 +1118,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -1108,8 +1142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时05分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1196,6 +1230,17 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
+        },
+        {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
           "url": "https://flash.jin10.com/detail/20260114030200145800",
           "source": "金十数据",
@@ -1208,13 +1253,35 @@
           "time_info": "[03时14分 ~ 04时15分]"
         },
         {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
+        },
+        {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
           "url": "https://flash.jin10.com/detail/20260114082105284800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1269,7 +1336,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1365,11 +1432,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 09时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 11时05分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1379,8 +1447,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 11时05分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1523,8 +1591,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1594,7 +1662,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -1656,8 +1724,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1666,11 +1734,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时05分]"
         }
       ]
     },
