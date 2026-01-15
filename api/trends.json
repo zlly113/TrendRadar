@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T13:20:20.630373+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-01-15T14:20:58.684711+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -74,9 +74,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时20分]"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -178,8 +178,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时20分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -191,6 +191,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时20分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -300,6 +311,18 @@
           "time_info": "[03时13分 ~ 04时13分]"
         },
         {
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时20分]"
+        },
+        {
           "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
           "url": "https://flash.jin10.com/detail/20260115053554998800",
           "source": "金十数据",
@@ -406,17 +429,6 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
           "url": "https://flash.jin10.com/detail/20260115040624036800",
           "source": "金十数据",
@@ -434,7 +446,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -648,17 +660,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "特朗普同委内瑞拉代总统通话",
-          "url": "https://www.toutiao.com/trending/7594631182898397227/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
           "url": "https://flash.jin10.com/detail/20260115002530191800",
           "source": "金十数据",
@@ -838,7 +839,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "美军机沿伊朗边界飞行",
@@ -966,6 +967,17 @@
           "time_info": "[10时54分 ~ 12时02分]"
         },
         {
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时20分]"
+        },
+        {
           "title": "金十提示：伊朗两个小时前关闭领空的航行通告现已失效，目前民航客机仍选择绕道而行。",
           "url": "https://flash.jin10.com/detail/20260115085245523800",
           "source": "金十数据",
@@ -975,6 +987,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
+          "url": "https://www.cls.cn/detail/2258108",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 14时20分]"
         },
         {
           "title": "外媒：伊朗关闭领空",
@@ -999,17 +1035,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
-          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
           "url": "https://flash.jin10.com/detail/20260114234309637800",
           "source": "金十数据",
@@ -1019,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "市场消息：伊朗外长和埃及外长进行了电话交谈。",
@@ -1041,30 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
-          "url": "https://www.cls.cn/detail/2258108",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时20分]"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时20分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -1102,6 +1114,19 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时20分]"
+        },
+        {
           "title": "航班雷达网站称，伊朗上空的空域似乎正在迅速清空，目前没有航班获准进入伊朗领空。",
           "url": "https://flash.jin10.com/detail/20260115060040144800",
           "source": "金十数据",
@@ -1126,28 +1151,17 @@
           "time_info": "[04时13分 ~ 05时13分]"
         },
         {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时20分]"
-        },
-        {
           "title": "伊朗外长：政府已完全掌控局面",
           "url": "https://www.toutiao.com/trending/7595402470608621094/",
           "source": "今日头条",
           "ranks": [
             24,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时20分]"
         },
         {
           "title": "伊朗关闭领空",
@@ -1327,7 +1341,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1398,6 +1412,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "伊朗约2000枚导弹可覆盖美以基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BA%A62000%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E7%BE%8E%E4%BB%A5%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "G7声明：七国集团仍准备在伊朗继续压制抗议活动时实施额外限制措施。",
           "url": "https://flash.jin10.com/detail/20260115024535202800",
           "source": "金十数据",
@@ -1415,7 +1440,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1492,7 +1517,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1577,8 +1602,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1591,18 +1628,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时13分 ~ 06时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时20分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1838,11 +1863,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时20分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -1866,11 +1892,12 @@
           "url": "https://www.toutiao.com/trending/7595232648327495722/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时20分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
