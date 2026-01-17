@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:13:06.213313+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-01-17T08:56:27.908917+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -63,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -75,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -86,19 +87,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 07时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 08时56分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -110,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -209,6 +222,18 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
+          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
+          "url": "https://www.cls.cn/detail/2260775",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 08时56分]"
+        },
+        {
           "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
           "url": "https://wallstreetcn.com/livenews/3038957",
           "source": "华尔街见闻-快讯",
@@ -306,17 +331,6 @@
           "time_info": "[00时17分 ~ 01时18分]"
         },
         {
-          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
-          "url": "https://www.cls.cn/detail/2260775",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 07时13分]"
-        },
-        {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
           "url": "https://flash.jin10.com/detail/20260117014827166800",
           "source": "金十数据",
@@ -341,6 +355,18 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
+          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3039034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
+        },
+        {
           "title": "特朗普不愿放手哈塞特 美联储主席接班战再添变数",
           "url": "https://flash.jin10.com/detail/20260116235352410800",
           "source": "金十数据",
@@ -351,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州问题很快就会得到解决。",
@@ -375,6 +412,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普称或对反格陵兰岛计划国加关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "特朗普弃用哈塞特惊扰债市 降息预期出现“缩水”",
           "url": "https://flash.jin10.com/detail/20260117002933553800",
           "source": "金十数据",
@@ -384,6 +443,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
@@ -406,17 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3039034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "特朗普版“影子联合国”？特朗普“和平委员会”职能扩容遭抵制",
@@ -458,9 +528,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普自称是个有道德的人",
+          "url": "https://www.toutiao.com/trending/7595171923328827402/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
@@ -469,7 +550,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -535,7 +616,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -568,7 +649,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
@@ -576,7 +657,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -584,18 +665,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "火药味拉满,美国酝酿搞伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -611,11 +680,24 @@
             8,
             16,
             17,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 08时56分]"
+        },
+        {
+          "title": "火药味拉满,美国酝酿搞伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            13,
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "美以领导人被曝再次通话，讨论伊朗局势",
@@ -626,8 +708,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 07时13分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 08时56分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -643,15 +725,26 @@
           "time_info": "[03时14分 ~ 05时13分]"
         },
         {
-          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
-          "url": "https://wallstreetcn.com/livenews/3039047",
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "08时56分"
         },
         {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
@@ -677,6 +770,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时14分]"
+        },
+        {
+          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
+          "url": "https://wallstreetcn.com/livenews/3039047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
@@ -733,11 +838,23 @@
           "url": "https://wallstreetcn.com/livenews/3039032",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
+        },
+        {
+          "title": "中方呼吁支持伊朗政府和人民克服困难",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%92%8C%E4%BA%BA%E6%B0%91%E5%85%8B%E6%9C%8D%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "08时56分"
         },
         {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
@@ -746,7 +863,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -765,7 +882,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -789,8 +906,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -806,59 +923,64 @@
           "time_info": "[02时19分 ~ 07时13分]"
         },
         {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 08时56分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050528991800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 07时13分]"
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260117050524828800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
           "url": "https://flash.jin10.com/detail/20260117050027802800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
           "url": "https://wallstreetcn.com/livenews/3039039",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
@@ -867,7 +989,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -892,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7595546570278387762/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -905,11 +1038,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时56分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1033,29 +1167,42 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
           "url": "https://flash.jin10.com/detail/20260117050916317800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3039041",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时56分]"
+        },
+        {
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "08时56分"
         }
       ]
     },
