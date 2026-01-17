@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T18:12:41.313986+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-01-17T19:10:57.846007+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 18时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 19时10分]"
         },
         {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时46分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[10时46分 ~ 19时10分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -107,11 +107,12 @@
             5,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时56分 ~ 18时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时56分 ~ 19时10分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -165,6 +166,17 @@
           "time_info": "[00时17分 ~ 08时56分]"
         },
         {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
           "url": "https://flash.jin10.com/detail/20260117010550534800",
           "source": "金十数据",
@@ -174,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
-          "url": "https://flash.jin10.com/detail/20260117173914674800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "圆脸评特朗普获赠和平奖",
@@ -198,15 +199,15 @@
           "time_info": "10时46分"
         },
         {
-          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
-          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
+          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时10分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -244,6 +245,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
+          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
         },
         {
           "title": "美国能源部：美国总统特朗普政府目前不考虑动用委内瑞拉石油来补充战略石油储备。",
@@ -321,6 +334,18 @@
           "time_info": "[16时15分 ~ 18时12分]"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 19时10分]"
+        },
+        {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
           "url": "https://wallstreetcn.com/livenews/3038961",
           "source": "华尔街见闻-快讯",
@@ -382,18 +407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "欧元兑美元刷新日低至1.1585，特朗普扬言要在格陵兰问题上对那些“不配合”的国家加征关税。",
@@ -561,6 +574,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://wallstreetcn.com/livenews/3039111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "特朗普称或对反格陵兰岛计划国加关税",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -583,6 +607,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
+          "url": "https://flash.jin10.com/detail/20260117174453624800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "特朗普自曝暂缓打伊朗原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -592,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
+          "url": "https://flash.jin10.com/detail/20260117174020851800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
@@ -806,7 +852,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -840,8 +886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时51分 ~ 18时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 19时10分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -882,11 +928,12 @@
             5,
             9,
             13,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 19时10分]"
         },
         {
           "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
@@ -895,11 +942,12 @@
           "ranks": [
             1,
             4,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
           "title": "伊朗全境已恢复互联网服务",
@@ -926,6 +974,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
+          "url": "https://flash.jin10.com/detail/20260117184028196800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -1058,6 +1117,18 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
+          "url": "https://flash.jin10.com/detail/20260117164104796800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
           "title": "伊朗警方破获一起重大武器走私案",
           "url": "https://wallstreetcn.com/livenews/3039032",
           "source": "华尔街见闻-快讯",
@@ -1068,17 +1139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 08时56分]"
-        },
-        {
-          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
-          "url": "https://flash.jin10.com/detail/20260117164104796800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "为何美国紧盯伊朗",
@@ -1154,8 +1214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时12分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[07时12分 ~ 19时10分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1282,7 +1342,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -1306,8 +1366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 19时10分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -1401,6 +1461,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时14分]"
+        },
+        {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         }
       ]
     },
@@ -1569,11 +1640,12 @@
           "url": "https://www.zhihu.com/question/1995200812075480347",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
         }
       ]
     }
