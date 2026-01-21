@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T20:27:44.278282+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2026-01-21T21:39:27.506677+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 155,
+      "match_count": 161,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -69,6 +69,32 @@
           "time_info": "[00时23分 ~ 07时13分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时39分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
           "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
@@ -82,45 +108,6 @@
           "time_info": "[11时01分 ~ 17时24分]"
         },
         {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 20时27分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 20时27分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 20时27分]"
-        },
-        {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
           "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
           "source": "澎湃新闻",
@@ -132,11 +119,25 @@
             9,
             8,
             7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 21时39分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 20时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 21时39分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -147,11 +148,12 @@
             19,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时22分 ~ 20时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时22分 ~ 21时39分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -306,6 +308,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普称和平委员会或取代联合国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%96%E5%8F%96%E4%BB%A3%E8%81%94%E5%90%88%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -334,9 +347,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "特朗普抵达达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3041305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "“特朗普计划4月访华”，中方回应",
@@ -367,18 +391,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "英国首相斯塔默：英国不会屈服于围绕格陵兰未来所发出的关税威胁。 特朗普周一关于查戈斯群岛的言论与之前不同。 特朗普希望我改变自己的立场，但我不会这么做。 撕毁与美国的关系是愚蠢的。",
-          "url": "https://wallstreetcn.com/livenews/3041284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -389,7 +402,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -442,17 +455,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
-          "url": "https://wallstreetcn.com/livenews/3041283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
           "url": "https://www.cls.cn/detail/2264363",
           "source": "财联社热门",
@@ -491,17 +493,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时05分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时27分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -552,6 +543,18 @@
           "time_info": "[19时17分 ~ 20时27分]"
         },
         {
+          "title": "英国首相斯塔默：英国不会屈服于围绕格陵兰未来所发出的关税威胁。 特朗普周一关于查戈斯群岛的言论与之前不同。 特朗普希望我改变自己的立场，但我不会这么做。 撕毁与美国的关系是愚蠢的。",
+          "url": "https://wallstreetcn.com/livenews/3041284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时39分]"
+        },
+        {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
           "url": "https://wallstreetcn.com/livenews/3040652",
           "source": "华尔街见闻-快讯",
@@ -586,6 +589,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
+          "url": "https://wallstreetcn.com/livenews/3041283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时39分]"
         },
         {
           "title": "特朗普发插旗图有何目的",
@@ -781,7 +796,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -825,7 +840,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -935,7 +950,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1160,6 +1175,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普在达沃斯与欧洲领导人有大约5场双边会谈。 特朗普的达沃斯演讲将涉及委内瑞拉和格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3041291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国总统特朗普：美国贸易逆差下降77%。",
           "url": "https://flash.jin10.com/detail/20260121031920273800",
           "source": "金十数据",
@@ -1215,6 +1241,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国官员：特朗普在达沃斯期间不会宣布美联储主席人选。 特朗普尚未决定美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3041289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
           "url": "https://flash.jin10.com/detail/20260121031225656800",
           "source": "金十数据",
@@ -1259,15 +1296,37 @@
           "time_info": "16时20分"
         },
         {
+          "title": "美国总统特朗普将于十分钟后在世界经济论坛年会就“我们如何在竞争加剧的世界中开展合作？”发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260121212000002800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "特朗普抵达瑞士参加达沃斯论坛，此前空军一号曾出现故障。",
           "url": "https://wallstreetcn.com/livenews/3041266",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：我基本上不赞成关税。 特朗普的信用卡利率上限将是一场“经济灾难”。 信用卡利率上限对经济造成的痛苦最大，而非银行。 美国经济“状况良好”。",
+          "url": "https://wallstreetcn.com/livenews/3041288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
@@ -1408,7 +1467,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1433,6 +1492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国贸易代表格里尔：如果最高法院裁定反对美国总统特朗普的关税，将带来巨大问题。",
+          "url": "https://flash.jin10.com/detail/20260121211126379800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "花旗高管Raghavan：面对特朗普新关税威胁，理智应会占上风",
@@ -1779,7 +1849,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1789,8 +1859,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时13分 ~ 20时27分]"
+          "appearance_count": 16,
+          "time_info": "[07时13分 ~ 21时39分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1854,6 +1924,20 @@
           "time_info": "[07时13分 ~ 14时22分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时39分]"
+        },
+        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -1891,19 +1975,6 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时27分]"
-        },
-        {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
           "url": "https://wallstreetcn.com/livenews/3040696",
           "source": "华尔街见闻-快讯",
@@ -1914,6 +1985,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
+        },
+        {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时39分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
@@ -1963,17 +2046,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "奈飞美股盘前跌幅扩大至7.1%。",
-          "url": "https://wallstreetcn.com/livenews/3041281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260121015850758800",
           "source": "金十数据",
@@ -2007,6 +2079,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260121050558433800",
           "source": "金十数据",
@@ -2024,7 +2107,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -2076,7 +2159,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
@@ -2122,6 +2205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -2242,8 +2336,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 20时27分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 21时39分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2328,25 +2422,8 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 20时27分]"
-        },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
           "url": "https://wallstreetcn.com/articles/3763734",
@@ -2359,8 +2436,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时14分 ~ 20时27分]"
+          "appearance_count": 18,
+          "time_info": "[06时14分 ~ 21时39分]"
+        },
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 21时39分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -2397,6 +2492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "摩根大通美债客户多头占比升至一个月新高",
+          "url": "https://wallstreetcn.com/livenews/3041299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
@@ -2544,11 +2650,12 @@
             5,
             13,
             17,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 20时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时07分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
