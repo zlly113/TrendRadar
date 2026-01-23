@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T04:16:01.188106+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-24T05:13:20.225025+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访华",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -59,11 +59,12 @@
             5,
             6,
             3,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -85,8 +86,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -94,11 +95,23 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
+          "url": "https://wallstreetcn.com/livenews/3043121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -109,8 +122,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时13分]"
         },
         {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
@@ -125,6 +138,28 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
+          "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
+          "url": "https://flash.jin10.com/detail/20260124031952416800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
+        },
+        {
+          "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
+          "url": "https://flash.jin10.com/detail/20260124031642233800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -137,26 +172,15 @@
           "time_info": "[02时20分 ~ 03时19分]"
         },
         {
-          "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
-          "url": "https://flash.jin10.com/detail/20260124031952416800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
-          "url": "https://flash.jin10.com/detail/20260124031642233800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
+          "url": "https://wallstreetcn.com/livenews/3043110",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "05时13分"
         }
       ]
     },
@@ -169,11 +193,12 @@
           "url": "https://www.douyin.com/hot/2377210",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -185,8 +210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -200,8 +225,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -213,8 +238,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260124030711591800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时13分]"
         },
         {
           "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
@@ -229,18 +266,6 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
-          "title": "土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260124030711591800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时16分]"
-        },
-        {
           "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
           "url": "https://flash.jin10.com/detail/20260124005640006800",
           "source": "金十数据",
@@ -253,6 +278,17 @@
           "time_info": "[01时20分 ~ 02时20分]"
         },
         {
+          "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
+          "url": "https://flash.jin10.com/detail/20260124032228476800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
+        },
+        {
           "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
           "url": "https://wallstreetcn.com/livenews/3043042",
           "source": "华尔街见闻-快讯",
@@ -263,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时20分]"
-        },
-        {
-          "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
-          "url": "https://flash.jin10.com/detail/20260124032228476800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
         },
         {
           "title": "美国对伊朗又一轮新制裁",
@@ -300,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -312,8 +337,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时13分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -349,6 +374,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3043068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时19分]"
+        },
+        {
+          "title": "美元指数失守98关口",
+          "url": "https://flash.jin10.com/detail/20260124004940851800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
+          "url": "https://wallstreetcn.com/livenews/3043078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时16分]"
+        },
+        {
+          "title": "美元指数本周跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3043114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -392,50 +472,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3043068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时19分]"
-        },
-        {
-          "title": "美元指数失守98关口",
-          "url": "https://flash.jin10.com/detail/20260124004940851800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时20分]"
-        },
-        {
-          "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
-          "url": "https://wallstreetcn.com/livenews/3043078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -446,22 +482,24 @@
           "ranks": [
             8,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3043102",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
         }
       ]
     }
