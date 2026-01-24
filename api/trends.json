@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T10:52:08.375485+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-01-24T11:56:34.265434+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -90,8 +90,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时56分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -114,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
         },
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -125,19 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
-          "title": "英首相说特朗普言论极具侮辱性",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E6%9E%81%E5%85%B7%E4%BE%AE%E8%BE%B1%E6%80%A7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
         },
         {
           "title": "特朗普变卦",
@@ -147,8 +136,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -164,26 +153,16 @@
           "time_info": "[03时19分 ~ 08时57分]"
         },
         {
-          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
-          "url": "https://flash.jin10.com/detail/20260124093450741800",
-          "source": "金十数据",
+          "title": "英首相说特朗普言论极具侮辱性",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E6%9E%81%E5%85%B7%E4%BE%AE%E8%BE%B1%E6%80%A7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
-          "url": "https://wallstreetcn.com/livenews/3043204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -210,6 +189,19 @@
           "time_info": "[04时16分 ~ 08时57分]"
         },
         {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://flash.jin10.com/detail/20260124082538327800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
           "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
@@ -234,16 +226,16 @@
           "time_info": "[07时13分 ~ 08时57分]"
         },
         {
-          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
-          "url": "https://flash.jin10.com/detail/20260124082538327800",
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
           "source": "金十数据",
           "ranks": [
-            2,
-            17
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -282,6 +274,18 @@
           "time_info": "[06时11分 ~ 07时13分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时56分]"
+        },
+        {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
           "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
@@ -290,8 +294,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时56分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
@@ -302,19 +306,44 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时56分]"
         },
         {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
           "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
+        },
+        {
+          "title": "英国首相呼吁特朗普就北约言论道歉",
+          "url": "https://www.toutiao.com/trending/7598350271315836934/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时56分]"
+        },
+        {
+          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
+          "url": "https://flash.jin10.com/detail/20260124090807365800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -341,6 +370,30 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
+          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
+          "url": "https://wallstreetcn.com/livenews/3043195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时56分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3043194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时56分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -351,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时56分]"
         },
         {
           "title": "白宫回应英首相要求特朗普道歉",
@@ -386,17 +450,6 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
-          "title": "英国首相呼吁特朗普就北约言论道歉",
-          "url": "https://www.toutiao.com/trending/7598350271315836934/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
           "title": "特朗普2.0对日本有何影响",
           "url": "https://www.toutiao.com/trending/7598484923627867702/",
           "source": "今日头条",
@@ -408,15 +461,15 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
-          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
-          "url": "https://flash.jin10.com/detail/20260124090807365800",
-          "source": "金十数据",
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时56分"
         },
         {
           "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
@@ -430,17 +483,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
-          "url": "https://wallstreetcn.com/livenews/3043195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -450,34 +492,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://wallstreetcn.com/livenews/3043194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -488,8 +508,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时56分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -516,11 +536,12 @@
             5,
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时56分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -551,14 +572,25 @@
         },
         {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
-          "url": "https://wallstreetcn.com/livenews/3043208",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20260124104315512800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时56分"
+        },
+        {
+          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3043214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
@@ -573,6 +605,19 @@
           "time_info": "[04时16分 ~ 08时57分]"
         },
         {
+          "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
+          "url": "https://wallstreetcn.com/livenews/3043187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
           "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
           "url": "https://flash.jin10.com/detail/20260123235740711800",
           "source": "金十数据",
@@ -585,16 +630,16 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
-          "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
-          "url": "https://wallstreetcn.com/livenews/3043187",
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://wallstreetcn.com/livenews/3043208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
           "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
@@ -631,6 +676,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时20分]"
+        },
+        {
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://news.ifeng.com/c/8qAfoQVeV7o",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "多名美官员访问以色列 将讨论加沙和伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3043210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国对伊朗又一轮新制裁",
@@ -679,8 +746,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 11时56分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -694,19 +774,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时19分 ~ 08时57分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 10时52分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -880,11 +947,12 @@
           "url": "https://wallstreetcn.com/livenews/3043198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
