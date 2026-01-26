@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T09:04:01.647273+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-01-26T11:49:34.797837+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -47,11 +47,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 11时49分]"
         },
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 11时49分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -160,6 +161,17 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 11时49分]"
+        },
+        {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
@@ -172,17 +184,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -203,9 +204,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
@@ -287,7 +299,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -320,7 +332,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -342,7 +354,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -353,7 +365,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -364,7 +376,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -443,11 +455,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%92%E5%A4%87%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 11时49分]"
         },
         {
           "title": "土耳其外长警告外部势力勿插手伊朗事务",
@@ -475,18 +488,83 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价突破5000美元关口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 11时49分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
+          "url": "https://flash.jin10.com/detail/20260126110251702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
@@ -505,26 +583,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
-          "url": "https://flash.jin10.com/detail/20260125221344220800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
         }
       ]
     },
