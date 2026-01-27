@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:40:23.731910+08:00",
-  "total_titles_processed": 1984,
+  "generated_at": "2026-01-27T22:22:39.008542+08:00",
+  "total_titles_processed": 2051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时14分 ~ 21时40分]"
+          "appearance_count": 15,
+          "time_info": "[07时14分 ~ 22时22分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -127,6 +127,18 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时21分 ~ 12时40分]"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时22分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -181,23 +193,12 @@
         },
         {
           "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
-          "url": "https://wallstreetcn.com/livenews/3044806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
           "url": "https://flash.jin10.com/detail/20260127212721886800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -211,18 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时40分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -248,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://wallstreetcn.com/livenews/3044806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -761,6 +762,17 @@
           "time_info": "11时31分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛的情况进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260127215902817800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "韩国KOSPI指数跌幅扩大至1%，特朗普此前对韩国发出贸易威胁。",
           "url": "https://flash.jin10.com/detail/20260127080833438800",
           "source": "金十数据",
@@ -770,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶往伊朗，希望我们不必动用它。",
+          "url": "https://flash.jin10.com/detail/20260127215541311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
@@ -805,6 +828,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国总统特朗普：与明尼阿波利斯市长进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260127215213078800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "高盛CEO：经济形势具有建设性。特朗普政府正在减轻监管负担。与政府的关系“非常好”。美国政府对商业持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3044375",
           "source": "华尔街见闻-快讯",
@@ -819,7 +853,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -841,8 +875,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时14分 ~ 21时40分]"
+          "appearance_count": 15,
+          "time_info": "[07时14分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -890,6 +924,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-27）",
+          "url": "https://flash.jin10.com/detail/20260127220608508800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -963,6 +1019,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
+          "url": "https://wallstreetcn.com/livenews/3044789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
+        },
+        {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "美国航空集团(AAL.O)美股盘前涨2.8%，此前该公司预计2026年利润将高于预期。",
@@ -1042,17 +1122,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
-          "url": "https://wallstreetcn.com/livenews/3044789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050519889800",
           "source": "金十数据",
@@ -1062,17 +1131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "美股收盘：三大股指收涨 苹果涨近3%",
@@ -1125,7 +1183,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1263,11 +1321,12 @@
           "ranks": [
             11,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时22分]"
         },
         {
           "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
@@ -1277,8 +1336,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时22分]"
+        },
+        {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时40分]"
+          "time_info": "[20时27分 ~ 22时22分]"
         },
         {
           "title": "伊朗外交部：武装力量将全力应对任何侵犯",
@@ -1293,17 +1363,6 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时40分]"
-        },
-        {
           "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
           "url": "https://wallstreetcn.com/livenews/3044148",
           "source": "华尔街见闻-快讯",
@@ -1314,6 +1373,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时17分]"
+        },
+        {
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 22时22分]"
         },
         {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
@@ -1404,22 +1475,150 @@
           "time_info": "14时22分"
         },
         {
-          "title": "以女子看电视发现自己“死”在伊朗",
-          "url": "https://www.toutiao.com/trending/7599286725097259071/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "伊朗媒体：伊朗外长与美国特使就多项议题交换信息",
           "url": "https://wallstreetcn.com/livenews/3044076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
+          "url": "https://wallstreetcn.com/livenews/3044110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时23分]"
+        },
+        {
+          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3044662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/livenews/3044812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
+          "url": "https://flash.jin10.com/detail/20260127175049223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://flash.jin10.com/detail/20260127183055031800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
+          "url": "https://flash.jin10.com/detail/20260127175037291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://wallstreetcn.com/livenews/3044717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260127175012447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟：首项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即向第三方开发者提供对谷歌 Android 系统所控制的硬件和软件功能的免费且有效的互操作性。",
+          "url": "https://flash.jin10.com/detail/20260127174940980800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟根据《数字市场法》对谷歌启动规范程序",
+          "url": "https://flash.jin10.com/detail/20260127174618886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1573,134 +1772,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
-          "url": "https://wallstreetcn.com/livenews/3044110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时23分]"
-        },
-        {
-          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
-          "url": "https://wallstreetcn.com/livenews/3044662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
-          "url": "https://flash.jin10.com/detail/20260127175049223800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
-          "url": "https://flash.jin10.com/detail/20260127183055031800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
-          "url": "https://flash.jin10.com/detail/20260127175037291800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
-          "url": "https://wallstreetcn.com/livenews/3044717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
-          "url": "https://flash.jin10.com/detail/20260127175012447800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "欧盟：首项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即向第三方开发者提供对谷歌 Android 系统所控制的硬件和软件功能的免费且有效的互操作性。",
-          "url": "https://flash.jin10.com/detail/20260127174940980800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "欧盟根据《数字市场法》对谷歌启动规范程序",
-          "url": "https://flash.jin10.com/detail/20260127174618886800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
-          "url": "https://wallstreetcn.com/livenews/3044091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 11,
       "titles": [
@@ -1728,6 +1799,18 @@
           "time_info": "[05时15分 ~ 06时14分]"
         },
         {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
+        },
+        {
           "title": "美元指数DXY短线下挫 非美货币走高",
           "url": "https://flash.jin10.com/detail/20260127175649548800",
           "source": "金十数据",
@@ -1750,17 +1833,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
           "url": "https://flash.jin10.com/detail/20260127050513890800",
           "source": "金十数据",
@@ -1778,7 +1850,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1822,7 +1894,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -1842,8 +1914,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时22分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1853,8 +1925,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时22分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -1863,9 +1935,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -1895,7 +1967,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -1942,6 +2014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "据纽约时报：OpenAI创始人奥尔特曼表示，美国移民和海关执法局的情况太过分了。",
+          "url": "https://flash.jin10.com/detail/20260127215123302800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
