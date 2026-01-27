@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T09:02:31.844897+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-01-27T11:31:41.715844+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -47,11 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 09时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 11时31分]"
         },
         {
           "title": "特朗普：提高对韩国关税",
@@ -60,9 +61,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
+          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -83,18 +106,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -110,15 +122,15 @@
           "time_info": "07时14分"
         },
         {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时31分"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -144,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
+        },
+        {
+          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2270513",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -211,11 +235,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时31分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
@@ -263,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
@@ -355,18 +392,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -415,17 +441,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
           "url": "https://flash.jin10.com/detail/20260127041616450800",
           "source": "金十数据",
@@ -435,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "特朗普称美国将对韩国关税提高至 25%，因韩国国会未批准此前与美国达成的贸易协议，将会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1999382037417653667",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉正在快速释放政治犯，而且这个速度将在不久的将来加快。我要感谢委内瑞拉领导层同意采取这一强有力的举措。",
@@ -476,7 +502,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -520,7 +546,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -531,7 +557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -558,6 +584,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
+          "url": "https://wallstreetcn.com/livenews/3044390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "特朗普突然宣布将韩国商品的关税提高至25%",
           "url": "https://wallstreetcn.com/livenews/3044214",
           "source": "华尔街见闻-快讯",
@@ -575,7 +612,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -602,15 +639,37 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美国财长贝森特：特朗普今天已与加拿大总理卡尼通话，卡尼正从先前在达沃斯世界经济论坛上的言论“大踏步回撤”。",
+          "url": "https://wallstreetcn.com/livenews/3044388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "韩国KOSPI指数跌幅扩大至1%，特朗普此前对韩国发出贸易威胁。",
           "url": "https://flash.jin10.com/detail/20260127080833438800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "据福克斯新闻：美国财长贝森特表示，美国总统特朗普已于周一与加拿大总理卡尼通话。",
+          "url": "https://flash.jin10.com/detail/20260127104804848800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -622,12 +681,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "高盛CEO：经济形势具有建设性。特朗普政府正在减轻监管负担。与政府的关系“非常好”。美国政府对商业持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3044375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -660,8 +730,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时31分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -687,18 +770,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
-          "url": "https://www.cls.cn/detail/2270480",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时02分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
@@ -745,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
@@ -808,7 +890,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
@@ -816,7 +898,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -849,11 +931,12 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 09时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 11时31分]"
         },
         {
           "title": "伊朗：不欢迎战争，也不回避外交谈判",
@@ -862,9 +945,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
         },
         {
           "title": "阿联酋重申不得使用其领土军事打击伊朗",
@@ -877,6 +960,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时23分]"
+        },
+        {
+          "title": "局势升级 伊朗或封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7599813567755324969/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时31分]"
         },
         {
           "title": "伊朗外交部：武装力量将全力应对任何侵犯",
@@ -903,15 +998,15 @@
           "time_info": "[03时18分 ~ 04时17分]"
         },
         {
-          "title": "局势升级 伊朗或封锁霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7599813567755324969/",
-          "source": "今日头条",
+          "title": "美军航母进入美中央司令部印度洋责任区，以伊朗目前军力，能够对抗美军航母的打击吗？",
+          "url": "https://www.zhihu.com/question/1999248453998441588",
+          "source": "知乎",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时31分"
         },
         {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
@@ -931,7 +1026,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -942,7 +1037,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -964,7 +1059,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -978,6 +1073,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 09时02分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 07时14分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时15分]"
+        },
+        {
+          "title": "分析称金价急剧回调可能性正在增加",
+          "url": "https://www.toutiao.com/trending/7599218772373995556/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "关税担忧推动金价上涨",
+          "url": "https://flash.jin10.com/detail/20260127075745776800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "金价冲高回落是见顶还是最后的蓄力",
+          "url": "https://www.toutiao.com/trending/7599840740310519338/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -1055,60 +1246,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 09时02分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 07时14分]"
-        },
-        {
-          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
-          "url": "https://flash.jin10.com/detail/20260127032144088800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "关税担忧推动金价上涨",
-          "url": "https://flash.jin10.com/detail/20260127075745776800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -1121,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时23分]"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
