@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:42:08.827382+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-28T22:22:25.758819+08:00",
+  "total_titles_processed": 2071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时03分 ~ 21时42分]"
+          "appearance_count": 18,
+          "time_info": "[11时03分 ~ 22时22分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -45,6 +45,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 13时22分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 22时22分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -87,16 +99,15 @@
           "time_info": "[13时21分 ~ 19时16分]"
         },
         {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -109,17 +120,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时59分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -155,6 +155,17 @@
           "time_info": "20时28分"
         },
         {
+          "title": "巴克莱：受特朗普支持美元走弱的政策推动，投资者对持有美元的额外回报需求正在增长。",
+          "url": "https://flash.jin10.com/detail/20260128221221657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -188,15 +199,16 @@
           "time_info": "20时28分"
         },
         {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://wallstreetcn.com/livenews/3045623",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
           "ranks": [
+            7,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
         },
         {
           "title": "特朗普称还有一支舰队正驶向伊朗",
@@ -330,6 +342,18 @@
           "time_info": "[03时20分 ~ 04时14分]"
         },
         {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时22分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -353,17 +377,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时11分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
@@ -541,7 +554,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -805,7 +818,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -871,7 +884,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -893,7 +906,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -918,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
+          "url": "https://flash.jin10.com/detail/20260128214203738800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
@@ -1000,7 +1024,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -1121,6 +1145,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "伊朗驻联合国代表团：伊朗愿意进行对话；但如果受到逼迫，伊朗也会维护自身利益。",
+          "url": "https://flash.jin10.com/detail/20260128220433125800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "伊朗将领：邻国领土不得用于攻击伊朗",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E9%A2%86%EF%BC%9A%E9%82%BB%E5%9B%BD%E9%A2%86%E5%9C%9F%E4%B8%8D%E5%BE%97%E7%94%A8%E4%BA%8E%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -1160,6 +1195,17 @@
           "time_info": "[08时59分 ~ 12时37分]"
         },
         {
+          "title": "伊朗政府谈断网20天：每日损失约3600万美元",
+          "url": "https://news.ifeng.com/c/8qHyXYFy8Oc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
+        },
+        {
           "title": "外媒报道伊朗外长与美国特使以「非正式」方式互通消息，美伊关系是否会发生逆转？",
           "url": "https://www.zhihu.com/question/1999497574059640810",
           "source": "知乎",
@@ -1184,15 +1230,16 @@
           "time_info": "[08时59分 ~ 12时37分]"
         },
         {
-          "title": "伊朗政府谈断网20天：每日损失约3600万美元",
-          "url": "https://news.ifeng.com/c/8qHyXYFy8Oc",
-          "source": "凤凰网",
+          "title": "解读伊朗多重危机背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E9%87%8D%E5%8D%B1%E6%9C%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "time_info": "[20时28分 ~ 22时22分]"
         },
         {
           "title": "伊朗军方：提升国内能力令对伊行动代价高昂",
@@ -1243,17 +1290,6 @@
           "time_info": "[03时20分 ~ 04时14分]"
         },
         {
-          "title": "解读伊朗多重危机背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E9%87%8D%E5%8D%B1%E6%9C%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
           "title": "土耳其破获与伊朗有关联的间谍网络 6人被捕",
           "url": "https://flash.jin10.com/detail/20260128184612027800",
           "source": "金十数据",
@@ -1287,6 +1323,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "伊朗驻联合国代表团：但如果遭到逼迫，将进行自卫。",
+          "url": "https://flash.jin10.com/detail/20260128220146267800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "沙特王储告诉伊朗总统，沙特不会允许其领空或领土被用于针对德黑兰的任何军事行动。",
           "url": "https://flash.jin10.com/detail/20260128044937017800",
           "source": "金十数据",
@@ -1304,7 +1351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1318,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "伊朗总统宣布启动紧急状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "沙特不许其领空领土被用于打击伊朗",
@@ -1392,7 +1450,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1430,6 +1488,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "据报道，欧盟大使已批准在伊朗制裁名单下新增15名个人和6个实体。",
+          "url": "https://flash.jin10.com/detail/20260128213400059800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国被曝向以色列通报对伊朗行动准备进展",
           "url": "https://flash.jin10.com/detail/20260128042320434800",
           "source": "金十数据",
@@ -1444,7 +1513,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1469,6 +1538,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时59分 ~ 15时19分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3045636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1526,15 +1606,16 @@
           "time_info": "00时19分"
         },
         {
-          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045621",
-          "source": "华尔街见闻-快讯",
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
@@ -1583,15 +1664,16 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
+          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045621",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "time_info": "[21时42分 ~ 22时22分]"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -1606,6 +1688,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
+          "url": "https://wallstreetcn.com/livenews/3045613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时22分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -1616,6 +1710,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时20分]"
+        },
+        {
+          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3045603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时22分]"
         },
         {
           "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
@@ -1630,17 +1736,6 @@
           "time_info": "[17时26分 ~ 18时19分]"
         },
         {
-          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
-          "url": "https://wallstreetcn.com/livenews/3045613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
@@ -1650,6 +1745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
@@ -1672,17 +1778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
-        },
-        {
-          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3045603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -1729,13 +1824,24 @@
           "time_info": "15时19分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128213140703800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "康宁美股盘前下挫，现跌超5%，此前一度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3045583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
@@ -1765,8 +1871,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时23分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[14时23分 ~ 22时22分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1811,6 +1917,22 @@
           "time_info": "[12时37分 ~ 17时26分]"
         },
         {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6,
+            21,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 22时22分]"
+        },
+        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1824,30 +1946,16 @@
           "time_info": "[12时37分 ~ 16时20分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            6,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 21时42分]"
-        },
-        {
           "title": "金价波动如何影响实体金店",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
         },
         {
           "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
@@ -1889,11 +1997,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时22分]"
         },
         {
           "title": "专家谈国际金价加速上涨的背后逻辑",
@@ -2084,7 +2193,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -2096,8 +2205,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时59分 ~ 21时42分]"
+          "appearance_count": 19,
+          "time_info": "[08时59分 ~ 22时22分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
