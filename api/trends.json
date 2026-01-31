@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T11:57:39.138591+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-31T12:59:06.680539+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时59分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时59分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时19分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[04时19分 ~ 12时59分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时59分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -95,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时59分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
@@ -108,8 +108,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时59分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -191,26 +191,16 @@
           "time_info": "[03时25分 ~ 09时04分]"
         },
         {
-          "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
-          "url": "https://flash.jin10.com/detail/20260131111222966800",
-          "source": "金十数据",
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "美国边境事务主管霍曼：我传达的信息与自1月20日特朗普总统入主白宫以来的一贯立场完全一致，即我们将开展大规模驱逐行动，但会优先逮捕犯罪分子和公共安全威胁者。",
-          "url": "https://flash.jin10.com/detail/20260131111141796800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时15分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
@@ -235,6 +225,32 @@
           "time_info": "01时26分"
         },
         {
+          "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
+          "url": "https://wallstreetcn.com/livenews/3047605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时59分]"
+        },
+        {
+          "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
+          "url": "https://flash.jin10.com/detail/20260131111222966800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
           "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
           "source": "凤凰网",
@@ -244,6 +260,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 09时04分]"
+        },
+        {
+          "title": "美国边境事务主管霍曼：我传达的信息与自1月20日特朗普总统入主白宫以来的一贯立场完全一致，即我们将开展大规模驱逐行动，但会优先逮捕犯罪分子和公共安全威胁者。",
+          "url": "https://flash.jin10.com/detail/20260131111141796800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -257,19 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时19分]"
-        },
-        {
-          "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
-          "url": "https://wallstreetcn.com/livenews/3047605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时57分]"
         },
         {
           "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
@@ -296,6 +311,29 @@
           "time_info": "[02时29分 ~ 03时25分]"
         },
         {
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 12时59分]"
+        },
+        {
+          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
+          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 12时59分]"
+        },
+        {
           "title": "美国总统特朗普赞赏标普500指数创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3047505",
           "source": "华尔街见闻-快讯",
@@ -320,18 +358,6 @@
           "time_info": "[04时19分 ~ 05时19分]"
         },
         {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时15分 ~ 11时57分]"
-        },
-        {
           "title": "特朗普关税在2025年导致加拿大铁路公司损失4亿美元",
           "url": "https://wallstreetcn.com/livenews/3047541",
           "source": "华尔街见闻-快讯",
@@ -343,6 +369,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时19分]"
+        },
+        {
+          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
+          "url": "https://wallstreetcn.com/livenews/3047616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时59分]"
         },
         {
           "title": "特朗普：美正计划重建“传统意义上的战列舰”",
@@ -358,27 +397,26 @@
           "time_info": "[03时25分 ~ 05时19分]"
         },
         {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
-          "source": "凤凰网",
+          "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
+          "url": "https://www.zhihu.com/question/2000500598013911312",
+          "source": "知乎",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "特朗普称希望与伊朗达成协议",
@@ -393,18 +431,6 @@
           "time_info": "[04时19分 ~ 05时19分]"
         },
         {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://wallstreetcn.com/livenews/3047616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
-        },
-        {
           "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
           "url": "https://wallstreetcn.com/livenews/3047587",
           "source": "华尔街见闻-快讯",
@@ -415,6 +441,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局（BLS）局长。 有信心Brett Matsumoto能够解决BLS的问题。",
+          "url": "https://wallstreetcn.com/livenews/3047625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
+          "url": "https://flash.jin10.com/detail/20260131085624557800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普又破防了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "特朗普：希望与伊朗达成协议",
@@ -461,17 +522,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
           "url": "https://wallstreetcn.com/livenews/3047560",
           "source": "华尔街见闻-快讯",
@@ -481,28 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
-          "url": "https://www.zhihu.com/question/2000500598013911312",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局（BLS）局长。 有信心Brett Matsumoto能够解决BLS的问题。",
-          "url": "https://wallstreetcn.com/livenews/3047625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "美国总统特朗普将提名Brett Matsumoto担任劳工部下辖劳工统计局（BLS）的局长。（华尔街日报）",
@@ -525,17 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
-          "url": "https://flash.jin10.com/detail/20260131085624557800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
@@ -717,8 +734,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时19分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[04时19分 ~ 12时59分]"
         },
         {
           "title": "俄罗斯总统普京会见伊朗最高领袖顾问拉里贾尼",
@@ -732,6 +749,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时25分 ~ 09时04分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：已掌握敌方作战计划，将适时发动打击",
+          "url": "https://news.ifeng.com/c/8qLqvzmrdj7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时15分 ~ 12时59分]"
         },
         {
           "title": "曝伊朗4万吨“航母”出动",
@@ -760,16 +789,15 @@
           "time_info": "[00时27分 ~ 03时25分]"
         },
         {
-          "title": "伊朗最高领袖顾问：已掌握敌方作战计划，将适时发动打击",
-          "url": "https://news.ifeng.com/c/8qLqvzmrdj7",
-          "source": "凤凰网",
+          "title": "释新闻｜美军打击“箭在弦上”，伊朗有哪些应对手段？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498029",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时15分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "伊朗最高领袖顾问：欧盟国家军队将被视为恐怖组织",
@@ -829,17 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "释新闻｜美军打击“箭在弦上”，伊朗有哪些应对手段？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498029",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "美国财长贝森特：（谈伊朗）财政部将采取行动。",
@@ -977,8 +994,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 12时59分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -1004,18 +1021,6 @@
           "time_info": "[06时15分 ~ 07时17分]"
         },
         {
-          "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
-          "url": "https://wallstreetcn.com/livenews/3047617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
           "url": "https://www.cls.cn/detail/2276378",
           "source": "财联社热门",
@@ -1024,8 +1029,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 12时59分]"
+        },
+        {
+          "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
+          "url": "https://wallstreetcn.com/livenews/3047617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时59分]"
         },
         {
           "title": "半导体ETF收跌约3.4%，领跌美股行业ETF，1月份能源业ETF涨约14.2%、半导体ETF涨12%紧随其后",
@@ -1111,8 +1129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时59分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -1120,11 +1138,59 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时59分]"
+        },
+        {
+          "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
+          "title": "金价下跌多品牌设1-5%退货手续费",
+          "url": "https://www.toutiao.com/trending/7601325264030895667/",
+          "source": "今日头条",
+          "ranks": [
+            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
+        },
+        {
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "专家称金价大跌是牛市调整",
@@ -1151,37 +1217,16 @@
           "time_info": "[03时25分 ~ 04时19分]"
         },
         {
-          "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "金价下跌多品牌设1-5%退货手续费",
-          "url": "https://www.toutiao.com/trending/7601325264030895667/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://flash.jin10.com/detail/20260131084457932800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
@@ -1204,28 +1249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "世界黄金协会预测金价走势",
@@ -1256,6 +1279,19 @@
           "time_info": "05时19分"
         },
         {
+          "title": "明晟公司MSCI新兴市场基准股票指数跌1.7%，创2025年11月以来最差单日表现，1月份累计涨幅收窄至大约9%，仍然创2012年以来最佳单月表现。 新兴市场外汇指数跌约0.3%，使得1月份累计涨幅收窄至0.6%。 周五当天，南非兰特兑美元跌2.6%，创4月份以来最差表现。",
+          "url": "https://wallstreetcn.com/livenews/3047609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时59分]"
+        },
+        {
           "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
           "url": "https://wallstreetcn.com/livenews/3047589",
           "source": "华尔街见闻-快讯",
@@ -1266,18 +1302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时17分]"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场基准股票指数跌1.7%，创2025年11月以来最差单日表现，1月份累计涨幅收窄至大约9%，仍然创2012年以来最佳单月表现。 新兴市场外汇指数跌约0.3%，使得1月份累计涨幅收窄至0.6%。 周五当天，南非兰特兑美元跌2.6%，创4月份以来最差表现。",
-          "url": "https://wallstreetcn.com/livenews/3047609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
         },
         {
           "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
@@ -1346,11 +1370,12 @@
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时59分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -1358,11 +1383,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 12时59分]"
         }
       ]
     },
