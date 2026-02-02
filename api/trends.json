@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:35:33.196151+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-02-02T19:29:58.111660+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 48,
       "titles": [
         {
           "title": "武契奇预判48小时内伊朗将遭到美国袭击",
@@ -69,6 +69,20 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 19时29分]"
+        },
+        {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
           "url": "https://flash.jin10.com/detail/20260201210033131800",
           "source": "金十数据",
@@ -108,18 +122,15 @@
           "time_info": "[00时17分 ~ 03时18分]"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
+          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
+          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 18时35分]"
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -131,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗为何突然在核问题上松口",
+          "url": "https://www.toutiao.com/trending/7602184928612077092/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
@@ -170,26 +192,48 @@
           "time_info": "16时32分"
         },
         {
-          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3048288",
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://wallstreetcn.com/livenews/3048321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗外长：敌方重型武器可以通过抵抗来击败。",
+          "url": "https://flash.jin10.com/detail/20260202191135715800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3048318",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时29分"
         },
         {
-          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
-          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
-          "source": "凤凰网",
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时29分"
         },
         {
           "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
@@ -227,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时35分]"
+        },
+        {
+          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3048288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "外媒：伊朗官员否认计划在霍尔木兹海峡举行军演",
@@ -270,9 +326,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
@@ -297,6 +364,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://flash.jin10.com/detail/20260202190502611800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
           "url": "https://wallstreetcn.com/livenews/3047908",
           "source": "华尔街见闻-快讯",
@@ -314,9 +392,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社2日报道，伊朗总统已下令启动核谈判。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260202190341422800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗媒体称伊美未来几天可能举行高规格谈判",
+          "url": "https://wallstreetcn.com/livenews/3048310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
@@ -330,13 +441,35 @@
           "time_info": "16时32分"
         },
         {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://flash.jin10.com/detail/20260202185452907800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
           "url": "https://flash.jin10.com/detail/20260202175216042800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -372,12 +505,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
+          "url": "https://www.toutiao.com/trending/7601995362588459050/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
+          "url": "https://flash.jin10.com/detail/20260202182302489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗有能力在无核武情况下自卫吗",
+          "url": "https://www.toutiao.com/trending/7601102138882506815/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260202182232113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260202182205225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -406,6 +594,18 @@
           "time_info": "[01时17分 ~ 09时11分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 19时29分]"
+        },
+        {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
           "source": "澎湃新闻",
@@ -430,18 +630,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时14分 ~ 16时32分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 18时35分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -678,7 +866,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -736,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
@@ -774,11 +973,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[13时57分 ~ 19时29分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -875,7 +1075,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1021,7 +1221,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -1072,7 +1272,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1214,8 +1414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时29分]"
         }
       ]
     },
