@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:47:46.576487+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-05T14:45:12.343918+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 14时45分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -67,8 +67,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时39分 ~ 13时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时39分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时45分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -84,15 +95,16 @@
           "time_info": "[00时34分 ~ 09时08分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时47分]"
+          "time_info": "[12时05分 ~ 14时45分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -116,18 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 09时08分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时47分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -455,7 +455,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -519,6 +519,29 @@
           "time_info": "[04时23分 ~ 05时24分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
+        },
+        {
           "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
           "url": "https://wallstreetcn.com/livenews/3050065",
           "source": "华尔街见闻-快讯",
@@ -567,29 +590,6 @@
           "time_info": "[04时23分 ~ 05时24分]"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时47分]"
-        },
-        {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时47分]"
-        },
-        {
           "title": "伊朗公布与美会谈时间地点",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E4%B8%8E%E7%BE%8E%E4%BC%9A%E8%B0%88%E6%97%B6%E9%97%B4%E5%9C%B0%E7%82%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -599,6 +599,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐分别与埃及、阿曼、卡塔尔三国外长通电话，就地区和国际局势最新进展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260205142631785800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
@@ -654,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "伊朗外长与中东三国外长通话讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3050388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗谈判还必须解决抗议活动和代理组织问题。",
@@ -739,7 +761,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -758,8 +780,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时45分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -771,6 +793,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet电话会结束。",
@@ -796,16 +831,15 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 14时45分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -911,17 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -1061,6 +1084,17 @@
           "time_info": "[00时34分 ~ 07时18分]"
         },
         {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时45分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
           "url": "https://www.cls.cn/detail/2280791",
           "source": "财联社热门",
@@ -1072,17 +1106,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时08分]"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时47分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1243,6 +1266,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时33分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
+          "url": "https://flash.jin10.com/detail/20260205141144762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1270,35 +1333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时33分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         }
       ]
     },
