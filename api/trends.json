@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T09:12:52.759481+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-02-12T12:15:13.772519+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -19,6 +19,21 @@
           "time_info": "[00时53分 ~ 07时23分]"
         },
         {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时51分 ~ 12时15分]"
+        },
+        {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
@@ -29,20 +44,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时23分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时51分 ~ 09时12分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -274,6 +275,17 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
           "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
           "url": "https://flash.jin10.com/detail/20260212030900400800",
           "source": "金十数据",
@@ -452,7 +464,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -559,7 +571,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -597,6 +609,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 05时32分]"
+        },
+        {
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时15分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -644,16 +669,15 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时12分]"
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -715,7 +739,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -779,6 +803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时29分]"
+        },
+        {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -858,22 +893,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时15分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时15分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -893,11 +930,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时12分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 12时15分]"
         }
       ]
     },
@@ -925,8 +963,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时15分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -976,7 +1014,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
