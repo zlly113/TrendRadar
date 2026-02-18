@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T09:13:59.832115+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-02-18T12:12:27.560634+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 09时13分]"
+          "appearance_count": 9,
+          "time_info": "[02时43分 ~ 12时12分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://flash.jin10.com/detail/20260218115602378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -151,6 +163,17 @@
           "time_info": "[02时43分 ~ 04时27分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时12分]"
+        },
+        {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
           "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
@@ -221,17 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -344,6 +356,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -369,7 +392,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -391,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时48分 ~ 12时12分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -413,9 +436,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时12分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -427,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3056206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "市场消息：伊朗外交部召见德国大使。",
@@ -477,6 +511,18 @@
           "time_info": "[01时48分 ~ 02时43分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时12分]"
+        },
+        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -500,6 +546,17 @@
           "time_info": "[02时43分 ~ 03时41分]"
         },
         {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://flash.jin10.com/detail/20260218010446612800",
           "source": "金十数据",
@@ -511,15 +568,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "12时12分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -566,6 +623,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://flash.jin10.com/detail/20260218111412582800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "伊朗外长：伊方坚持走和平核能发展道路",
           "url": "https://wallstreetcn.com/livenews/3056031",
           "source": "华尔街见闻-快讯",
@@ -580,7 +648,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -604,8 +672,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 12时12分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时12分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -617,17 +697,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -690,13 +759,24 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美股三大指数均小幅收涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -707,7 +787,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -781,7 +861,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -790,7 +870,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -841,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
+          "url": "https://wallstreetcn.com/livenews/3056192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -900,7 +991,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -927,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 09时13分]"
+        },
+        {
+          "title": "金价回调下的深圳水贝：黄金卖爆",
+          "url": "https://www.toutiao.com/trending/7608024655634370102/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
