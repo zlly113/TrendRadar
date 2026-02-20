@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T18:28:48.011442+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-02-20T19:24:26.889950+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 105,
       "titles": [
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 19时24分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时24分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时24分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时42分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时42分 ~ 19时24分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -148,6 +148,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时45分 ~ 16时31分]"
+        },
+        {
+          "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
+          "url": "https://flash.jin10.com/detail/20260220190226119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220185800297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
@@ -488,6 +510,17 @@
           "time_info": "[07时21分 ~ 09时08分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普称对台军售要跟中国商量",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%A6%81%E8%B7%9F%E4%B8%AD%E5%9B%BD%E5%95%86%E9%87%8F%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -806,17 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "特朗普：将解密UFO与外星生命相关文件",
@@ -1196,7 +1218,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "以总理：伊朗若攻击，将遭无法想象的回应",
@@ -1207,8 +1229,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 19时24分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1229,11 +1251,12 @@
           "ranks": [
             19,
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时24分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -1244,8 +1267,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时24分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1269,8 +1292,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时24分]"
+        },
+        {
+          "title": "伊朗致函联合国",
+          "url": "https://www.douyin.com/hot/2406601",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时42分 ~ 19时24分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -1330,19 +1366,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗致函联合国",
-          "url": "https://www.douyin.com/hot/2406601",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时42分 ~ 18时28分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -1440,6 +1463,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美考虑对伊朗有限军事打击",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%89%E9%99%90%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
@@ -1459,11 +1493,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -1488,6 +1523,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 12时06分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫与伊朗外长讨论伊朗核计划。",
+          "url": "https://flash.jin10.com/detail/20260220174419103800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时24分]"
         },
         {
           "title": "伊朗与俄罗斯海军联合海上演习结束",
@@ -1534,17 +1581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫与伊朗外长讨论伊朗核计划。",
-          "url": "https://flash.jin10.com/detail/20260220174419103800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
@@ -1608,7 +1644,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1672,8 +1708,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时22分 ~ 18时28分]"
+          "appearance_count": 14,
+          "time_info": "[06时22分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1685,8 +1721,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时24分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1722,8 +1758,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1734,8 +1770,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1760,6 +1796,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 06时22分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时24分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1793,19 +1842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 18时28分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -2018,11 +2054,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时24分]"
         }
       ]
     },
