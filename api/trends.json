@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T20:40:07.310152+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-02-25T22:05:30.571990+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 22时05分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 22时05分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时11分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时40分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -124,6 +124,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时51分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 22时05分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
@@ -260,19 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时40分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -867,7 +868,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -889,11 +890,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 20时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 22时05分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1011,7 +1013,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1022,7 +1024,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1149,6 +1151,17 @@
           "time_info": "[01时12分 ~ 01时51分]"
         },
         {
+          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
+          "url": "https://flash.jin10.com/detail/20260225212833464800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
           "url": "https://flash.jin10.com/detail/20260225015805598800",
           "source": "金十数据",
@@ -1215,6 +1228,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "德国外长：伊朗必须停止对哈马斯、真主党和胡塞武装的支持。",
+          "url": "https://flash.jin10.com/detail/20260225210414622800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "土耳其否认“计划以安全为由入侵伊朗领土”",
           "url": "https://wallstreetcn.com/livenews/3058748",
           "source": "华尔街见闻-快讯",
@@ -1224,12 +1248,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "伊朗：美国连装都不装了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%9E%E8%A3%85%E9%83%BD%E4%B8%8D%E8%A3%85%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1289,6 +1324,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时22分 ~ 15时45分]"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
@@ -1447,6 +1493,17 @@
           "time_info": "[19时42分 ~ 20时40分]"
         },
         {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
@@ -1464,7 +1521,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1478,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
@@ -1511,6 +1579,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
@@ -1565,56 +1694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价暴涨下的众生相",
-          "url": "https://www.toutiao.com/trending/7610085865549905966/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20260225150843874800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
-          "url": "https://flash.jin10.com/detail/20260225150719104800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
-          "url": "https://flash.jin10.com/detail/20260225150243003800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         }
       ]
     },
@@ -1693,7 +1772,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
