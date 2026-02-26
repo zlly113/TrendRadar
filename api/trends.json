@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:51:58.071232+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-26T14:47:12.149283+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -50,19 +50,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时47分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
           "url": "https://www.cls.cn/detail/2295374",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时47分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -173,6 +174,17 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
           "title": "美国多州政府和企业：特朗普，退钱！",
           "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
           "source": "凤凰网",
@@ -212,7 +224,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -275,7 +287,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -370,6 +382,17 @@
           "time_info": "[03时45分 ~ 04时26分]"
         },
         {
+          "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
+          "url": "https://flash.jin10.com/detail/20260226142001095800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美特使要求伊朗核协议永久有效",
           "url": "https://flash.jin10.com/detail/20260226020947270800",
           "source": "金十数据",
@@ -442,7 +465,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -453,7 +476,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -464,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -493,127 +516,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 06时22分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 13时51分]"
-        },
-        {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时51分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时51分]"
-        },
-        {
-          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3059060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3059057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
-          "url": "https://wallstreetcn.com/livenews/3059092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
-          "url": "https://flash.jin10.com/detail/20260226053342414800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260226013223686800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
@@ -640,6 +544,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时26分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
@@ -702,6 +639,125 @@
           "source": "金十数据",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 06时22分]"
+        },
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时47分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 13时51分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时47分]"
+        },
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3059092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
+          "url": "https://flash.jin10.com/detail/20260226053342414800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013223686800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -827,11 +883,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时47分]"
         }
       ]
     },
@@ -879,8 +936,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 14时47分]"
         }
       ]
     },
