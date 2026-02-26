@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:33:26.654997+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-02-26T20:39:52.582430+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 20时39分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 19时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时39分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时33分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 20时39分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -153,6 +153,19 @@
           "time_info": "15时44分"
         },
         {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时39分]"
+        },
+        {
           "title": "美财政部发布涉伊朗最新制裁名单",
           "url": "https://wallstreetcn.com/livenews/3059047",
           "source": "华尔街见闻-快讯",
@@ -191,6 +204,19 @@
           "time_info": "[03时45分 ~ 05时27分]"
         },
         {
+          "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
+          "url": "https://www.zhihu.com/question/2010294723651327618",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时39分]"
+        },
+        {
           "title": "中方支持伊朗政府和人民维护国家稳定",
           "url": "https://www.toutiao.com/trending/7610653794019885102/",
           "source": "今日头条",
@@ -200,18 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时38分 ~ 18时36分]"
-        },
-        {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时33分]"
         },
         {
           "title": "伊朗谈判团队抵达阿曼驻日内瓦外交代表机构",
@@ -226,16 +240,16 @@
           "time_info": "[15时44分 ~ 16时35分]"
         },
         {
-          "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
-          "url": "https://www.zhihu.com/question/2010294723651327618",
-          "source": "知乎",
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            15
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时33分]"
+          "time_info": "[19时33分 ~ 20时39分]"
         },
         {
           "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
@@ -281,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗官员：若伊美谈判核心为伊朗不发展核武器 有望迅速达成协议",
+          "url": "https://wallstreetcn.com/livenews/3059554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
@@ -338,17 +363,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "伊朗总统佩泽希齐扬：最高领袖禁止核武器，就意味着伊朗不会发展核武器。",
           "url": "https://flash.jin10.com/detail/20260226145442873800",
           "source": "金十数据",
@@ -369,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
@@ -597,8 +622,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[14时46分 ~ 20时39分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -652,6 +677,19 @@
           "time_info": "[16时35分 ~ 19时33分]"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时39分]"
+        },
+        {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
           "url": "https://flash.jin10.com/detail/20260226024823938800",
           "source": "金十数据",
@@ -685,6 +723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -722,18 +771,6 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时33分]"
-        },
-        {
           "title": "美国多州政府和企业：特朗普，退钱！",
           "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
           "source": "凤凰网",
@@ -743,17 +780,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
@@ -880,8 +906,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时20分 ~ 19时33分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 20时39分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -1285,11 +1311,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时39分]"
         },
         {
           "title": "金价波动",
@@ -1298,7 +1325,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
@@ -1329,7 +1356,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -1340,7 +1367,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
