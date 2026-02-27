@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-02-28T04:19:15.985071+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-28T05:20:02.369336+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
+        },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
           "url": "https://flash.jin10.com/detail/20260228001824218800",
@@ -19,42 +55,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
-        },
-        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -64,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228041113668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -146,6 +135,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -233,6 +234,17 @@
           "time_info": "[02时27分 ~ 03时27分]"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
           "url": "https://flash.jin10.com/detail/20260228020707510800",
           "source": "金十数据",
@@ -288,6 +300,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国总统特朗普：古巴处境很危险。",
           "url": "https://flash.jin10.com/detail/20260228020158379800",
           "source": "金十数据",
@@ -316,7 +339,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -327,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -500,7 +523,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -510,8 +533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -521,8 +544,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "提醒在伊朗的中国公民尽快撤离",
@@ -532,8 +555,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -543,8 +566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -554,8 +577,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -568,8 +591,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -581,8 +604,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
@@ -594,8 +617,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美国 伊朗",
@@ -605,8 +628,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -616,8 +639,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "伊朗",
@@ -627,8 +650,52 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
+        },
+        {
+          "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260228051256394800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国国务院：伊朗政权必须停止扣押人质，并立即释放所有在伊朗被不公正拘留的美国公民。伊朗采取措施将有助于解除美国当前对它的制裁指定及相关行动。",
+          "url": "https://flash.jin10.com/detail/20260228051242645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国国务卿卢比奥宣称：美国人无论处于任何原因都不应该前往伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3060514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国国务院：伊朗被认定为支持非法拘禁的国家。",
+          "url": "https://flash.jin10.com/detail/20260228051156294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "伊朗外交部：伊朗外交部对巴基斯坦与阿富汗两国人民以及两国穆斯林之间局势趋紧深表遗憾，对由此对地区安全与人道局势造成的影响表示关切，并呼吁立即采取措施加以应对，以制止紧张局势升级并推动局势恢复正常",
@@ -664,6 +731,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时27分]"
+        },
+        {
+          "title": "波兰呼吁本国公民立即离开伊朗、以色列和黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3060484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时20分]"
         },
         {
           "title": "我驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
@@ -708,18 +787,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "波兰呼吁本国公民立即离开伊朗、以色列和黎巴嫩",
-          "url": "https://wallstreetcn.com/livenews/3060484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -752,7 +820,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -881,29 +949,31 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
           "url": "https://www.cls.cn/detail/2297763",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 05时20分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -916,6 +986,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时19分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
@@ -955,8 +1036,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -964,11 +1045,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时20分]"
         }
       ]
     },
@@ -1009,11 +1091,29 @@
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     }
