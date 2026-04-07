@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T02:25:38.605662+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-04-08T02:47:20.042970+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国否认将在伊朗使用核武器",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗民众组成人链保护发电厂和桥梁",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：因伊朗战争，国际货币基金组织将下调全球经济增长预期。",
+          "url": "https://flash.jin10.com/detail/20260408024508335800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "伊朗德黑兰防空系统已启动",
@@ -41,17 +52,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "古特雷斯对威胁伊朗言论深感不安，反对以军事目的伤害平民",
-          "url": "https://wallstreetcn.com/livenews/3083663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "伊朗称与美国之间的外交及间接对话渠道并未关闭",
           "url": "https://flash.jin10.com/detail/20260407234306114800",
           "source": "金十数据",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "伊朗称打击沙特境内一美资石化综合体",
+          "url": "https://flash.jin10.com/detail/20260408024406374800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "伊朗称哈尔克岛遇袭后形势稳定，关键设施未受损",
@@ -74,15 +85,16 @@
           "time_info": "00时05分"
         },
         {
-          "title": "伊朗代表：俄罗斯和中国阻止了滥用安理会的行为",
-          "url": "https://wallstreetcn.com/livenews/3083661",
-          "source": "华尔街见闻-快讯",
+          "title": "英媒：消息人士称伊朗拒绝“临时停火”",
+          "url": "https://news.ifeng.com/c/8s8UTJGuiQs",
+          "source": "凤凰网",
           "ranks": [
-            2
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗称与美国之间的外交及间接对话渠道并未关闭",
@@ -113,33 +125,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "英媒：消息人士称伊朗拒绝“临时停火”",
-          "url": "https://news.ifeng.com/c/8s8UTJGuiQs",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
-        },
-        {
-          "title": "伊朗关闭与美国所有外交渠道",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E5%A4%96%E4%BA%A4%E6%B8%A0%E9%81%93%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
         },
         {
           "title": "伊朗称若局势失控曼德海峡也将关闭",
@@ -150,8 +138,45 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
+        },
+        {
+          "title": "古特雷斯对威胁伊朗言论深感不安，反对以军事目的伤害平民",
+          "url": "https://wallstreetcn.com/livenews/3083663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗关闭与美国所有外交渠道",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E5%A4%96%E4%BA%A4%E6%B8%A0%E9%81%93%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗代表：俄罗斯和中国阻止了滥用安理会的行为",
+          "url": "https://wallstreetcn.com/livenews/3083661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
         },
         {
           "title": "伊朗民众组成人链保护发电厂桥梁",
@@ -161,8 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗关闭与美国所有沟通渠道",
@@ -172,8 +197,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "英媒宣称：伊朗最高领袖病重昏迷，已无法参与国家决策",
@@ -183,8 +208,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗已关闭与美国的所有外交和间接沟通渠道，冲突会进一步升级吗？美伊如果彻底断联，会带来哪些连锁反应？",
@@ -194,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗哈尔克岛再遭袭 传出多次爆炸声",
@@ -205,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "摩根大通资管：关于伊朗局势，投资者有两大误判",
@@ -217,8 +242,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "“期限”将至 五角大楼被曝欲打击伊朗军民两用能源设施",
@@ -229,8 +254,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗已关闭与美国外交和间接沟通渠道",
@@ -241,8 +266,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗终止同美国直接外交联系",
@@ -253,8 +278,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗哈尔克岛再次遭到袭击，传出多次爆炸声，伊朗会如何回击？会封锁霍尔木兹海峡吗？",
@@ -265,8 +290,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗媒体：伊朗已关闭与美国的所有外交渠道和间接沟通渠道",
@@ -277,8 +302,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗哈尔克岛遭袭",
@@ -286,11 +311,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗称过去一天导弹袭击以色列北部未遭拦截，以放弃北部城市承认了失败，以实际意图如何？当前战局谁站上风？",
@@ -300,8 +326,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "美以袭击导致伊朗多段公路关闭",
@@ -312,8 +338,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗总统称已准备好牺牲",
@@ -324,8 +350,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗：哈尔克岛遭到袭击",
@@ -333,11 +359,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗公布对执行营救美军机开火画面",
@@ -348,8 +375,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗“飞天小摩托”直冲美军基地",
@@ -360,8 +387,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗：哈尔克岛局势得到控制",
@@ -370,9 +397,77 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗再称没有与美国谈判",
+          "url": "https://news.ifeng.com/c/8s8ZoPSDzwj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗霍拉姆沙赫尔两处地点遭美以空袭",
+          "url": "https://wallstreetcn.com/livenews/3083652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗公布“哈迪德110”高速无人机打击画面(图)",
+          "url": "https://news.ifeng.com/c/8s8Z6F4mZzr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "使用弹道导弹、巡航导弹和无人机，伊朗发动“真实承诺－4”行动第99波攻势",
+          "url": "https://wallstreetcn.com/livenews/3083647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗对美以发动第99波打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E4%BB%A5%E5%8F%91%E5%8A%A8%E7%AC%AC99%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗媒体发布警告，提醒居民和公民在穿越沙特阿拉伯、阿联酋和巴林的多座桥梁及道路时注意安全。伊朗媒体称，这些区域将于德黑兰时间晚11时起被宣布为封闭军事区，直至另行通知。",
+          "url": "https://flash.jin10.com/detail/20260408024040632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "02时47分"
         },
         {
           "title": "卫星数据机构Earth-i：伊朗两座主要铜冶炼厂似乎已停产",
@@ -397,17 +492,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "伊朗再称没有与美国谈判",
-          "url": "https://news.ifeng.com/c/8s8ZoPSDzwj",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "伊朗：克制已结束，将打击美国及其盟友的基础设施",
           "url": "https://news.ifeng.com/c/8s8RuKzaPYj",
           "source": "凤凰网",
@@ -425,9 +509,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "伊朗代表：俄罗斯和中国阻止了滥用安理会的行为",
+          "url": "https://flash.jin10.com/detail/20260408023615746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "WTI原油5分钟内下跌0.65美元/桶，报116.02美元/桶。 据伊朗媒体MEHR报道，伊朗哈尔克岛局势得到控制，岛上石油设施没有受到影响。",
@@ -441,6 +536,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "伊朗代表：断然拒绝临时停火，要求彻底停止侵略",
+          "url": "https://wallstreetcn.com/livenews/3083666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "巴林外长在联合国安理会表示，伊朗“没有权利”关闭霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260407233355302800",
           "source": "金十数据",
@@ -452,15 +558,15 @@
           "time_info": "00时05分"
         },
         {
-          "title": "伊朗霍拉姆沙赫尔两处地点遭美以空袭",
-          "url": "https://wallstreetcn.com/livenews/3083652",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗第一副总统就针对伊朗基础设施的威胁作出回应：政府已做好应对各种情况的准备。",
+          "url": "https://flash.jin10.com/detail/20260408023459754800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "02时47分"
         },
         {
           "title": "英媒：美军绕道18小时飞往伊朗，靠药物提神",
@@ -474,15 +580,15 @@
           "time_info": "00时05分"
         },
         {
-          "title": "伊朗公布“哈迪德110”高速无人机打击画面(图)",
-          "url": "https://news.ifeng.com/c/8s8Z6F4mZzr",
-          "source": "凤凰网",
+          "title": "教皇表示，针对伊朗全体民众的威胁“不可接受”，呼吁全球关注在伊朗“局势升级”中遇难的受害者，其中包括儿童。许多人称伊朗战争为“不义之战”。针对民用基础设施的袭击违反国际法。",
+          "url": "https://flash.jin10.com/detail/20260408023436053800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "02时47分"
         },
         {
           "title": "伊朗“飞天小摩托”直冲美军基地",
@@ -502,18 +608,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "使用弹道导弹、巡航导弹和无人机，伊朗发动“真实承诺－4”行动第99波攻势",
-          "url": "https://wallstreetcn.com/livenews/3083647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -524,7 +619,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -551,13 +646,35 @@
           "time_info": "00时05分"
         },
         {
+          "title": "伊朗威胁切断美国及其盟友石油供应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "伊朗代表：断然拒绝临时停火 要求彻底停止侵略",
+          "url": "https://flash.jin10.com/detail/20260408021909692800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "标普500指数维持0.4%的跌幅。据纽约时报，美国、以色列、伊朗在最后期限之前加快互相打击的行动。",
           "url": "https://wallstreetcn.com/livenews/3083642",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -568,7 +685,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -601,7 +718,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -612,7 +729,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -623,18 +740,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "伊朗对美以发动第99波打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E4%BB%A5%E5%8F%91%E5%8A%A8%E7%AC%AC99%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -645,7 +751,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -664,7 +770,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
@@ -675,8 +781,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普威胁伊朗“最后期限”，中方表态",
@@ -687,8 +793,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
@@ -699,8 +805,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普威胁伊朗：整个文明将消亡",
@@ -710,8 +816,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
@@ -721,8 +827,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
@@ -732,8 +838,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "联合国警告特朗普：或涉战争罪",
@@ -743,8 +849,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "美以伊战争丨特朗普：可能调整对伊朗的最后期限",
@@ -776,8 +882,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
@@ -788,8 +894,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
@@ -800,8 +906,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "联合国警告特朗普政府",
@@ -812,8 +918,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
@@ -824,8 +930,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "联合国警告特朗普",
@@ -833,11 +939,12 @@
           "source": "微博",
           "ranks": [
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
@@ -848,8 +955,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普威胁伊朗：“整个文明将消亡”",
@@ -860,8 +967,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "中方就特朗普威胁伊朗表态",
@@ -871,8 +978,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
@@ -883,8 +990,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "韩国回应特朗普",
@@ -892,11 +999,12 @@
           "source": "微博",
           "ranks": [
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "特朗普威胁称伊朗整个文明将消亡",
@@ -906,8 +1014,32 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
+        },
+        {
+          "title": "特朗普最后通牒之后",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E4%B9%8B%E5%90%8E%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "time_info": "[02时25分 ~ 02时47分]"
+        },
+        {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时47分]"
         },
         {
           "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
@@ -943,17 +1075,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "特朗普最后通牒之后",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E4%B9%8B%E5%90%8E%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "特朗普称若谈判出现进展，将考虑改变对伊朗打击行动",
           "url": "https://wallstreetcn.com/livenews/3083600",
           "source": "华尔街见闻-快讯",
@@ -987,13 +1108,24 @@
           "time_info": "00时05分"
         },
         {
+          "title": "法国外长：我希望美国总统特朗普不要实施其针对伊朗的威胁。",
+          "url": "https://flash.jin10.com/detail/20260408021728897800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "两年期德债收益率涨超10个基点，投资者关注特朗普威胁论调对于油价的影响",
           "url": "https://wallstreetcn.com/livenews/3083635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -1004,18 +1136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "中方表态特朗普威胁伊朗最后期限",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -1026,7 +1147,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -1045,8 +1166,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -1056,8 +1177,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         },
         {
           "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -1066,7 +1187,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -1077,7 +1198,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -1096,8 +1217,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         }
       ]
     },
@@ -1111,11 +1232,12 @@
           "source": "微博",
           "ranks": [
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时47分]"
         }
       ]
     }
