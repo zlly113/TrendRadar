@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T18:06:17.756321+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-04-27T20:16:42.698362+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 83,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -142,6 +142,20 @@
           "time_info": "[02时36分 ~ 07时31分]"
         },
         {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
+        },
+        {
           "title": "伊朗外交部：外长将在巴基斯坦短暂停留，随后前往俄罗斯。",
           "url": "https://wallstreetcn.com/livenews/3094539",
           "source": "华尔街见闻-快讯",
@@ -157,6 +171,19 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
+          "title": "美国：已收到伊朗谈判新方案",
+          "url": "https://www.cls.cn/detail/2356393",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
+        },
+        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://www.cls.cn/detail/2356080",
           "source": "财联社热门",
@@ -170,6 +197,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时29分 ~ 13时01分]"
+        },
+        {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时16分]"
         },
         {
           "title": "伊朗外长抵达巴基斯坦",
@@ -242,40 +280,17 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
+          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031995592310616152",
+          "source": "知乎",
           "ranks": [
             10,
-            5,
-            4
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
-        },
-        {
-          "title": "美国：已收到伊朗谈判新方案",
-          "url": "https://www.cls.cn/detail/2356393",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
-        },
-        {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 20时16分]"
         },
         {
           "title": "伊朗议会高官：通过霍尔木兹海峡的船只必须缴费",
@@ -347,9 +362,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "伊朗外长说美方过分要求令上一轮谈判无果而终",
+          "url": "https://wallstreetcn.com/livenews/3094997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
@@ -385,9 +411,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "伊朗外长抵俄，将同普京举行会谈",
+          "url": "https://news.ifeng.com/c/8sf1sT66OmC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
         },
         {
           "title": "据伊朗媒体：伊朗外长重返巴基斯坦与核谈判“无关”。",
@@ -402,19 +440,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时39分]"
-        },
-        {
-          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
-          "url": "https://www.zhihu.com/question/2031995592310616152",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 18时06分]"
         },
         {
           "title": "油轮追踪数据显示，美国海军拦截后，价值10亿美元的石油货物被重新运回伊朗。",
@@ -487,6 +512,20 @@
           "time_info": "[03时39分 ~ 06时28分]"
         },
         {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
+        },
+        {
           "title": "轰炸中，伊朗国宝来到中国",
           "url": "https://news.ifeng.com/c/8sen9ipnPrr",
           "source": "凤凰网",
@@ -522,18 +561,6 @@
           "time_info": "[04时28分 ~ 06时28分]"
         },
         {
-          "title": "伊朗外长抵俄，将同普京举行会谈",
-          "url": "https://news.ifeng.com/c/8sf1sT66OmC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
-        },
-        {
           "title": "油轮追踪数据显示，伊朗在其原油码头装载了460万桶原油，另有400万桶石油似乎已突破美国封锁线。",
           "url": "https://flash.jin10.com/detail/20260427022020023800",
           "source": "金十数据",
@@ -560,19 +587,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时32分 ~ 04时28分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
         },
         {
           "title": "伊朗外长折返伊斯兰堡内情披露",
@@ -649,6 +663,19 @@
           "time_info": "[12时59分 ~ 15时34分]"
         },
         {
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 20时16分]"
+        },
+        {
           "title": "美国已收到伊朗谈判新方案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -717,18 +744,6 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 18时06分]"
-        },
-        {
           "title": "伊朗外长：呼吁建立“不受美国干预”的集体安全机制",
           "url": "https://wallstreetcn.com/livenews/3094508",
           "source": "华尔街见闻-快讯",
@@ -768,7 +783,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -801,7 +816,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -815,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "伊朗战争丨伊外长：美方过分要求令谈判无果而终",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
@@ -834,7 +860,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -872,6 +898,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "德国总理：暂未看到美方在伊朗战争中的退出战略",
+          "url": "https://wallstreetcn.com/livenews/3094982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：伊朗与阿曼达成一致，将继续就霍尔木兹海峡进行专家级磋商。",
           "url": "https://flash.jin10.com/detail/20260427121213894800",
           "source": "金十数据",
@@ -894,13 +931,24 @@
           "time_info": "09时47分"
         },
         {
+          "title": "俄总统普京27日将在圣彼得堡会见来访的伊朗外长阿拉格齐",
+          "url": "https://wallstreetcn.com/livenews/3094973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "伊朗议长：伊方仍握有“关键底牌”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF%EF%BC%9A%E4%BC%8A%E6%96%B9%E4%BB%8D%E6%8F%A1%E6%9C%89%E2%80%9C%E5%85%B3%E9%94%AE%E5%BA%95%E7%89%8C%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -960,6 +1008,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "伊朗暂停出口钢材至5月30日",
+          "url": "https://www.toutiao.com/trending/7633255146095181860/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：巴基斯坦的会谈审查了恢复伊朗与美国谈判的条件。",
           "url": "https://flash.jin10.com/detail/20260427115215416800",
           "source": "金十数据",
@@ -974,7 +1033,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -1057,6 +1116,22 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            12,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 20时16分]"
+        },
+        {
           "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
           "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
           "source": "澎湃新闻",
@@ -1112,21 +1187,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 13时01分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 18时06分]"
         },
         {
           "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
@@ -1206,11 +1266,24 @@
             13,
             22,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 18时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 20时16分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -1226,18 +1299,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -1345,6 +1406,17 @@
           "time_info": "[09时47分 ~ 15时34分]"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
           "url": "https://wallstreetcn.com/livenews/3094520",
           "source": "华尔街见闻-快讯",
@@ -1440,7 +1512,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1471,6 +1543,19 @@
           "time_info": "[01时32分 ~ 05时29分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时16分]"
+        },
+        {
           "title": "今晨7:00 特朗普采访将播出",
           "url": "https://flash.jin10.com/detail/20260427034708194800",
           "source": "金十数据",
@@ -1494,19 +1579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 18时06分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
@@ -1548,6 +1620,19 @@
           "time_info": "[01时32分 ~ 03时39分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 20时16分]"
+        },
+        {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
           "url": "https://wallstreetcn.com/livenews/3094509",
           "source": "华尔街见闻-快讯",
@@ -1582,18 +1667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时32分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 18时06分]"
         },
         {
           "title": "美国总统特朗普：我们必须拿下伊朗的“核尘埃”，我们会做到的。",
@@ -1644,6 +1717,17 @@
           "time_info": "[00时32分 ~ 01时32分]"
         },
         {
+          "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
+          "url": "https://wallstreetcn.com/livenews/3094993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "枪案现场特朗普撤离时有人趁乱偷酒",
           "url": "https://www.toutiao.com/trending/7632891671742906422/",
           "source": "今日头条",
@@ -1661,7 +1745,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1697,6 +1781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗：特朗普政府正在关注高肉价问题。（福克斯商业频道）",
+          "url": "https://flash.jin10.com/detail/20260427194449661800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京和乌克兰总统泽连斯基进行过交谈。",
@@ -1793,7 +1888,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1903,6 +1998,17 @@
           "time_info": "[00时31分 ~ 09时47分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 20时16分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://wallstreetcn.com/livenews/3094547",
           "source": "华尔街见闻-快讯",
@@ -1916,17 +2022,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时31分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 18时06分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -1949,8 +2044,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 18时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 20时16分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -1972,11 +2067,12 @@
           "url": "https://www.cls.cn/detail/2356575",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时16分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -2028,6 +2124,18 @@
           "time_info": "[00时31分 ~ 01时32分]"
         },
         {
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时16分]"
+        },
+        {
           "title": "DeepSeek调整API计费",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
           "source": "bilibili 热搜",
@@ -2045,18 +2153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -2108,7 +2205,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -2131,8 +2228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 18时06分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 20时16分]"
         },
         {
           "title": "美股三大股指期货周一小幅低开0.2%。",
@@ -2147,13 +2244,24 @@
           "time_info": "[06时28分 ~ 07时31分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
           "url": "https://www.cls.cn/detail/2356367",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -2164,9 +2272,81 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "高通美股盘前涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3094965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "威瑞森第一季度调整后EBITDA 134亿美元，预估131.4亿美元。 第一季度营运收入344.4亿美元，预估348亿美元。 第一季度调整后每股收益1.28美元，预估1.21美元。 威瑞森仍然预测全年自由现金流至少215亿美元，市场预估214.3亿美元。 威瑞森预计全年调整后每股收益4.95美元至4.99美元，市场预估4.90美元，此前预估4.9美元-4.95美元。 威瑞森仍然预测全年资本支出160亿美元至165亿美元。 威瑞森仍然预测全年营业现金流375亿美元至380亿美元。 威瑞森美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3094956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中东冲突威胁经济与汽车业，分析师下调2026年铂金钯金价格预测",
+          "url": "https://flash.jin10.com/detail/20260427195404149800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "路透调查：2026年金价预测中值升至4916美元，创调查以来新高",
+          "url": "https://flash.jin10.com/detail/20260427195025603800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）上海金午盘价为1037.69元/克，较国际金价(1034.6元/克)，高3.09元/克",
+          "url": "https://flash.jin10.com/detail/20260427150140333800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "“超级央行周”杀到，但金价反弹成色仍不足？",
+          "url": "https://flash.jin10.com/detail/20260427115236862800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -2192,37 +2372,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月27日（周一）上海金午盘价为1037.69元/克，较国际金价(1034.6元/克)，高3.09元/克",
-          "url": "https://flash.jin10.com/detail/20260427150140333800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "“超级央行周”杀到，但金价反弹成色仍不足？",
-          "url": "https://flash.jin10.com/detail/20260427115236862800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         }
       ]
     },
