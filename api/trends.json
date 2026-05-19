@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:56:13.696948+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-05-19T10:11:51.857050+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -13,18 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普连发15张图分享中国记忆",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -42,6 +30,19 @@
           "time_info": "[01时25分 ~ 07时56分]"
         },
         {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
+        },
+        {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
           "url": "https://www.toutiao.com/trending/7640786941127196678/",
           "source": "今日头条",
@@ -56,6 +57,19 @@
           "time_info": "[01时25分 ~ 07时56分]"
         },
         {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
+        },
+        {
           "title": "特朗普涉台“四不”示警“台独”",
           "url": "https://www.toutiao.com/trending/7641033902121058340/",
           "source": "今日头条",
@@ -64,18 +78,6 @@
             6,
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -143,6 +145,19 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 10时11分]"
+        },
+        {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
           "url": "https://flash.jin10.com/detail/20260519030339830800",
           "source": "金十数据",
@@ -152,6 +167,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "默克尔：不要低估特朗普",
+          "url": "https://www.toutiao.com/trending/7641032208708436014/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
@@ -188,16 +225,16 @@
           "time_info": "[01时25分 ~ 03时24分]"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
+            29,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 07时56分]"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 10时11分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -247,13 +284,36 @@
           "time_info": "[06时48分 ~ 07时56分]"
         },
         {
+          "title": "UP主独家解读特朗普访华国宴",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
           "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -267,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -341,7 +412,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -506,7 +577,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -555,33 +626,22 @@
           "time_info": "06时48分"
         },
         {
+          "title": "特朗普称推迟攻击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
           "url": "https://flash.jin10.com/detail/20260519052015836800",
           "source": "金十数据",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "外交部回应特朗普涉台表态",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "UP主独家解读特朗普访华国宴",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -613,7 +673,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -624,19 +684,46 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://news.ifeng.com/c/8tEctFxkrzc",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
+        },
+        {
+          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
+          "url": "https://wallstreetcn.com/articles/3772533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
+          "time_info": "[03时23分 ~ 10时11分]"
         },
         {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
@@ -661,20 +748,6 @@
           "time_info": "[01时25分 ~ 07时56分]"
         },
         {
-          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
-          "url": "https://wallstreetcn.com/articles/3772533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
-        },
-        {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
           "url": "https://news.ifeng.com/c/8tEPWGzaW36",
           "source": "凤凰网",
@@ -684,17 +757,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时25分 ~ 07时56分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 07时56分]"
         },
         {
           "title": "伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社）",
@@ -749,7 +811,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -819,6 +881,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "澳洲联储公布5月会议纪要：加息让我们对核心CPI回归至2.5%更具信心。 企业正考虑提价，工人可能会寻求加薪。 加息后金融状况可能在一定程度上具有限制性。 鉴于通胀前景，选择加息而非暂停加息。 加息无法改变近期通胀轨迹。 加息提供了评估家庭对战争反应的空间，加息也留出了观察家庭、企业反应的空间。 价格预期失去锚定的风险增加了加息的理由。 持异议者认为，持久的伊朗战争对需求的压制更大。 澳洲联储讨论了其他货币政策工具的框架。",
+          "url": "https://wallstreetcn.com/livenews/3105707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "据伊朗迈赫新闻社报道，霍尔木兹海峡附近的凯什姆岛已启动防空系统，具体原因尚不清楚。",
@@ -898,6 +982,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "澳洲联储会议纪要：委员会讨论了金融市场是否低估了伊朗冲突风险的可能性。",
+          "url": "https://flash.jin10.com/detail/20260519093508538800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "伊朗哈尔克岛连续10天未见油轮",
           "url": "https://wallstreetcn.com/livenews/3105580",
           "source": "华尔街见闻-快讯",
@@ -965,11 +1060,12 @@
           "ranks": [
             7,
             6,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
         },
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -979,19 +1075,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 10时11分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
           "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 10时11分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 10时11分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -1014,18 +1124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 07时56分]"
         },
         {
           "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
@@ -1168,8 +1266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 10时11分]"
         },
         {
           "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
@@ -1215,6 +1313,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价跳水 黑金首饰受追捧",
+          "url": "https://www.toutiao.com/trending/7640315819964645412/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯云：智能体开发平台中提供的 Hy3 preview、DeepSeek-V4-Pro 模型，将于北京时间2026年5月27日10:00起结束限时免费公测，转为正式商用服务，根据模型调用按量计费。",
+          "url": "https://flash.jin10.com/detail/20260519094946718800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
