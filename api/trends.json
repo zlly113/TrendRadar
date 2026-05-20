@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T00:48:32.818894+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-21T03:13:41.348420+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
         },
         {
           "title": "特朗普继续口头威胁伊朗",
@@ -52,17 +63,6 @@
           "time_info": "00时48分"
         },
         {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
           "title": "特朗普：海岸警卫队已总共扣押3艘伊朗船只。",
           "url": "https://flash.jin10.com/detail/20260521003022920800",
           "source": "金十数据",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
+          "url": "https://flash.jin10.com/detail/20260521024809837800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普：除非伊朗变得聪明，否则还会有更多冲突。",
@@ -96,6 +107,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
+          "url": "https://flash.jin10.com/detail/20260521024751852800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "特朗普：委内瑞拉石油将运往得克萨斯州、路易斯安那州和阿拉斯加州。",
           "url": "https://flash.jin10.com/detail/20260521002832686800",
           "source": "金十数据",
@@ -105,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普：与土耳其总统埃尔多安进行了良好的通话。",
+          "url": "https://flash.jin10.com/detail/20260521024640790800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普重申结束陆路毒品贩运的承诺。",
@@ -118,6 +151,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "特朗普：如果我没有得到关于伊朗的正确答案，事情会迅速发展；我需要伊朗提供完全100%的好答案。",
+          "url": "https://flash.jin10.com/detail/20260521024612399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "特朗普对美国的封锁措施表示称赞。",
           "url": "https://flash.jin10.com/detail/20260521002731140800",
           "source": "金十数据",
@@ -127,6 +171,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普：将等待伊朗的回应几天；在达成协议之前不会作出任何放松。",
+          "url": "https://flash.jin10.com/detail/20260521024553061800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3106875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普：（关于伊朗）我们正在与理性的人打交道。",
+          "url": "https://flash.jin10.com/detail/20260521024427486800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普：（关于伊朗）我们必须得到正确的答案。",
+          "url": "https://flash.jin10.com/detail/20260521024415165800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普：必须帮助古巴人民，我们正在解放古巴。古巴局势不会升级局势。",
+          "url": "https://flash.jin10.com/detail/20260521024401137800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普：伊朗非常渴望达成协议。",
@@ -162,6 +261,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
+          "url": "https://flash.jin10.com/detail/20260521024115124800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "特朗普：（就伊朗问题伊朗）我们得到了很大的支持。",
           "url": "https://flash.jin10.com/detail/20260521002107020800",
           "source": "金十数据",
@@ -171,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普政府将提供另外2亿美元，以在明年启动改造后的纽约宾州车站。",
+          "url": "https://flash.jin10.com/detail/20260521023857768800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普：我们可能需要对伊朗采取更强硬的措施，但也许不需要。",
@@ -219,9 +340,148 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "伊朗",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
+          "url": "https://flash.jin10.com/detail/20260521003657707800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3106888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
+          "url": "https://wallstreetcn.com/livenews/3106886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
+          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
+          "url": "https://wallstreetcn.com/livenews/3106881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
+          "url": "https://wallstreetcn.com/livenews/3106876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
+          "url": "https://wallstreetcn.com/livenews/3106871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗外长前往美国参加联合国会议的筹备工作仍然在推进职中。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://wallstreetcn.com/livenews/3106869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
+          "url": "https://wallstreetcn.com/livenews/3106829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
+          "url": "https://flash.jin10.com/detail/20260521030904258800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
           "url": "https://wallstreetcn.com/livenews/3106852",
@@ -287,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3106863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
@@ -306,22 +577,23 @@
           "time_info": "00时48分"
         },
         {
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
           "title": "谷歌在AI模型推出更有用的广告。",
           "url": "https://wallstreetcn.com/livenews/3106842",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -371,11 +643,35 @@
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股盘中）",
@@ -387,67 +683,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美债",
       "match_count": 3,
       "titles": [
         {
-          "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
-          "url": "https://flash.jin10.com/detail/20260521003657707800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
-          "url": "https://wallstreetcn.com/livenews/3106829",
+          "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
+          "url": "https://wallstreetcn.com/livenews/3106887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
+        },
+        {
+          "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "03时13分"
         }
       ]
     },
@@ -460,11 +735,12 @@
           "url": "https://www.zhihu.com/question/2040450519303288568",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时13分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -472,23 +748,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
