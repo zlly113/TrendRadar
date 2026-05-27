@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:01:36.431649+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-05-27T08:06:49.977786+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
@@ -85,8 +85,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息",
@@ -98,19 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
-          "url": "https://wallstreetcn.com/articles/3773115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -152,11 +153,24 @@
           "source": "知乎",
           "ranks": [
             11,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
+          "url": "https://wallstreetcn.com/livenews/3109673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时06分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -176,9 +190,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗公布击落美MQ-9死神无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -201,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
-          "url": "https://wallstreetcn.com/livenews/3109673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "伊朗革命卫队声称正在对霍尔木兹海峡实施“智能控制”，并警告称，任何在该水道的侵略行为将遭到“毁灭性”回应，进一步强化了德黑兰在维护该战略要道主权上的立场。",
@@ -269,6 +283,17 @@
           "time_info": "03时54分"
         },
         {
+          "title": "世界杯伊朗男足仅比赛日跨境赴美",
+          "url": "https://www.toutiao.com/trending/7643344386417115142/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "伊朗总统：与卡塔尔埃米尔通了电话。",
           "url": "https://flash.jin10.com/detail/20260526235106798800",
           "source": "金十数据",
@@ -300,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "伊朗呼吁伊拉克确保领土不被用于威胁伊朗",
+          "url": "https://flash.jin10.com/detail/20260527071751569800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -346,6 +382,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊朗民众：美方言行不可信 必须保持高度警惕",
+          "url": "https://flash.jin10.com/detail/20260527070124074800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
           "url": "https://wallstreetcn.com/livenews/3109605",
           "source": "华尔街见闻-快讯",
@@ -382,8 +429,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
+        },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
           "url": "https://wallstreetcn.com/livenews/3109650",
@@ -405,19 +465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -453,6 +500,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时28分]"
+        },
+        {
+          "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3109667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
+          "url": "https://wallstreetcn.com/livenews/3109663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
@@ -510,15 +592,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3109667",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗寻求经济纾困，但避免让特朗普宣告胜利",
+          "url": "https://flash.jin10.com/detail/20260527072115517800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时06分"
         },
         {
           "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
@@ -538,18 +620,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
-          "url": "https://wallstreetcn.com/livenews/3109663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -560,7 +631,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -582,7 +653,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -593,7 +664,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -604,7 +675,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -612,7 +683,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -620,11 +691,23 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -649,6 +732,18 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时06分]"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260527003022520800",
           "source": "金十数据",
@@ -671,17 +766,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3109642",
           "source": "华尔街见闻-快讯",
@@ -691,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股收盘：标普500和纳指再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -766,6 +861,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
+          "url": "https://wallstreetcn.com/articles/3773150",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -779,8 +891,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时06分]"
         }
       ]
     }
