@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T13:50:08.061402+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-05-30T16:16:17.112464+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -17,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 16时16分]"
+        },
+        {
+          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 16时16分]"
         },
         {
           "title": "特朗普肖像纪念钞能流通吗",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
-          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
+          "url": "https://v.ifeng.com/c/8tXkQpz5ynL",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【伊朗知情人士：特朗普言论“真假参半”】据伊朗法尔斯通讯社29日报道，伊朗知情人士驳斥了美国总统特朗普关于可能与伊朗达成协议的言论，称其“真假参半”，试图描绘一场捏造的胜利。“几乎所有人都已清楚，这些说法缺乏可信度。”（新华社）",
@@ -125,11 +136,12 @@
           "url": "https://www.cls.cn/detail/2385988",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 16时16分]"
         },
         {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
@@ -163,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【伊朗消息人士指责特朗普歪曲和回避协议内容】金十数据5月29日讯，据伊朗媒体Fars News：知情人士驳斥了特朗普关于可能与伊朗达成协议的最新说法，称其言论“真假参半”，旨在炮制一场虚假的胜利。如今几乎所有人都已看清，特朗普的这些说法根本站不住脚。据相关报道，这份以“对等承诺”形式起草的协议文本，目前正处于伊朗国内批准程序的最后阶段，尚未做出最终决定。与此形成鲜明对比的是，特朗普却抛出了一些与协议文本条款相悖的议题。与此同时，他却宣称将立即解除封锁。 特朗普对协议核心内容的歪曲包括：1.特朗普声称，伊朗有义务在不收取任何费用的前提下开放霍尔木兹海峡；然而，协议文本中根本不存在此类条款。2.特朗普声称，伊朗将拆除或销毁其核材料。知情人士强调指出，不仅谅解备忘录中毫无此类内容，特朗普的这一说法更是彻头彻尾的无稽之谈。 特朗普刻意回避的协议关键条款：1.特朗普只字未提、却至关重要的一项内容，即关于立即解冻并向伊朗支付120亿美元被冻结资产的先决条件。2.黎巴嫩停火。3.伊朗官员亦强调，最终协议将以伊朗伊斯兰共和国的原则与“红线”为基础。",
@@ -270,7 +293,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -281,7 +304,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -292,7 +315,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -347,7 +370,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -361,12 +384,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普名字被判从肯尼迪中心移除",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E8%A2%AB%E5%88%A4%E4%BB%8E%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -387,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 16时16分]"
         },
         {
           "title": "美国财长贝森特：伊朗通胀率可能超过200%。",
@@ -402,17 +436,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
-          "url": "https://wallstreetcn.com/livenews/3111733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
           "url": "https://flash.jin10.com/detail/20260530092605791800",
           "source": "金十数据",
@@ -424,6 +447,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "伊朗准备为阿里·哈梅内伊举行盛大葬礼",
+          "url": "https://news.ifeng.com/c/8tY4d8OWlGb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
           "url": "https://wallstreetcn.com/livenews/3111553",
           "source": "华尔街见闻-快讯",
@@ -433,6 +467,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
+          "url": "https://wallstreetcn.com/livenews/3111733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时16分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -564,7 +610,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -575,7 +621,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -591,6 +637,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "伊朗准备为阿里·哈梅内伊举行盛大葬礼",
+          "url": "https://wallstreetcn.com/livenews/3111742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛附近启动空中防御。",
           "url": "https://flash.jin10.com/detail/20260530021207111800",
           "source": "金十数据",
@@ -600,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "据彭博社援引一位直接了解情况的人士报道，伊朗对科威特一处空军基地发动的弹道导弹袭击造成数名美国人受轻伤，并严重损坏了两架美国MQ-9“收割者”无人机。",
+          "url": "https://flash.jin10.com/detail/20260530143011028800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
@@ -622,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗准备为阿里·哈梅内伊举行盛大葬礼",
+          "url": "https://flash.jin10.com/detail/20260530142955644800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
@@ -682,30 +761,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 07时03分]"
-        },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时16分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -718,8 +787,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 13时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 16时16分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 07时03分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -837,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 07时03分]"
+        },
+        {
+          "title": "美股商业航天股全线重挫",
+          "url": "https://www.douyin.com/hot/2517641",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
@@ -966,7 +1057,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
