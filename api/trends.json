@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-30T07:03:28.586056+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-30T10:02:01.746793+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
         {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
           "url": "https://wallstreetcn.com/livenews/3111606",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
-          "url": "https://wallstreetcn.com/livenews/3111660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普明确寻求霍尔木兹海峡的自由开放通行。",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -69,9 +69,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 10时02分]"
+        },
+        {
+          "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
+          "url": "https://wallstreetcn.com/livenews/3111660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 10时02分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -151,17 +175,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "伊朗消息人士否认了特朗普的最新评论",
           "url": "https://flash.jin10.com/detail/20260529234630741800",
           "source": "金十数据",
@@ -228,6 +241,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
           "url": "https://wallstreetcn.com/livenews/3111539",
           "source": "华尔街见闻-快讯",
@@ -275,7 +299,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -285,8 +309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 10时02分]"
         },
         {
           "title": "美国财长贝森特：伊朗通胀率可能超过200%。",
@@ -298,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
+          "url": "https://flash.jin10.com/detail/20260530092605791800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
@@ -379,6 +414,17 @@
           "time_info": "[05时44分 ~ 07时03分]"
         },
         {
+          "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260530091240513800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "【伊知情人士：伊朗尚未就伊美协议作出最终决定】伊朗法尔斯通讯社29日援引知情人士的话说，与美国的协议文本正处于伊朗国内审批的最后阶段，伊方尚未作出最终决定。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3111552",
           "source": "华尔街见闻-快讯",
@@ -412,6 +458,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国财政部对伊朗实施新制裁",
+          "url": "https://wallstreetcn.com/livenews/3111680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
           "url": "https://wallstreetcn.com/livenews/3111590",
           "source": "华尔街见闻-快讯",
@@ -443,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国没收伊朗10亿美元加密资产",
+          "url": "https://wallstreetcn.com/livenews/3111673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
@@ -503,7 +571,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -539,13 +607,37 @@
           "time_info": "[05时44分 ~ 07时03分]"
         },
         {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 10时02分]"
+        },
+        {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -561,18 +653,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 05时44分]"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 07时03分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -721,7 +801,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
