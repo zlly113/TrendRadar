@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-06-01T04:48:38.419677+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-06-01T05:48:54.761920+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
-          "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
-          "url": "https://flash.jin10.com/detail/20260601043137410800",
-          "source": "金十数据",
+          "title": "伊朗总统已向最高领袖提出辞职？官方回应",
+          "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
+          "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "伊官员称伊朗不会对美退让妥协",
-          "url": "https://flash.jin10.com/detail/20260601042445893800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时48分"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -37,8 +26,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时48分]"
+        },
+        {
+          "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
+          "url": "https://wallstreetcn.com/livenews/3111959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时48分]"
+        },
+        {
+          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -51,17 +62,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
-          "url": "https://wallstreetcn.com/livenews/3111959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时48分]"
         },
         {
           "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
@@ -88,15 +88,16 @@
           "time_info": "[01时55分 ~ 03时02分]"
         },
         {
-          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3111958",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
+          "url": "https://flash.jin10.com/detail/20260601043137410800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
         },
         {
           "title": "伊朗外交部长：与美国的会谈和信息交流仍在进行。",
@@ -147,6 +148,18 @@
           "time_info": "[03时02分 ~ 04时48分]"
         },
         {
+          "title": "伊官员称伊朗不会对美退让妥协",
+          "url": "https://flash.jin10.com/detail/20260601042445893800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
+        },
+        {
           "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
           "url": "https://flash.jin10.com/detail/20260601004849485800",
           "source": "金十数据",
@@ -173,6 +186,41 @@
           "time_info": "[00时56分 ~ 03时02分]"
         },
         {
+          "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
+          "url": "https://flash.jin10.com/detail/20260601035308877800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
+        },
+        {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
+        },
+        {
+          "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
+          "url": "https://flash.jin10.com/detail/20260601034421559800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
+        },
+        {
           "title": "美国财长贝森特：恢复霍尔木兹海峡的无费用航行将是伊朗承诺的首个指标。",
           "url": "https://flash.jin10.com/detail/20260531235740009800",
           "source": "金十数据",
@@ -195,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时55分]"
+        },
+        {
+          "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
+          "url": "https://flash.jin10.com/detail/20260601030742877800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
         },
         {
           "title": "美国财长贝森特：伊朗在47年来首次做好了放弃其核计划的准备；我们不会接受无法确保阻止伊朗获得核武器的协议。",
@@ -221,59 +281,16 @@
           "time_info": "[00时56分 ~ 01时55分]"
         },
         {
-          "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
-          "url": "https://flash.jin10.com/detail/20260601035308877800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
-          "url": "https://flash.jin10.com/detail/20260601034421559800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
-          "url": "https://flash.jin10.com/detail/20260601030742877800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
           "title": "伊朗政府官员辟谣总统已请辞的消息",
           "url": "https://flash.jin10.com/detail/20260601025732201800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
         },
         {
           "title": "美国中央司令部：截至5月31日，美军针对伊朗的封锁行动已迫使118艘商业船只改变航线。",
@@ -282,7 +299,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -290,7 +307,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -301,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -312,8 +329,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -326,8 +343,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -340,8 +357,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -360,22 +377,35 @@
           "url": "https://flash.jin10.com/detail/20260601042418213800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
         },
         {
           "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
           "url": "https://flash.jin10.com/detail/20260601025902421800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时48分]"
+        },
+        {
+          "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
+          "url": "https://flash.jin10.com/detail/20260601044554841800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时48分"
         },
         {
           "title": "美国总统特朗普：白宫舞厅屋顶的无人机港口可能将成为世界上最先进的设施！它将长期保障我国首都华盛顿特区的安全。",
@@ -402,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         }
       ]
     },
@@ -420,8 +450,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         }
       ]
     },
