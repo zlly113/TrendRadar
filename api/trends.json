@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T07:27:02.459605+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-06-03T10:44:15.005321+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -30,13 +30,35 @@
           "time_info": "[02时31分 ~ 07时27分]"
         },
         {
+          "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
+          "url": "https://news.ifeng.com/c/8teM8SFj90x",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "美军发射“地狱火”导弹，击中一艘伊朗相关油轮",
+          "url": "https://news.ifeng.com/c/8te0bJrzbXu",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
           "title": "科威特称拦截来袭导弹 伊朗格什姆岛传爆炸声",
           "url": "https://flash.jin10.com/detail/20260603070632195800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -63,6 +85,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 07时27分]"
+        },
+        {
+          "title": "美军袭击伊朗油轮录音曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗称袭击美军第五舰队总部",
+          "url": "https://www.toutiao.com/trending/7646223479754489897/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗称袭击美国第五舰队总部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "美媒曝一名美军飞行员两度被击落：一次友军误击，一次遭伊朗袭击",
@@ -93,7 +159,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -115,7 +181,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -148,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -181,7 +247,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -214,7 +280,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -225,7 +291,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -241,13 +307,24 @@
           "time_info": "02时31分"
         },
         {
+          "title": "又一批伊朗无人机袭击驻科威特美军 美军称无人受伤",
+          "url": "https://wallstreetcn.com/livenews/3113418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "【伊朗南部格什姆岛传出爆炸声】当地时间6月3日凌晨，据伊朗南部格什姆岛当地居民报告称，听到该地附近传出爆炸声。目前尚不清楚爆炸的具体性质，伊朗官方也暂未就爆炸原因发表评论。（央视）",
           "url": "https://wallstreetcn.com/livenews/3113307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -258,7 +335,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -266,18 +343,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 10时44分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
@@ -419,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -449,7 +538,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -485,6 +574,30 @@
           "time_info": "[02时31分 ~ 07时27分]"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 10时44分]"
+        },
+        {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -518,16 +631,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
+          "title": "UP主画出了特朗普美元",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%BB%E5%87%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 07时27分]"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "美国总统特朗普：我接受了白宫记者晚宴的邀请。",
@@ -550,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美伊谈判陷“断联”疑云，特朗普怒斥假新闻！真主党与以色列激战持续；美联储迎来保守派新顾问……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260603103129462800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "美国总统特朗普：非常愉快在白宫椭圆形办公室接待了弗拉维奥·博索纳罗（巴西前总统博索纳罗的长子，目前为巴西联邦参议员）。",
@@ -587,48 +721,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 07时27分]"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
+          "time_info": "[10时43分 ~ 10时44分]"
         },
-        {
-          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3113205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
@@ -658,16 +764,95 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 07时27分]"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 10时44分]"
+        },
+        {
+          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）上海金早盘价为976.52元/克，较国际金价(973.55元/克)，高2.97元/克",
+          "url": "https://flash.jin10.com/detail/20260603102106849800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
         {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
           "url": "https://wallstreetcn.com/livenews/3113308",
@@ -675,7 +860,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
