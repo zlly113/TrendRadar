@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T18:54:48.791356+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-04T21:52:40.598113+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -33,6 +33,19 @@
           "time_info": "[07时26分 ~ 18时54分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
           "url": "https://news.ifeng.com/c/8ter8XhY8eS",
           "source": "凤凰网",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 10时38分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 18时54分]"
         },
         {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
@@ -212,7 +213,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -270,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -418,7 +430,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -460,7 +472,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -516,9 +528,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "伊朗“圣城旅”：以色列须撤退至冲突爆发前的位置",
+          "url": "https://wallstreetcn.com/livenews/3114459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -667,7 +690,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -675,11 +698,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 21时52分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -735,11 +759,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 21时52分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3114466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -777,13 +813,24 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "美股芯片巨头暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -794,7 +841,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -835,7 +882,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -843,11 +890,35 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 21时52分]"
+        },
+        {
+          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3114468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 21时52分]"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
@@ -867,9 +938,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布在得克萨斯州格雷县和罗伯茨县新建数据中心并投资能源项目。",
+          "url": "https://flash.jin10.com/detail/20260604210611731800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
@@ -878,7 +960,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -889,7 +971,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -900,7 +982,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -911,18 +993,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -1091,7 +1162,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
