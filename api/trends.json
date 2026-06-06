@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:46:16.241113+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-06T15:41:01.002462+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
@@ -75,28 +86,6 @@
           "time_info": "[08时02分 ~ 12时46分]"
         },
         {
-          "title": "特朗普：将迅速结束伊朗战事",
-          "url": "https://news.ifeng.com/c/8tjENyLisNK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
@@ -109,6 +98,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 06时58分]"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 15时41分]"
         },
         {
           "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
@@ -259,6 +260,18 @@
           "time_info": "[06时58分 ~ 08时03分]"
         },
         {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 15时41分]"
+        },
+        {
           "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
           "url": "https://wallstreetcn.com/livenews/3115357",
           "source": "华尔街见闻-快讯",
@@ -324,17 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
-          "url": "https://wallstreetcn.com/livenews/3115408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
@@ -431,7 +433,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -461,8 +463,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
+        },
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
           "url": "https://flash.jin10.com/detail/20260606060734761800",
@@ -473,6 +486,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
+        {
+          "title": "巴林谴责伊朗对其领土和科威特的导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260606151202520800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -486,15 +521,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
-          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
           "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 15时41分]"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -509,17 +544,6 @@
           "time_info": "[01时47分 ~ 06时58分]"
         },
         {
-          "title": "风水轮流转，轮到伊朗威胁美国了",
-          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时46分]"
-        },
-        {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3115369",
           "source": "华尔街见闻-快讯",
@@ -530,6 +554,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 15时41分]"
         },
         {
           "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
@@ -549,7 +585,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -571,9 +607,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
@@ -582,7 +629,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -593,9 +640,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "美国军事网站“战区”报道称，美国空军正紧急寻求填补MQ-9无人机库存，此前该机型在针对伊朗的行动中损失了近30架，在针对胡塞武装的任务中也有所损失。由于MQ-9A已停产，美国空军计划从通用原子公司采购未使用的库存飞机，但可供采购的数量不足10架。美军MQ-9机队规模已从2026财年初的165架减少到目前的约135架。",
+          "url": "https://flash.jin10.com/detail/20260606143356956800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -609,24 +689,13 @@
           "time_info": "01时47分"
         },
         {
-          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
-          "url": "https://wallstreetcn.com/livenews/3115407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "美军称拦截伊朗导弹和无人机",
           "url": "https://wallstreetcn.com/livenews/3115405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -637,7 +706,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -670,7 +739,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -681,7 +750,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -692,7 +761,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -703,7 +772,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -714,7 +783,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -725,7 +794,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
@@ -733,8 +802,33 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时58分 ~ 15时41分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时58分 ~ 15时41分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -749,29 +843,15 @@
           "time_info": "[01时47分 ~ 12时46分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
           "ranks": [
-            3,
-            2,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时58分 ~ 12时46分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时58分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
         },
         {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
@@ -796,15 +876,15 @@
           "time_info": "08时03分"
         },
         {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
+          "title": "美股三大指数缘何齐跌",
+          "url": "https://www.toutiao.com/trending/7648114822579490346/",
+          "source": "今日头条",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "美股三大指数齐跌 纳指跌逾千点",
@@ -998,11 +1078,12 @@
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
         },
         {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
@@ -1077,7 +1158,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
@@ -1087,6 +1168,18 @@
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
+        },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
           "url": "https://wallstreetcn.com/livenews/3115309",
@@ -1111,17 +1204,6 @@
           "time_info": "[06时58分 ~ 08时03分]"
         },
         {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3115251",
           "source": "华尔街见闻-快讯",
@@ -1131,6 +1213,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
@@ -1198,39 +1319,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
-          "url": "https://flash.jin10.com/detail/20260606031454932800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3115302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 15时41分]"
         }
       ]
     }
