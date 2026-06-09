@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-06-10T03:07:25.562330+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-10T05:30:24.968853+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美军：对伊朗发起自卫打击 以回应此前直升机被击落",
+          "url": "https://flash.jin10.com/detail/20260610051831277800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "【伊朗南部锡里克市发生爆炸】总台记者获悉，据当地居民反馈，当地时间10日凌晨，伊朗南部港口城市锡里克市发生爆炸。目前伊朗官方暂未就爆炸发表评论。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3117034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "伊朗媒体援引当地居民的话报道称，伊朗锡里克（Sirik）地区传出爆炸声，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260610051550513800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "美国于美东时间17:00开始对伊朗实施“自卫性”袭击。 比特币短线从62100美元上方跳水至接近61850美元的水平，“盘初”整体跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3117033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
         {
           "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
           "url": "https://flash.jin10.com/detail/20260610001334649800",
@@ -25,20 +69,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗媒体：据当地居民称，伊朗锡里克（Sirik）地区传出爆炸声，原因不明。",
+          "url": "https://wallstreetcn.com/livenews/3117031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
           "url": "https://www.zhihu.com/question/2047657469275641746",
           "source": "知乎",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时30分]"
+        },
+        {
+          "title": "伊朗称过去24小时未在海峡发起进攻性空中行动",
+          "url": "https://flash.jin10.com/detail/20260610044159022800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "05时30分"
         },
         {
           "title": "【以军总参谋长称袭击伊朗是为更大打击做准备】以色列国防军总参谋长扎米尔9日说，此前对伊朗的袭击是为“更大规模、更有力的打击”做准备，同时以军将继续加大对黎巴嫩真主党的打击力度。以军始终保持并将继续保持“随时恢复对伊朗作战”的战备状态，以军已对伊朗进行“迅速而有力的打击”，这是为“更大规模、更有力的”打击做准备。以军正继续在黎巴嫩南部“前沿防线”一带展开军事行动，摧毁黎真主党武装人员的基础设施。（新华社）",
@@ -58,7 +125,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -69,7 +136,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -80,7 +147,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -91,7 +158,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -102,7 +169,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -113,9 +180,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "美国副总统万斯告诉CBS，伊朗协议可能一周内达成，也可能需要数月。 肯定能在美国中期选举之前达成伊朗协议。 WTI原油期货跌3.15%，暂报88.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3117010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "据纽约时报：美国与伊朗在谈判中聚焦四个核问题。",
@@ -124,15 +202,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -142,8 +231,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
+        },
+        {
+          "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
+          "time_info": "[05时29分 ~ 05时30分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -163,7 +275,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -179,17 +291,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -197,8 +298,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
+        },
+        {
+          "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
+          "url": "https://wallstreetcn.com/livenews/3117028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
@@ -207,7 +319,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -221,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3117015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
@@ -240,9 +363,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3117012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         }
       ]
     },
@@ -257,7 +391,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -268,7 +402,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -279,7 +413,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -290,7 +424,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -301,7 +435,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -312,7 +446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -320,7 +454,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
@@ -329,7 +463,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -340,7 +474,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -353,8 +487,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -364,8 +498,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
+          "time_info": "[05时29分 ~ 05时30分]"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -374,7 +519,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -418,11 +563,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 05时30分]"
         }
       ]
     }
