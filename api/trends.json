@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-10T18:52:49.989990+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-06-10T22:17:34.587640+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 22时17分]"
+        },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
           "url": "https://www.zhihu.com/question/2047657469275641746",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时07分 ~ 10时14分]"
-        },
-        {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时52分]"
         },
         {
           "title": "美军称对伊朗发动“自卫性”打击",
@@ -199,6 +199,20 @@
           "time_info": "10时14分"
         },
         {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 22时17分]"
+        },
+        {
           "title": "伊朗袭击美军第五舰队",
           "url": "https://www.douyin.com/hot/2529144",
           "source": "抖音",
@@ -212,6 +226,19 @@
         },
         {
           "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 22时17分]"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
           "url": "https://www.toutiao.com/trending/7649563798306557482/",
           "source": "今日头条",
           "ranks": [
@@ -221,31 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时14分 ~ 18时52分]"
-        },
-        {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 18时52分]"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时52分]"
         },
         {
           "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
@@ -280,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "卡塔尔代表团抵达伊朗 讨论双边关系和地区局势",
+          "url": "https://wallstreetcn.com/livenews/3117556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "伊朗称过去24小时未在海峡发起进攻性空中行动",
@@ -392,6 +405,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "加拿大央行：重申如果美国增加新的贸易限制，则可能需要降息。 重申如果通胀持续，可能需要“连续”加息。 认为经济仍将处于供应过剩状态。 经济疲软、CPI上涨，使货币政策面临两难。 经济疲软与CPI上升构成货币政策的两难困境。 就目前而言，维持利率不变可平衡两方面的风险。 仍将忽略伊朗冲突对CPI的短期影响。 预计CPI在未来几个月徘徊在3%附近，之后才会有所缓解。 油价较4月份的假设水平每桶高出约10美元。 目前没有广泛迹象表明能源价格会全面传导至CPI。 不会让高能源价格演变为持续性通胀。",
+          "url": "https://wallstreetcn.com/livenews/3117550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "伊朗击落一架美军阿帕奇直升机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%86%9B%E9%98%BF%E5%B8%95%E5%A5%87%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
@@ -423,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：官员们同意审慎看待伊朗战争对CPI的短期影响。",
+          "url": "https://flash.jin10.com/detail/20260610214607321800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
@@ -497,7 +532,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -552,7 +587,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -566,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗公布最新海上损失情况",
+          "url": "https://wallstreetcn.com/livenews/3117539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美军对伊朗发动报复性打击",
@@ -662,7 +708,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -676,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
@@ -736,7 +793,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -787,6 +844,20 @@
           "time_info": "[14时57分 ~ 14时58分]"
         },
         {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 22时17分]"
+        },
+        {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
           "url": "https://flash.jin10.com/detail/20260610025206405800",
           "source": "金十数据",
@@ -815,22 +886,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 18时52分]"
         },
         {
           "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
@@ -887,9 +945,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 22时17分]"
         },
         {
           "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
@@ -898,9 +956,31 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 22时17分]"
+        },
+        {
+          "title": "特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E6%A1%A5%E6%A2%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：大多数共和党参议员想完成在伊朗的任务。 特朗普正在寻找国家情报总监的长期人选。 特朗普对国家情报总监的提名将是一个重要决定。",
+          "url": "https://wallstreetcn.com/livenews/3117552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
@@ -923,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -969,6 +1060,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "特朗普称赞花旗及其CEO实现“强势回归”",
+          "url": "https://wallstreetcn.com/livenews/3117543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://flash.jin10.com/detail/20260610055938102800",
           "source": "金十数据",
@@ -997,7 +1099,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -1005,7 +1107,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1177,6 +1279,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "美股部分光通信股盘初反弹，AAOI涨超10%，Credo涨超6%，Lumentum涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3117545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3117015",
           "source": "华尔街见闻-快讯",
@@ -1241,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "美国CPI数据符合预期，美股三大股指集体低开",
+          "url": "https://wallstreetcn.com/livenews/3117538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -1345,6 +1469,18 @@
           "time_info": "[14时57分 ~ 14时58分]"
         },
         {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 22时17分]"
+        },
+        {
           "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
           "url": "https://wallstreetcn.com/livenews/3117058",
           "source": "华尔街见闻-快讯",
@@ -1365,17 +1501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "金价到“底”了吗",
