@@ -1,11 +1,643 @@
 {
-  "generated_at": "2026-06-12T15:12:53.246108+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-06-12T19:35:07.292643+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 56,
+      "titles": [
+        {
+          "title": "伊朗阿巴斯港传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时32分]"
+        },
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
+          "url": "https://flash.jin10.com/detail/20260612043923940800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043835445800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺",
+          "url": "https://wallstreetcn.com/livenews/3118852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
+          "url": "https://flash.jin10.com/detail/20260612043722328800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国官员表示，美国军方击落了两架伊朗单向攻击无人机。",
+          "url": "https://flash.jin10.com/detail/20260612100427990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "以色列：美国与伊朗的MoU不包含我方",
+          "url": "https://wallstreetcn.com/livenews/3118396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。",
+          "url": "https://wallstreetcn.com/livenews/3118443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美军袭击油轮致3名印度船员死亡，伊朗：海盗行径",
+          "url": "https://news.ifeng.com/c/8ttEGd5sAPh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗尚未就协议作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043654563800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗革命卫队：我们将继续监视霍尔木兹海峡，并将对任何试图通过的船只采取严厉措施。",
+          "url": "https://flash.jin10.com/detail/20260612065400194800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗武装力量进入最高战备状态",
+          "url": "https://news.ifeng.com/c/8tsZVZjUpb1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗军方消息人士称，违规船只为一艘油轮，在伊朗革命卫队海军发出警告后，被迫遵守霍尔木兹海峡的“航行禁令”。",
+          "url": "https://flash.jin10.com/detail/20260612065131632800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时32分]"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 19时35分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗：使用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗方面公布伊美谅解备忘录新细节",
+          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "美军称再次对伊朗目标实施“自卫性”打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时11分]"
+        },
+        {
+          "title": "伊朗武装力量进入最高战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时11分]"
+        },
+        {
+          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
+          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗警告美国或再陷战争泥潭",
+          "url": "https://wallstreetcn.com/livenews/3118337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗媒体：军方消息人士称，锡里克地区的爆炸声与对抗试图通过霍尔木兹海峡的“违规船只”有关。",
+          "url": "https://flash.jin10.com/detail/20260612064850285800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
+          "url": "https://flash.jin10.com/detail/20260612042915962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔和巴基斯坦作为调解方正在积极行动，但美国的行为影响了外交进程。",
+          "url": "https://flash.jin10.com/detail/20260612042811638800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
+          "url": "https://wallstreetcn.com/livenews/3118436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗就伊美协议表态显现审慎态度",
+          "url": "https://wallstreetcn.com/livenews/3118840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3118331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
+          "url": "https://flash.jin10.com/detail/20260612063056623800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：当前备忘录中未就核问题达成任何协议。核谈判将在协议签署后60天内进行。",
+          "url": "https://flash.jin10.com/detail/20260612183815057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗武装部队：若美再度袭击，将遭受更猛烈回击",
+          "url": "https://wallstreetcn.com/livenews/3118330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "Trafigura与Vitol在（美国和以色列发动伊朗）战争引发供应紊乱期间向亚洲销售更多委内瑞拉石油。",
+          "url": "https://wallstreetcn.com/livenews/3118329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
+          "url": "https://flash.jin10.com/detail/20260612041624500800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：海峡的未来管理将作为地区事务，通过伊朗与阿曼之间的对话和共同决策来解决。",
+          "url": "https://flash.jin10.com/detail/20260612183553947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗外交部：美方行径致使斡旋进程受影响",
+          "url": "https://wallstreetcn.com/livenews/3118430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据与美国的谅解备忘录，伊朗对霍尔木兹海峡管理权的转让没有作出任何承诺。",
+          "url": "https://flash.jin10.com/detail/20260612183516547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260612060451925800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美军击落了两架来自伊朗的单向攻击型无人机，美方称霍尔木兹海峡的航道通行仍在继续。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3118493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "报道：伊朗在“务实”框架下寻求战争赔偿",
+          "url": "https://wallstreetcn.com/livenews/3118827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部称，文本尚待最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612183340253800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗武装部队：如果美国再次企图对伊朗发动攻击，将会遭到比以往更加严厉的回应。 石油和天然气出口要么对所有人开放，要么对任何人都不开放。",
+          "url": "https://wallstreetcn.com/livenews/3118322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗警告美国或再陷战争泥潭",
+          "url": "https://flash.jin10.com/detail/20260612012020218800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部表示框架文本已接近最终确定。",
+          "url": "https://flash.jin10.com/detail/20260612183249404800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队表示，伊朗目前比以往任何时候都更加强大、准备更充足，并已“蓄势待发”，随时可能对任何侵略行为采取行动。",
+          "url": "https://flash.jin10.com/detail/20260612095016522800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美媒：伊朗向卡塔尔调停方提交与美协议最新草案",
+          "url": "https://flash.jin10.com/detail/20260612011907963800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
+          "url": "https://flash.jin10.com/detail/20260612055615032800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "油价短线拉升，报道：伊朗不会将霍尔木兹海峡的状态恢复到战前水平",
+          "url": "https://wallstreetcn.com/livenews/3118822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据纽约邮报：消息人士当地时间周四表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。",
+          "url": "https://flash.jin10.com/detail/20260612011517165800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
+          "url": "https://flash.jin10.com/detail/20260612054908025800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与俄罗斯签署了为期三年的旅游合作路线图。",
+          "url": "https://flash.jin10.com/detail/20260612182818412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "Deltec资产管理公司专注于新兴市场股票的投资组合经理Greg Lesko：市场感觉到我们终于接近这场（与伊朗相关的）冲突的尾声了，无论是如目前预期的那样达成协议，还是继续轰炸。 魔鬼藏在细节中，而我们目前还没看到这些细节。",
+          "url": "https://wallstreetcn.com/livenews/3118416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "据路透援引伊朗媒体：伊朗锡里克地区海岸附近传出爆炸声，原因及来源尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260612052134472800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗锡里克地区海岸附近、阿巴斯港先后传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3118412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +648,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 15时12分]"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 19时35分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 19时35分]"
         },
         {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
@@ -63,18 +707,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 15时12分]"
         },
         {
           "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
@@ -139,7 +771,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -223,6 +855,39 @@
           "time_info": "[10时32分 ~ 15时12分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
           "url": "https://wallstreetcn.com/livenews/3118393",
           "source": "华尔街见闻-快讯",
@@ -240,7 +905,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -317,7 +982,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -515,7 +1180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -555,495 +1220,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 43,
-      "titles": [
-        {
-          "title": "伊朗阿巴斯港传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
-          "url": "https://flash.jin10.com/detail/20260612043923940800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
-          "url": "https://flash.jin10.com/detail/20260612043835445800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
-          "url": "https://flash.jin10.com/detail/20260612043722328800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国官员表示，美国军方击落了两架伊朗单向攻击无人机。",
-          "url": "https://flash.jin10.com/detail/20260612100427990800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "以色列：美国与伊朗的MoU不包含我方",
-          "url": "https://wallstreetcn.com/livenews/3118396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。",
-          "url": "https://wallstreetcn.com/livenews/3118443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美军袭击油轮致3名印度船员死亡，伊朗：海盗行径",
-          "url": "https://news.ifeng.com/c/8ttEGd5sAPh",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗尚未就协议作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20260612043654563800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗革命卫队：我们将继续监视霍尔木兹海峡，并将对任何试图通过的船只采取严厉措施。",
-          "url": "https://flash.jin10.com/detail/20260612065400194800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗武装力量进入最高战备状态",
-          "url": "https://news.ifeng.com/c/8tsZVZjUpb1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗军方消息人士称，违规船只为一艘油轮，在伊朗革命卫队海军发出警告后，被迫遵守霍尔木兹海峡的“航行禁令”。",
-          "url": "https://flash.jin10.com/detail/20260612065131632800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗：使用12枚导弹摧毁美军大量战机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 15时12分]"
-        },
-        {
-          "title": "美军称再次对伊朗目标实施“自卫性”打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
-        },
-        {
-          "title": "伊朗武装力量进入最高战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
-        },
-        {
-          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
-          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗警告美国或再陷战争泥潭",
-          "url": "https://wallstreetcn.com/livenews/3118337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据伊朗媒体：军方消息人士称，锡里克地区的爆炸声与对抗试图通过霍尔木兹海峡的“违规船只”有关。",
-          "url": "https://flash.jin10.com/detail/20260612064850285800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
-          "url": "https://flash.jin10.com/detail/20260612042915962800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗外交部发言人：卡塔尔和巴基斯坦作为调解方正在积极行动，但美国的行为影响了外交进程。",
-          "url": "https://flash.jin10.com/detail/20260612042811638800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
-          "url": "https://wallstreetcn.com/livenews/3118436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3118331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
-          "url": "https://flash.jin10.com/detail/20260612063056623800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗武装部队：若美再度袭击，将遭受更猛烈回击",
-          "url": "https://wallstreetcn.com/livenews/3118330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "Trafigura与Vitol在（美国和以色列发动伊朗）战争引发供应紊乱期间向亚洲销售更多委内瑞拉石油。",
-          "url": "https://wallstreetcn.com/livenews/3118329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
-          "url": "https://flash.jin10.com/detail/20260612041624500800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "伊朗外交部：美方行径致使斡旋进程受影响",
-          "url": "https://wallstreetcn.com/livenews/3118430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260612060451925800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美军击落了两架来自伊朗的单向攻击型无人机，美方称霍尔木兹海峡的航道通行仍在继续。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3118493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "伊朗武装部队：如果美国再次企图对伊朗发动攻击，将会遭到比以往更加严厉的回应。 石油和天然气出口要么对所有人开放，要么对任何人都不开放。",
-          "url": "https://wallstreetcn.com/livenews/3118322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗警告美国或再陷战争泥潭",
-          "url": "https://flash.jin10.com/detail/20260612012020218800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队表示，伊朗目前比以往任何时候都更加强大、准备更充足，并已“蓄势待发”，随时可能对任何侵略行为采取行动。",
-          "url": "https://flash.jin10.com/detail/20260612095016522800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美媒：伊朗向卡塔尔调停方提交与美协议最新草案",
-          "url": "https://flash.jin10.com/detail/20260612011907963800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
-          "url": "https://flash.jin10.com/detail/20260612055615032800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "据纽约邮报：消息人士当地时间周四表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。",
-          "url": "https://flash.jin10.com/detail/20260612011517165800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
-          "url": "https://flash.jin10.com/detail/20260612054908025800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "Deltec资产管理公司专注于新兴市场股票的投资组合经理Greg Lesko：市场感觉到我们终于接近这场（与伊朗相关的）冲突的尾声了，无论是如目前预期的那样达成协议，还是继续轰炸。 魔鬼藏在细节中，而我们目前还没看到这些细节。",
-          "url": "https://wallstreetcn.com/livenews/3118416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "据路透援引伊朗媒体：伊朗锡里克地区海岸附近传出爆炸声，原因及来源尚不明确。",
-          "url": "https://flash.jin10.com/detail/20260612052134472800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗锡里克地区海岸附近、阿巴斯港先后传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3118412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
@@ -1059,6 +1235,17 @@
           "time_info": "[02时02分 ~ 07时15分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 19时35分]"
+        },
+        {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
           "url": "https://www.cls.cn/detail/2397755",
           "source": "财联社热门",
@@ -1070,17 +1257,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时14分 ~ 15时12分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 15时12分]"
         },
         {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
@@ -1230,7 +1406,46 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银：仍对未来12个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
+          "url": "https://flash.jin10.com/detail/20260612185837613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "瑞银：在收益率上升和美元走强的压力下，近期金价可能跌至3850至4000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260612185814413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -1301,11 +1516,12 @@
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 19时35分]"
         }
       ]
     },
@@ -1323,23 +1539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         }
       ]
     }
