@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-12T19:35:07.292643+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-06-12T22:33:24.227794+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时33分]"
+        },
         {
           "title": "伊朗阿巴斯港传出爆炸声",
           "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
@@ -71,7 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "以色列国防部长：已和以色列总理内塔尼亚胡指示以色列军方做好准备，以防止伊朗获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260612222804067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "以色列：美国与伊朗的MoU不包含我方",
@@ -153,6 +164,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 22时33分]"
+        },
+        {
           "title": "伊朗武装力量进入最高战备状态",
           "url": "https://news.ifeng.com/c/8tsZVZjUpb1",
           "source": "凤凰网",
@@ -175,6 +198,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国能源部长Wright：每天有大约700万桶石油从波斯湾外流。 这700万桶包含原油与精炼产品。 无论伊朗是否提供帮助，都将恢复霍尔木兹海峡的航运秩序。 美国不会为了抑制价格而实施石油出口禁令。",
+          "url": "https://wallstreetcn.com/livenews/3118949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
           "url": "https://www.cls.cn/detail/2397642",
           "source": "财联社热门",
@@ -186,18 +220,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 19时35分]"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
@@ -232,8 +254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时33分]"
         },
         {
           "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
@@ -280,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "据CNN援引国防官员消息称，美国昨晚击落两架伊朗攻击无人机。",
+          "url": "https://flash.jin10.com/detail/20260612222544313800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "伊朗警告美国或再陷战争泥潭",
@@ -337,15 +370,37 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国能源部长赖特：如果达成协议，对伊朗的制裁可能会部分解除。",
+          "url": "https://flash.jin10.com/detail/20260612222115470800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "伊朗就伊美协议表态显现审慎态度",
           "url": "https://wallstreetcn.com/livenews/3118840",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2048669431962625669",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
@@ -376,7 +431,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -390,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国能源部长赖特：霍尔木兹海峡没有伊朗原油流出。",
+          "url": "https://flash.jin10.com/detail/20260612221804634800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "Trafigura与Vitol在（美国和以色列发动伊朗）战争引发供应紊乱期间向亚洲销售更多委内瑞拉石油。",
@@ -420,7 +486,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -442,7 +508,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -475,9 +541,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美国官员：根据协议，伊朗核计划将被拆毁。 伊朗只有履行承诺才能拿到钱。 根据协议，霍尔木兹海峡将开放。",
+          "url": "https://wallstreetcn.com/livenews/3118936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部称，文本尚待最终决定。",
@@ -486,7 +563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -519,7 +596,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -563,7 +640,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -596,7 +673,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -632,12 +709,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗媒体：美伊周日签协议纯属“无稽之谈”",
+          "url": "https://wallstreetcn.com/livenews/3118921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -660,8 +748,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 22时33分]"
         },
         {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
@@ -843,6 +931,29 @@
           "time_info": "[05时11分 ~ 07时15分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时33分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时33分]"
+        },
+        {
           "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
           "url": "https://www.cls.cn/detail/2397778",
           "source": "财联社热门",
@@ -855,33 +966,11 @@
           "time_info": "[10时32分 ~ 15时12分]"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
           "title": "内塔尼亚胡：特朗普没提前告诉我",
           "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -963,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普称伊朗袭击印度船只不可接受",
+          "url": "https://wallstreetcn.com/livenews/3118943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "金十提示：美国总统特朗普结束白宫讲话。",
@@ -1130,6 +1230,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普称伊媒发布的美伊协议草案与事实不符",
+          "url": "https://wallstreetcn.com/livenews/3118933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：海峡已经开放几个月了，你只是没有注意到。",
           "url": "https://flash.jin10.com/detail/20260612040841414800",
           "source": "金十数据",
@@ -1139,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普：伊朗对协议的说法与事实完全不符。 伊朗最好行动起来，赶紧行动。 媒体报道的伊朗条款与已达成的协议条款毫无关系。 伊朗袭击印度船只不可接受。 跟他们打交道完全没有诚意可言。",
+          "url": "https://wallstreetcn.com/livenews/3118931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我不想为达成协议设定截止日期。",
@@ -1221,8 +1343,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 22时33分]"
+        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
@@ -1233,17 +1366,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 19时35分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -1327,6 +1449,28 @@
           "time_info": "05时11分"
         },
         {
+          "title": "SpaceX交易倒计时，美股指涨跌互现，太空概念股盘初转跌，布油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股太空股ETF跌5.9%。",
+          "url": "https://wallstreetcn.com/livenews/3118944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美股三大股指集体拉升，均涨超1%。",
           "url": "https://flash.jin10.com/detail/20260612013247042800",
           "source": "金十数据",
@@ -1360,6 +1504,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美股三大指数开盘涨跌不一，道指涨0.59%，标普500指数涨0.2%，纳指接近平盘。美股太空概念股多数上涨。Rocket Lab涨超3%，回声星通信涨超2%。Adobe跌8%，创下2018年2月以来的盘中最低水平，公司Q2营收超预期，业绩指引上调，但CFO离职引担忧。",
+          "url": "https://wallstreetcn.com/livenews/3118928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "投行：SpaceX上市在即 美股“错失恐惧症”还将持续",
           "url": "https://wallstreetcn.com/livenews/3118317",
           "source": "华尔街见闻-快讯",
@@ -1369,6 +1524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3118922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -1417,13 +1583,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 22时33分]"
+        },
+        {
           "title": "瑞银：仍对未来12个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
           "url": "https://flash.jin10.com/detail/20260612185837613800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1434,20 +1612,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "19时35分"
         }
       ]
     },
@@ -1517,11 +1684,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 22时33分]"
         }
       ]
     },
