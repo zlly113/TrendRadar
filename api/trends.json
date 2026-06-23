@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:00:57.140442+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-06-23T11:32:28.956052+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 47,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -30,19 +30,6 @@
           "time_info": "[01时25分 ~ 08时00分]"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 08时00分]"
-        },
-        {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
           "url": "https://wallstreetcn.com/articles/3775177",
           "source": "华尔街见闻",
@@ -52,8 +39,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 08时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 11时32分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 11时32分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -63,8 +64,37 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 08时00分]"
+          "appearance_count": 5,
+          "time_info": "[06时41分 ~ 11时32分]"
+        },
+        {
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 11时32分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            16,
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 11时32分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -78,33 +108,6 @@
           "time_info": "[01时25分 ~ 04时33分]"
         },
         {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 08时00分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 08时00分]"
-        },
-        {
           "title": "伊朗首席谈判代表：美国和伊朗都将保证黎巴嫩的领土完整。",
           "url": "https://flash.jin10.com/detail/20260623040409497800",
           "source": "金十数据",
@@ -116,6 +119,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://wallstreetcn.com/livenews/3123147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "美国能源部长赖特：尽管遭到伊朗的阻挠，我们仍以危机前的水平经由霍尔木兹海峡输送石油。",
           "url": "https://flash.jin10.com/detail/20260623040108761800",
           "source": "金十数据",
@@ -125,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美国放松对伊朗石油制裁，数十年来首允伊朗以美元卖油；美日财长紧急开会，外汇干预警报拉响；全球最大衍生品交易所又故障......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260623110313753800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -156,11 +181,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 08时00分]"
+          "appearance_count": 5,
+          "time_info": "[06时41分 ~ 11时32分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
@@ -249,9 +275,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "土耳其总统埃尔多安告诉伊朗总统佩泽希齐扬，土耳其欢迎伊朗和美国达成的协议。",
@@ -271,9 +308,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://flash.jin10.com/detail/20260623105833242800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
@@ -282,9 +330,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "伊朗总统致敬伊朗国家队",
+          "url": "https://www.toutiao.com/trending/7654016350054613011/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美国将放宽对伊朗能源相关交易限制 SpaceX连续三个交易日下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2406208",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "伊朗首席谈判代表告诉伊朗国家电视台，在瑞士举行的会谈中，关于解冻120亿美元伊朗资产的协议签署事宜已敲定。",
@@ -315,9 +385,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "伊朗球员：感谢墨西哥球迷的支持",
+          "url": "https://www.toutiao.com/trending/7653933991330054180/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://wallstreetcn.com/livenews/3123124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
@@ -444,7 +547,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -513,6 +616,19 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时41分 ~ 11时32分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗将同意接受大型武器核查。 对伊朗进行核查是为了确保“核诚信”。",
           "url": "https://wallstreetcn.com/livenews/3122966",
           "source": "华尔街见闻-快讯",
@@ -522,18 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 08时00分]"
         },
         {
           "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
@@ -590,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器。",
@@ -700,13 +815,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "“特朗普手机”为何失败",
+          "url": "https://www.toutiao.com/trending/7654194905404673577/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时41分 ~ 11时32分]"
+        },
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 11时32分]"
+        },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -719,28 +870,15 @@
           "time_info": "[01时25分 ~ 04时33分]"
         },
         {
-          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2405983",
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 08时00分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            6,
             3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 08时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX大跌16%",
@@ -752,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美股科技股深夜下挫",
+          "url": "https://www.douyin.com/hot/2544157",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -812,7 +961,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -835,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "标普500指数初步收跌0.4%，电信板块跌3.7%，可选消费板块跌2.1%，科技板块跌0.5%，能源板块涨1.2%，房地产板块涨1.3%。 纳斯达克100指数初步收跌0.2%，成分股中，Arm控股初步收跌7.1%，Palantir跌6.8%，Rocket Lab跌6.4%，奈飞、CoreWeave、谷歌C、谷歌A至少跌5%，亚马逊、博通跌超4%，闪迪涨4.1%，Lumentum涨5%，英特尔涨5.1%，美光涨6%。 卡特彼勒初步收涨3.3%，摩根大通、安进涨超2%，领跑道指成分股，英伟达则跌1.2%，微软跌3%跌幅第三大，耐克跌4.3%，亚马逊领跌。纳指跌1.3%。",
@@ -872,8 +1032,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时32分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -939,6 +1099,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时32分]"
+        },
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -953,23 +1142,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 08时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         }
       ]
     }
