@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:03:25.874327+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-06-26T16:49:31.529502+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -175,7 +175,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -309,15 +309,48 @@
           "time_info": "[00时14分 ~ 06时21分]"
         },
         {
+          "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
           "url": "https://www.cls.cn/detail/2409704",
           "source": "财联社热门",
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
+        },
+        {
+          "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
+          "url": "https://news.ifeng.com/c/8uH0HxuqiJE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "16时49分"
         },
         {
           "title": "国际原子能机构总干事格罗西：伊朗可以选择降低核材料浓度或将其运输出境，但必须同意这样做。",
@@ -326,9 +359,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
@@ -348,9 +392,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "国际原子能机构总干事格罗西：国际原子能机构已与伊朗当局进行了初步交流。",
@@ -359,9 +414,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "国际原子能机构：已获准核查伊朗核设施，技术层面的工作已启动",
+          "url": "https://flash.jin10.com/detail/20260626161109971800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -381,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -403,7 +469,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -488,8 +554,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 16时49分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
@@ -505,19 +584,6 @@
           "time_info": "[00时14分 ~ 08时05分]"
         },
         {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 13时03分]"
-        },
-        {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
           "url": "https://www.cls.cn/detail/2409666",
           "source": "财联社热门",
@@ -526,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时49分]"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -590,6 +656,17 @@
           "time_info": "[04时59分 ~ 06时21分]"
         },
         {
+          "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3125141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
           "url": "https://wallstreetcn.com/livenews/3124852",
           "source": "华尔街见闻-快讯",
@@ -599,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，美光科技(MU.O)跌超4%，英特尔(INTC.O)跌3.2%，百度(BIDU.O)、AMD(AMD.O)跌2.7%，高通(QCOM.O)、博通(AVGO.O)跌超1%，微软(MSFT.O)涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260626160313852800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
@@ -816,7 +904,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -831,33 +919,36 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -866,9 +957,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -894,20 +985,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -916,7 +1008,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
