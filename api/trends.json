@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T19:38:53.873401+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-06-26T22:03:14.934073+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -21,6 +21,18 @@
           "time_info": "[00时14分 ~ 06时21分]"
         },
         {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 22时03分]"
+        },
+        {
           "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
           "url": "https://wallstreetcn.com/livenews/3125164",
           "source": "华尔街见闻-快讯",
@@ -32,16 +44,27 @@
           "time_info": "16时49分"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
           "ranks": [
-            4,
-            11
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 22时03分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时03分]"
         },
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -53,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时03分 ~ 16时49分]"
-        },
-        {
-          "title": "在伊华商：战争改变伊朗民众对中国的看法",
-          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 19时38分]"
         },
         {
           "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
@@ -95,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -133,17 +144,6 @@
           "time_info": "16时49分"
         },
         {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "国际原子能机构总干事格罗西：国际原子能机构已与伊朗当局进行了初步交流。",
           "url": "https://flash.jin10.com/detail/20260626122456559800",
           "source": "金十数据",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "阿联酋外交部长接到伊朗外长的电话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3125346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "国际原子能机构：已获准核查伊朗核设施，技术层面的工作已启动",
@@ -172,9 +183,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋外长向伊朗外长强调，必须保护霍尔木兹海峡等海域的海上航道与航行自由。",
+          "url": "https://flash.jin10.com/detail/20260626214248710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -221,13 +243,24 @@
           "time_info": "13时03分"
         },
         {
+          "title": "据阿联酋国家通讯社：阿联酋外交部长在与伊朗外长的电话交谈中强调，必须全面遵守美伊协议的条款。",
+          "url": "https://flash.jin10.com/detail/20260626214023980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗外交部：海合会与美国联合声明“挑衅且不负责任”",
           "url": "https://wallstreetcn.com/livenews/3125265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -243,6 +276,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "据阿联酋国家通讯社：阿联酋外长接到伊朗外长电话，讨论最新的地区动态。",
+          "url": "https://flash.jin10.com/detail/20260626213853229800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美媒：伊朗袭击货船，考验美伊停火协议",
           "url": "https://flash.jin10.com/detail/20260626021302970800",
           "source": "金十数据",
@@ -252,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，22名被美国扣押的伊朗油轮船员被移交至伊朗驻巴基斯坦卡拉奇领事馆。",
+          "url": "https://flash.jin10.com/detail/20260626213814505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
@@ -282,9 +337,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "报道：美国与伊朗建立沟通热线 防止发生意外事件导致军事升级",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -296,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "阿联酋向伊朗表示，严肃的外交途径才是化解当前危机的首选方式。",
+          "url": "https://flash.jin10.com/detail/20260626213257886800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
@@ -318,12 +395,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -348,6 +436,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时21分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "特朗普称将用伊朗的钱买美国农产品",
@@ -471,7 +570,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -622,7 +721,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -664,13 +763,24 @@
           "time_info": "[08时05分 ~ 16时49分]"
         },
         {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -711,6 +821,17 @@
           "time_info": "[04时59分 ~ 06时21分]"
         },
         {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260626040602916800",
           "source": "金十数据",
@@ -733,6 +854,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时21分]"
+        },
+        {
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260626214134858800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
@@ -801,6 +944,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3125328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。 目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。",
           "url": "https://wallstreetcn.com/livenews/3124872",
           "source": "华尔街见闻-快讯",
@@ -815,7 +969,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
@@ -863,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时21分]"
+        },
+        {
+          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
+          "url": "https://www.zhihu.com/question/2051692980243894309",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
@@ -990,9 +1155,85 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 22时03分]"
+        },
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时49分]"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "DeepSeek大规模招聘：至少扩大一倍",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 22时03分]"
+        },
         {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
@@ -1001,18 +1242,6 @@
             17,
             18,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 19时38分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1047,57 +1276,6 @@
           "source": "微博",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 16时49分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 19时38分]"
-        },
-        {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "DeepSeek大规模招聘：至少扩大一倍",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
