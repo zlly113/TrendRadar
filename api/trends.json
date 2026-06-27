@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-28T05:54:10.465995+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-06-28T06:54:29.507496+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
-          "url": "https://wallstreetcn.com/articles/3775654",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
-        },
         {
           "title": "伊朗战事将如何影响美军中东布局？",
           "url": "https://news.ifeng.com/c/8uIHeNUEBHC",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -36,6 +25,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
+        },
+        {
+          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
+          "url": "https://wallstreetcn.com/articles/3775654",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "谅解备忘录签署后美伊再起冲突，美军以新加坡籍货船遇袭为由打击伊朗，伊朗打击美军驻点，如何看待当前局势？",
@@ -60,8 +60,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "埃及1-1伊朗",
@@ -74,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "美军深夜空袭伊朗",
@@ -86,8 +86,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 06时54分]"
+        },
+        {
+          "title": "据福克斯新闻：美军对伊朗的新一轮打击规模大于昨晚的行动。美军与巴林部队击落了9架飞向驻巴林美军的伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260628055920404800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "伊朗媒体称有更多船只申请通过霍尔木兹海峡",
@@ -97,8 +108,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "伊朗指责美方在霍尔木兹海峡制造紧张局势",
@@ -108,8 +119,52 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时54分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：数枚炮弹袭击了格什姆岛的一个村庄。",
+          "url": "https://flash.jin10.com/detail/20260628055148653800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国中央司令部确认再次对伊朗进行打击",
+          "url": "https://flash.jin10.com/detail/20260628055026953800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国再对伊朗实施军事打击",
+          "url": "https://flash.jin10.com/detail/20260628054140770800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国再次打击伊朗 锡里克地区传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260628053950913800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "市场消息：伊朗在霍尔木兹海峡袭击了一艘油轮。造成损坏，但没有人员伤亡。",
@@ -176,6 +231,19 @@
           "time_info": "[03时03分 ~ 05时54分]"
         },
         {
+          "title": "市场消息：伊朗外长阿拉格齐周日将访问伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260628030933700800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
+        },
+        {
           "title": "伊朗6月通胀率同比升至88.6%",
           "url": "https://flash.jin10.com/detail/20260628004312239800",
           "source": "金十数据",
@@ -212,16 +280,15 @@
           "time_info": "[03时03分 ~ 04时50分]"
         },
         {
-          "title": "市场消息：伊朗外长阿拉格齐周日将访问伊拉克。",
-          "url": "https://flash.jin10.com/detail/20260628030933700800",
+          "title": "据伊朗伊斯兰共和国广播电视台称，伊朗西南部锡里克地区传出爆炸声，爆炸与多枚炮弹击中一座通信塔有关。美媒AXIOS网站称，美国对伊朗实施空袭。",
+          "url": "https://flash.jin10.com/detail/20260628053655895800",
           "source": "金十数据",
           "ranks": [
-            11,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "伊朗绝杀越位：超了半只球鞋",
@@ -270,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -281,30 +348,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
-        },
-        {
-          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
-          "url": "https://flash.jin10.com/detail/20260628050053611800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -314,22 +371,24 @@
             23,
             13,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 06时54分]"
         },
         {
-          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
-          "url": "https://flash.jin10.com/detail/20260628045321794800",
+          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
+          "url": "https://flash.jin10.com/detail/20260628050053611800",
           "source": "金十数据",
           "ranks": [
-            2
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时54分]"
         },
         {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
@@ -337,11 +396,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -349,11 +409,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
+        },
+        {
+          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
+          "url": "https://flash.jin10.com/detail/20260628045321794800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
+          "time_info": "[05时54分 ~ 06时54分]"
         },
         {
           "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
@@ -361,11 +434,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
@@ -373,11 +447,25 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
+        },
+        {
+          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
+          "url": "https://flash.jin10.com/detail/20260628025551765800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时54分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -390,18 +478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时55分]"
-        },
-        {
-          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
-          "url": "https://flash.jin10.com/detail/20260628025551765800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时54分]"
         }
       ]
     },
@@ -417,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -428,19 +504,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -451,8 +528,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         }
       ]
     },
@@ -469,19 +546,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -490,11 +568,12 @@
           "ranks": [
             5,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时54分]"
         }
       ]
     },
@@ -507,22 +586,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         }
       ]
     },
@@ -537,11 +618,12 @@
           "ranks": [
             29,
             24,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时54分]"
         }
       ]
     }
