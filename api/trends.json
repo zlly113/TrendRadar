@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T08:02:05.463688+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-06-29T11:55:49.800419+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[00时58分 ~ 08时02分]"
         },
         {
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
+        },
+        {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
           "url": "https://www.cls.cn/detail/2411069",
           "source": "财联社热门",
@@ -29,37 +43,12 @@
             8,
             9,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
-        },
-        {
-          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
         },
         {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
@@ -68,11 +57,26 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
         },
         {
           "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
@@ -94,7 +98,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -310,7 +314,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -395,7 +399,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -497,6 +501,17 @@
           "time_info": "[00时58分 ~ 05时54分]"
         },
         {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
           "url": "https://flash.jin10.com/detail/20260629024615359800",
           "source": "金十数据",
@@ -533,7 +548,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -544,8 +559,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -568,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "1.4万亿美元借钱炒股！杠杆正把美股推向危险高位",
+          "url": "https://flash.jin10.com/detail/20260629111756633800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -612,11 +638,29 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价银价下跌 油价上涨",
+          "url": "https://www.toutiao.com/trending/7656224620856623114/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
