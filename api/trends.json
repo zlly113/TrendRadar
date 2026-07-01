@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T05:17:18.582408+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-02T07:02:06.477002+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,36 @@
           "url": "https://flash.jin10.com/detail/20260702044234084800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
+          "url": "https://wallstreetcn.com/livenews/3127615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3127614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
         },
         {
           "title": "美光向“特朗普账户”注资2.5亿美元，特朗普称其政策“大获成功”",
@@ -58,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -69,7 +94,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -80,7 +105,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -91,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -118,17 +143,6 @@
           "time_info": "03时29分"
         },
         {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美国总统特朗普：美光科技(MU.O)正在直接投资美国工人和家庭。",
           "url": "https://flash.jin10.com/detail/20260702002937500800",
           "source": "金十数据",
@@ -138,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3127614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
@@ -168,7 +171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -179,7 +182,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -190,7 +193,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -201,7 +204,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -223,7 +226,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -234,7 +237,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -245,7 +248,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -253,30 +256,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260702044814695800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
-          "url": "https://flash.jin10.com/detail/20260702044739454800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
         {
           "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
           "url": "https://flash.jin10.com/detail/20260702005138997800",
@@ -287,6 +268,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260702044814695800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
+          "url": "https://flash.jin10.com/detail/20260702044739454800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -333,6 +338,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
+          "url": "https://flash.jin10.com/detail/20260702054957594800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "报道：伊朗准备向除以色列以外的所有国家出售石油",
           "url": "https://wallstreetcn.com/livenews/3127527",
           "source": "华尔街见闻-快讯",
@@ -342,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
+          "url": "https://wallstreetcn.com/livenews/3127632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国官员：（阐述政府对霍尔木兹海峡的看法）美方评估霍尔木兹海峡约1000万桶石油流量或削弱伊朗石油影响力。",
@@ -375,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "据伊拉克安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克埃尔比勒以东地区的一个伊朗库尔德反对组织营地。",
+          "url": "https://flash.jin10.com/detail/20260702052233657800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
@@ -438,7 +476,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -446,7 +484,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -477,11 +515,35 @@
           "ranks": [
             16,
             22,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时02分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3127621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -496,24 +558,13 @@
           "time_info": "[01时05分 ~ 03时29分]"
         },
         {
-          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3127621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
           "url": "https://wallstreetcn.com/livenews/3127610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -524,7 +575,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -535,7 +586,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -546,7 +597,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -557,7 +608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -568,7 +619,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -585,7 +636,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -596,7 +647,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -612,11 +663,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时02分]"
         },
         {
           "title": "金价",
@@ -625,11 +677,12 @@
           "ranks": [
             21,
             23,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时02分]"
         }
       ]
     },
@@ -644,7 +697,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -655,7 +708,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -672,11 +725,12 @@
           "ranks": [
             12,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时02分]"
         }
       ]
     },
@@ -709,8 +763,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时02分]"
         }
       ]
     }
