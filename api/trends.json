@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:51:07.115906+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-06T06:52:04.196005+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -46,33 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
-          "url": "https://flash.jin10.com/detail/20260706050829580800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
-          "url": "https://flash.jin10.com/detail/20260706042147057800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
@@ -142,11 +121,36 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
+          "url": "https://flash.jin10.com/detail/20260706050829580800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时51分]"
+          "time_info": "[05时51分 ~ 06时52分]"
+        },
+        {
+          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
+          "url": "https://flash.jin10.com/detail/20260706042147057800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时52分]"
         },
         {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
@@ -188,6 +192,19 @@
           "time_info": "[03时01分 ~ 05时51分]"
         },
         {
+          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
+          "url": "https://flash.jin10.com/detail/20260706024451820800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时52分]"
+        },
+        {
           "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
           "url": "https://flash.jin10.com/detail/20260706011614677800",
           "source": "金十数据",
@@ -210,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时01分]"
-        },
-        {
-          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
-          "url": "https://flash.jin10.com/detail/20260706024451820800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时51分]"
         },
         {
           "title": "白宫：特朗普将在北约峰会期间与乌克兰和叙利亚领导人举行双边会晤。",
@@ -294,7 +299,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -304,19 +309,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
           "url": "https://wallstreetcn.com/livenews/3129009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时52分]"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 06时52分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -342,19 +361,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时01分 ~ 05时51分]"
-        },
-        {
-          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
-          "url": "https://www.zhihu.com/question/2056886502731297310",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[03时01分 ~ 05时51分]"
         },
         {
@@ -407,6 +413,17 @@
           "time_info": "[01时55分 ~ 03时01分]"
         },
         {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://wallstreetcn.com/livenews/3129023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
           "title": "伊朗已故最高领袖哈梅内伊三子现身",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -431,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -442,8 +459,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         }
       ]
     },
@@ -460,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时52分]"
         }
       ]
     }
