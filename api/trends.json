@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-20T07:47:10.680162+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T09:56:21.272982+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 59,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
           "url": "https://wallstreetcn.com/articles/3777329",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时56分]"
         },
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -26,8 +27,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时48分 ~ 09时56分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时56分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -37,18 +51,6 @@
             6,
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -72,9 +74,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
@@ -94,9 +107,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "据伊朗PressTV：伊朗伊斯兰革命卫队感谢约旦方面提供的“精确情报”，从而得以摧毁20个驻有美军的机库。",
+          "url": "https://flash.jin10.com/detail/20260720095335444800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "科威特军方称拦截伊朗无人机袭击。（法新社）",
@@ -105,9 +129,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
+          "url": "https://news.ifeng.com/c/8utWHdX6JW4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
@@ -116,7 +151,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -127,7 +162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -505,6 +540,28 @@
           "time_info": "00时44分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗西北部城市大不里士发生了三起爆炸，但当局尚未确认爆炸的确切地点或来源。",
+          "url": "https://flash.jin10.com/detail/20260720094755523800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美军导弹打击伊朗石油重镇",
+          "url": "https://www.toutiao.com/trending/7664390484621528602/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
           "url": "https://flash.jin10.com/detail/20260720041116682800",
           "source": "金十数据",
@@ -516,6 +573,28 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美方称对伊朗军事行动将持续进行",
+          "url": "https://www.toutiao.com/trending/7663703753891233818/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615489",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "以色列国防军：以色列国防军发现，伊朗向毗邻以色列的约旦亚喀巴市（Aqaba）方向发射了导弹。为防止导弹残骸落入以色列境内，以军发射了多枚拦截弹，对导弹残骸进行拦截。目前暂无人员伤亡或财产损失报告。根据既定程序，未启动防空警报。此次事件已结束。",
           "url": "https://flash.jin10.com/detail/20260719232027101800",
           "source": "金十数据",
@@ -525,6 +604,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "伊朗革命卫队：使用弹道导弹打击了位于约旦亚喀巴机场的美军飞机。",
+          "url": "https://flash.jin10.com/detail/20260720094416834800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在试图通过霍尔木兹海峡南部航线后被炸毁。 只要美国在该地区的行动继续，霍尔木兹海峡对于石化产品或“任何一滴油气”的运输都将是不安全的。",
+          "url": "https://wallstreetcn.com/livenews/3136434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国仍对通过外交途径解决伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260720094116657800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "伊朗称击落一架美国LUCAS无人机",
@@ -558,25 +670,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗导弹击中约旦美军基地瞬间",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E7%BA%A6%E6%97%A6%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E7%9E%AC%E9%97%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "伊朗方面称已向“敌方目标”发射新一轮导弹",
+          "url": "https://wallstreetcn.com/livenews/3136416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
-        },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
           "url": "https://news.ifeng.com/c/8utCDuus6XE",
@@ -584,6 +706,18 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时56分]"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -759,15 +893,37 @@
           "time_info": "[04时02分 ~ 06时41分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
           "url": "https://flash.jin10.com/detail/20260720065512528800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普给西班牙颁奖后赖着不走",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%E5%90%8E%E8%B5%96%E7%9D%80%E4%B8%8D%E8%B5%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -776,9 +932,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普称痛击伊朗为身亡美军报仇",
+          "url": "https://wallstreetcn.com/livenews/3136417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -791,11 +958,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时56分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -814,7 +982,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -826,6 +994,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时47分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
