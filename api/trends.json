@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T13:41:08.323974+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-07-21T16:07:45.806150+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时07分]"
+        },
         {
           "title": "伊朗公布打击多国美军基地战果",
           "url": "https://news.ifeng.com/c/8uvTwaa2exp",
@@ -14,17 +25,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时41分]"
-        },
-        {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -42,15 +42,52 @@
           "time_info": "[01时19分 ~ 07时58分]"
         },
         {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时07分]"
+        },
+        {
           "title": "伊朗称打击科威特境内三处美军基地",
           "url": "https://wallstreetcn.com/livenews/3137336",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时07分]"
+        },
+        {
+          "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
+          "url": "https://news.ifeng.com/c/8uwFQqRkygA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "伊朗革命卫队：在第24波纳斯尔2号行动中，对位于约旦的美国基地进行了导弹攻击，摧毁了一套导弹防御雷达系统，并击毁了一架F-15战机。",
@@ -59,7 +96,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -84,31 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 13时41分]"
-        },
-        {
-          "title": "伊朗海军同时从3个方向猛烈打击美军",
-          "url": "https://www.toutiao.com/trending/7663674772672512009/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 13时41分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔核电站附近传来防空系统启动的声音。",
@@ -226,8 +238,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
+        },
+        {
+          "title": "伊朗外长：到目前还没见过新最高领袖",
+          "url": "https://news.ifeng.com/c/8uuww5IdaID",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
+        },
+        {
+          "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2431950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
+        },
+        {
+          "title": "美军伤亡不断攀升 美国如何报复伊朗",
+          "url": "https://www.toutiao.com/trending/7664792452200500746/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
         },
         {
           "title": "美国中央司令部：美东时间周一下午4时，美军对伊朗发动新一轮打击。此次行动旨在进一步削弱伊朗用于攻击霍尔木兹海峡商业船只的军事能力。",
@@ -278,17 +324,6 @@
           "time_info": "[07时01分 ~ 07时58分]"
         },
         {
-          "title": "伊朗外长：到目前还没见过新最高领袖",
-          "url": "https://news.ifeng.com/c/8uuww5IdaID",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
           "title": "美军称对伊朗海上封锁期间已迫使7艘商船改道",
           "url": "https://wallstreetcn.com/livenews/3137033",
           "source": "华尔街见闻-快讯",
@@ -301,26 +336,15 @@
           "time_info": "[01时19分 ~ 03时24分]"
         },
         {
-          "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2431950",
-          "source": "财联社热门",
+          "title": "据报道，约旦拦截5架伊朗发射的无人机。",
+          "url": "https://wallstreetcn.com/livenews/3137435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
-          "title": "美军伤亡不断攀升 美国如何报复伊朗",
-          "url": "https://www.toutiao.com/trending/7664792452200500746/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "据华尔街日报：伊朗导弹上周袭击了约旦基地美军营房。",
@@ -373,7 +397,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -444,6 +468,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "伊朗革命卫队称打击约旦和巴林境内的美国目标",
+          "url": "https://wallstreetcn.com/livenews/3137419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "伊朗官员：伊朗中部霍梅尼市郊一处工业设施遭袭，未造成人员伤亡，潜在损失规模仍在评估中。",
           "url": "https://flash.jin10.com/detail/20260721002652582800",
           "source": "金十数据",
@@ -486,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "媒体：提出停火10天的是伊朗，而非调解方",
+          "url": "https://flash.jin10.com/detail/20260721154629305800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "美国中央司令部：截至7月20日，美军已迫使7艘商船改道，并使1艘商船失去行动能力，以阻止船只进出伊朗港口。",
@@ -546,7 +592,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -585,6 +631,18 @@
           "time_info": "[01时19分 ~ 10时12分]"
         },
         {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时07分]"
+        },
+        {
           "title": "如何看特朗普不愿离开颁奖台",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
           "source": "bilibili 热搜",
@@ -597,16 +655,17 @@
           "time_info": "[01时19分 ~ 07时58分]"
         },
         {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
-          "source": "凤凰网",
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
+          "source": "财联社热门",
           "ranks": [
             7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时07分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -664,16 +723,16 @@
           "time_info": "10时12分"
         },
         {
-          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
-          "url": "https://www.cls.cn/detail/2431976",
-          "source": "财联社热门",
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时07分]"
         },
         {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
@@ -710,18 +769,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时01分]"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -846,9 +893,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "特朗普又挥关税“大棒”！这一次目标是加拿大，50%税率震动北美",
@@ -860,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "以媒：10天停火提议系由伊方提出，特朗普要求伊朗“付出代价”",
+          "url": "https://flash.jin10.com/detail/20260721155023953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
@@ -953,7 +1022,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -963,8 +1032,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时07分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -975,8 +1044,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时07分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 16时07分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -1004,20 +1087,6 @@
           "time_info": "[01时19分 ~ 05时01分]"
         },
         {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 13时41分]"
-        },
-        {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -1038,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3137441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -1098,6 +1178,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
           "url": "https://flash.jin10.com/detail/20260721040127333800",
           "source": "金十数据",
@@ -1112,7 +1203,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -1152,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
@@ -1176,11 +1278,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时07分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -1284,22 +1387,24 @@
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时07分]"
         }
       ]
     }
