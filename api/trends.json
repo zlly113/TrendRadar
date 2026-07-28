@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:32:40.820962+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-07-28T23:11:58.421373+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -52,6 +52,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时11分]"
         },
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -119,20 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 20时32分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-28）",
@@ -316,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -555,7 +577,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -648,6 +670,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "特朗普：美伊谈判“进展良好”，但摧毁“镐山”易如反掌",
+          "url": "https://flash.jin10.com/detail/20260728220527830800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
           "url": "https://wallstreetcn.com/livenews/3140484",
           "source": "华尔街见闻-快讯",
@@ -706,7 +739,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -751,8 +784,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 23时11分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
@@ -800,6 +833,17 @@
           "time_info": "[01时29分 ~ 07时55分]"
         },
         {
+          "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
+          "url": "https://news.ifeng.com/c/8v8RFGTOHZW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "对伊朗停火 美国是不打了还是打不了",
           "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
           "source": "百度热搜",
@@ -827,6 +871,20 @@
           "time_info": "[05时02分 ~ 06时51分]"
         },
         {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时11分]"
+        },
+        {
           "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
           "url": "https://flash.jin10.com/detail/20260728044248647800",
           "source": "金十数据",
@@ -850,28 +908,16 @@
           "time_info": "[15时32分 ~ 20时32分]"
         },
         {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时32分]"
-        },
-        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 23时11分]"
         },
         {
           "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
@@ -882,8 +928,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 23时11分]"
         },
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -906,6 +952,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗军方警告不要接受美国使用伊资产进行“赔偿”",
+          "url": "https://flash.jin10.com/detail/20260728223451735800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "伊朗军方警告不要接受美国使用伊资产进行“赔偿”",
+          "url": "https://wallstreetcn.com/livenews/3141086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
@@ -1043,7 +1122,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1055,8 +1134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 23时11分]"
         },
         {
           "title": "美股",
@@ -1148,6 +1227,31 @@
           "time_info": "06时51分"
         },
         {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 23时11分]"
+        },
+        {
           "title": "美股芯片股“血流成河”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E2%80%9C%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3%E2%80%9D",
           "source": "百度热搜",
@@ -1159,17 +1263,17 @@
           "time_info": "09时28分"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
           "ranks": [
-            6,
-            8,
-            9
+            20,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 23时11分]"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -1194,19 +1298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时51分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时32分]"
         },
         {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
@@ -1269,6 +1360,17 @@
           "time_info": "[05时02分 ~ 06时51分]"
         },
         {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美股迎芯片风暴 苹果重返市值第一",
           "url": "https://www.toutiao.com/trending/7667348037127114246/",
           "source": "今日头条",
@@ -1278,6 +1380,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美股费城半导体指数跌超6%，纳斯达克100指数跌超2%。 英伟达下跌1.41%，台积电中担任下跌3.98%，博通下跌2.46%，SK海力士ADR下跌9.54%，美光科技下跌10.90%，美国超微公司下跌9.41%，英特尔下跌8.39%，阿斯麦下跌5.64%，泛林集团下跌10.88%，arm holdings下跌8.99%，闪迪下跌16.17%，高通下跌3.08%，迈威尔科技下跌10.39%，西部数据下跌14.37%，希捷科技下跌13.20%。",
+          "url": "https://wallstreetcn.com/livenews/3141079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -1330,7 +1454,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1344,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美股存储芯片指数一度重挫将近12%，逼近5月19日盘中最低位164.65点，较6月22日所创盘中历史最高位累计回撤39.8%。 成分股闪迪目前跌13.5%，西部数据跌12.7%，希捷科技跌11.8%，美光跌9%。此外，SK海力士ADR跌8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3141069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "SK海力士美股股价创上市以来新低",
@@ -1363,7 +1498,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1371,7 +1506,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1402,6 +1537,17 @@
           "time_info": "[18时24分 ~ 20时32分]"
         },
         {
+          "title": "据Politico：OpenAI创始人奥尔特曼预计将与美国网络主管克拉齐奥斯会面。",
+          "url": "https://flash.jin10.com/detail/20260728221012090800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3140521",
           "source": "华尔街见闻-快讯",
@@ -1411,12 +1557,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将会见美国政府网络主管Kratsios。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3141075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "Anthropic与OpenAI推动审查竞争对手的模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3141072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "据The Information：OpenAI和Anthropic呼吁美国对更多模型进行审查。",
+          "url": "https://flash.jin10.com/detail/20260728220555338800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
@@ -1440,6 +1619,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时55分]"
+        },
+        {
+          "title": "路透调查：预计2026年黄金价格平均为每盎司4,509美元，2027年为4,610美元；预计2026年银价平均为每盎司72美元，2027年为71美元。",
+          "url": "https://flash.jin10.com/detail/20260728220722650800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "金价被情绪来回拉扯背后",
@@ -1467,11 +1657,12 @@
             7,
             11,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时29分 ~ 23时11分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
