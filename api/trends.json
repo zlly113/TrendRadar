@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T09:29:40.086260+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-07-29T12:59:38.839799+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -62,7 +62,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -184,6 +184,17 @@
           "time_info": "[07时50分 ~ 09时29分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时59分]"
+        },
+        {
           "title": "美方称伊朗发射多枚导弹袭击驻中东美军",
           "url": "https://wallstreetcn.com/livenews/3141224",
           "source": "华尔街见闻-快讯",
@@ -253,17 +264,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
           "url": "https://flash.jin10.com/detail/20260729010721806800",
           "source": "金十数据",
@@ -317,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
@@ -418,6 +429,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "据伊朗Press TV：有媒体报道称约旦遭遇导弹袭击，并传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260729061228397800",
           "source": "金十数据",
@@ -512,7 +534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -550,13 +572,24 @@
           "time_info": "06时55分"
         },
         {
+          "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
+          "url": "https://wallstreetcn.com/livenews/3141422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美参议院通过制裁俄罗斯和伊朗法案程序性投票",
           "url": "https://flash.jin10.com/detail/20260729084558297800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -586,7 +619,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -598,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "以色列发言人：以色列支持美国总统特朗普选择的任何道路。",
@@ -668,6 +712,18 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 12时59分]"
+        },
+        {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
           "url": "https://news.ifeng.com/c/8v8T4vNZVWL",
           "source": "凤凰网",
@@ -703,17 +759,6 @@
           "time_info": "[04时59分 ~ 05时59分]"
         },
         {
-          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
-          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
           "url": "https://flash.jin10.com/detail/20260729022109008800",
           "source": "金十数据",
@@ -742,7 +787,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -753,7 +798,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -764,7 +809,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -786,7 +831,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -833,12 +878,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A4%BC%E6%89%93%E7%9E%8C%E7%9D%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -865,8 +932,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 12时59分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -874,11 +941,23 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 12时59分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 12时59分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -892,15 +971,17 @@
           "time_info": "[01时18分 ~ 04时59分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时29分]"
+          "appearance_count": 5,
+          "time_info": "[06时55分 ~ 12时59分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -927,18 +1008,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 09时29分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -1023,6 +1092,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
           "url": "https://flash.jin10.com/detail/20260729042233620800",
           "source": "金十数据",
@@ -1070,7 +1150,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI与Anthropic要求美国帮助管理/治理AI。",
@@ -1114,7 +1194,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -1128,6 +1208,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：明天还将恢复五小时使用额度，此前在调查期间我们曾暂停该限制。",
+          "url": "https://flash.jin10.com/detail/20260729121136615800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：过去几周，许多用户反馈Sol模型使用额度的速度超出预期。在此澄清，我们并未降低任何订阅套餐的使用量。我们已实施多项改进措施，预计在通常使用Sol的情况下，现在使用时长将延长约18%。",
+          "url": "https://flash.jin10.com/detail/20260729121101699800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：已经重置了所有ChatGPT Work和Codex用户的使用额度。",
+          "url": "https://flash.jin10.com/detail/20260729121032598800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
@@ -1147,7 +1271,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
@@ -1232,11 +1356,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 12时59分]"
         }
       ]
     },
