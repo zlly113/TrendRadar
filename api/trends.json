@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-31T07:03:58.276041+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-07-31T09:48:24.034318+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 09时48分]"
+        },
         {
           "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
           "url": "https://wallstreetcn.com/livenews/3142689",
@@ -14,18 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
-          "url": "https://www.cls.cn/detail/2441995",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -112,13 +113,24 @@
           "time_info": "01时15分"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.toutiao.com/trending/7668484734493888009/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
           "url": "https://wallstreetcn.com/livenews/3142674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -151,15 +163,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -171,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
@@ -247,7 +281,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -258,7 +292,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -269,7 +303,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -283,6 +317,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普将于美东时间周五上午11点在戴维营主持召开内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3142751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -318,11 +374,37 @@
           "url": "https://news.ifeng.com/c/8vBxRifaFrE",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 09时48分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 09时48分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 09时48分]"
         },
         {
           "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
@@ -335,30 +417,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时59分]"
-        },
-        {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时03分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -419,9 +477,82 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 07时03分]"
+        },
+        {
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "OpenAI大砍两款AI模型价格",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%A4%A7%E7%A0%8D%E4%B8%A4%E6%AC%BEAI%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
@@ -429,7 +560,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -454,35 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时03分]"
-        },
-        {
-          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
-          "url": "https://wallstreetcn.com/livenews/3142559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         }
       ]
     },
